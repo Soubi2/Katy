@@ -1,4 +1,29 @@
-﻿#EXTM3U
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 1HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 1HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6872
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 2HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 2HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6871
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 3HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 3HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6870
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 4HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 4HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6869
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 5HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 5HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6868
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 6HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 6HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6867
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 7HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 7HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6866
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 8HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 8HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6865
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 9HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 9HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6864
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Bein Sport 10HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 10HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/6863
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 11HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 11HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2745
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AR: Bein Sport 12HD" tvg-logo="" group-title="Live: Arabic FTA",AR: Bein Sport 12HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2746
 #EXTINF:36,Abu Dhabi Sports 1 (1080p)
 #EXTVLCOPT:network-caching=1000
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
