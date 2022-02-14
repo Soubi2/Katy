@@ -1,0 +1,413 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Exclusive 1" tvg-logo="" group-title="CHANNELS",|.AR.|IPFox Exclusive 1
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37694
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Exclusive 2" tvg-logo="" group-title="CHANNELS",|.AR.|IPFox Exclusive 2
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37695
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Fairouz" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/3
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox HALIM" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox KALTHOUM" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/6
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies Arabic" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/8
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies CLASSIC" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/9
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies ACTION" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/7
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies COMEDY" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/11
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies DRAMA" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/12
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies HORROR" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/13
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies KIDS" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/14
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies THRILLER" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/15
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Box Aflam 1" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30476
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Box Aflam 2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30475
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Box CLASSIC" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30471
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Box ACTION" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30474
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Box ACTION 2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30473
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Box HORROR" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30472
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ISMAEIL YESIN" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31950
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ADEL IMAM" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31949
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="AHMAD ZAKI" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31948
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="AHMAD HELMY" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31946
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SOUAD HOUSNI" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31945
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Majestic Horror" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31944
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Majestic ACTION" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31942
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Majestic ROMANCE" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31941
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Majestic ARABIC" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31939
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="CINEMA CAM" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31938
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="CINEMA CAM 2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31937
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="CINEMA COMEDY" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31936
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID SCI-FI" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31935
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID CINEMA" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31934
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID CARTOON" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31933
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID AFLAM" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31932
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID AFLAM 2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31931
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID AFLAM 3" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31930
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID MASRAHIYAT" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31929
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID HORROR" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31928
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID HORROR2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31927
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID ACTION1" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31926
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID ACTION2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31925
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID ROMANCE1" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31924
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID ROMANCE2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31923
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID MAST" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31921
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHAHID MASR2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31920
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31918
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX1" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31917
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31916
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX3" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31915
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX4" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31914
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX5" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31913
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX6" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31912
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX7" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31911
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX8" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31910
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX9" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31909
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31908
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX ACTION 2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31907
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX CARTOON" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31906
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="CARTOON2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31905
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX SCI-FI" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31904
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX ROMANCE" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31903
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX ROMANCE2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31902
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31901
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="NETFLIX HORROR2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31900
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31899
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31898
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME3" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31897
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME4" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31896
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME5" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31895
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME6" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31894
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME7" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31893
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME8" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31892
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME9" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31891
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="SHOWTIME10" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31890
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 01 (240P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31603
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 02 (240P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31602
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 03 (240P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31601
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 1" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31600
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 2 (240P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31599
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 3 (240P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31598
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 4 (240P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31597
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 5 (240P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31596
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 6 (240P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31595
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 7 (240P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31594
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 01 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31593
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 02 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31592
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 03 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31591
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 01 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31588
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 02 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31587
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 03 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31586
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 04 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31585
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 05 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31584
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 06 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31583
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 07 (360P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31582
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 01 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31548
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 02 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31547
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 03 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31546
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 04 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31555
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 05 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31554
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 06 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31553
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 04 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31552
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 05 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31551
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 06 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31550
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 07 (480P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31549
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 01 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31529
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 02 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31528
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport Premium 03 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31527
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 01 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31536
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 02 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31535
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 03 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31534
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 04 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31533
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 05 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31532
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 06 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31531
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 07 (720P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31530
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport PRE 01 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31498
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport PRE 02 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31497
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport PRE 03 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31496
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 01 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31493
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 02 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31492
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 03 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31491
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 04 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31490
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 05 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31489
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 06 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31488
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="beIN Sport 07 (1080P)" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/31487
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="REELPX Cinema HD" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37506
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Engima" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37505
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Movies First" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37504
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Series" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37503
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Osn Mezze" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37502
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Series Comedy" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37501
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Fine living HD" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37500
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="HGTV HD" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37499
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="DTX HD" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37498
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="E HD" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37497
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Food Network" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37493
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="MOTORVISION" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37492
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="FAST BOX" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37491
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="MTV MUSIC" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37490
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="FilmBox HD" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/37489
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN AlYawm" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2859
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Cinema1" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2861
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Cinema2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2862
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Discovery" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2863
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Disney" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2864
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Movies First" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2865
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN History" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2866
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Movies Action" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2868
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Movies Disney" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2871
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Movies" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2872
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN MUSIC" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2873
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Nat Geo Wild" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2874
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Nat Geo" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2875
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Series First" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2877
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Star Movies" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2878
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Star World" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2879
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Yahala" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2880
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Yahala2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2881
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN KIDS" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2882
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Yahala ALOula" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2883
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN People" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2884
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN MOUSALSAL" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2885
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN BABYTV" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2887
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Nickelodeon" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2888
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN Comedy Central" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2892
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN SKYNEWS" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2895
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN FANN" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/21035
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN SAFWA" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/21036
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN KIDZONE" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25917
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="OSN MOUSALSAL2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25920
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ReelPX Action" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25956
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ReelPX FAMILY" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25955
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ReelPX COMEDY" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30407
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ReelPX ULTIMATE" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25957
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ReelPX FX" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25950
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Fox Movies" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2292
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Fox LIFE" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2291
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Fox CRIME" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2280
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Fox RIWAYAT" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2290
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="Fox ACTION Movies" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2293
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="FIMBOX ART" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30408
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN FATAFIT" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2299
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN GROUMET" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2300
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN DRAMA4" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25939
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN MOVIES ACTION" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2316
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN MOVIES FAMILY" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2315
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN MOVIES DRAMA" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2313
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN MOVIES PREM" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2314
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN SERIES" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2296
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN SERIES2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25940
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ZEKRAYAT" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25942
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ROTANA CLASSIC" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2840
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ROTANA Cinema" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2841
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ROTANA khalij" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2838
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ROTANA drama" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2839
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ROTANA Comedy" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2842
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="ROTANA kids" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/30406
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="h2hd" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25934
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN BBC" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25938
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="BEIN ANIMAL" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25937
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="DISCOVERY" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25926
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="DISCOVERY2" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2850
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="VH1" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25927
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="MTV" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25925
+#EXTINF:-1 tvg-id="LBC.lb" tvg-name="FIGHT" tvg-logo="" group-title="CHANNELS",|.AR.|Fairouz
+http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/25949
