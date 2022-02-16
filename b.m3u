@@ -1,16 +1,17 @@
-﻿#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="" group-title="BEIN SPORT",BEIN SPORT SD
-http://smartestv.vip:2095/ABHVYOP/2387998104/1006
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BEIN NEWS" tvg-logo="" group-title="BEIN SPORT",BEIN SPORT NEWS
 http://smartestv.vip:2095/ABHVYOP/2387998104/2219
 #EXTINF:-1 tvg-id="" tvg-name="BEIN_XTRA_1" tvg-logo="" group-title="BEIN SPORT",BEIN_XTRA_1
 http://smartestv.vip:2095/ABHVYOP/2387998104/3028
 #EXTINF:-1 tvg-id="" tvg-name="BEIN_XTRA_2" tvg-logo="" group-title="BEIN SPORT",BEIN_XTRA_2
 http://smartestv.vip:2095/ABHVYOP/2387998104/91155
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_PREMIUM_1_SD" tvg-logo="" group-title="BEIN SPORT",BEIN_PREMIUM_1_SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMIUM 1" tvg-logo="" group-title="BEIN SPORT",BEIN_PREMIUM_1_SD
 http://smartestv.vip:2095/ABHVYOP/2387998104/1003
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_PREMIUM_2_SD" tvg-logo="" group-title="BEIN SPORT",BEIN_PREMIUM_2_SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="" group-title="BEIN SPORT",BEIN SPORT SD
+http://smartestv.vip:2095/ABHVYOP/2387998104/1006
+#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMIUM2" tvg-logo="" group-title="BEIN SPORT",BEIN_PREMIUM_2_SD
 http://smartestv.vip:2095/ABHVYOP/2387998104/1004
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_PREMIUM_3_SD" tvg-logo="" group-title="BEIN SPORT",BEIN_PREMIUM_3_SD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMIUM3" tvg-logo="" group-title="BEIN SPORT",BEIN_PREMIUM_3_SD
 http://smartestv.vip:2095/ABHVYOP/2387998104/1005
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2" tvg-logo="" group-title="BEIN SPORT",BEIN SPORT SD
 http://smartestv.vip:2095/ABHVYOP/2387998104/1007
