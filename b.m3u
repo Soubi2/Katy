@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BEIN NEWS" tvg-logo="" group-title="BEIN SPORT",BEIN SPORT NEWS
-http://stariptv.org:8080/wael2021/123456/22185
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_XTRA_1" tvg-logo="" group-title="BEIN SPORT",BEIN_XTRA_1
-http://eaiptv.net:8888/medo/medo/34888
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_XTRA_2" tvg-logo="" group-title="BEIN SPORT",BEIN_XTRA_2
-http://eaiptv.net:8888/medo/medo/34889
 #EXTINF:-1 tvg-id="" tvg-name="BEIN PREMIUM 1" tvg-logo="" group-title="BEIN SPORT",BEIN_PREMIUM_1_SD
 http://eaiptv.net:8888/medo/medo/26595
 #EXTINF:-1 tvg-id="" tvg-name="BEIN PREMIUM2" tvg-logo="" group-title="BEIN SPORT",BEIN_PREMIUM_2_SD
