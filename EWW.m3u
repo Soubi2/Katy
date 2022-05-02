@@ -1,7 +1,4 @@
-﻿﻿#EXTM3U
-
-
-
+#EXTM3U
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies Arabic" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-1.png" group-title="CHANNELS",|.AR.|Fairouz
 http://red.ipfox.org:8080/amer/amer1234/8
 #EXTINF:-1 tvg-id="LBC.lb" tvg-name="IPFox Movies CLASSIC" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-1.png" group-title="CHANNELS",|.AR.|Fairouz
