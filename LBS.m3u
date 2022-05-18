@@ -27,5 +27,7 @@ http://www.magicoiptv.org:8080/Hassan1/12345678/981
 http://www.magicoiptv.org:8080/Hassan1/12345678/984
 #EXTINF:-1 tvg-id="Soubi" tvg-name="ALJadeed" tvg-logo="" group-title="CHANNELS",|LBCH
 http://www.magicoiptv.org:8080/Hassan1/12345678/987
+#EXTINF:-1 tvg-id="Soubi" tvg-name="MTV1" tvg-logo="" group-title="CHANNELS",|LBCH
+http://abc.myplay.live:2086/saeed/saeed1234/972
 
 
