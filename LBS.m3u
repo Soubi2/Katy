@@ -65,5 +65,67 @@ http://eaiptv.net:8080/ala2/ala2/91152
 http://eaiptv.net:8080/ala2/ala2/91158
 #EXTINF:-1 tvg-id="Soubi" tvg-name="Publitools" tvg-logo="" group-title="CHANNELS",|LBCH
 http://eaiptv.net:8080/ala2/ala2/91160
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Al Jadeed -7H HD" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.Al Jadeed -7H HD
+http://1tv1.net:8080/hamza2022/123456/112485
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.MTV CHANNELS- 7H HD" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.MTV CHANNELS- 7H HD
+http://1tv1.net:8080/hamza2022/123456/112486
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.LBC TV Plus" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.LBC TV Plus
+http://1tv1.net:8080/hamza2022/123456/112487
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.LBCI International - 7H HD" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.LBCI International - 7H HD
+http://1tv1.net:8080/hamza2022/123456/112488
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.OTV  Lebonan- 7H  HD" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.OTV  Lebonan- 7H  HD
+http://1tv1.net:8080/hamza2022/123456/112489
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.NBN - 7H HD" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.NBN - 7H HD
+http://1tv1.net:8080/hamza2022/123456/112490
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AL Manar TV- 7H" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.AL Manar TV- 7H
+http://1tv1.net:8080/hamza2022/123456/112491
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.LBC 2" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.LBC 2
+http://1tv1.net:8080/hamza2022/123456/66322
+#EXTINF:-1 tvg-ID="SA-MTV CHANNELS" tvg-name="LBN.MTV HD" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.MTV HD
+http://1tv1.net:8080/hamza2022/123456/66323
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Al Jadeed TV Plus" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.Al Jadeed TV Plus
+http://1tv1.net:8080/hamza2022/123456/97857
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.LBC International HD" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.LBC International HD
+http://1tv1.net:8080/hamza2022/123456/97858
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.LBC- 7H HD" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.LBC- 7H HD
+http://1tv1.net:8080/hamza2022/123456/97859
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Tel Lebonan Plus" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.Tel Lebonan Plus
+http://1tv1.net:8080/hamza2022/123456/97860
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Al Manar TV Plus" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.Al Manar TV Plus
+http://1tv1.net:8080/hamza2022/123456/97861
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Canadian Arab TV" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.Canadian Arab TV
+http://1tv1.net:8080/hamza2022/123456/97862
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Al Mayadeen TV Plus" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.Al Mayadeen TV Plus
+http://1tv1.net:8080/hamza2022/123456/97863
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Alwifak news" tvg-logo="http://iptvru.org:80/logo/wifaknews.jpg" group-title="CHANNELS",LBN.Alwifak news
+http://1tv1.net:8080/hamza2022/123456/97864
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.A TV" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.A TV
+http://1tv1.net:8080/hamza2022/123456/97865
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Al Alam News TV" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.Al Alam News TV
+http://1tv1.net:8080/hamza2022/123456/97866
+#EXTINF:-1 tvg-ID="SA-OTV CHANNELS" tvg-name="LBN.O TV" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.O TV
+http://1tv1.net:8080/hamza2022/123456/15158
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AL JADEED" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.AL JADEED
+http://1tv1.net:8080/hamza2022/123456/15009
+#EXTINF:-1 tvg-ID="SA-Future TV" tvg-name="LBN.FUTURE TV" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.FUTURE TV
+http://1tv1.net:8080/hamza2022/123456/15011
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AL MAYADEEN" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.AL MAYADEEN
+http://1tv1.net:8080/hamza2022/123456/15034
+#EXTINF:-1 tvg-ID="SA-MTV CHANNELS" tvg-name="LBN.ONE" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.ONE
+http://1tv1.net:8080/hamza2022/123456/15012
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AL MANAR TV" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.AL MANAR TV
+http://1tv1.net:8080/hamza2022/123456/15010
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AGHANI" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.AGHANI
+http://1tv1.net:8080/hamza2022/123456/14881
+#EXTINF:-1 tvg-ID="SA-Tele Liban" tvg-name="LBN.TL LIBAN" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.TL LIBAN
+http://1tv1.net:8080/hamza2022/123456/21206
+#EXTINF:-1 tvg-ID="SA-LDC" tvg-name="LBN.LDC" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.LDC
+http://1tv1.net:8080/hamza2022/123456/15157
+#EXTINF:-1 tvg-ID="SA-NBN" tvg-name="LBN.NBN HD" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.NBN HD
+http://1tv1.net:8080/hamza2022/123456/15013
+#EXTINF:-1 tvg-ID="SA-LBC" tvg-name="LBN.LBC" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="CHANNELS",LBN.LBC
+http://1tv1.net:8080/hamza2022/123456/15156
+#EXTINF:-1 tvg-ID="" tvg-name="Jo: A ONE TV" tvg-logo="http://iptvru.org:80/logo/sham.png" group-title="ARABIC SHAM",Jo: A ONE TV
+http://1tv1.net:8080/hamza2022/123456/112477
 
 
