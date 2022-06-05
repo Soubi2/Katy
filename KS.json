@@ -6,14 +6,6 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
-       
-    {
-      "id": "1",
-      "label": "Live Camera",
-      "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/we.m3u",
-      "type": "1",
-      "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-    },   
    
     {
     "id": "1",
@@ -31,8 +23,7 @@
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
     
-    
-        {
+    {
     "id": "1",
     "label": "MXU",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/kha.m3u",
@@ -64,8 +55,7 @@
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
    
-  
-       {
+{
     "id": "1",
     "label": "Lebanese",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/LBS.m3u",
@@ -81,8 +71,7 @@
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
     
-   
- {
+   {
     "id": "1",
     "label": "Arabic Ch",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ara.m3u",
@@ -105,8 +94,6 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
-
-     
      {
       "id": "1",
       "label": "Lim",
@@ -123,7 +110,6 @@
       "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
     },
    
-    
     {
       "id": "1",
       "label": "Mix",
@@ -131,8 +117,7 @@
       "type": "1",
       "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
     },
- 
-      
+  
   {
       "id": "1",
       "label": "XXX",
@@ -149,7 +134,6 @@
       "logo_url": ""
     },
 
-  
      {
       "id": "1",
       "label": "AdultZone",
