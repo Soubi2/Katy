@@ -1,6 +1,4 @@
 ﻿#EXTM3U
- #EXTINF:-1 tvg-id="Soubi" tvg-name="testy" tvg-logo="" group-title="CHANNELS",|LBCH
- https://live-edge7-rn.bcvcdn.com/hls/stream_MelanieRock/playlist.m3u8
 #EXTINF:-1 tvg-id="Soubi" tvg-name="LBCI" tvg-logo="" group-title="CHANNELS",|LBCH
 http://www.magicoiptv.org:8080/Hassan1/12345678/981
 #EXTINF:-1 tvg-id="Soubi" tvg-name="MTV" tvg-logo="" group-title="CHANNELS",|LBCH
