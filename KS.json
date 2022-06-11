@@ -7,15 +7,23 @@
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
    
-    {
+   {
     "id": "1",
-    "label": "MaxRelax",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/rr.m3u",
+    "label": "Radio",
+    "url": "https://raw.githubusercontent.com/Soubi2/soubi/master/soubira.m3u",
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
-     
-      {
+   
+    
+ {
+    "id": "1",
+    "label": "Lebanese",
+    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/LBS.m3u",
+    "type": "1",
+    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+  },
+    {
     "id": "1",
     "label": "UNL",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/uni.m3u",
@@ -37,28 +45,25 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
-
    
      {
       "id": "1",
-      "label": "CH11",
+      "label": "CH1",
       "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/45.m3u",
       "type": "1",
       "logo_url": ""
     },
 
- 
+     {
+      "id": "1",
+      "label": "CH2",
+      "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/54.m3u",
+      "type": "1",
+      "logo_url": ""
+    },
 
-{
-    "id": "1",
-    "label": "Lebanese",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/LBS.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },
   
- 
-   {
+    {
     "id": "1",
     "label": "Arabic Ch",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ara.m3u",
@@ -66,15 +71,7 @@
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
     
-   {
-    "id": "1",
-    "label": "Radio",
-    "url": "https://raw.githubusercontent.com/Soubi2/soubi/master/soubira.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },
-    
-     {
+    {
     "id": "1",
     "label": "Arbi",
     "url": "https://raw.githubusercontent.com/Soubi2/soubi/master/Adel.m3u",
@@ -89,16 +86,7 @@
       "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
     },
  
-  
-     {
-      "id": "1",
-      "label": "CH38",
-      "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/54.m3u",
-      "type": "1",
-      "logo_url": ""
-    },
-    
-    {
+      {
       "id": "1",
       "label": "Mix",
       "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/wel.m3u",
@@ -122,15 +110,7 @@
       "logo_url": ""
     },
     
-     {
-      "id": "1",
-      "label": "XSP",
-      "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/50.m3u",
-      "type": "1",
-      "logo_url": ""
-    },
-       
-     {
+    {
       "id": "1",
       "label": "AdultZone",
       "url": "https://raw.githubusercontent.com/Soubi2/soubi/master/soubigo.m3u",
