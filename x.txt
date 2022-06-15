@@ -194,6 +194,7 @@
 <type>adultscraper</type>
 </item>
 
+<item>
 <title>Cam </title>
 <AdultLink>https://cams.xvideos.com/?language=en&mp_code=&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
@@ -508,6 +509,7 @@
 <type>adultscraper</type>
 </item>
 
+<item>
 <title>Lebanese</title>
 <AdultLink>https://www.xvideos.com/?k=lebanese&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
