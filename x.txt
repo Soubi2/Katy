@@ -5,18 +5,6 @@
 <type>adultscraper</type>
 </item>
 
-<title>349 lebanese FREE videos</title>
-<AdultLink>https://www.xvideos.com/?k=lebanese&p=0</AdultLink>
-<thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
-<type>adultscraper</type>
-</item>
-
-<title>Cam</title>
-<AdultLink>https://cams.xvideos.com/?language=en&mp_code=&p=0</AdultLink>
-<thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
-<type>adultscraper</type>
-</item>
-
 <item>
 <title>American</title>
 <AdultLink>https://www.xvideos.com/?k=american&p=0</AdultLink>
@@ -202,6 +190,12 @@
 <item>
 <title>Cam Videos</title>
 <AdultLink>https://www.xvideos.com/?k=cam+porn&p=0</AdultLink>
+<thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
+<type>adultscraper</type>
+</item>
+
+<title>Cam </title>
+<AdultLink>https://cams.xvideos.com/?language=en&mp_code=&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
@@ -510,6 +504,12 @@
 <item>
 <title>Lesbian</title>
 <AdultLink>https://www.xvideos.com/?k=lesbian&p=0</AdultLink>
+<thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
+<type>adultscraper</type>
+</item>
+
+<title>Lebanese</title>
+<AdultLink>https://www.xvideos.com/?k=lebanese&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
