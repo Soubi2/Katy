@@ -24,10 +24,10 @@ http://194.76.186.151:20015/play/Vivid_Red_HD
 #EXTINF:-1 tvg-id="Soubi" tvg-name="Vivid_Red_HD_AU
 http://194.76.186.151:20015/play/Vivid_Red_HD_AU
 #EXTINF:-1 tvg-id="Soubi" tvg-name="1
-https://raw.githubusercontent.com/Soubi2/Katy/main/60.m3u
+http://194.76.186.65:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="Soubi" tvg-name="2
-https://raw.githubusercontent.com/Soubi2/Katy/main/61.m3u
+http://194.76.186.65:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="Soubi" tvg-name="3
-https://raw.githubusercontent.com/Soubi2/Katy/main/62.m3u
+http://194.76.186.65:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="Soubi" tvg-name="4
-https://raw.githubusercontent.com/Soubi2/Katy/main/63.m3u
+http://194.76.186.65:8000/play/a02u/index.m3u8
