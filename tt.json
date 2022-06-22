@@ -12,25 +12,25 @@
 "update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
+"update_content":"You cant update if you are using modded version.
 <br></br>
 <b>Release Info</b>
-<br>- Version: 3.1.2</br>
+<br>- Version: 2.4.5</br>
 <br>- Size: 19.1MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Add Good, Vidsrc link.</br>
 <br>- Fix bugs.</br>",  
-"update_build":"125",  
-"update_version":"3.1.2",  
+"update_build":"56",  
+"update_version":"2.4.5",  
 "update_link":"",  
 "update_link_android4":"",
 "pkg_uninstall":"",  
 "link_downloader":"",
-"pkg_uninstall_247":"",
-"pkg_uninstall_257":"",
-"pkg_uninstall_261":"",  
-"pkg_uninstall_278":"",  
+"pkg_uninstall_147":"",
+"pkg_uninstall_157":"",
+"pkg_uninstall_161":"",  
+"pkg_uninstall_178":"",  
 "pkg_uninstall_content":"Please uninstall old version. You can restart app to get your watchlist back.",
 "http_config":"https",
 "gg_analytics_key":"UA-130029478-6",  
@@ -62,7 +62,7 @@
 "package_name_player":"",
 "enable_amz":true,
 "adoech_enable":false,
-"oneplayer_version_build":"34",
+"oneplayer_version_build":"0",
 "openload_key":"DtsBlkVFQx",
 "player_packagename_backup":"",
 "player_link_backup":"",
