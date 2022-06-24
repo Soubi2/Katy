@@ -1,17 +1,9 @@
-﻿{
+{
 "status": 1,
 "update_isforce":false,  
 "update_isapk":false,  
 "update_title":"Update new version",  
-"update_content":"
-<br></br>
-<b>Release Info</b>
-<br>- Version: 1.4.3</br>
-<br>- Size: 17.1MB</br>
-<br></br>
-<br><b>Change logs</b></br>
-<br>- Add pml link.</br>
-<br>- Add 5 link providers.</br>",  
+"update_content":"",
 "update_build":"52",  
 "update_version":"1.4.3",  
 "update_link":"",  
