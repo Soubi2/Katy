@@ -21,7 +21,7 @@
 "enable_install_player":false,
 "tmdb_key":"71786cd7dad7e21f70cc12f7cf6c0781",
 "enable_force_player":false,  
-"title_player":""; 
+"title_player":"", 
 "description_player":"",
 "link_download_player":"", 
 "package_name_player":"", 
