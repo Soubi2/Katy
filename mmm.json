@@ -1,4 +1,4 @@
-﻿{
+{
 "status": 1,
 "update_isforce":false,  
 "update_isapk":false,  
@@ -15,7 +15,7 @@
 "description_player":"Best player to work with streaming!",
 "link_download_player":"https://hole3.apkdone.cloud/s/wFTkjGJ7tfWkS2w/download", 
 "package_name_player":"com.bsplayer.bspandroid.full", 
-"oneplayer_version_build":"30",
+"oneplayer_version_build":"23",
 "enable_force_player":false,
 "tmdb_key":"71786cd7dad7e21f70cc12f7cf6c0781",
 "site_cookie":"https://series9.me, https://crocovid.com/",
