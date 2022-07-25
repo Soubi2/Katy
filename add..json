@@ -1,5 +1,103 @@
-﻿{
+{
     "providers": {
+        "bilutv": {
+            "name": "bilutv",
+            "domain": "bilutv.com",
+            "version": "0.0.11",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/bilutv.js",
+            "type": [
+                "tv",
+                "movie"
+            ]
+        },
+        "phimmoi": {
+            "name": "phimmoi",
+            "domain": "phimmoi.net",
+            "version": "0.0.11",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/phimmoi.js",
+            "type": [
+                "tv",
+                "movie"
+            ]
+        },
+        "phimbathu": {
+            "name": "phimbathu",
+            "domain": "phimbathu.net",
+            "version": "0.0.11",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/phimbathu.js",
+            "type": [
+                "tv",
+                "movie"
+            ]
+        },
+        "hdonline": {
+            "name": "hdonline",
+            "domain": "hdonline.vn",
+            "version": "0.0.6",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/hdonline.js",
+            "type": [
+                "tv",
+                "movie"
+            ]
+        },
+        "afilm.filmhub": {
+            "name": "afilm.filmhub",
+            "domain": "afilm.filmhub.io",
+            "version": "0.0.11",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/lululita.js",
+            "type": [
+                "tv",
+                "movie"
+            ]
+        },
+        "vkool": {
+            "name": "vkool",
+            "domain": "vkool.net",
+            "version": "0.0.6",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/vkool.js",
+            "type": [
+                "tv",
+                "movie"
+            ]
+        },
+        "animehay": {
+            "name": "animehay",
+            "domain": "animehay.tv",
+            "version": "0.0.5",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/animehay.js",
+            "type": [
+                "tv"
+            ]
+        },
+        "vungtv": {
+            "name": "vungtv",
+            "domain": "vung.tv",
+            "version": "0.0.10",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/vungtv.js",
+            "type": [
+                "tv",
+                "movie"
+            ]
+        },
+        "banhtv": {
+            "name": "banhtv",
+            "domain": "banhtv.com",
+            "version": "0.0.3",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/banhtv.js",
+            "type": [
+                "tv",
+                "movie"
+            ]
+        },
+        "vuighe": {
+            "name": "vuighe",
+            "domain": "vuighe.net",
+            "version": "0.0.3",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/vuighe.js",
+            "type": [
+                "tv"
+            ]
+        },
         "gogoanimefilm": {
             "name": "gogoanimefilm",
             "domain": "gogoanime.gg",
