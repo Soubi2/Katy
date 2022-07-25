@@ -490,6 +490,99 @@
         }
     },
     "hosts": {
+        "default": {
+            "name": "default",
+            "domain": [
+                "default"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/default.js"
+        },
+        "servercdn": {
+            "name": "servercdn",
+            "domain": [
+                "xxx.servercdn.xyz"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/server-cdn.js"
+        },
+        "159.65.142.116": {
+            "name": "159.65.142.116",
+            "domain": [
+                "159.65.142.116"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/files.wordpress.js"
+        },
+        "ggstream": {
+            "name": "ggstream",
+            "domain": [
+                "s3.ggstream.me",
+                "ss.ggstream.xyz"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/ggstream.js"
+        },
+        "128.199.107.84": {
+            "name": "128.199.107.84",
+            "domain": [
+                "128.199.107.84"
+            ],
+            "version": "0.0.3",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/api.bilu.js"
+        },
+        "wordpress": {
+            "name": "wordpress",
+            "domain": [
+                "videos.files.wordpress.com"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/files.wordpress.js"
+        },
+        "googleapis": {
+            "name": "googleapis",
+            "domain": [
+                "storage.googleapis.com"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/googleusercontent.js"
+        },
+        "167.99.78.136": {
+            "name": "167.99.78.136",
+            "domain": [
+                "167.99.78.136"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/167.99.78.136.js"
+        },
+        "hdonline": {
+            "name": "hdonline",
+            "domain": [
+                "vod-free.hdonline.vn",
+                "s7.hdonline.vn",
+                "s6.hdonline.vn",
+                "free9.hdonline.vn"
+            ],
+            "version": "0.0.2",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/vod-free.hdonline.js"
+        },
+        "fbcdn": {
+            "name": "fbcdn",
+            "domain": [
+                "video.xx.fbcdn.net",
+                "fbcdn.net"
+            ],
+            "version": "0.0.5",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/video.xx.fbcdn.js"
+        },
+        "googlevideo": {
+            "name": "googlevideo",
+            "domain": [
+                "googlevideo.com"
+            ],
+            "version": "0.0.4",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/googlevideo.js"
+        },
         "gogoplay4": {
             "name": "gogoplay4",
             "domain": [
@@ -846,6 +939,14 @@
             ],
             "version": "0.0.2",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/hls.js?v2"
+         },
+        "vidnode": {
+            "name": "vidnode",
+            "domain": [
+                "membed.net"
+            ],
+            "version": "0.0.2",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/vidnode.js"
         },
         "wewon": {
             "name": "wewon",
@@ -871,6 +972,14 @@
             "version": "0.0.1",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/jetload.js"
         },
+        "vidcdn": {
+            "name": "vidcdn",
+            "domain": [
+                "vidcdn.pro"
+            ],
+            "version": "0.0.5",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/vidcdn.js"
+        },
         "abcvideo": {
             "name": "abcvideo",
             "domain": [
@@ -886,6 +995,54 @@
             ],
             "version": "0.0.3",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/supervideo.js?v3"
+         },
+        "googleusercontent": {
+            "name": "googleusercontent",
+            "domain": [
+                "googleusercontent.com"
+            ],
+            "version": "0.0.3",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/googleusercontent.js"
+        },
+        "212.47.226.206": {
+            "name": "212.47.226.206",
+            "domain": [
+                "212.47.226.206"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/212.47.226.206.js"
+        },
+        "212.47.234.139": {
+            "name": "212.47.234.139",
+            "domain": [
+                "212.47.234.139"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/212.47.234.139.js"
+         },
+        "vidstreaming": {
+            "name": "vidstreaming",
+            "domain": [
+                "gogoplay1.com"
+            ],
+            "version": "0.0.2",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/vidstreaming.js"
+        },
+        "vidushare": {
+            "name": "vidushare",
+            "domain": [
+                "vidushare.com"
+            ],
+            "version": "0.0.2",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/vidushare.js"
+        },
+        "rapidvideo": {
+            "name": "rapidvideo",
+            "domain": [
+                "rapidvideo.com"
+            ],
+            "version": "0.0.2",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/rapidvideo.js"
         },
         "oggy": {
             "name": "oggy",
