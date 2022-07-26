@@ -658,6 +658,16 @@
                 "movie",
                 "tv"
             ]
+         },
+        "newprime": {
+            "name": "newprime",
+            "domain": "newprime.dis",
+            "version": "0.0.2",
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/newprime.js?v0.0.0.1",
+            "type": [
+                "movie",
+                "tv"
+            ]    
         },
         "ffmovies": {
             "name": "fmoviesto",
@@ -690,7 +700,7 @@
         "159.65.142.116": {
             "name": "159.65.142.116",
             "domain": [
-                "159.65.142.116"
+                 "159.65.142.116"
             ],
             "version": "0.0.1",
             "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/files.wordpress.js"
@@ -810,16 +820,7 @@
             ],
             "version": "0.0.1",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/gogoplay4.js?v0.0.1"
-        },
-        "newprime": {
-            "name": "newprime",
-            "domain": "newprime.dis",
-            "version": "0.0.2",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/newprime.js?v0.0.0.1",
-            "type": [
-                "movie",
-                "tv"
-            ]
+       
          },   
         "default": {
             "name": "default",
@@ -995,12 +996,50 @@
             "name": "direct",
             "domain": [
                 "bmovies.vip",
-                "103.222.20.150/ftpdata/tvseries/english/",
-                "film2movie.asia",
+                "stream365.live",
+                "mellimovies.com",
+                "unlimited4.me",
+                "filmha.co",
+                "heyserver.in",
+                "yoozdl.com",
+                "mika-prod.com",
+                "dl.muvie.ir",
+                "58.84.34.39",
+                "uploadha.me",
+                "upload08.com",
+                "uploadt.com",
+                "hexmovie.net",
+                "filmaneh.com",
+                "128.69.203.82",
+                "likecool.com",
+                "cloudeware.co.uk",
+                "79.127.126.110",
+                "sitemovie.ir",
+                "tehmovies.pro",
+                "tinydl.info",
+                "mihanpix.com",
+                "film2serial.ir",
+                "lavinmovie.net",
+                "film2movie.biz",
+                "lavinmovie.net",
+                "mojoo.ir",
+                "dlb3d.xyz",
+                "melimedia.net",
+                "farshow.ir",
+                "watchmega.to",
+                "amazonaws.com",
+                "lavinmovie.net",
+                "lalbatte.net",
+                "f2m.io",
+                "serverdl.pw",
+                "mihanpix.net",
+                "upfdl.com",
+                "saberfun.name",
+                "perserver.site",
                 "lianmovie.com"
             ],
             "version": "0.1.17",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/direct.js?v7"
+            "url": "http://fakfak.streammov.net/add-ons/es5/hosts/direct.js?v7"
         },
         "uptostream": {
             "name": "uptostream",
