@@ -594,7 +594,7 @@
             "name": "vidembedcc",
             "domain": "membed.net",
             "version": "0.0.1",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/vidembedcc.js?v0.0.0.1",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/vidembedcc.js?v0.0.0.1",
             "type": [
                 "movie",
                 "tv"
