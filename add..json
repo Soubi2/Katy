@@ -1252,6 +1252,14 @@
             "version": "0.0.1",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/sbplayone.js?v1"
         },
+         "sbplay": {
+            "name": "sbplay",
+            "domain": [
+                "ssbstream.net"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ssb.js?v1"
+        },
         "embedsito": {
             "name": "embedsito",
             "domain": [
