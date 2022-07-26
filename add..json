@@ -126,15 +126,7 @@
                 "movie",
                 "tv"
             ]
-        },
-        "watchfilms": {
-            "name": "watchfilms",
-            "domain": "watchfilms.xyz",
-            "version": "0.0.2",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/watchfilms.js?v0.0.0.1",
-            "type": [
-                "movie"
-            ]
+       
         },
         "fmoviesvc": {
             "name": "fmoviesvc",
@@ -530,6 +522,26 @@
                 "movie"
             ]
         },
+        "dramacool": {
+            "name": "dramacool",
+            "domain": "dramacool.dis",
+            "version": "0.0.2",
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/dramacool.js?v0.0.0.1",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
+        "daebakdrama": {
+            "name": "daebakdrama",
+            "domain": "daebakdrama.dis",
+            "version": "0.0.2",
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/daebakdrama.js?v0.0.0.1",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
         "fmoviesto": {
             "name": "fmoviesto",
             "domain": "fmoviesto.dis",
@@ -549,6 +561,15 @@
                 "movie",
                 "tv"
             ]
+        },
+    "hosts": {
+        "gogoplay4": {
+            "name": "gogoplay4",
+            "domain": [
+                "gogoplay4.com"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/gogoplay4.js?v0.0.1"
         },
         "newprime": {
             "name": "newprime",
@@ -736,46 +757,7 @@
             "name": "direct",
             "domain": [
                 "bmovies.vip",
-                "mellimovies.com",
                 "film2movie.asia",
-                "unlimited4.me",
-                "filmha.co",
-                "heyserver.in",
-                "yoozdl.com",
-                "mika-prod.com",
-                "dl.muvie.ir",
-                "58.84.34.39",
-                "uploadha.me",
-                "upload08.com",
-                "uploadt.com",
-                "hexmovie.net",
-                "filmaneh.com",
-                "128.69.203.82",
-                "likecool.com",
-                "cloudeware.co.uk",
-                "79.127.126.110",
-                "sitemovie.ir",
-                "tehmovies.pro",
-                "tinydl.info",
-                "mihanpix.com",
-                "film2serial.ir",
-                "lavinmovie.net",
-                "film2movie.biz",
-                "lavinmovie.net",
-                "mojoo.ir",
-                "dlb3d.xyz",
-                "melimedia.net",
-                "farshow.ir",
-                "watchmega.to",
-                "amazonaws.com",
-                "lavinmovie.net",
-                "lalbatte.net",
-                "f2m.io",
-                "serverdl.pw",
-                "mihanpix.net",
-                "upfdl.com",
-                "saberfun.name",
-                "perserver.site",
                 "lianmovie.com"
             ],
             "version": "0.1.17",
@@ -806,6 +788,30 @@
             "version": "0.0.4",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/voe.js?v0.0.4"
         },
+        "stream365": {
+            "name": "stream365",
+            "domain": [
+                "s1.stream365.live",
+                "s2.stream365.live",
+                "s3.stream365.live",
+                "s4.stream365.live",
+                "s5.stream365.live",
+                "s6.stream365.live",
+                "s7.stream365.live",
+                "s8.stream365.live",
+                "s9.stream365.live"
+            ],
+            "version": "0.0.3",
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/stream365.js?v3"
+        },
+        "dramacoolembed": {
+            "name": "dramacoolembed",
+            "domain": [
+                "dramacool.video"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/dramacoolembed.js"
+        },
         "vidtodo": {
             "name": "vidtodo",
             "domain": [
@@ -816,6 +822,33 @@
             ],
             "version": "0.0.16",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/vidtodo.js?1"
+        },
+        "megaxfer": {
+            "name": "megaxfer",
+            "domain": [
+                "megaxfer.ru",
+                "unlimitedpeer.ru"
+            ],
+            "version": "0.0.12",
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/megaxfer.js"
+        },
+        "hls": {
+            "name": "hls",
+            "domain": [
+                "loadshare.org",
+                "fastmedia.monster",
+                "smart_io_stream/"
+            ],
+            "version": "0.0.2",
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/hls.js?v2"
+        },
+        "embedsito": {
+            "name": "embedsito",
+            "domain": [
+                "embedsito.com"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/embedsito.js?v1"
         },
         "vidcloud": {
             "name": "vidcloud",
