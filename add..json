@@ -364,16 +364,7 @@
             "type": [
                 "movie"
             ]
-        },
-        "123moviesag": {
-            "name": "123moviesag",
-            "domain": "123moviesag.dis",
-            "version": "0.1.6",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/123moviesag.js?v0.0.0.1",
-            "type": [
-                "movie",
-                "tv"
-            ]
+      
         },
         "miradetodo": {
             "name": "miradetodo",
