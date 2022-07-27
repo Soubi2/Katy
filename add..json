@@ -553,6 +553,16 @@
                 "tv"
             ]
         },
+         "gowatch": {
+            "name": "gowatch",
+            "domain": "gowatchseries.live",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Gowatch.js?v0.0.0.1",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
         "watch123movies": {
             "name": "watch123movies",
             "domain": "watch123movies.dis",
