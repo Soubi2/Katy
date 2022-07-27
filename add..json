@@ -9,26 +9,7 @@
                 "tv",
                 "movie"
             ]
-        },
-        "phimmoi": {
-            "name": "phimmoi",
-            "domain": "phimmoi.net",
-            "version": "0.0.11",
-            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/phimmoi.js",
-            "type": [
-                "tv",
-                "movie"
-            ]
-        },
-        "phimbathu": {
-            "name": "phimbathu",
-            "domain": "phimbathu.net",
-            "version": "0.0.11",
-            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/phimbathu.js",
-            "type": [
-                "tv",
-                "movie"
-            ]
+       
         },
         "hdonline": {
             "name": "hdonline",
@@ -116,26 +97,7 @@
                 "tv",
                 "movie"
             ]
-        },
-        "phimmoi": {
-            "name": "phimmoi",
-            "domain": "phimmoi.net",
-            "version": "0.0.11",
-            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/phimmoi.js",
-            "type": [
-                "tv",
-                "movie"
-            ]
-        },
-        "phimbathu": {
-            "name": "phimbathu",
-            "domain": "phimbathu.net",
-            "version": "0.0.11",
-            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/phimbathu.js",
-            "type": [
-                "tv",
-                "movie"
-            ]
+       
         },
         "hdonline": {
             "name": "hdonline",
@@ -795,14 +757,7 @@
             ],
             "version": "0.0.1",
             "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/api.banhtv.js"
-        },
-        "api.phimbathu": {
-            "name": "api.phimbathu",
-            "domain": [
-                "api.phimbathu.com"
-            ],
-            "version": "0.0.2",
-            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/api.phimbathu.js"
+        
         },
         "micetop": {
             "name": "micetop",
