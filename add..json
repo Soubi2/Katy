@@ -1089,7 +1089,8 @@
             "domain": [
                 "loadshare.org",
                 "fastmedia.monster",
-                "smart_io_stream/"
+                "smart_io_stream/",
+                "vidfiles.net"
             ],
             "version": "0.0.2",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/hls.js?v2"
