@@ -45,7 +45,7 @@
             "name": "animehay",
             "domain": "animehay.tv",
             "version": "0.0.5",
-            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/animehay.js",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/animehay.js",
             "type": [
                 "tv"
             ]
@@ -83,7 +83,7 @@
             "name": "animetvn",
             "domain": "animetvn.tv",
             "version": "0.0.2",
-            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/animetvn.js",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/animetvn.js",
             "type": [
                 "tv"
             ]
