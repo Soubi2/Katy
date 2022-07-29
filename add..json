@@ -33,7 +33,7 @@
         },
         "vkool": {
             "name": "vkool",
-            "domain": "vkool.net",
+            "domain": "movie.vkoolzz.net",
             "version": "0.0.6",
             "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/vkool.js",
             "type": [
