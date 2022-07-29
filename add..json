@@ -121,9 +121,9 @@
         },
         "vkool": {
             "name": "vkool",
-            "domain": "vkool.net",
+            "domain": "movie.vkoolzz.net",
             "version": "0.0.6",
-            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/providers/vkool.js",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/vkool.js",
             "type": [
                 "tv",
                 "movie"
@@ -171,7 +171,7 @@
             "name": "gogoanimefilm",
             "domain": "gogoanime.gg",
             "version": "0.0.1",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/gogoanimefilm.js?v0.0.1",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/gogoanimefilm.js?v0.0.1",
             "type": [
                 "movie"
             ]
@@ -231,7 +231,7 @@
             "name": "m4ufreecom",
             "domain": "m4ufree.com",
             "version": "0.0.3",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/m4ufreecom.js?v0.0.0.1",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m4ufreecom.js?v0.0.0.1",
             "type": [
                 "movie",
                 "tv"
@@ -1110,14 +1110,7 @@
             ],
             "version": "0.0.14",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/vidcloud.js"
-        },
-        "gounlimited": {
-            "name": "gounlimited",
-            "domain": [
-                "gounlimited.to"
-            ],
-            "version": "0.0.20",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/gounlimited.js"
+        
         },
         "megaxfer": {
             "name": "megaxfer",
@@ -1157,14 +1150,7 @@
             ],
             "version": "0.0.12",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/vcstream.js"
-        },
-        "clipwatch": {
-            "name": "clipwatch",
-            "domain": [
-                "clipwatching.com"
-            ],
-            "version": "0.0.18",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/clipwatching.js?8"
+        
         },
         "highstream": {
             "name": "highstream",
