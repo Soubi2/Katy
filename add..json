@@ -721,6 +721,14 @@
             ],
             "version": "0.0.2",
             "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/vod-free.hdonline.js"
+         },
+        "vidlink": {
+            "name": "vidlink",
+            "domain": [
+                "vidlink.org"
+            ],
+            "version": "0.0.5",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/vidlink.js"
         },
         "fbcdn": {
             "name": "fbcdn",
