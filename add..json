@@ -1319,13 +1319,19 @@
             "version": "0.0.5",
             "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/vidcdn.js"
         },
-        "abcvideo": {
-            "name": "abcvideo",
+        "openload": {
+            "name": "openload",
             "domain": [
-                "abcvideo.cc"
+                "openload.com",
+                "openload.co",
+                "oload.tv",
+                "oload.stream",
+                "oload.info",
+                "oload.site"
             ],
-            "version": "0.0.5",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/abcvideo.js?v0.0.5"
+            "version": "0.0.6",
+            "author": "psyntium",
+            "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/openload.js"
         },
         "supervideo": {
             "name": "supervideo",
