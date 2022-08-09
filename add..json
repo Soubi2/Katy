@@ -538,12 +538,16 @@
         "membednet": {
             "name": "membednet",
             "domain": [
-                "vidembed.cc"
+                "membed.net"
             ],
             "version": "0.0.3",
             "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/MembedNet.js?v3"
-        },
-         "gowatch": {
+            "type": [
+                "movie",
+                "tv"
+            ]
+       },
+       "gowatch": {
             "name": "gowatch",
             "domain": "gowatchseries.live",
             "version": "0.0.1",
