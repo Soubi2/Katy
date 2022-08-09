@@ -534,16 +534,14 @@
                 "movie",
                 "tv"
             ]
-        },
-        "vidembedcc": {
-            "name": "vidembedcc",
-            "domain": "membed.net",
-            "version": "0.0.1",
-            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/vidembedcc.js?v0.0.0.1",
-            "type": [
-                "movie",
-                "tv"
-            ]
+       },
+        "membednet": {
+            "name": "membednet",
+            "domain": [
+                "vidembed.cc"
+            ],
+            "version": "0.0.3",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/MembedNet.js?v3"
         },
          "gowatch": {
             "name": "gowatch",
