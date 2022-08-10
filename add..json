@@ -595,7 +595,7 @@
                 "tv"
             ]
        },
-        "vidembedcc": {
+        "membednt": {
             "name": "membednt",
             "domain": "membed.net",
             "version": "0.0.1",
