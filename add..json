@@ -534,18 +534,7 @@
                 "movie",
                 "tv"
             ]
-       },
-        "membednet": {
-            "name": "membednet",
-            "domain": [
-                "membed.net"
-            ],
-            "version": "0.0.3",
-            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/MembedNet.js?v3"
-            "type": [
-                "movie",
-                "tv"
-            ]
+       
        },
        "gowatch": {
             "name": "gowatch",
@@ -601,6 +590,16 @@
             "domain": "dramacool.dis",
             "version": "0.0.2",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/dramacool.js?v0.0.0.1",
+            "type": [
+                "movie",
+                "tv"
+            ]
+       },
+        "vidembedcc": {
+            "name": "membednt",
+            "domain": "membed.net",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/MembedNt.js?v0.0.0.1",
             "type": [
                 "movie",
                 "tv"
@@ -671,6 +670,16 @@
             ],
             "version": "0.0.1",
             "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/files.wordpress.js"
+            
+            },
+        "membednet": {
+            "name": "membednet",
+            "domain": [
+                "membed.net"
+            ],
+            "version": "0.0.3",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/MembedNet.js?v3"
+           
         },
         "ggstream": {
             "name": "ggstream",
