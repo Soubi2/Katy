@@ -1039,7 +1039,7 @@
                 "lianmovie.com"
             ],
             "version": "0.1.17",
-            "url": "http://fakfak.streammov.net/add-ons/es5/hosts/direct.js?v7"
+            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/direct.js?v7"
         },
         "uptostream": {
             "name": "uptostream",
