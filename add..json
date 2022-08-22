@@ -1165,6 +1165,7 @@
                 "fembed-hd.com",
                 "streamhoe.online",
                 "suzihaza.com",
+                "vanfem.com",
                 "diampokusy.com",
                 "serverf4.org",
                 "vcdn.io",
@@ -1172,7 +1173,7 @@
                 "embedsito.com"
             ],
             "version": "0.0.20",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/fembed.js?v24"
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/fembed.js?v24"
         },
         "userload": {
             "name": "userload",
