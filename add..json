@@ -1130,6 +1130,15 @@
             "version": "0.0.1",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/embedsito.js?v1"
         },
+        },
+        "xstreamcdn": {
+            "name": "xstreamcdn",
+            "domain": [
+                "fembed-hd.com"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Xstreamcdn.js?v1"
+        },
         "vidcloud": {
             "name": "vidcloud",
             "domain": [
