@@ -991,7 +991,7 @@
             ],
             "version": "0.7.14",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/drive.google.js"
-        },
+       },
         "direct": {
             "name": "direct",
             "domain": [
@@ -1035,7 +1035,7 @@
                 "mihanpix.net",
                 "saberfun.name",
                 "lianmovie.com"
-            ],
+           ],
             "version": "0.1.17",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/direct.js?v7"
         },
