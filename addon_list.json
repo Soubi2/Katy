@@ -41,23 +41,15 @@
         "membednt": {
             
                    "name": "membednt",
-            
                    "domain": "membed.net",
-            
                    "version": "0.0.1",
-            
                    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/MembedNt.js?v0.0.0.1",
-            
                    "type": [
-                
                        "movie",
-                
                        "tv"
-            
-                 ]
-  
-      
-        },
+             
+                   ]
+          },
         "fmoviesvc": {
             "name": "fmoviesvc",
             "domain": "fmovies.vc",
@@ -660,7 +652,7 @@
         "vidcloud": {
             "name": "vidcloud",
             "domain": [
-                "vidcloud.icu"
+                "membed.net"
             ],
             "version": "0.0.14",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/vidcloud.js"
