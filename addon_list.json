@@ -92,30 +92,20 @@
             "name": "m4ufreecom",
             "domain": "m4ufree.com",
             "version": "0.0.3",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/m4ufreecom.js?v0.0.0.1",
-            "type": [
-                "movie",
-                "tv"
-            ]
-        },
-        "playdk": {
-            "name": "playdk",
-            "domain": "playdk.net",
-            "version": "0.4.13",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/playdk.js?v0.0.0.1",
+            "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m4ufreecom.js?v0.0.0.1",
             "type": [
                 "movie",
                 "tv"
             ]
         },
         "putlockerhd": {
-            "name": "putlockerhd",
-            "domain": "putlockerhd.co",
-            "version": "0.4.15",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/putlockerhd.js?v0.0.0.1",
-            "type": [
-                "movie",
-                "tv"
+        "name": "putlockerhd",
+        "domain": "putlockerhd.co",
+        "version": "0.4.15",
+        "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/putlockerhd.js?v0.0.0.1",
+        "type": [
+            "movie",
+            "tv"
             ]
         },
         "series9": {
@@ -126,25 +116,6 @@
             "type": [
                 "tv",
                 "movie"
-            ]
-        },
-        "seehd": {
-            "name": "seehd",
-            "domain": "seehd.pl",
-            "version": "0.4.17",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/seehd.js?v0.0.0.1",
-            "type": [
-                "movie",
-                "tv"
-            ]
-        },
-        "watchepisodes4": {
-            "name": "watchepisodes4",
-            "domain": "watchepisodes4.com",
-            "version": "0.4.20",
-            "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/watchepisodes4.js?v0.0.0.1",
-            "type": [
-                "tv"
             ]
         },
         "thanqn": {
