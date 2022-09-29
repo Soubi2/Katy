@@ -79,7 +79,7 @@ var Sbplay = function () {
                                 _libs = this.libs, httpRequest = _libs.httpRequest, cheerio = _libs.cheerio;
                                 arrVideoQuality = [];
                                 code = url.split("/").pop().split("-").pop();
-                                newUrl = 'https://streamsss.net/play/' + code + '?auto=0&referer=&';
+                                newUrl = 'https://streamsss.net/e/' + code + '?auto=0&referer=&';
                                 _context2.next = 6;
                                 return this.checkLive(newUrl);
 
