@@ -54,13 +54,7 @@
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
     
-     {
-    "id": "1",
-    "label": "Channels Lat",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/varma.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },
+  
     {
     "id": "1",
     "label": "Chacha",
@@ -68,20 +62,7 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
-    {
-    "id": "1",
-    "label": "SportSec",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/second.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },
-    {
-    "id": "1",
-    "label": "Sportsss",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/limba.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },
+  
     {
     "id": "1",
     "label": "Aussi",
@@ -105,30 +86,7 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
-   
-     {
-      "id": "1",
-      "label": "CH1",
-      "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/45.m3u",
-      "type": "1",
-      "logo_url": ""
-    },
 
-     {
-      "id": "1",
-      "label": "CH2",
-      "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/54.m3u",
-      "type": "1",
-      "logo_url": ""
-    },
-{
-    "id": "1",
-    "label": "CH3",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/56.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },
-  
     {
     "id": "1",
     "label": "Arabic Ch",
@@ -136,30 +94,7 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
-    
-    {
-    "id": "1",
-    "label": "Arbi",
-    "url": "https://raw.githubusercontent.com/Soubi2/soubi/master/Adel.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },
-     {
-      "id": "1",
-      "label": "Lim",
-      "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/pli.m3u",
-      "type": "1",
-      "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-    },
-    
-     {
-    "id": "1",
-    "label": "COL1",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/70.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },
-    
+ 
      {
     "id": "1",
     "label": "COL2",
