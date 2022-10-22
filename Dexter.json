@@ -14,7 +14,7 @@
 "title_player":"Soubi Player",
 "description_player":"",
 "link_download_player":"https://raw.githubusercontent.com/Soubi2/soubi/master/Soubi-Player.apk",
-"package_name_player":"com.bsplayer.bspandroid.full",
+"package_name_player":"com.soubi.tv",
 "oneplayer_version_build":"30",
 "pkg_player_new":"com.soubi.tv",
 "name_player_new":"Soubi Player",
