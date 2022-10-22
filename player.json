@@ -1,7 +1,7 @@
 ﻿{
 "update_type": "gp",  
 "update_build": "31",  
-"update_link": "",  
+"update_link": "https://raw.githubusercontent.com/Soubi2/soubi/master/Soubi-Player.apk",  
 "update_content": "Please update Soubi Player for better experience",  
 "update_title":"Update new version",  
 "update_force": true,
