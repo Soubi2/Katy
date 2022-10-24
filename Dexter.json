@@ -11,7 +11,7 @@
 "pkg_uninstall":"", 
 "pkg_uninstall_content":"Please uninstall old version",
 "enable_install_player":false,
-"title_player":"Soubi",
+"title_player":"Soubi Player",
 "description_player":"",
 "link_download_player":"https://raw.githubusercontent.com/Soubi2/soubi/master/Soubi-Player.apk",
 "package_name_player":"com.soubi.tv",
