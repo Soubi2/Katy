@@ -22,7 +22,7 @@
 "player_new_build":"46",
 "player_new_link":"https://raw.githubusercontent.com/Soubi2/soubi/master/Soubi-Player.apk",
 "force_playernew_direct_link":false,
-"enable_force_player":true,
+"enable_force_player":false,
 "tmdb_key":"71786cd7dad7e21f70cc12f7cf6c0781",
 "site_cookie":"https://series9.la",
 "force_player_direct_link":true,
