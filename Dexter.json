@@ -10,7 +10,7 @@
 "update_link_android4":"",
 "pkg_uninstall":"", 
 "pkg_uninstall_content":"Please uninstall old version",
-"enable_install_player":true,
+"enable_install_player":false,
 "title_player":"Soubi Player",
 "description_player":"Best Player",
 "link_download_player":"https://raw.githubusercontent.com/Soubi2/soubi/master/Soubi-Player.apk",
