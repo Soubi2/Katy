@@ -20,9 +20,9 @@ http://boxtv.uniredes.com.br:80/16031974/16031974/121
 http://boxtv.uniredes.com.br:80/16031974/16031974/122
 #EXTINF:-1 tvg-id="" tvg-name="NASA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",NASA
 http://boxtv.uniredes.com.br:80/16031974/16031974/123
-#EXTINF:-1 tvg-id="" tvg-name="Laguna Beach" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",NASA
-https://raw.githubusercontent.com/Soubi2/Katy/main/Laguna%20Beach.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Encinitas" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",NASA
-https://raw.githubusercontent.com/Soubi2/Katy/main/Encinitas.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Santa Barbara" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",NASA
-https://raw.githubusercontent.com/Soubi2/Katy/main/Santa%20Barbara.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Laguna Beach" tvg-logo="" group-title="Variedades",NASA
+https://hd-auth.skylinewebcams.com/live.m3u8?a=gbe4f0c7vt7sjf6915gbajl890
+#EXTINF:-1 tvg-id="" tvg-name="Encinitas" tvg-logo="" group-title="Variedades",NASA
+https://hd-auth.skylinewebcams.com/live.m3u8?a=gbe4f0c7vt7sjf6915gbajl890
+#EXTINF:-1 tvg-id="" tvg-name="Santa Barbara" tvg-logo="" group-title="Variedades",NASA
+https://hd-auth.skylinewebcams.com/live.m3u8?a=gbe4f0c7vt7sjf6915gbajl890
