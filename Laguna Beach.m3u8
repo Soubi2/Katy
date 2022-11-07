@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1150
+#EXT-X-TARGETDURATION:4
+#EXTINF:4.000,
+https://hddn53.skylinewebcams.com/0926070997RU-1667837930751.ts
+#EXTINF:4.000,
+https://hddn53.skylinewebcams.com/0926070997RU-1667837934755.ts
+#EXTINF:4.000,
+https://hddn53.skylinewebcams.com/0926070997RU-1667837938747.ts
+#EXTINF:4.000,
+https://hddn53.skylinewebcams.com/0926070997RU-1667837942756.ts
+#EXTINF:4.000,
+https://hddn53.skylinewebcams.com/0926070997RU-1667837946643.ts
