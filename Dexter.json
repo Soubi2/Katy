@@ -11,7 +11,7 @@
 "pkg_uninstall":"", 
 "pkg_uninstall_content":"Please uninstall old version",
 "enable_install_player":false,
-"title_player":"Soubi Player",
+"title_player":"Soubi Player";
 "description_player":"Best Player",
 "link_download_player":"",
 "package_name_player":"com.soubi.tv",
@@ -23,7 +23,7 @@
 "player_new_link":"",
 "force_playernew_direct_link":false,
 "enable_force_player":false,
-"tmdb_key":"71786cd7dad7e21f70cc12f7cf6c0781",
+"tmdb_key":"",
 "site_cookie":"",
 "force_player_direct_link":true,
 "aparat_cfg":"dmFyIGludGVydmFsOwp2YXIgY291bnQgPSAwOwoKZ2V0QXBhcmF0ID0gKCkgPT4gewogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbChnZXREYXRhQXBhcmF0LCAzMDApOwp9CgpnZXREYXRhQXBhcmF0ID0gKCkgPT4gewogICAgdmFyIGNvZGUgPSBqd3BsYXllcigidnBsYXllciIpLmdldFBsYXlsaXN0SXRlbSgpLmZpbGU7CiAgICBpZihjb2RlICE9PSB1bmRlZmluZWQgJiYgY29kZSAhPT0gbnVsbCAmJiBjb2RlLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlKTsKICAgIH1lbHNlewogICAgICAgIGNvdW50ID0gY291bnQgKyAxOwogICAgICAgIGlmKGNvdW50ID09IDYwKXsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgICAgIEFuZHJvaWQudGltZW91dCgxKTsKICAgICAgICB9CiAgICB9Cn0K",
