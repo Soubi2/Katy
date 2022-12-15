@@ -47,72 +47,31 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },  
+    
     {
     "id": "1",
     "label": "Mega1",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega1.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },  
-    {
-    "id": "1",
-    "label": "Mega2",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega2.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },  
-    {
-    "id": "1",
-    "label": "Mega3",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega3.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },  
-     {
-    "id": "1",
-    "label": "Mega4",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega4.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },  
-    {
-    "id": "1",
-    "label": "Mega5",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega5.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },   
-    {
-    "id": "1",
-    "label": "Mega6",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega6.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },   
-    {
-    "id": "1",
-    "label": "Mega7",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega7.m3u",
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },   
     {
     "id": "1",
-    "label": "Mega8",
+    "label": "Mega2",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega8.m3u",
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },   
     {
     "id": "1",
-    "label": "Mega9",
+    "label": "Mega3",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega9.m3u",
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },   
     {
     "id": "1",
-    "label": "Mega10",
+    "label": "Mega4",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega10.m3u",
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
