@@ -30,9 +30,15 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },
- 
   
-    
+     {
+    "id": "1",
+    "label": "Channels321",
+    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Channels321.m3u",
+    "type": "1",
+    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+  },
+
     {
     "id": "1",
     "label": "MegaMix24",
