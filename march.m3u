@@ -179,6 +179,104 @@ http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/66242
 http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/64725
 #EXTINF:-1 tvg-id="" tvg-name="|.AR.| TV LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_70D_12_800_DCA0000_0_0_0.png" group-title="ARABIC LIBAN",|.AR.| TV LIBAN
 http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/66229
+#EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="" group-title="ARABIC HD",LBC HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3917.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ARABIC HD",AD NATIONAL GEOGRAPHIC HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3919.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC HD" tvg-logo="" group-title="ARABIC HD",ROTANA MUSIC HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3921.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL RAYYAN HD" tvg-logo="" group-title="ARABIC HD",AL RAYYAN HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3924.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL RAYYAN QADEEM HD" tvg-logo="" group-title="ARABIC HD",AL RAYYAN QADEEM HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3925.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBC EUROPE HD" tvg-logo="" group-title="ARABIC HD",LBC EUROPE HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3928.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | MTV LEBANON HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/5/54/Murr_television_mtv_lebanon.jpg/220px-Murr_television_mtv_lebanon.jpg" group-title="ARABIC H265",AR | MTV LEBANON HEVC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6433.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | AGHANI LEBANON HEVC" tvg-logo="https://aghaniaghani.com/images/logo@2x.png" group-title="ARABIC H265",AR | AGHANI LEBANON HEVC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6434.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | HAWAKOM LEBANON HEVC" tvg-logo="https://www.hawacom.tv/android-chrome-256x256.png" group-title="ARABIC H265",AR | HAWAKOM LEBANON HEVC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6435.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | ARABICA TV LEBANON HEVC" tvg-logo="https://3.bp.blogspot.com/-rysHj1c0wng/WLiBQdnbjHI/AAAAAAAAEgg/GKNsK0j_x7Ym4dCy1r0QUgymt5625YWLwCLcB/s1600/screen568x568.png" group-title="ARABIC H265",AR | ARABICA TV LEBANON HEVC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6436.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | LBC HEVC" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="ARABIC H265",AR | LBC HEVC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6437.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | LBC EUROPE HEVC" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1225_1.png" group-title="ARABIC H265",AR | LBC EUROPE HEVC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6438.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | ONE E HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/ON_logo.png" group-title="ARABIC H265",AR | ONE E HEVC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6440.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | NBN HEVC LEBANON" tvg-logo="https://chahednews.com/static/images/7be3d6d1d358eb3cd3cede5a86235924.png" group-title="ARABIC H265",AR | NBN HEVC LEBANON
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6445.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | OTV LEBANON HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/OTV_red.jpg" group-title="ARABIC H265",AR | OTV LEBANON HEVC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6447.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | TELE LEBANON HEVC" tvg-logo="https://i.pinimg.com/originals/ba/08/22/ba08225e5ce2888fdb77d5576987a9df.png" group-title="ARABIC H265",AR | TELE LEBANON HEVC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6448.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC HD" tvg-logo="" group-title="ARABIC HD",ROTANA CLASSIC HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3878.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HD" tvg-logo="" group-title="ARABIC HD",MTV LEBANON HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3880.ts
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN AMMAN HD" tvg-logo="" group-title="ARABIC HD",JORDAN AMMAN HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3881.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI LEBANON HD" tvg-logo="" group-title="ARABIC HD",AGHANI LEBANON HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3929.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA TV LEBANON HD" tvg-logo="" group-title="ARABIC HD",ARABICA TV LEBANON HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3930.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED LEBANON HD" tvg-logo="" group-title="ARABIC HD",AL JADEED LEBANON HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3931.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAWAKOM LEBANON HD" tvg-logo="" group-title="ARABIC HD",HAWAKOM LEBANON HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3932.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | AGHANI" tvg-logo="" group-title="LEBANON",LBN | AGHANI
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/606.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | ALIMAN TV" tvg-logo="" group-title="LEBANON",LBN | ALIMAN TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/608.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | ARABICA" tvg-logo="" group-title="LEBANON",LBN | ARABICA
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/609.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | FUTURE" tvg-logo="http://logo.ddnb.tn/logochanel/9038.png" group-title="LEBANON",LBN | FUTURE
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/611.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | HAWACOM HD" tvg-logo="" group-title="LEBANON",LBN | HAWACOM HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/612.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | JADEED HD" tvg-logo="http://logo.ddnb.tn/logochanel/9035.png" group-title="LEBANON",LBN | JADEED HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/613.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | LBC HD" tvg-logo="http://darkteam.vip:25461/images/2e83e2ca7d60675ac7ec629af743535a.png" group-title="LEBANON",LBN | LBC HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/616.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | LBC INTERNATIONAL" tvg-logo="http://logo.ddnb.tn/logochanel/9034.png" group-title="LEBANON",LBN | LBC INTERNATIONAL
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/617.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | Lebanon TV" tvg-logo="" group-title="LEBANON",LBN | Lebanon TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/619.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | MAYDEEN" tvg-logo="" group-title="LEBANON",LBN | MAYDEEN
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/620.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | MTV HD" tvg-logo="http://logo.ddnb.tn/logochanel/9032.png" group-title="LEBANON",LBN | MTV HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/621.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | NBN" tvg-logo="http://logo.ddnb.tn/logochanel/9037.png" group-title="LEBANON",LBN | NBN
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/622.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | ONE" tvg-logo="http://logo.ddnb.tn/logochanel/9033.png" group-title="LEBANON",LBN | ONE
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/623.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | OTV" tvg-logo="http://logo.ddnb.tn/logochanel/9036.png" group-title="LEBANON",LBN | OTV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/624.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | TELE LIBAN" tvg-logo="" group-title="LEBANON",LBN | TELE LIBAN
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/625.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBN | LBC 2" tvg-logo="" group-title="LEBANON",LBN | LBC 2
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/12004.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEB | ALJADEED 4K" tvg-logo="" group-title="ARABIC 4K",LEB | ALJADEED 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10288.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEB | LBC 4K" tvg-logo="" group-title="ARABIC 4K",LEB | LBC 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10289.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEB | LBC INT 4K" tvg-logo="" group-title="ARABIC 4K",LEB | LBC INT 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10290.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEB | AGHANI 4K" tvg-logo="" group-title="ARABIC 4K",LEB | AGHANI 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10291.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEB | ARABICA 4K" tvg-logo="" group-title="ARABIC 4K",LEB | ARABICA 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10292.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEB | HAWACOM 4K" tvg-logo="" group-title="ARABIC 4K",LEB | HAWACOM 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10293.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEB | MTV 4K" tvg-logo="" group-title="ARABIC 4K",LEB | MTV 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10294.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEB | OTV 4K" tvg-logo="" group-title="ARABIC 4K",LEB | OTV 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10295.ts
+#EXTINF:-1 tvg-id="" tvg-name="LEB | TELELIBAN 4K" tvg-logo="" group-title="ARABIC 4K",LEB | TELELIBAN 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10296.ts
+#EXTINF:-1 tvg-id="" tvg-name="UAE | AL DAFRA 4K" tvg-logo="" group-title="ARABIC 4K",UAE | AL DAFRA 4K
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10297.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: تامر حسني" tvg-logo="" group-title="Default",AR: تامر حسني
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1199
 #EXTINF:-1 tvg-id="" tvg-name="AR: وائل كفوري" tvg-logo="" group-title="Default",AR: وائل كفوري
