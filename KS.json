@@ -21,20 +21,21 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   }, 
-     {
-    "id": "1",
-    "label": "Movies",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/vod.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },    
+     
   {
     "id": "1",
     "label": "منوعات",
     "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/mounawa3at.m3u",
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },     
+  },   
+     {
+    "id": "1",
+    "label": "أفلام",
+    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/vod2.m3u",
+    "type": "1",
+    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+  },  
     
  {
     "id": "1",
@@ -66,14 +67,7 @@
     "type": "1",
     "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
   },  
-    {
-    "id": "1",
-    "label": "أفلام",
-    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/vod2.m3u",
-    "type": "1",
-    "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-  },  
-    
+        
     {
     "id": "1",
     "label": "Mega1",
