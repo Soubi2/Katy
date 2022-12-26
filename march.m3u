@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+ #EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="ARABIC",MTV Lebanon (1080p)
+http://173.212.193.243:8080/mo3ad/mo3ad/632
 #EXTINF:-1 tvg-id="" tvg-name="LDC" tvg-logo="" group-title="ARABIC", LDC
 http://172.107.94.243:9000/live/premium/free/3894.ts
 #EXTINF:-1 tvg-id="" tvg-name="LDC (HD)" tvg-logo="" group-title="ARABIC", LDC (HD)
