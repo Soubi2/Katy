@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="rieu" tvg-name="0" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="CHANNELS",|.AR.|Andre
-https://cloud.huawei.com/drive/v1/files/Bm5r1M9vL5Vde0bILbb5JsZ2NldjPw-XX?form=content
-#EXTINF:-1 tvg-id="rieu" tvg-name="1" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="CHANNELS",|.AR.|Andre
+https://tnow-prod-blr.367791ca7abea81096902b345fee7b1f.r2.cloudflarestorage.com/2022-12-31/84e7c9b10a0064bcdff4735c9e970946/20221231fBTfoQPy/3Y7IAz/My%20Video7.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3300106ad320d1c9e7be8252d99fb71b%2F20221231%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20221231T065439Z&X-Amz-Expires=86400&X-Amz-Signature=2ff7e9fd1282349459291ae1c90a61b23857b992b3c769f7d4930bf1cafd51d1&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22My%20Video7.mp4%22#EXTINF:-1 tvg-id="rieu" tvg-name="1" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="CHANNELS",|.AR.|Andre
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzc0NS8zOTIyNzQ1Lm1wMw==
 #EXTINF:-1 tvg-id="rieu" tvg-name="2" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="CHANNELS",|.AR.|Andre
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzcyMy8zOTIyNzIzLm1wMw==
