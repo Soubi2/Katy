@@ -7,6 +7,18 @@ http://iptv.icsnleb.com:25461/12/12/49
 http://iptv.icsnleb.com:25461/12/12/55
 #EXTINF:-1 tvg-id="" tvg-name="ADEL EMAM HD"
 http://pablotv.live:8880/Ammar99/123456/72210
+#EXTINF:-1 tvg-id="" tvg-name="Adel Emam 1 (1 عادل امام)" tvg-logo="http://spider.mine.nu:25461/images/513428e182dbd1686466140c24604e1f.jpg" group-title="VOD ARAB",A-AR: Adel Emam 1 (1 عادل امام)
+http://revteam8.offshorerev.cc:80/mag00:1A:79:13:93:21/j6kAhde5ot/68363
+#EXTINF:-1 tvg-id="" tvg-name="Adel Emam 2 (2 عادل امام)" tvg-logo="http://spider.mine.nu:25461/images/513428e182dbd1686466140c24604e1f.jpg" group-title="VOD ARAB",A-AR: Adel Emam 2 (2 عادل امام)
+http://revteam8.offshorerev.cc:80/mag00:1A:79:13:93:21/j6kAhde5ot/68364
+#EXTINF:-1 tvg-id="" tvg-name="Adel Emam 3 (عادل امام)" tvg-logo="http://spider.mine.nu:25461/images/513428e182dbd1686466140c24604e1f.jpg" group-title="VOD ARAB",A-AR: Adel Emam 3 (عادل امام)
+http://revteam8.offshorerev.cc:80/mag00:1A:79:13:93:21/j6kAhde5ot/68365
+#EXTINF:-1 tvg-id="" tvg-name="Ismail Yasin 1 (اسماعيل يس)" tvg-logo="http://spider.mine.nu:25461/images/b9679a985aaf3535a70bb82c731b5660.jpg" group-title="VOD ARAB",A-AR: Ismail Yasin 1 (اسماعيل يس)
+http://revteam8.offshorerev.cc:80/mag00:1A:79:13:93:21/j6kAhde5ot/68378
+#EXTINF:-1 tvg-id="" tvg-name="Ismail Yasin 2 (اسماعيل يس)" tvg-logo="http://spider.mine.nu:25461/images/b9679a985aaf3535a70bb82c731b5660.jpg" group-title="VOD ARAB",A-AR: Ismail Yasin 2 (اسماعيل يس)
+http://revteam8.offshorerev.cc:80/mag00:1A:79:13:93:21/j6kAhde5ot/68379
+#EXTINF:-1 tvg-id="" tvg-name="Ismail Yasin 3 (اسماعيل يس)" tvg-logo="http://spider.mine.nu:25461/images/b9679a985aaf3535a70bb82c731b5660.jpg" group-title="VOD ARAB",A-AR: Ismail Yasin 3 (اسماعيل يس)
+http://revteam8.offshorerev.cc:80/mag00:1A:79:13:93:21/j6kAhde5ot/68380
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Music
 http://iptv.icsnleb.com:25461/12/12/36
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema
