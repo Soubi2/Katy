@@ -1,0 +1,775 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="s:1:/images/af9172f0955d9b5c5fac1af2044060fc.png" group-title="ARABIC TV",MBC 1 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97150
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="data:image/jpeg;base64,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" group-title="ARABIC TV",MBC 2 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97152
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 HD" tvg-logo="s:1:/images/404e0d68cfa67ba45b046fbfcf781ca1.png" group-title="ARABIC TV",MBC 3 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97154
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="http://fauconteam.com/logo/mbc4.png" group-title="ARABIC TV",MBC 4
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97157
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max HD" tvg-logo="http://fauconteam.com/logo/mbcmax.png" group-title="ARABIC TV",MBC Max HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97158
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama HD" tvg-logo="http://fauconteam.com/logo/mbcdrama.png" group-title="ARABIC TV",MBC Drama HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97160
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama Plus HD" tvg-logo="" group-title="ARABIC TV",MBC Drama Plus HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108794
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood HD" tvg-logo="http://fauconteam.com/logo/mbcbollywood.png" group-title="ARABIC TV",MBC Bollywood HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97162
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action HD" tvg-logo="http://fauconteam.com/logo/mbcaction.png" group-title="ARABIC TV",MBC Action HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97165
+#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY HD" tvg-logo="http://fauconteam.com/logo/MBC-VARIETY-HD.jpg" group-title="ARABIC TV",MBC VARIETY HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97166
+#EXTINF:-1 tvg-id="" tvg-name="Mbc Masr HD" tvg-logo="http://fauconteam.com/logo/mbcmasr.png" group-title="ARABIC TV",Mbc Masr HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97167
+#EXTINF:-1 tvg-id="" tvg-name="Mbc Masr 2" tvg-logo="http://fauconteam.com/logo/mbcmasr2.png" group-title="ARABIC TV",Mbc Masr 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97168
+#EXTINF:-1 tvg-id="" tvg-name="[AR] Rotana Cinema" tvg-logo="http://fauconteam.com/logo/rotanacinema.png" group-title="ARABIC TV",[AR] Rotana Cinema
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97173
+#EXTINF:-1 tvg-id="" tvg-name="[AR] Rotana Drama" tvg-logo="http://fauconteam.com/logo/rotanadrama.png" group-title="ARABIC TV",[AR] Rotana Drama
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97171
+#EXTINF:-1 tvg-id="" tvg-name="[AR] Rotana Music" tvg-logo="http://fauconteam.com/logo/rotanamusic.png" group-title="ARABIC TV",[AR] Rotana Music
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97169
+#EXTINF:-1 tvg-id="" tvg-name="[AR] Rotana Khalijiah" tvg-logo="http://fauconteam.com/logo/rotanakhalejia.png" group-title="ARABIC TV",[AR] Rotana Khalijiah
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97170
+#EXTINF:-1 tvg-id="" tvg-name="[AR] Rotana Classic" tvg-logo="http://fauconteam.com/logo/rotanaclassic.png" group-title="ARABIC TV",[AR] Rotana Classic
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97172
+#EXTINF:-1 tvg-id="" tvg-name="[AR] Cinema 1" tvg-logo="s:1:/images/337fbb2cacb6be7a8590fc00f6ac7299.jpg" group-title="ARABIC TV",[AR] Cinema 1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97176
+#EXTINF:-1 tvg-id="" tvg-name="[AR] Cinema 2" tvg-logo="http://fauconteam.com/logo/cinema2.png" group-title="ARABIC TV",[AR] Cinema 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97177
+#EXTINF:-1 tvg-id="" tvg-name="ART Cinema" tvg-logo="http://fauconteam.com/logo/artcinema.png" group-title="ARABIC TV",ART Cinema
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97178
+#EXTINF:-1 tvg-id="" tvg-name="AR: ART Aflam 1" tvg-logo="http://fauconteam.com/logo/artaflam1.jpg" group-title="ARABIC TV",AR: ART Aflam 1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97179
+#EXTINF:-1 tvg-id="" tvg-name="AR: ART Aflam 2" tvg-logo="s:1:/images/cb231ea7389fae65b7984a0ac7d21474.jpg" group-title="ARABIC TV",AR: ART Aflam 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97180
+#EXTINF:-1 tvg-id="" tvg-name="[AR] ART Hekayat 2" tvg-logo="http://fauconteam.com/logo/arthikayat2.png" group-title="ARABIC TV",[AR] ART Hekayat 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97182
+#EXTINF:-1 tvg-id="" tvg-name="[AR] OSN Ya Hala BL Arabi" tvg-logo="" group-title="ARABIC TV",[AR] OSN Ya Hala BL Arabi
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97196
+#EXTINF:-1 tvg-id="" tvg-name="[AR] OSN Ya Hala Cinema HD" tvg-logo="http://fauconteam.com/logo/osnyahalacinema.jpg" group-title="ARABIC TV",[AR] OSN Ya Hala Cinema HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97197
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star World HD" tvg-logo="" group-title="ARABIC TV",OSN Star World HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97199
+#EXTINF:-1 tvg-id="" tvg-name="[AR] OSN Star Movies HD" tvg-logo="" group-title="ARABIC TV",[AR] OSN Star Movies HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97201
+#EXTINF:-1 tvg-id="" tvg-name="[AR] OSN Movies HD" tvg-logo="http://fauconteam.com/logo/osnmovies.jpg" group-title="ARABIC TV",[AR] OSN Movies HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97212
+#EXTINF:-1 tvg-id="" tvg-name="[AR] OSN Movies First" tvg-logo="http://fauconteam.com/logo/osnmoviesfirst.jpg" group-title="ARABIC TV",[AR] OSN Movies First
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97207
+#EXTINF:-1 tvg-id="" tvg-name="[AR] OSN Movies First  2" tvg-logo="http://fauconteam.com/logo/osnmoviesfirst2.png" group-title="ARABIC TV",[AR] OSN Movies First  2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97208
+#EXTINF:-1 tvg-id="" tvg-name="[AR] OSN Dreamwork" tvg-logo="" group-title="ARABIC TV",[AR] OSN Dreamwork
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97186
+#EXTINF:-1 tvg-id="" tvg-name="[AR] OSN Nickelodeon" tvg-logo="" group-title="ARABIC TV",[AR] OSN Nickelodeon
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97204
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Junior" tvg-logo="" group-title="ARABIC TV",OSN Disney Junior
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97188
+#EXTINF:-1 tvg-id="" tvg-name="OSN E! HD" tvg-logo="" group-title="ARABIC TV",OSN E! HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97193
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Action" tvg-logo="" group-title="ARABIC TV",AR: OSN Movies Action
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97211
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN History Channel" tvg-logo="" group-title="ARABIC TV",AR: OSN History Channel
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97214
+#EXTINF:-1 tvg-id="" tvg-name="ON Movies HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON Movies HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101409
+#EXTINF:-1 tvg-id="" tvg-name="ON Cartoon Zaman HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON Cartoon Zaman HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101410
+#EXTINF:-1 tvg-id="" tvg-name="ON 2K Cinema HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON 2K Cinema HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101411
+#EXTINF:-1 tvg-id="" tvg-name="ON Arabic HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON Arabic HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101412
+#EXTINF:-1 tvg-id="" tvg-name="ON Turkey HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON Turkey HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101413
+#EXTINF:-1 tvg-id="" tvg-name="ON LOVEH HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON LOVEH HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101414
+#EXTINF:-1 tvg-id="" tvg-name="AR: ON Docunentary HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",AR: ON Docunentary HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101415
+#EXTINF:-1 tvg-id="" tvg-name="ON comedy HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON comedy HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101416
+#EXTINF:-1 tvg-id="" tvg-name="ON Horror HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON Horror HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101417
+#EXTINF:-1 tvg-id="" tvg-name="ON Asia HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON Asia HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101418
+#EXTINF:-1 tvg-id="" tvg-name="On Animation HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",On Animation HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101419
+#EXTINF:-1 tvg-id="" tvg-name="ON Series HD" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON Series HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101420
+#EXTINF:-1 tvg-id="" tvg-name="ON TV Show" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",ON TV Show
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101421
+#EXTINF:-1 tvg-id="" tvg-name="ZINA WWE HD" tvg-logo="https://img2.apksum.com/7f/com.zina.zinatv/1.1.0/icon.png" group-title="ARABIC TV",ZINA WWE HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101423
+#EXTINF:-1 tvg-id="" tvg-name="AR: ON SPORT" tvg-logo="https://logopond.com/logos/206c5e622132aef9da57044e159c369b.png" group-title="ARABIC TV",AR: ON SPORT
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101424
+#EXTINF:-1 tvg-id="" tvg-name="AR: ARABICA TV" tvg-logo="" group-title="ARABIC TV",AR: ARABICA TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97105
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="" group-title="ARABIC TV",MBC IRAQ
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97108
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" tvg-logo="" group-title="ARABIC TV",BEIN SPORTS NEWS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97118
+#EXTINF:-1 tvg-id="" tvg-name="AL HADATH" tvg-logo="" group-title="ARABIC TV",AL HADATH
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97126
+#EXTINF:-1 tvg-id="" tvg-name="EGY: ON SPORTS" tvg-logo="" group-title="ARABIC TV",EGY: ON SPORTS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97143
+#EXTINF:-1 tvg-id="" tvg-name="KSA: MAJD KIDS" tvg-logo="" group-title="ARABIC TV",KSA: MAJD KIDS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97148
+#EXTINF:-1 tvg-id="" tvg-name="PS: Ajyal TV" tvg-logo="http://fauconteam.com/logo/ajyal.png" group-title="ARABIC TV",PS: Ajyal TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97233
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Aqsa" tvg-logo="http://fauconteam.com/logo/alaqsa.png" group-title="ARABIC TV",PS: Al Aqsa
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97249
+#EXTINF:-1 tvg-id="" tvg-name="LIB: Salam TV" tvg-logo="http://fauconteam.com/logo/salamtv.jpg" group-title="ARABIC TV",LIB: Salam TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97252
+#EXTINF:-1 tvg-id="" tvg-name="AR: BBC Arabic" tvg-logo="http://fauconteam.com/logo/bbcarabic.png" group-title="ARABIC TV",AR: BBC Arabic
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97260
+#EXTINF:-1 tvg-id="" tvg-name="Kids: Spacetoon HD" tvg-logo="http://fauconteam.com/logo/SPACE-TOON-1.png" group-title="ARABIC TV",Kids: Spacetoon HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97261
+#EXTINF:-1 tvg-id="" tvg-name="LB: OTV LEBANON" tvg-logo="" group-title="ARABIC TV",LB: OTV LEBANON
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97103
+#EXTINF:-1 tvg-id="" tvg-name="LB:  Nabaa TV" tvg-logo="" group-title="ARABIC TV",LB:  Nabaa TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85596
+#EXTINF:-1 tvg-id="" tvg-name="LB:  TV Seventeen" tvg-logo="" group-title="ARABIC TV",LB:  TV Seventeen
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85598
+#EXTINF:-1 tvg-id="" tvg-name="LB: HAWACOM HD" tvg-logo="" group-title="ARABIC TV",LB: HAWACOM HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97104
+#EXTINF:-1 tvg-id="" tvg-name="LB: AL JADEED" tvg-logo="" group-title="ARABIC TV",LB: AL JADEED
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99329
+#EXTINF:-1 tvg-id="" tvg-name="LB: ONE TV" tvg-logo="" group-title="ARABIC TV",LB: ONE TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99330
+#EXTINF:-1 tvg-id="" tvg-name="LB: Future TV" tvg-logo="" group-title="ARABIC TV",LB: Future TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99331
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Manar" tvg-logo="" group-title="ARABIC TV",LB: Al Manar
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99332
+#EXTINF:-1 tvg-id="" tvg-name="LIB: AL JAMAHIRIA" tvg-logo="" group-title="ARABIC TV",LIB: AL JAMAHIRIA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99356
+#EXTINF:-1 tvg-id="" tvg-name="LIB: ALWATNYAH" tvg-logo="" group-title="ARABIC TV",LIB: ALWATNYAH
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99359
+#EXTINF:-1 tvg-id="" tvg-name="LIB: Libiya 218 NEWS" tvg-logo="" group-title="ARABIC TV",LIB: Libiya 218 NEWS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99361
+#EXTINF:-1 tvg-id="" tvg-name="LIB: LIBYA ALHADATH" tvg-logo="" group-title="ARABIC TV",LIB: LIBYA ALHADATH
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99362
+#EXTINF:-1 tvg-id="" tvg-name="LIB: LIBYA ELWATAN" tvg-logo="" group-title="ARABIC TV",LIB: LIBYA ELWATAN
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99364
+#EXTINF:-1 tvg-id="" tvg-name="LIB: LIBYA SPORT" tvg-logo="" group-title="ARABIC TV",LIB: LIBYA SPORT
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99365
+#EXTINF:-1 tvg-id="" tvg-name="LIB: TANASOH TV" tvg-logo="" group-title="ARABIC TV",LIB: TANASOH TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99369
+#EXTINF:-1 tvg-id="" tvg-name="LIB: Febrayer" tvg-logo="" group-title="ARABIC TV",LIB: Febrayer
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99372
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="" group-title="ARABIC TV",LB: LBC International
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108702
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Nile Sport" tvg-logo="http://fauconteam.com/logo/NILE-SPORT.jpg" group-title="ARABIC TV",EGY: Nile Sport
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97237
+#EXTINF:-1 tvg-id="" tvg-name="EGY: NILE LIFE" tvg-logo="http://fauconteam.com/logo/NILE-LIVE.png" group-title="ARABIC TV",EGY: NILE LIFE
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97238
+#EXTINF:-1 tvg-id="" tvg-name="UAE: AL Emarat TV" tvg-logo="" group-title="ARABIC TV",UAE: AL Emarat TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85600
+#EXTINF:-1 tvg-id="" tvg-name="EGY: NILE DRAMA" tvg-logo="http://fauconteam.com/logo/NILE-DRAMA.png" group-title="ARABIC TV",EGY: NILE DRAMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97240
+#EXTINF:-1 tvg-id="" tvg-name="EGY: NILE COMEDY" tvg-logo="http://fauconteam.com/logo/NILE-COMEDY.png" group-title="ARABIC TV",EGY: NILE COMEDY
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97241
+#EXTINF:-1 tvg-id="" tvg-name="EGY: NILE CINEMA" tvg-logo="http://fauconteam.com/logo/NILE-CINEMA.jpg" group-title="ARABIC TV",EGY: NILE CINEMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97242
+#EXTINF:-1 tvg-id="" tvg-name="EGY: NILE NEWS" tvg-logo="" group-title="ARABIC TV",EGY: NILE NEWS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99209
+#EXTINF:-1 tvg-id="" tvg-name="EGY: CBC Sofra TV" tvg-logo="" group-title="ARABIC TV",EGY: CBC Sofra TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99216
+#EXTINF:-1 tvg-id="" tvg-name="EGY: CBC DRAMA" tvg-logo="" group-title="ARABIC TV",EGY: CBC DRAMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99217
+#EXTINF:-1 tvg-id="" tvg-name="EGY: CBC SOFRA" tvg-logo="" group-title="ARABIC TV",EGY: CBC SOFRA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99218
+#EXTINF:-1 tvg-id="" tvg-name="EGY: DMC" tvg-logo="" group-title="ARABIC TV",EGY: DMC
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99219
+#EXTINF:-1 tvg-id="" tvg-name="EGY: DMC DRAMA" tvg-logo="" group-title="ARABIC TV",EGY: DMC DRAMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99220
+#EXTINF:-1 tvg-id="" tvg-name="EGY: ON DRAMA" tvg-logo="" group-title="ARABIC TV",EGY: ON DRAMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99221
+#EXTINF:-1 tvg-id="" tvg-name="EGY: ON E" tvg-logo="" group-title="ARABIC TV",EGY: ON E
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99222
+#EXTINF:-1 tvg-id="" tvg-name="EGY: AL BAIT BAITAK CINEMA" tvg-logo="" group-title="ARABIC TV",EGY: AL BAIT BAITAK CINEMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99224
+#EXTINF:-1 tvg-id="" tvg-name="EGY: APPLE AFLAM" tvg-logo="" group-title="ARABIC TV",EGY: APPLE AFLAM
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99226
+#EXTINF:-1 tvg-id="" tvg-name="EGY: BELODY AFLAM" tvg-logo="" group-title="ARABIC TV",EGY: BELODY AFLAM
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99234
+#EXTINF:-1 tvg-id="" tvg-name="EGY: CINEMA 2" tvg-logo="" group-title="ARABIC TV",EGY: CINEMA 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99239
+#EXTINF:-1 tvg-id="" tvg-name="EGY: EXTRA NEWS" tvg-logo="" group-title="ARABIC TV",EGY: EXTRA NEWS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99258
+#EXTINF:-1 tvg-id="" tvg-name="EGY: HEKAYA TV" tvg-logo="" group-title="ARABIC TV",EGY: HEKAYA TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99261
+#EXTINF:-1 tvg-id="" tvg-name="EGY: HOME CINEMA" tvg-logo="" group-title="ARABIC TV",EGY: HOME CINEMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99262
+#EXTINF:-1 tvg-id="" tvg-name="EGY: OSCAR TV" tvg-logo="" group-title="ARABIC TV",EGY: OSCAR TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99278
+#EXTINF:-1 tvg-id="" tvg-name="EGY: SADA EL BALAD" tvg-logo="" group-title="ARABIC TV",EGY: SADA EL BALAD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99279
+#EXTINF:-1 tvg-id="" tvg-name="EGY: SADA EL BALAD DRAMA" tvg-logo="" group-title="ARABIC TV",EGY: SADA EL BALAD DRAMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99281
+#EXTINF:-1 tvg-id="" tvg-name="EGY: AL HAYAT TV" tvg-logo="" group-title="ARABIC TV",EGY: AL HAYAT TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97081
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Al Ahly TV" tvg-logo="" group-title="ARABIC TV",EGY: Al Ahly TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97088
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Panorama Drama 2" tvg-logo="" group-title="ARABIC TV",EGY: Panorama Drama 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108710
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Masriyah HD" tvg-logo="" group-title="ARABIC TV",EGY: Masriyah HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108790
+#EXTINF:-1 tvg-id="" tvg-name="EGY: STAR CINEMA 1" tvg-logo="" group-title="ARABIC TV",EGY: STAR CINEMA 1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99292
+#EXTINF:-1 tvg-id="" tvg-name="EGY: STAR CINEMA 2" tvg-logo="" group-title="ARABIC TV",EGY: STAR CINEMA 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99293
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Cinema Pro" tvg-logo="" group-title="ARABIC TV",EGY: Cinema Pro
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99294
+#EXTINF:-1 tvg-id="" tvg-name="EGY: TEN" tvg-logo="" group-title="ARABIC TV",EGY: TEN
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99298
+#EXTINF:-1 tvg-id="" tvg-name="EGY: TOKTOK CIMA" tvg-logo="" group-title="ARABIC TV",EGY: TOKTOK CIMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99300
+#EXTINF:-1 tvg-id="" tvg-name="EGY: AL NAHAR TV" tvg-logo="s:1:/images/e6ec43941719c3be9b1004684e4efa3f.jpg" group-title="ARABIC TV",EGY: AL NAHAR TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97270
+#EXTINF:-1 tvg-id="" tvg-name="EGY: AL NAHAR DRAMA" tvg-logo="s:1:/images/c6d173e59fb0360379b96c38790e32d9.jpg" group-title="ARABIC TV",EGY: AL NAHAR DRAMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97271
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Dubai HD" tvg-logo="" group-title="ARABIC TV",UAE: Dubai HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85602
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Dubai One" tvg-logo="" group-title="ARABIC TV",UAE: Dubai One
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85565
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Noor Dubai HD" tvg-logo="" group-title="ARABIC TV",UAE: Noor Dubai HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85606
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Duabi Zaman HD" tvg-logo="" group-title="ARABIC TV",UAE: Duabi Zaman HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85607
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Sama Dubai HD" tvg-logo="" group-title="ARABIC TV",UAE: Sama Dubai HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85603
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Abu Dhabi TV HD" tvg-logo="http://fauconteam.com/logo/abudhabitv.jpg" group-title="ARABIC TV",UAE: Abu Dhabi TV HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97257
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Abu Dhabi Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Drama_TV_Plus_logo.jpg" group-title="ARABIC TV",UAE: Abu Dhabi Drama HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85601
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Dubai Racing HD" tvg-logo="" group-title="ARABIC TV",UAE: Dubai Racing HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85605
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Dubai Sport 1" tvg-logo="" group-title="ARABIC TV",UAE: Dubai Sport 1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85604
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Dubai Sport 2 HD" tvg-logo="" group-title="ARABIC TV",UAE: Dubai Sport 2 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85610
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Dubai Racing 2 HD" tvg-logo="" group-title="ARABIC TV",UAE: Dubai Racing 2 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85609
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Dubai Racing 3 HD" tvg-logo="" group-title="ARABIC TV",UAE: Dubai Racing 3 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85608
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Abu Dhabi Sports 1" tvg-logo="" group-title="ARABIC TV",UAE: Abu Dhabi Sports 1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119650
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Abu Dhabi Sports 2" tvg-logo="" group-title="ARABIC TV",UAE: Abu Dhabi Sports 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119651
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Abu Dhabi Sports 3" tvg-logo="" group-title="ARABIC TV",UAE: Abu Dhabi Sports 3
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119652
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Abu Dhabi Sports 4" tvg-logo="" group-title="ARABIC TV",UAE: Abu Dhabi Sports 4
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85562
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Al Dafrah TV HD" tvg-logo="" group-title="ARABIC TV",UAE: Al Dafrah TV HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85563
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Alaraby TV HD" tvg-logo="" group-title="ARABIC TV",KSA: Alaraby TV HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85564
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Zee Aflam (720p)" tvg-logo="" group-title="ARABIC TV",UAE: Zee Aflam (720p)
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85571
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Zee Alwan (720p)" tvg-logo="" group-title="ARABIC TV",UAE: Zee Alwan (720p)
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85572
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAT 7 Kids" tvg-logo="" group-title="ARABIC TV",AR: SAT 7 Kids
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97280
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: Jeem tv" tvg-logo="s:1:/images/bc5ca6feb3803b3d6f65ed9aa0f680ee.png" group-title="ARABIC TV",KIDS: Jeem tv
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97288
+#EXTINF:-1 tvg-id="" tvg-name="NW: DW Arabic" tvg-logo="s:1:/images/91bcf248208b90c10209c31e28ff33ab.png" group-title="ARABIC TV",NW: DW Arabic
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97291
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera" tvg-logo="s:1:/images/3377a824bdebecff7f2557f30c6f8e68.png" group-title="ARABIC TV",AR: Al Jazeera
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97294
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Aghani HD" tvg-logo="s:1:/images/6c6ce777f72a07206c809b8205aa319c.jpg" group-title="ARABIC TV",EGY: Aghani HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97296
+#EXTINF:-1 tvg-id="" tvg-name="NEWS: Al Arabiya" tvg-logo="s:1:/images/ed8047ef725eadfb3229b3639b4de41a.png" group-title="ARABIC TV",NEWS: Al Arabiya
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97301
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Mubasher" tvg-logo="s:1:/images/280b61ac90a2be6de841edd77487912b.png" group-title="ARABIC TV",AR: Al Jazeera Mubasher
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97305
+#EXTINF:-1 tvg-id="" tvg-name=" FOX Life (H264)" tvg-logo="http://fauconteam.com/logo/foxlife.png" group-title="ARABIC TV", FOX Life (H264)
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97357
+#EXTINF:-1 tvg-id="" tvg-name="AR: SKY News Arabic" tvg-logo="" group-title="ARABIC TV",AR: SKY News Arabic
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97102
+#EXTINF:-1 tvg-id="" tvg-name="ALG: ALGERIE 3" tvg-logo="" group-title="ARABIC TV",ALG: ALGERIE 3
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99174
+#EXTINF:-1 tvg-id="" tvg-name="ALG: Algeria 4" tvg-logo="" group-title="ARABIC TV",ALG: Algeria 4
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99175
+#EXTINF:-1 tvg-id="" tvg-name="ALG: Algeria 5" tvg-logo="" group-title="ARABIC TV",ALG: Algeria 5
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99176
+#EXTINF:-1 tvg-id="" tvg-name="ALG: El Bilad TV" tvg-logo="" group-title="ARABIC TV",ALG: El Bilad TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99177
+#EXTINF:-1 tvg-id="" tvg-name="ALG: Ennahar TV" tvg-logo="" group-title="ARABIC TV",ALG: Ennahar TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99178
+#EXTINF:-1 tvg-id="" tvg-name="ALG: ECHOUROUK" tvg-logo="" group-title="ARABIC TV",ALG: ECHOUROUK
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99184
+#EXTINF:-1 tvg-id="" tvg-name="ALG: Al Badil TV" tvg-logo="" group-title="ARABIC TV",ALG: Al Badil TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99188
+#EXTINF:-1 tvg-id="" tvg-name="ALG: SAMIRA TV" tvg-logo="" group-title="ARABIC TV",ALG: SAMIRA TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99191
+#EXTINF:-1 tvg-id="" tvg-name="ALG: Alhayat" tvg-logo="" group-title="ARABIC TV",ALG: Alhayat
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99193
+#EXTINF:-1 tvg-id="" tvg-name="ALG: Alnais TV" tvg-logo="" group-title="ARABIC TV",ALG: Alnais TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99197
+#EXTINF:-1 tvg-id="" tvg-name="JOR: JORDAN AMMAN" tvg-logo="" group-title="ARABIC TV",JOR: JORDAN AMMAN
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97124
+#EXTINF:-1 tvg-id="" tvg-name="JOR: JORDAN TV" tvg-logo="" group-title="ARABIC TV",JOR: JORDAN TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97125
+#EXTINF:-1 tvg-id="" tvg-name="JOR: Al Mamlaka TV" tvg-logo="" group-title="ARABIC TV",JOR: Al Mamlaka TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85587
+#EXTINF:-1 tvg-id="" tvg-name="JOR: Amman TV" tvg-logo="" group-title="ARABIC TV",JOR: Amman TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85588
+#EXTINF:-1 tvg-id="" tvg-name="JOR: Nojoum TV" tvg-logo="" group-title="ARABIC TV",JOR: Nojoum TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85589
+#EXTINF:-1 tvg-id="" tvg-name="JOR: Ro'ya TV HD" tvg-logo="" group-title="ARABIC TV",JOR: Ro'ya TV HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85590
+#EXTINF:-1 tvg-id="" tvg-name="LB:  Al Ittihad" tvg-logo="" group-title="ARABIC TV",LB:  Al Ittihad
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85591
+#EXTINF:-1 tvg-id="" tvg-name="AR: Arabica Music" tvg-logo="" group-title="ARABIC TV",AR: Arabica Music
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/85594
+#EXTINF:-1 tvg-id="" tvg-name="[AR] Telvza TV" tvg-logo="" group-title="ARABIC TV",[AR] Telvza TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97082
+#EXTINF:-1 tvg-id="" tvg-name="EGY: AL Esharq" tvg-logo="" group-title="ARABIC TV",EGY: AL Esharq
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97084
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Mekameleen TV" tvg-logo="" group-title="ARABIC TV",EGY: Mekameleen TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97085
+#EXTINF:-1 tvg-id="" tvg-name="[AR] ONTIME SPORTS 3" tvg-logo="" group-title="ARABIC TV",[AR] ONTIME SPORTS 3
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97087
+#EXTINF:-1 tvg-id="" tvg-name="EGY: ON TIME SPORT 1" tvg-logo="" group-title="ARABIC TV",EGY: ON TIME SPORT 1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97089
+#EXTINF:-1 tvg-id="" tvg-name="EGY: ON TIME SPORT 2" tvg-logo="" group-title="ARABIC TV",EGY: ON TIME SPORT 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97090
+#EXTINF:-1 tvg-id="" tvg-name="KW: KUWAIT 1 TV" tvg-logo="" group-title="ARABIC TV",KW: KUWAIT 1 TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97097
+#EXTINF:-1 tvg-id="" tvg-name="KW: KUWAIT 2 TV" tvg-logo="" group-title="ARABIC TV",KW: KUWAIT 2 TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97096
+#EXTINF:-1 tvg-id="" tvg-name="KW: KUWAIT KIDS" tvg-logo="" group-title="ARABIC TV",KW: KUWAIT KIDS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97092
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SAUDI 24" tvg-logo="" group-title="ARABIC TV",KSA: SAUDI 24
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97098
+#EXTINF:-1 tvg-id="" tvg-name="[AR] AJMAN" tvg-logo="" group-title="ARABIC TV",[AR] AJMAN
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97101
+#EXTINF:-1 tvg-id="" tvg-name="AR: LBC EUROPE" tvg-logo="" group-title="ARABIC TV",AR: LBC EUROPE
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97106
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SAUDI 1 TV" tvg-logo="" group-title="ARABIC TV",KSA: SAUDI 1 TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97109
+#EXTINF:-1 tvg-id="" tvg-name="[AR] EL KHABARYA" tvg-logo="" group-title="ARABIC TV",[AR] EL KHABARYA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97110
+#EXTINF:-1 tvg-id="" tvg-name="JOR: JORDAN SPORTS" tvg-logo="" group-title="ARABIC TV",JOR: JORDAN SPORTS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97111
+#EXTINF:-1 tvg-id="" tvg-name="PS: PALESTINE HD" tvg-logo="" group-title="ARABIC TV",PS: PALESTINE HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97121
+#EXTINF:-1 tvg-id="" tvg-name="PS: PALESTINE Mubasher" tvg-logo="" group-title="ARABIC TV",PS: PALESTINE Mubasher
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97122
+#EXTINF:-1 tvg-id="" tvg-name="LIB: LIBYA AHRAR" tvg-logo="" group-title="ARABIC TV",LIB: LIBYA AHRAR
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97142
+#EXTINF:-1 tvg-id="" tvg-name="Kids: Baraem HD" tvg-logo="http://fauconteam.com/logo/baraem.png" group-title="ARABIC TV",Kids: Baraem HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97245
+#EXTINF:-1 tvg-id="" tvg-name="MA:  2M Maroc" tvg-logo="s:1:/images/93b47baf59ea142b485dc22577a56dac.png" group-title="ARABIC TV",MA:  2M Maroc
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97322
+#EXTINF:-1 tvg-id="" tvg-name="MA: Chad TV" tvg-logo="s:1:/images/38f53560ff08ad00a49a15bea19d4e72.png" group-title="ARABIC TV",MA: Chad TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97324
+#EXTINF:-1 tvg-id="" tvg-name="MA: Tamazight" tvg-logo="s:1:/images/d37e9f976cf54ff7197a5ac2ace04c7b.png" group-title="ARABIC TV",MA: Tamazight
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97325
+#EXTINF:-1 tvg-id="" tvg-name="MA: Assadissa" tvg-logo="s:1:/images/f1220033423bc46746fe0635936052df.png" group-title="ARABIC TV",MA: Assadissa
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97326
+#EXTINF:-1 tvg-id="" tvg-name="MA: Arrabiaa TV" tvg-logo="s:1:/images/5639f31adb102befad9ea4107cd8095c.png" group-title="ARABIC TV",MA: Arrabiaa TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97328
+#EXTINF:-1 tvg-id="" tvg-name="MA: Al Aoula HD" tvg-logo="s:1:/images/c9cc8937b2bc6a931555971895270767.png" group-title="ARABIC TV",MA: Al Aoula HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97330
+#EXTINF:-1 tvg-id="" tvg-name="[AR] M TUNISIA (Tunisia)" tvg-logo="http://fauconteam.com/logo/mtunisia.png" group-title="ARABIC TV",[AR] M TUNISIA (Tunisia)
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97334
+#EXTINF:-1 tvg-id="" tvg-name="TN: ZAYTOUNA (Tunisia)" tvg-logo="http://fauconteam.com/logo/zaytouna.png" group-title="ARABIC TV",TN: ZAYTOUNA (Tunisia)
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97335
+#EXTINF:-1 tvg-id="" tvg-name="[AR] AL MUSTAKILA (Tunisia)" tvg-logo="http://fauconteam.com/logo/almustakilla.jpg" group-title="ARABIC TV",[AR] AL MUSTAKILA (Tunisia)
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97343
+#EXTINF:-1 tvg-id="" tvg-name="ALG: ECHOUROUK-NEWS" tvg-logo="" group-title="ARABIC TV",ALG: ECHOUROUK-NEWS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97371
+#EXTINF:-1 tvg-id="" tvg-name="ALG: Algeria Beur TV" tvg-logo="" group-title="ARABIC TV",ALG: Algeria Beur TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/97373
+#EXTINF:-1 tvg-id="" tvg-name="SY: Syria Drama" tvg-logo="" group-title="ARABIC TV",SY: Syria Drama
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99312
+#EXTINF:-1 tvg-id="" tvg-name="SY: SAMA TV" tvg-logo="" group-title="ARABIC TV",SY: SAMA TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99313
+#EXTINF:-1 tvg-id="" tvg-name="SY: Lana HD" tvg-logo="" group-title="ARABIC TV",SY: Lana HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99315
+#EXTINF:-1 tvg-id="" tvg-name="SY: LANA PLUS" tvg-logo="" group-title="ARABIC TV",SY: LANA PLUS
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99316
+#EXTINF:-1 tvg-id="" tvg-name="SY: SYRIA Satellite" tvg-logo="" group-title="ARABIC TV",SY: SYRIA Satellite
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99318
+#EXTINF:-1 tvg-id="" tvg-name="SY: SYRIA EDUCATION" tvg-logo="" group-title="ARABIC TV",SY: SYRIA EDUCATION
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99320
+#EXTINF:-1 tvg-id="" tvg-name="SY: ORIENT" tvg-logo="" group-title="ARABIC TV",SY: ORIENT
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99321
+#EXTINF:-1 tvg-id="" tvg-name="SY: ALYAUM TV FHD" tvg-logo="" group-title="ARABIC TV",SY: ALYAUM TV FHD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99322
+#EXTINF:-1 tvg-id="" tvg-name="SY: AL-KHABAR SYRIA" tvg-logo="" group-title="ARABIC TV",SY: AL-KHABAR SYRIA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99323
+#EXTINF:-1 tvg-id="" tvg-name="SY: ALHIWAR TV" tvg-logo="" group-title="ARABIC TV",SY: ALHIWAR TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99324
+#EXTINF:-1 tvg-id="" tvg-name="SY: Syria News" tvg-logo="" group-title="ARABIC TV",SY: Syria News
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99325
+#EXTINF:-1 tvg-id="" tvg-name="SY: SHAM FM" tvg-logo="" group-title="ARABIC TV",SY: SHAM FM
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/99327
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Sharjah Sport HD" tvg-logo="" group-title="ARABIC TV",UAE: Sharjah Sport HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/102156
+#EXTINF:-1 tvg-id="" tvg-name="KW: Resalah HD" tvg-logo="" group-title="ARABIC TV",KW: Resalah HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108678
+#EXTINF:-1 tvg-id="" tvg-name="YEM: Aden TV" tvg-logo="" group-title="ARABIC TV",YEM: Aden TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108697
+#EXTINF:-1 tvg-id="" tvg-name="ALG: Dzair 3" tvg-logo="" group-title="ARABIC TV",ALG: Dzair 3
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108698
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Sport 3 HD" tvg-logo="" group-title="ARABIC TV",KSA: Sport 3 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108699
+#EXTINF:-1 tvg-id="" tvg-name="OM: Oman Sport HD" tvg-logo="" group-title="ARABIC TV",OM: Oman Sport HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108701
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Saudu Sunnah" tvg-logo="" group-title="ARABIC TV",KSA: Saudu Sunnah
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108703
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Saudi Quraan" tvg-logo="" group-title="ARABIC TV",KSA: Saudi Quraan
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108704
+#EXTINF:-1 tvg-id="" tvg-name="KSA: SBC TV" tvg-logo="" group-title="ARABIC TV",KSA: SBC TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108706
+#EXTINF:-1 tvg-id="" tvg-name="UAE: AD NAT Geograpic HD" tvg-logo="" group-title="ARABIC TV",UAE: AD NAT Geograpic HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108707
+#EXTINF:-1 tvg-id="" tvg-name="KSA: IEN DOROS 1" tvg-logo="http://tvstar.cc:8880/chimg/5068465250.png" group-title="ARABIC TV",KSA: IEN DOROS 1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108711
+#EXTINF:-1 tvg-id="" tvg-name="OM: Oman TV" tvg-logo="" group-title="ARABIC TV",OM: Oman TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108719
+#EXTINF:-1 tvg-id="" tvg-name="BH: Bahrain Quran" tvg-logo="" group-title="ARABIC TV",BH: Bahrain Quran
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108705
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Iqra HD" tvg-logo="" group-title="ARABIC TV",KSA: Iqra HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/108789
+#EXTINF:-1 tvg-id="" tvg-name="SY: Nour Al Sham" tvg-logo="" group-title="ARABIC TV",SY: Nour Al Sham
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/110937
+#EXTINF:-1 tvg-id="" tvg-name="AR : Sham TV" tvg-logo="" group-title="ARABIC TV",AR : Sham TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/110938
+#EXTINF:-1 tvg-id="" tvg-name="MA: Medi 1 TV" tvg-logo="" group-title="ARABIC TV",MA: Medi 1 TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111135
+#EXTINF:-1 tvg-id="" tvg-name="MA: Tele Maroc" tvg-logo="" group-title="ARABIC TV",MA: Tele Maroc
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111136
+#EXTINF:-1 tvg-id="" tvg-name="MA: Canal Atlas" tvg-logo="" group-title="ARABIC TV",MA: Canal Atlas
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111137
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="" group-title="ARABIC TV",MBC 5
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111138
+#EXTINF:-1 tvg-id="" tvg-name="MA: Medi1 Afrique" tvg-logo="" group-title="ARABIC TV",MA: Medi1 Afrique
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111139
+#EXTINF:-1 tvg-id="" tvg-name="NEWS: Al Alam News" tvg-logo="" group-title="ARABIC TV",NEWS: Al Alam News
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111154
+#EXTINF:-1 tvg-id="" tvg-name="News: France 24 Arabic" tvg-logo="" group-title="ARABIC TV",News: France 24 Arabic
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/11445
+#EXTINF:-1 tvg-id="" tvg-name="News: TRT Arabic" tvg-logo="" group-title="ARABIC TV",News: TRT Arabic
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/11448
+#EXTINF:-1 tvg-id="" tvg-name="AR: Gulli Kids HD" tvg-logo="" group-title="ARABIC TV",AR: Gulli Kids HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111163
+#EXTINF:-1 tvg-id="" tvg-name="SUD: Sudan TV" tvg-logo="" group-title="ARABIC TV",SUD: Sudan TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111164
+#EXTINF:-1 tvg-id="" tvg-name="YEM: AL GHAD AL MUSHREQ" tvg-logo="" group-title="ARABIC TV",YEM: AL GHAD AL MUSHREQ
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111168
+#EXTINF:-1 tvg-id="" tvg-name="AR : AL SHARQIYA NEWS " tvg-logo="" group-title="ARABIC TV",AR : AL SHARQIYA NEWS 
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111169
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Masriyah 2" tvg-logo="" group-title="ARABIC TV",EGY: Masriyah 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111170
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Al kahera" tvg-logo="" group-title="ARABIC TV",EGY: Al kahera
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111171
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Nile Culture" tvg-logo="" group-title="ARABIC TV",EGY: Nile Culture
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111173
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Alkahera Wal Alnas" tvg-logo="" group-title="ARABIC TV",EGY: Alkahera Wal Alnas
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111175
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Alkahera Wal Alnas 2" tvg-logo="" group-title="ARABIC TV",EGY: Alkahera Wal Alnas 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111176
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Panorama Food" tvg-logo="" group-title="ARABIC TV",EGY: Panorama Food
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111177
+#EXTINF:-1 tvg-id="" tvg-name="AR : Arabie saoudite " tvg-logo="" group-title="ARABIC TV",AR : Arabie saoudite 
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111178
+#EXTINF:-1 tvg-id="" tvg-name="EGY: On Time Sport 3" tvg-logo="" group-title="ARABIC TV",EGY: On Time Sport 3
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/111180
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Panomra Drama HD" tvg-logo="" group-title="ARABIC TV",EGY: Panomra Drama HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/113001
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Mazzika TV" tvg-logo="" group-title="ARABIC TV",EGY: Mazzika TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115307
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Nogoum FM TV" tvg-logo="" group-title="ARABIC TV",EGY: Nogoum FM TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115308
+#EXTINF:-1 tvg-id="" tvg-name="SY: Al Yaum TV" tvg-logo="" group-title="ARABIC TV",SY: Al Yaum TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115466
+#EXTINF:-1 tvg-id="" tvg-name="SY: Al Alam" tvg-logo="" group-title="ARABIC TV",SY: Al Alam
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115467
+#EXTINF:-1 tvg-id="" tvg-name="SY: Syria TV" tvg-logo="" group-title="ARABIC TV",SY: Syria TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115468
+#EXTINF:-1 tvg-id="" tvg-name="SY: iFilm Arabic" tvg-logo="" group-title="ARABIC TV",SY: iFilm Arabic
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115470
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Spaceton " tvg-logo="" group-title="ARABIC TV",KSA: Spaceton 
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115475
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Al Sahraa TV" tvg-logo="" group-title="ARABIC TV",KSA: Al Sahraa TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115476
+#EXTINF:-1 tvg-id="" tvg-name="KSA: CNBC Arabiya TV" tvg-logo="" group-title="ARABIC TV",KSA: CNBC Arabiya TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115477
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Al Majd Live" tvg-logo="" group-title="ARABIC TV",KSA: Al Majd Live
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115479
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Almajd Quran" tvg-logo="" group-title="ARABIC TV",KSA: Almajd Quran
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115480
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Almajd  Al Hadeeth" tvg-logo="" group-title="ARABIC TV",KSA: Almajd  Al Hadeeth
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115481
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Al Majd Masah" tvg-logo="" group-title="ARABIC TV",KSA: Al Majd Masah
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115484
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Makah TV" tvg-logo="" group-title="ARABIC TV",KSA: Makah TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115487
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Al Araby 2 HD" tvg-logo="" group-title="ARABIC TV",KSA: Al Araby 2 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115569
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Channels HD" tvg-logo="" group-title="ARABIC TV",OSN Disney Channels HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115573
+#EXTINF:-1 tvg-id="" tvg-name="OSN Fine Living" tvg-logo="" group-title="ARABIC TV",OSN Fine Living
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115579
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nick JR" tvg-logo="" group-title="ARABIC TV",OSN Nick JR
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115581
+#EXTINF:-1 tvg-id="" tvg-name="KSA: National Georaphic HD" tvg-logo="" group-title="ARABIC TV",KSA: National Georaphic HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115582
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Dubai Sport 3 HD" tvg-logo="" group-title="ARABIC TV",UAE: Dubai Sport 3 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/116376
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Cartoon Network" tvg-logo="" group-title="ARABIC TV",UAE: Cartoon Network
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/116381
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Fox Life HD" tvg-logo="" group-title="ARABIC TV",UAE: Fox Life HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/116435
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Discovery HD" tvg-logo="" group-title="ARABIC TV",UAE: Discovery HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/116436
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Doc" tvg-logo="" group-title="ARABIC TV",AR: Al Jazeera Doc
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119136
+#EXTINF:-1 tvg-id="" tvg-name="AR: Russia Today" tvg-logo="" group-title="ARABIC TV",AR: Russia Today
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119138
+#EXTINF:-1 tvg-id="" tvg-name="AR: Mody" tvg-logo="" group-title="ARABIC TV",AR: Mody
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119139
+#EXTINF:-1 tvg-id="" tvg-name="AR: Nat Geo Kids " tvg-logo="" group-title="ARABIC TV",AR: Nat Geo Kids 
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119141
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algeria Numidia" tvg-logo="" group-title="ARABIC TV",AR: Algeria Numidia
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119142
+#EXTINF:-1 tvg-id="" tvg-name="AR:Alanis TV" tvg-logo="" group-title="ARABIC TV",AR:Alanis TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119143
+#EXTINF:-1 tvg-id="" tvg-name=" Ar: Algeria N1" tvg-logo="" group-title="ARABIC TV", Ar: Algeria N1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119144
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Elfadjr" tvg-logo="" group-title="ARABIC TV",Ar: Elfadjr
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119145
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Elhayat" tvg-logo="" group-title="ARABIC TV",Ar: Elhayat
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119146
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Watanya 1" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Watanya 1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119147
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Watanya 2" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Watanya 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119148
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Nessma  " tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Nessma  
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119149
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Alzitouna" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Alzitouna
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119150
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Telvza Tv" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Telvza Tv
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119151
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Hann3bal" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Hann3bal
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119152
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Attassi3a" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Attassi3a
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119153
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Aljanoubia" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Aljanoubia
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119154
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Alinsan" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Alinsan
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119155
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Almustakila" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Almustakila
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119156
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tunisie Alqanat 9" tvg-logo="" group-title="ARABIC TV",Ar: Tunisie Alqanat 9
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119157
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Aflam1" tvg-logo="" group-title="ARABIC TV",Ar: art Aflam1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119158
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Aflam2" tvg-logo="" group-title="ARABIC TV",Ar: art Aflam2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119159
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Cinema" tvg-logo="" group-title="ARABIC TV",Ar: art Cinema
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119160
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Hekayat" tvg-logo="" group-title="ARABIC TV",Ar: art Hekayat
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119161
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Clip" tvg-logo="" group-title="ARABIC TV",Ar: Rotana Clip
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119162
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Aflam" tvg-logo="" group-title="ARABIC TV",Ar: Rotana Aflam
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119163
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Ldc" tvg-logo="" group-title="ARABIC TV",Ar: lebanon.Ldc
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119164
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Lbc" tvg-logo="" group-title="ARABIC TV",Ar: lebanon.Lbc
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119165
+#EXTINF:-1 tvg-id="" tvg-name="LB: NBN HD" tvg-logo="" group-title="ARABIC TV",LB: NBN HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119167
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Mayadeen" tvg-logo="" group-title="ARABIC TV",LB: Al Mayadeen
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119171
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Cbc" tvg-logo="" group-title="ARABIC TV",Ar: Cbc
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119172
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Cbc Extra" tvg-logo="" group-title="ARABIC TV",Ar: Cbc Extra
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119173
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Alnahar" tvg-logo="" group-title="ARABIC TV",Ar: Alnahar
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119174
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Alnahar Drama" tvg-logo="" group-title="ARABIC TV",Ar: Alnahar Drama
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119175
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Alhayah 2" tvg-logo="" group-title="ARABIC TV",Ar: Alhayah 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119176
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Egy Ch1" tvg-logo="" group-title="ARABIC TV",Ar: Egy Ch1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119177
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Egy Ch 2" tvg-logo="" group-title="ARABIC TV",Ar: Egy Ch 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119178
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Egy Alkahera" tvg-logo="" group-title="ARABIC TV",Ar: Egy Alkahera
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119180
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Egy Aleskandria" tvg-logo="" group-title="ARABIC TV",Ar: Egy Aleskandria
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119181
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Nile Cinma" tvg-logo="" group-title="ARABIC TV",Ar: Nile Cinma
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119182
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Alahly" tvg-logo="" group-title="ARABIC TV",Ar: Alahly
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119183
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Darbaka Action" tvg-logo="" group-title="ARABIC TV",Ar: Darbaka Action
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119184
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Cinema1" tvg-logo="" group-title="ARABIC TV",Ar: Cinema1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119185
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Sada elbalad" tvg-logo="" group-title="ARABIC TV",Ar: Sada elbalad
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119186
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Sada Drama" tvg-logo="" group-title="ARABIC TV",Ar: Sada Drama
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119187
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Alkahera Wa Alnas" tvg-logo="" group-title="ARABIC TV",Ar: Alkahera Wa Alnas
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119188
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Alkahera Wa Alnas 2" tvg-logo="" group-title="ARABIC TV",Ar: Alkahera Wa Alnas 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119189
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Panorama Film" tvg-logo="" group-title="ARABIC TV",Ar: Panorama Film
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119190
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Panorama Drama" tvg-logo="" group-title="ARABIC TV",Ar: Panorama Drama
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119191
+#EXTINF:-1 tvg-id="" tvg-name="Ar: TokTok Aflam" tvg-logo="" group-title="ARABIC TV",Ar: TokTok Aflam
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119192
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Cima Alibaba" tvg-logo="" group-title="ARABIC TV",Ar: Cima Alibaba
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119193
+#EXTINF:-1 tvg-id="" tvg-name="Ar: AlBaitBaitak Cinema" tvg-logo="" group-title="ARABIC TV",Ar: AlBaitBaitak Cinema
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119194
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya Jamahiria" tvg-logo="" group-title="ARABIC TV",Ar: Libya Jamahiria
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119195
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya 218" tvg-logo="" group-title="ARABIC TV",Ar: Libya 218
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119196
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya Sport 2 HD" tvg-logo="" group-title="ARABIC TV",Ar: Libya Sport 2 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119197
+#EXTINF:-1 tvg-id="" tvg-name="Ar: AD National Geographic" tvg-logo="" group-title="ARABIC TV",Ar: AD National Geographic
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119198
+#EXTINF:-1 tvg-id="" tvg-name="BH: Bahrain HD" tvg-logo="" group-title="ARABIC TV",BH: Bahrain HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119240
+#EXTINF:-1 tvg-id="" tvg-name="BH: Bahrain International HD" tvg-logo="" group-title="ARABIC TV",BH: Bahrain International HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119241
+#EXTINF:-1 tvg-id="" tvg-name="BH: Bahrain Sport 1 HD" tvg-logo="" group-title="ARABIC TV",BH: Bahrain Sport 1 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119242
+#EXTINF:-1 tvg-id="" tvg-name="BH: Bahrain Sport 2 HD" tvg-logo="" group-title="ARABIC TV",BH: Bahrain Sport 2 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119243
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Al Sharq TV" tvg-logo="" group-title="ARABIC TV",EGY: Al Sharq TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119246
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Al Fath TV" tvg-logo="" group-title="ARABIC TV",EGY: Al Fath TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119247
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Watan TV" tvg-logo="" group-title="ARABIC TV",EGY: Watan TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/44410
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Sabah " tvg-logo="" group-title="ARABIC TV",KW: Al Sabah 
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119250
+#EXTINF:-1 tvg-id="" tvg-name="KW: ATV Kuwait" tvg-logo="" group-title="ARABIC TV",KW: ATV Kuwait
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119251
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Funoon TV" tvg-logo="" group-title="ARABIC TV",KW: Al Funoon TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119252
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Rai TV" tvg-logo="" group-title="ARABIC TV",KW: Al Rai TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119253
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Shahed TV" tvg-logo="" group-title="ARABIC TV",KW: Al Shahed TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119254
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Bawadi TV" tvg-logo="" group-title="ARABIC TV",KW: Al Bawadi TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119255
+#EXTINF:-1 tvg-id="" tvg-name="LB: MTV Lebanon HD" tvg-logo="" group-title="ARABIC TV",LB: MTV Lebanon HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119282
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Sharjah TV" tvg-logo="" group-title="ARABIC TV",UAE: Sharjah TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119283
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA CINEMA" tvg-logo="" group-title="ARABIC TV",OSN YAHALA CINEMA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119284
+#EXTINF:-1 tvg-id="" tvg-name="SY: Halab Today" tvg-logo="" group-title="ARABIC TV",SY: Halab Today
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119285
+#EXTINF:-1 tvg-id="" tvg-name="YE: Yemen Shabab" tvg-logo="" group-title="ARABIC TV",YE: Yemen Shabab
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119287
+#EXTINF:-1 tvg-id="" tvg-name="MA: M24 TV" tvg-logo="" group-title="ARABIC TV",MA: M24 TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119288
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Fajer 2" tvg-logo="" group-title="ARABIC TV",PS: Al Fajer 2
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119289
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Al Ekhbariya HD" tvg-logo="" group-title="ARABIC TV",KSA: Al Ekhbariya HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119298
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Iqra Europe" tvg-logo="" group-title="ARABIC TV",KSA: Iqra Europe
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119301
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Al Khalij HD" tvg-logo="" group-title="ARABIC TV",KSA: Al Khalij HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119302
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Thikrayat HD" tvg-logo="" group-title="ARABIC TV",KSA: Thikrayat HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119303
+#EXTINF:-1 tvg-id="" tvg-name="QA: Qatar HD" tvg-logo="" group-title="ARABIC TV",QA: Qatar HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119305
+#EXTINF:-1 tvg-id="" tvg-name="QA: Qatar TV2 HD" tvg-logo="" group-title="ARABIC TV",QA: Qatar TV2 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119306
+#EXTINF:-1 tvg-id="" tvg-name="QA: Al Rayyan HD" tvg-logo="" group-title="ARABIC TV",QA: Al Rayyan HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119307
+#EXTINF:-1 tvg-id="" tvg-name="QA: Al Rayyan 2 HD" tvg-logo="" group-title="ARABIC TV",QA: Al Rayyan 2 HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119308
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Yas TV" tvg-logo="" group-title="ARABIC TV",UAE: Yas TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119310
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Al wousta TV" tvg-logo="" group-title="ARABIC TV",UAE: Al wousta TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119311
+#EXTINF:-1 tvg-id="" tvg-name="YE: Yemen TV" tvg-logo="" group-title="ARABIC TV",YE: Yemen TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119312
+#EXTINF:-1 tvg-id="" tvg-name="YE: Yemen Today" tvg-logo="" group-title="ARABIC TV",YE: Yemen Today
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119313
+#EXTINF:-1 tvg-id="" tvg-name="YE: Al Masirah TV" tvg-logo="" group-title="ARABIC TV",YE: Al Masirah TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119315
+#EXTINF:-1 tvg-id="" tvg-name="YE: TV Aden" tvg-logo="" group-title="ARABIC TV",YE: TV Aden
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119316
+#EXTINF:-1 tvg-id="" tvg-name="YE: Qod Al Mashrq" tvg-logo="" group-title="ARABIC TV",YE: Qod Al Mashrq
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119317
+#EXTINF:-1 tvg-id="" tvg-name="YE: Hadarmount TV" tvg-logo="" group-title="ARABIC TV",YE: Hadarmount TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119318
+#EXTINF:-1 tvg-id="" tvg-name="YE: Al Mahriah" tvg-logo="" group-title="ARABIC TV",YE: Al Mahriah
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119319
+#EXTINF:-1 tvg-id="" tvg-name="JOR: Atfal HD" tvg-logo="" group-title="ARABIC TV",JOR: Atfal HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119321
+#EXTINF:-1 tvg-id="" tvg-name="JOR: Al Haqeqa" tvg-logo="" group-title="ARABIC TV",JOR: Al Haqeqa
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119322
+#EXTINF:-1 tvg-id="" tvg-name="SY: Syria Mahaliya" tvg-logo="" group-title="ARABIC TV",SY: Syria Mahaliya
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119323
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA AL OULA" tvg-logo="" group-title="ARABIC TV",AR: SYRIA AL OULA
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119324
+#EXTINF:-1 tvg-id="" tvg-name="SY: Al Doniya" tvg-logo="" group-title="ARABIC TV",SY: Al Doniya
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119325
+#EXTINF:-1 tvg-id="" tvg-name="SY: Al Qanat 9" tvg-logo="" group-title="ARABIC TV",SY: Al Qanat 9
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119326
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Rajeein TV" tvg-logo="" group-title="ARABIC TV",PS: Al Rajeein TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119327
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Al Yaoum" tvg-logo="" group-title="ARABIC TV",PS: Palestine Al Yaoum
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119328
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Qods Today" tvg-logo="" group-title="ARABIC TV",PS: Al Qods Today
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119329
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Fajer TV" tvg-logo="" group-title="ARABIC TV",PS: Al Fajer TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119330
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine News" tvg-logo="" group-title="ARABIC TV",PS: Palestine News
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119331
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Najah" tvg-logo="" group-title="ARABIC TV",PS: Al Najah
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119332
+#EXTINF:-1 tvg-id="" tvg-name="PS: Audeh TV" tvg-logo="" group-title="ARABIC TV",PS: Audeh TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119333
+#EXTINF:-1 tvg-id="" tvg-name="PS: Musawa HD" tvg-logo="" group-title="ARABIC TV",PS: Musawa HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119334
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Hurriya" tvg-logo="" group-title="ARABIC TV",PS: Palestine Hurriya
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119335
+#EXTINF:-1 tvg-id="" tvg-name="PS: Orinet Sport" tvg-logo="" group-title="ARABIC TV",PS: Orinet Sport
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119336
+#EXTINF:-1 tvg-id="" tvg-name="PS: Watan TV" tvg-logo="" group-title="ARABIC TV",PS: Watan TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119337
+#EXTINF:-1 tvg-id="" tvg-name="SUD: Blue Nile" tvg-logo="" group-title="ARABIC TV",SUD: Blue Nile
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119338
+#EXTINF:-1 tvg-id="" tvg-name="SUD: Africa TV1" tvg-logo="" group-title="ARABIC TV",SUD: Africa TV1
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119339
+#EXTINF:-1 tvg-id="" tvg-name="TN: Al Insen" tvg-logo="" group-title="ARABIC TV",TN: Al Insen
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119340
+#EXTINF:-1 tvg-id="" tvg-name="TN: Tunisie Immobilier" tvg-logo="" group-title="ARABIC TV",TN: Tunisie Immobilier
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119341
+#EXTINF:-1 tvg-id="" tvg-name="TN: Al Sahel TV" tvg-logo="" group-title="ARABIC TV",TN: Al Sahel TV
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119342
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Alaan HD" tvg-logo="" group-title="ARABIC TV",EGY: Alaan HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119601
+#EXTINF:-1 tvg-id="" tvg-name="LIB: Libya Al Mustaqbal HD" tvg-logo="" group-title="ARABIC TV",LIB: Libya Al Mustaqbal HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119603
+#EXTINF:-1 tvg-id="" tvg-name="UAE:  Wousta From AL DHAID HD" tvg-logo="" group-title="ARABIC TV",UAE:  Wousta From AL DHAID HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119604
+#EXTINF:-1 tvg-id="" tvg-name="UAE: : Sharqiya From KALBA HD" tvg-logo="" group-title="ARABIC TV",UAE: : Sharqiya From KALBA HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119605
+#EXTINF:-1 tvg-id="" tvg-name="KW: Kuwait Al Arabi" tvg-logo="" group-title="ARABIC TV",KW: Kuwait Al Arabi
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119606
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Fujairah HD" tvg-logo="" group-title="ARABIC TV",UAE: Fujairah HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119607
+#EXTINF:-1 tvg-id="" tvg-name="UAE: Baynounah HD" tvg-logo="" group-title="ARABIC TV",UAE: Baynounah HD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/119608
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 FHD" tvg-logo="" group-title="ARABIC TV",beIN SPORTS Premium 3 FHD
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/101930
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series Showcase" tvg-logo="" group-title="ARABIC TV",OSN Series Showcase
+http://line.365tv.xyz:8060/ubQaqZrX2r/DDKEmfjrmRUYR6R/115571
