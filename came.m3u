@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,LA - AIRPORT
+#EXTINF:-1 tvg-id="" tvg-name="LA - AIRPORT
 https://s53.ipcamlive.com/streams/35xst5tpxzyejaehl/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Huntington Beach
 https://cdn3.wowza.com/5/K3dBUjdpN2ZvQWU0/California/huntingtonpiersouth.stream/playlist.m3u8
