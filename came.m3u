@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Fresno
-https://www.youtube.com/embed/mVxDTetC6is
-#EXTINF:-1 tvg-id="" tvg-name="Venice Beach
-https://www.youtube.com/watch?v=vvOjJoSEFM0
-#EXTINF:-1 tvg-id="" tvg-name="Bear Mountain2
-https://www.youtube.com/watch?v=SOo3NBmvJQI
-#EXTINF:-1 tvg-id="" tvg-name="Bear Mountain
-https://www.youtube.com/watch?v=7MD6q6x3LQE
 #EXTINF:-1 tvg-id="" tvg-name="Huntington Beach
 https://cdn3.wowza.com/5/K3dBUjdpN2ZvQWU0/California/huntingtonpiersouth.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Salt Creek Beach
 https://cdn3.wowza.com/5/Y0ZqN2k4VHlIUEZk/California/saltcreek.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cayucos Beach
-https://www.youtube.com/watch?v=iITzynBE3OY
 #EXTINF:-1 tvg-id="" tvg-name="TORRANCE BEACH
 https://live.hdontap.com/hls/hosb1/torrance_swellmagnet.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los Angeles Beach
