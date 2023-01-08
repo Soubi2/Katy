@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="sweden2
+http://94.246.76.230:8080/cam_1.cgi
 #EXTINF:-1 tvg-id="" tvg-name="Sweden
 http://194.68.122.244:86/mjpg/video.mjpg?camera=1
 #EXTINF:-1 tvg-id="" tvg-name="los angelessss
