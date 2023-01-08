@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Sweden
+http://194.68.122.244:86/mjpg/video.mjpg?camera=1
 #EXTINF:-1 tvg-id="" tvg-name="los angelessss
 http://166.211.15.157/mjpg/video.mjpg?camera=1
 #EXTINF:-1 tvg-id="" tvg-name="near Hollywood
