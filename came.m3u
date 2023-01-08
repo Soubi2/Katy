@@ -1,50 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="sweden2
-http://94.246.76.230:8080/cam_1.cgi
-#EXTINF:-1 tvg-id="" tvg-name="Sweden
-http://194.68.122.244:86/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="los angelessss
-http://166.211.15.157/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="near Hollywood
-http://50.193.253.108/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="Daulphin island
-http://216.109.15.125/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="half moon bay
-http://samcam.samschowderhouse.com:8334/axis-cgi/mjpg/video.cgi?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="San Jose
-http://50.248.63.9:86/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="LouisVille
-http://74.142.49.38:8001/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="Denver
-http://donitas.viewnetcam.com:5003/nphMotionJpeg?Resolution=320x240&Quality=Standard
 #EXTINF:-1 tvg-id="" tvg-name="Panda
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="San Diego
 http://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/Playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="doylestown
-http://166.130.18.45:1024/mjpg/video.mjpg
-#EXTINF:-1 tvg-id="" tvg-name="west newton
-http://50.199.221.39/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="Chicago
-http://50.194.64.65/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="panama
-http://24.96.226.37/mjpg/video.mjpg?camera=1
 #EXTINF:-1 tvg-id="" tvg-name="ocean city
 http://livestream.fullcityservers.com:8081/fishtales.live/fishtales.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="weeki wachee
-http://24.73.162.82/mjpg/video.mjpg?resolution=1280x720
-#EXTINF:-1 tvg-id="" tvg-name="orlando
-http://71.41.75.170/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="boston
-http://173.166.10.122/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="ST Petersburg
-http://97.76.81.99/mjpg/video.mjpg?resolution=1280x720
-#EXTINF:-1 tvg-id="" tvg-name="valley city
-http://64.77.205.67/mjpg/video.mjpg?camera=1
-#EXTINF:-1 tvg-id="" tvg-name="Charlotte
-http://70.63.123.20/mjpg/video.mjpg
-#EXTINF:-1 tvg-id="" tvg-name="valle vista
-http://173.198.10.174/mjpg/video.mjpg?camera=1
 #EXTINF:-1 tvg-id="" tvg-name="HotelNorth
 https://cams.lvonline.com/live/ngrp:LasVesgasNetHotelNorthCamSouth.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Orleans
