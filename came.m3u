@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" type="image/jpeg" tvg-name="los angelessss
+#EXTINF:-1 tvg-id="" type="image" tvg-name="los angelessss
 http://166.211.15.157/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="Panda
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
