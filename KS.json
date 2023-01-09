@@ -204,6 +204,13 @@
 },
  {
 "id": "1",
+"label": "4XXL",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/x4.m3u",
+"type": "1",
+"logo_url": ""
+}, 
+ {
+"id": "1",
 "label": "XXX",
 "url": "https://raw.githubusercontent.com/Soubi2/soubi/master/vod.m3u",
 "type": "1",
