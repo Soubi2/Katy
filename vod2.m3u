@@ -1,6 +1,8 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="أفلام لبنانية
 http://iptv.icsnleb.com:25461/12/12/37
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA MUSIC HD"
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3921.ts
 #EXTINF:-1 tvg-id="" tvg-name="مسلسلات عربية
 http://iptv.icsnleb.com:25461/12/12/49
 #EXTINF:-1 tvg-id="" tvg-name="أفلام مترجمة
