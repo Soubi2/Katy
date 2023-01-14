@@ -15,7 +15,7 @@ http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1312
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1313
 #EXTINF:-1 tvg-id="" tvg-name="ANB +6H" tvg-logo="" group-title="Default",AR: ANB +6H
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1314
-#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON 4K +6H" tvg-logo="" group-title="Default",AR: MTV LEBANON 4K +6H
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON 4K +6H" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/5/54/Murr_television_mtv_lebanon.jpg/220px-Murr_television_mtv_lebanon.jpg" group-title="Default",AR: MTV LEBANON 4K +6H
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1315
 #EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON 4K +6H" tvg-logo="" group-title="Default",AR: TELE LEBANON 4K +6H
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1316
@@ -23,7 +23,7 @@ http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1316
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1317
 #EXTINF:-1 tvg-id="" tvg-name="Aljadeed 4K" tvg-logo="" group-title="Arabic ",AR: Aljadeed 4K
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/153
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon HD" tvg-logo="" group-title="Arabic ",AR: MTV Lebanon HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/5/54/Murr_television_mtv_lebanon.jpg/220px-Murr_television_mtv_lebanon.jpg" group-title="Arabic ",AR: MTV Lebanon HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/157
 #EXTINF:-1 tvg-id="" tvg-name="AR: AL MANAR" tvg-logo="" group-title="Arabic ",AR: AL MANAR
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/159
@@ -91,7 +91,7 @@ http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6447.ts
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/6448.ts
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA CLASSIC HD" tvg-logo="" group-title="ARABIC HD",ROTANA CLASSIC HD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3878.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HD" tvg-logo="" group-title="ARABIC HD",MTV LEBANON HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/5/54/Murr_television_mtv_lebanon.jpg/220px-Murr_television_mtv_lebanon.jpg" group-title="ARABIC HD",MTV LEBANON HD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3880.ts
 #EXTINF:-1 tvg-id="" tvg-name="JORDAN AMMAN HD" tvg-logo="" group-title="ARABIC HD",JORDAN AMMAN HD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/3881.ts
@@ -123,7 +123,7 @@ http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/617.ts
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/619.ts
 #EXTINF:-1 tvg-id="" tvg-name="LBN | MAYDEEN" tvg-logo="" group-title="LEBANON",LBN | MAYDEEN
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/620.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://logo.ddnb.tn/logochanel/9032.png" group-title="LEBANON",LBN | MTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/5/54/Murr_television_mtv_lebanon.jpg/220px-Murr_television_mtv_lebanon.jpg" group-title="LEBANON",LBN | MTV HD
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/621.ts
 #EXTINF:-1 tvg-id="" tvg-name="LBN | NBN" tvg-logo="http://logo.ddnb.tn/logochanel/9037.png" group-title="LEBANON",LBN | NBN
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/622.ts
@@ -147,7 +147,7 @@ http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10291.ts
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10292.ts
 #EXTINF:-1 tvg-id="" tvg-name="LEB | HAWACOM 4K" tvg-logo="" group-title="ARABIC 4K",LEB | HAWACOM 4K
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10293.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV 4K" tvg-logo="" group-title="ARABIC 4K",LEB | MTV 4K
+#EXTINF:-1 tvg-id="" tvg-name="MTV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/5/54/Murr_television_mtv_lebanon.jpg/220px-Murr_television_mtv_lebanon.jpg" group-title="ARABIC 4K",LEB | MTV 4K
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10294.ts
 #EXTINF:-1 tvg-id="" tvg-name="LEB | OTV 4K" tvg-logo="" group-title="ARABIC 4K",LEB | OTV 4K
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10295.ts
