@@ -1057,14 +1057,14 @@
 
 <item>
 <title>CamLive</title>
-<AdultLink>https://cams.xvideos.com/live/girls/</AdultLink>
+<AdultLink>https://cams.xvideos.com/live/girls</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
 
 <item>
 <title>CamLiveTest</title>
-<AdultLink>https://chaturbate.com/misscharlotte1/</AdultLink>
+<AdultLink>https://chaturbate.com/?g=f</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
