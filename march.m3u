@@ -33,6 +33,26 @@ http://uniontvs.com:8080/a7med7asan777/a7medhasan244/304999
 http://uniontvs.com:8080/a7med7asan777/a7medhasan244/305000
 #EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed 4K" tvg-logo="https://1b1hbl4cfc9w137qvr3zlgvk-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/theempire_AlJaheed_TV_Lebanon.png" group-title="Lebanon | لبنان",LB: Al Jadeed 4K
 http://uniontvs.com:8080/a7med7asan777/a7medhasan244/57827
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/186.png" group-title="Lebanon",OTV
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/450
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/163.png" group-title="Lebanon",MTV Lebanon HD
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/451
+#EXTINF:-1 tvg-id="" tvg-name="Future TV" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/705.png" group-title="Lebanon",Future TV
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/668
+#EXTINF:-1 tvg-id="" tvg-name="Tele Lebanon" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/482.png" group-title="Lebanon",Tele Lebanon
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/669
+#EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="http://neotv.gq:2052/images/33e75ff09dd601bbe69f351039152189.png" group-title="Lebanon",LBC HD
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/503
+#EXTINF:-1 tvg-id="" tvg-name="LBC International HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/28.png" group-title="Lebanon",LBC International HD
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/15673
+#EXTINF:-1 tvg-id="" tvg-name="Al Mayadeen TV" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/132.png" group-title="Lebanon",Al Mayadeen TV
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/449
+#EXTINF:-1 tvg-id="" tvg-name="Al Jadeed TV HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/785.png" group-title="Lebanon",Al Jadeed TV HD
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/667
+#EXTINF:-1 tvg-id="" tvg-name="Al Manar" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/58.png" group-title="Lebanon",Al Manar
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/1140
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/178.png" group-title="Lebanon",NBN
+http://etv.nikala.se:1996/102030405060708090/102030405060708090/96423
 #EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON5" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/5/54/Murr_television_mtv_lebanon.jpg/220px-Murr_television_mtv_lebanon.jpg" group-title="Default",AR: MTV LEBANON5
 http://pablotv.live:8880/Ammar99/123456/37087
 #EXTINF:-1 tvg-id="" tvg-name="ALJADEED 4K +6H" tvg-logo="" group-title="Default",AR: ALJADEED 4K +6H
