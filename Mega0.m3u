@@ -1,4 +1,28 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AR_beINSPORTS_NewsHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/51/Bein_sport_logo.svg" group-title="BEINSPORTS",AR_beINSPORTS_NewsHD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/323.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR_beINSPORTS-Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="BEINSPORTS",AR_beINSPORTS-Global
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/1267.ts
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORT1 PremiumFHD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd1.png" group-title="BEINSPORTS",beINSPORT1 PremiumFHD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/92.ts
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORT1 Premium SD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd1.png" group-title="BEINSPORTS",beINSPORT1 Premium SD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/8034.ts
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORT2 PremiumFHD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd2.png" group-title="BEINSPORTS",beINSPORT2 PremiumFHD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/93.ts
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORT2 Premium SD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd2.png" group-title="BEINSPORTS",beINSPORT2 Premium SD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/788.ts
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORT3 PremiumFHD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd3.png" group-title="BEINSPORTS",beINSPORT3 PremiumFHD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/94.ts
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORT3 Premium SD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd3.png" group-title="BEINSPORTS",beINSPORT3 Premium SD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/789.ts
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORT1FHD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd4.png" group-title="BEINSPORTS",beINSPORT1FHD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/95.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport 1SD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd4.png" group-title="BEINSPORTS",BeinSport 1SD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/790.ts
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORT 2FHD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd5.png" group-title="BEINSPORTS",beINSPORT 2FHD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport 2SD" tvg-logo="http://Ott-pro.tn:6262/logos/beinsportshd5.png" group-title="BEINSPORTS",BeinSport 2SD
+http://ottprotv.com:80/live/X582231298216492/X582231298216492/791.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN XTRA 2 HD" tvg-logo="https://lo1.in/mega/BS/BSXTRA2.png" group-title="ARABIAN",AR: BEIN XTRA 2 HD
 http://ip.xtremetv.eu:8000/BSHARAISMYBROANDIGIVEHIMBEIN/tb2nywtxAV/70863
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN MAX 1 HD" tvg-logo="https://lo1.in/mega/BS/BS1max.png" group-title="ARABIAN",AR: BEIN MAX 1 HD
