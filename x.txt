@@ -910,6 +910,20 @@
 </item>
 
 <item>
+<title>Chatting</title>
+<AdultLink>https://www.xvideos.com/?k=chat&p=0</AdultLink>
+<thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
+<type>adultscraper</type>
+</item>
+
+<item>
+<title>Chat</title>
+<AdultLink>https://www.xvideos.com/?k=chatting&p=0</AdultLink>
+<thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
+<type>adultscraper</type>
+</item>
+
+<item>
 <title>Snapchat</title>
 <AdultLink>https://www.xvideos.com/?k=snapchat&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
