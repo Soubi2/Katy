@@ -11,7 +11,6 @@
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
-<item>
 
 <item>
 <title>WhatsApp</title>
@@ -27,7 +26,6 @@
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
-<item>
 
 <item>
 <title>VideoCall</title>
@@ -35,7 +33,6 @@
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
-<item>
 
 <item>
 <title>SnapChat</title>
@@ -43,7 +40,6 @@
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
-<item>
 
 <item>
 <title>BANGBROS</title>
@@ -51,32 +47,36 @@
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
-<item>
 
+<item>
 <title>SpyCam</title>
 <AdultLink>https://www.xvideos.com/?k=spycam&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
 
+<item>
 <title>WebCam</title>
 <AdultLink>https://www.xvideos.com/?k=webcam&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
 
+<item>
 <title>HiddenCam</title>
 <AdultLink>https://www.xvideos.com/?k=hidden%20camera&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
 
+<item>
 <title>PornStar</title>
 <AdultLink>https://www.xvideos.com/?k=porn+star&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
 
+<item>
 <title>69 Position</title>
 <AdultLink>https://www.xvideos.com/?k=69&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
@@ -912,7 +912,6 @@
 <type>adultscraper</type>
 </item>
 
-
 <item>
 <title>Sister and stranger</title>
 <AdultLink>https://www.xvideos.com/?k=sister+and+brother&p=0</AdultLink>
@@ -1103,8 +1102,8 @@
 </item>
 
 <item>
-<title>Amateur</title>
-<AdultLink>https://www.xvideos.com/?k=real+amateur&p=0</AdultLink>
+<title>SecretVideo</title>
+<AdultLink>https://www.xvideos.com/?k=secret+video&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
