@@ -1,4 +1,4 @@
-﻿<item>
+<item>
 <title>Amateur</title>
 <AdultLink>https://www.xvideos.com/?k=real+amateur&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
@@ -8,6 +8,14 @@
 <item>
 <title>American</title>
 <AdultLink>https://www.xvideos.com/?k=american&p=0</AdultLink>
+<thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
+<type>adultscraper</type>
+</item>
+<item>
+
+<item>
+<title>BANGBROS</title>
+<AdultLink>https://www.xvideos.com/?k=BANGBROS&p=0</AdultLink>
 <thumbnail>https://i4apps.co.uk/Files/Android/livelounge/api2019/logos/adult_logo.png</thumbnail>
 <type>adultscraper</type>
 </item>
