@@ -4,6 +4,32 @@ http://ourtv.live:8080/movie/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8Ss
 #EXTINF:-1 tvg-id="" tvg-name="1982.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rL1SDucFg2Pg5OlHLyy8pmmw5zb.jpg" group-title="AR /Arabic Movies 2021",1982.2021
 http://ourtv.live:8080/movie/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/3504.mp4
 #EXTINF:-1 tvg-id="" tvg-name="|LB| Al Mayadeen" tvg-logo="" group-title="AR : Arabic",|LB| Al Mayadeen
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14179
+#EXTINF:-1 tvg-id="" tvg-name="|LB| AL Manar TV" tvg-logo="" group-title="AR : Arabic",|LB| AL Manar TV
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14180
+#EXTINF:-1 tvg-id="" tvg-name="|LB| NBN Lebanon 4K+" tvg-logo="" group-title="AR : Arabic",|LB| NBN Lebanon 4K+
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14181
+#EXTINF:-1 tvg-id="" tvg-name="|LB| MTV Lebanon" tvg-logo="" group-title="AR : Arabic",|LB| MTV Lebanon
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14182
+#EXTINF:-1 tvg-id="" tvg-name="|LB| Future TV" tvg-logo="" group-title="AR : Arabic",|LB| Future TV
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14183
+#EXTINF:-1 tvg-id="" tvg-name="|LB| OTV Lebanon" tvg-logo="" group-title="AR : Arabic",|LB| OTV Lebanon
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14184
+#EXTINF:-1 tvg-id="" tvg-name="|LB| Al Jadeed" tvg-logo="" group-title="AR : Arabic",|LB| Al Jadeed
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14185
+#EXTINF:-1 tvg-id="" tvg-name="|LB| Arabica" tvg-logo="" group-title="AR : Arabic",|LB| Arabica
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14186
+#EXTINF:-1 tvg-id="" tvg-name="|LB| Lana TV" tvg-logo="" group-title="AR : Arabic",|LB| Lana TV
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14187
+#EXTINF:-1 tvg-id="" tvg-name="|LB| Al Sharq" tvg-logo="" group-title="AR : Arabic",|LB| Al Sharq
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14189
+#EXTINF:-1 tvg-id="" tvg-name="|LB| Aghani Aghani TV" tvg-logo="" group-title="AR : Arabic",|LB| Aghani Aghani TV
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14190
+#EXTINF:-1 tvg-id="" tvg-name="|LB| TV Alittihad" tvg-logo="" group-title="AR : Arabic",|LB| TV Alittihad
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14191
+#EXTINF:-1 tvg-id="" tvg-name="|LB| LBC International" tvg-logo="" group-title="AR : Arabic",|LB| LBC International
+http://62.182.83.91:80/tayyar/BCapQS7k7C23/14192
+#EXTINF:-1 tvg-id="" tvg-name="|LB| Al Mayadeen" tvg-logo="" group-title="AR : Arabic",|LB| Al Mayadeen
 http://62.182.83.91:80/Localhd/yET7efxd05/14179
 #EXTINF:-1 tvg-id="" tvg-name="|LB| AL Manar TV" tvg-logo="" group-title="AR : Arabic",|LB| AL Manar TV
 http://62.182.83.91:80/Localhd/yET7efxd05/14180
