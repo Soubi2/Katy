@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Kbir
-https://nm.allviids.xyz:81/hls/zagyhf5zm54ftzu2nq6q4ii7orczol2hkvc3vngavs6azehzkzlu6tymqaka/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bel 7alel
-https://nb.allviids.xyz:81/hls/zagybmfzm54ftzu2nq6q4pkamxbsxyi7e6p3ogp67lpou6uonhqig5gezyeq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madina
-https://kek.allviids.xyz:82/hls/zagygqfzm54ftzu2nq6q4paueqa7qnanzgxijrelbmvlcw6ccbpyf3ll54sa/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="caramel
-https://aq.allviids.xyz:81/hls/zagyak4hmr4ftzu2nqgq4oium576hozjt3yx7t7quxbo6sqiwvwbvlmyrjiq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ghadi
-https://sa.allviids.xyz:81/hls/zagygjvbm54ftzu2nq5q4osfoagndjkr6alcxiv5s5lwezzslzt43rkc22qq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ma7bas
-https://bv.allviids.xyz:81/hls/zagyhdlmm54ftzu2nq7q4kkin3px5ijjpao3tftalg7gue6ieqzg4unh6o4a/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sma3e
-https://eue.allviids.xyz:82/hls/zagyaoxlmr4ftzu2nqfa4pauogcfcn3ddaoesckm2iy26b27izn3w64wnrbq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Loulou
-https://nee.allviids.xyz:82/hls/zagyak5bm54ftzu2nq5q4pyhp2f6uhdfk46ivqs6vrjjlcf5icdelyd75zaq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ba7er
-https://aq.allviids.xyz:81/hls/zagyhwhxmv4ftzu2nqpq4oqse2atzemxpgnpheq662kk4yhuhe2wfcany46q/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kezbe bayda
-https://nb.allviids.xyz:81/hls/zagya236m54ftzu2nq7a4i2cop24j7rft5jmxkiycg4hmcmyjhsskptmuvcq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kfarhanoum
-https://vx.allviids.xyz:81/hls/zagyasbsmj4ftzu2nqna46yzpc5iurl2q6s6zb43zzliagpbfvex4r7n7oca/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="rsasa
-https://we.allviids.xyz:81/hls/zagyaeygmr4ftzu2nqzq4iyepghcq3ooweiach3hc,oxoetphrhz2o43xafta,guogtphrhzy7z2arlfa,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telet
-https://nee.allviids.xyz:82/hls/zagybqtem54ftzu2nq7q4iytoaadsjmjvz3h2qpzdlbmkdukxpxtbfednq6q/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hala la weyn
-https://ed.allviids.xyz:81/hls/zagyarwhm54ftzu2nq2a4jqzns2apifdeomcuyxxmuo5cv5nlduat7ykreyq/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aabelkoun
-https://bi.allviids.xyz:81/hls/,zagyaitfm54ftzu2nq7q46qxehedzbzh5rrcklsyu3nd7rei43aaqrxkdzsq,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Asfouri
-https://aq.allviids.xyz:81/hls/zagygwmjm54ftzu2nq4a4icjn2f25azfnbwhrbtl76yhiepafjpk5fxclwyq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vitamin "tvg-logo="https://image.tmdb.org/t/p/original/adQJIM9zCBm8KSiVWQ4tH1Jvs1o.jpg"group-title="VOD ARAB", Vitamin 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222336.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zigzag 
@@ -43,8 +11,6 @@ http://iptv.icsnleb.com:25461/movie/12/12/149.mp4
 http://iptv.icsnleb.com:25461/movie/12/12/179.mp4
 #EXTINF:-1 tvg-id="" tvg-name="West Beirut - 1998
 http://iptv.icsnleb.com:25461/movie/12/12/185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Costa Brava
-https://nei.allviids.xyz:82/hls/zagyg3r3mv4ftzu2nqeq4pqjmsxfwv3m4vi7y5vogmcv5yal2ua67u36ohwq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Out of Life - 1991
 http://iptv.icsnleb.com:25461/movie/12/12/178.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zozo - 2005
@@ -61,8 +27,6 @@ http://iptv.icsnleb.com:25461/movie/12/12/182.mp4
 http://iptv.icsnleb.com:25461/movie/12/12/176.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bint El-Hares - 1967
 http://iptv.icsnleb.com:25461/movie/12/12/177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Welcome - 2012
-https://bv.allviids.xyz:81/hls/zagygp3fm54ftzu2nq7q4lybn5mmfkm6bqc36qpndcvmxqzmpwra5dbzr3eq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beirut Hold'em (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tORTe56DzndNNFZPUrd4wW6K2nk.jpg" group-title="AR /Arabic Movies 2021",Beirut Hold'em (2022)
 http://ourtv.live:8080/movie/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/3527.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1982.2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rL1SDucFg2Pg5OlHLyy8pmmw5zb.jpg" group-title="AR /Arabic Movies 2021",1982.2021
