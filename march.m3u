@@ -317,6 +317,12 @@ http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10293.ts
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10294.ts
 #EXTINF:-1 tvg-id="" tvg-name="LEB | OTV 4K" tvg-logo="" group-title="ARABIC 4K",LEB | OTV 4K
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10295.ts
+#EXTINF:-1 tvg-id="lbc.lb" tvg-name="LBC Sat" tvg-logo="" group-title="Arabic",LBC Sat
+http://109.202.99.203:8080/WWXUdfY8nM/veaLE0I837/24
+#EXTINF:-1 tvg-id="" tvg-name="Al Jadeed 2" tvg-logo="" group-title="Arabic",Al Jadeed 2
+http://109.202.99.203:8080/WWXUdfY8nM/veaLE0I837/25520
+#EXTINF:-1 tvg-id="mtvlebanon.lb" tvg-name="MTV Lebanon" tvg-logo="" group-title="Arabic",MTV Lebanon
+http://109.202.99.203:8080/WWXUdfY8nM/veaLE0I837/642
 #EXTINF:-1 tvg-id="" tvg-name="LEB | TELELIBAN 4K" tvg-logo="" group-title="ARABIC 4K",LEB | TELELIBAN 4K
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10296.ts
 #EXTINF:-1 tvg-id="" tvg-name="UAE | AL DAFRA 4K" tvg-logo="" group-title="ARABIC 4K",UAE | AL DAFRA 4K
