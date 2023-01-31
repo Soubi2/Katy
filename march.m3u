@@ -399,6 +399,20 @@ http://one.alidesi.org:2082/skype:francijean/50localhdtv/4998
 http://one.alidesi.org:2082/skype:francijean/50localhdtv/3755
 #EXTINF:-1 tvg-ID="" tvg-name="AR: AL JADEED" tvg-logo="" group-title="AR: ARAB",AR: AL JADEED
 http://one.alidesi.org:2082/skype:francijean/50localhdtv/3761
+#EXTINF:-1 tvg-id="" tvg-name="LANA Plus" tvg-logo="" group-title="Arabic",LANA Plus
+http://109.202.99.203:8080/4LiL8tbtr2/4anVTFATsQ/646
+#EXTINF:-1 tvg-id="" tvg-name="Lana TV" tvg-logo="" group-title="Arabic",Lana TV
+http://109.202.99.203:8080/4LiL8tbtr2/4anVTFATsQ/528
+#EXTINF:-1 tvg-id="lbc.lb" tvg-name="LBC Sat" tvg-logo="" group-title="Arabic",LBC Sat
+http://109.202.99.203:8080/4LiL8tbtr2/4anVTFATsQ/24
+#EXTINF:-1 tvg-id="" tvg-name="Lebanon TV." tvg-logo="" group-title="Arabic",Lebanon TV.
+http://109.202.99.203:8080/4LiL8tbtr2/4anVTFATsQ/644
+#EXTINF:-1 tvg-id="mtvlebanon.lb" tvg-name="MTV Lebanon" tvg-logo="" group-title="Arabic",MTV Lebanon
+http://109.202.99.203:8080/4LiL8tbtr2/4anVTFATsQ/642
+#EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="Al Jadeed 1" tvg-logo="" group-title="Arabic",Al Jadeed 1
+http://109.202.99.203:8080/4LiL8tbtr2/4anVTFATsQ/448
+#EXTINF:-1 tvg-id="" tvg-name="Al Jadeed 2" tvg-logo="" group-title="Arabic",Al Jadeed 2
+http://109.202.99.203:8080/4LiL8tbtr2/4anVTFATsQ/25520
 #EXTINF:-1 tvg-id="" tvg-name="AR: تامر حسني" tvg-logo="" group-title="Default",AR: تامر حسني
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1199
 #EXTINF:-1 tvg-id="" tvg-name="AR: وائل كفوري" tvg-logo="" group-title="Default",AR: وائل كفوري
