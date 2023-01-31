@@ -27,28 +27,6 @@ http://iptv.icsnleb.com:25461/movie/12/12/182.mp4
 http://iptv.icsnleb.com:25461/movie/12/12/176.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bint El-Hares - 1967
 http://iptv.icsnleb.com:25461/movie/12/12/177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LBN: ASSIRAT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/assirat_tv_ir.png" group-title="LEBANON",LBN: ASSIRAT
-http://tv.myiptv-pro.com:8080/shering38/shering/258
-#EXTINF:-1 tvg-id="" tvg-name="LBN: ALIMAN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_iman_tv_lb.png" group-title="LEBANON",LBN: ALIMAN
-http://tv.myiptv-pro.com:8080/shering38/shering/259
-#EXTINF:-1 tvg-id="" tvg-name="LBN: NOUR AL SHARQ" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_al_sharq_lb.png" group-title="LEBANON",LBN: NOUR AL SHARQ
-http://tv.myiptv-pro.com:8080/shering38/shering/256
-#EXTINF:-1 tvg-id="" tvg-name="LBN: NOURSAT TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_sat_lb.png" group-title="LEBANON",LBN: NOURSAT TV
-http://tv.myiptv-pro.com:8080/shering38/shering/6458
-#EXTINF:-1 tvg-id="" tvg-name="LBN: NOUR AL SHABAB" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_el_shabeb_lb.png" group-title="LEBANON",LBN: NOUR AL SHABAB
-http://tv.myiptv-pro.com:8080/shering38/shering/8064
-#EXTINF:-1 tvg-id="" tvg-name="LBN: NOUR MARIAM" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_mariam_lb.png" group-title="LEBANON",LBN: NOUR MARIAM
-http://tv.myiptv-pro.com:8080/shering38/shering/10369
-#EXTINF:-1 tvg-id="" tvg-name="LBN: NOUR AL KODDASS" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_el_koddass_lb.png" group-title="LEBANON",LBN: NOUR AL KODDASS
-http://tv.myiptv-pro.com:8080/shering38/shering/10370
-#EXTINF:-1 tvg-id="" tvg-name="LBN: NEW VISION TV HD" tvg-logo="http://live.multies.net/wp-content/uploads/2021/06/newvisiontv.png" group-title="LEBANON",LBN: NEW VISION TV HD
-http://tv.myiptv-pro.com:8080/shering38/shering/8388
-#EXTINF:-1 tvg-id="" tvg-name="LBN: CANADIAN ARAB TV HD" tvg-logo="https://catvmedia.ca/wp-content/uploads/2017/11/logo.png" group-title="LEBANON",LBN: CANADIAN ARAB TV HD
-http://tv.myiptv-pro.com:8080/shering38/shering/12907
-#EXTINF:-1 tvg-id="" tvg-name="LBN: HALA LONDON FHD" tvg-logo="https://halalondon.com/images/site-logo.png" group-title="LEBANON",LBN: HALA LONDON FHD
-http://tv.myiptv-pro.com:8080/shering38/shering/12975
-#EXTINF:-1 tvg-id="" tvg-name="LBN: HALA LONDON HD" tvg-logo="https://halalondon.com/images/site-logo.png" group-title="LEBANON",LBN: HALA LONDON HD
-http://tv.myiptv-pro.com:8080/shering38/shering/12976
 #EXTINF:-1 tvg-id="" tvg-name="|LB| MTV Lebanon" tvg-logo="" group-title="AR : Arabic",|LB| MTV Lebanon
 http://62.182.83.91:80/tayyar/BCapQS7k7C23/14182
 #EXTINF:-1 tvg-id="" tvg-name="|LB| Future TV" tvg-logo="" group-title="AR : Arabic",|LB| Future TV
@@ -413,6 +391,28 @@ http://tv.myiptv-pro.com:8080/shering38/shering/8105
 http://tv.myiptv-pro.com:8080/shering38/shering/10330
 #EXTINF:-1 tvg-id="" tvg-name="LBN: TV CHARITY HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/charity_tv_lb.png" group-title="LEBANON",LBN: TV CHARITY HD
 http://tv.myiptv-pro.com:8080/shering38/shering/253
+#EXTINF:-1 tvg-id="" tvg-name="LBN: ASSIRAT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/assirat_tv_ir.png" group-title="LEBANON",LBN: ASSIRAT
+http://tv.myiptv-pro.com:8080/shering38/shering/258
+#EXTINF:-1 tvg-id="" tvg-name="LBN: ALIMAN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_iman_tv_lb.png" group-title="LEBANON",LBN: ALIMAN
+http://tv.myiptv-pro.com:8080/shering38/shering/259
+#EXTINF:-1 tvg-id="" tvg-name="LBN: NOUR AL SHARQ" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_al_sharq_lb.png" group-title="LEBANON",LBN: NOUR AL SHARQ
+http://tv.myiptv-pro.com:8080/shering38/shering/256
+#EXTINF:-1 tvg-id="" tvg-name="LBN: NOURSAT TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_sat_lb.png" group-title="LEBANON",LBN: NOURSAT TV
+http://tv.myiptv-pro.com:8080/shering38/shering/6458
+#EXTINF:-1 tvg-id="" tvg-name="LBN: NOUR AL SHABAB" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_el_shabeb_lb.png" group-title="LEBANON",LBN: NOUR AL SHABAB
+http://tv.myiptv-pro.com:8080/shering38/shering/8064
+#EXTINF:-1 tvg-id="" tvg-name="LBN: NOUR MARIAM" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_mariam_lb.png" group-title="LEBANON",LBN: NOUR MARIAM
+http://tv.myiptv-pro.com:8080/shering38/shering/10369
+#EXTINF:-1 tvg-id="" tvg-name="LBN: NOUR AL KODDASS" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nour_el_koddass_lb.png" group-title="LEBANON",LBN: NOUR AL KODDASS
+http://tv.myiptv-pro.com:8080/shering38/shering/10370
+#EXTINF:-1 tvg-id="" tvg-name="LBN: NEW VISION TV HD" tvg-logo="http://live.multies.net/wp-content/uploads/2021/06/newvisiontv.png" group-title="LEBANON",LBN: NEW VISION TV HD
+http://tv.myiptv-pro.com:8080/shering38/shering/8388
+#EXTINF:-1 tvg-id="" tvg-name="LBN: CANADIAN ARAB TV HD" tvg-logo="https://catvmedia.ca/wp-content/uploads/2017/11/logo.png" group-title="LEBANON",LBN: CANADIAN ARAB TV HD
+http://tv.myiptv-pro.com:8080/shering38/shering/12907
+#EXTINF:-1 tvg-id="" tvg-name="LBN: HALA LONDON FHD" tvg-logo="https://halalondon.com/images/site-logo.png" group-title="LEBANON",LBN: HALA LONDON FHD
+http://tv.myiptv-pro.com:8080/shering38/shering/12975
+#EXTINF:-1 tvg-id="" tvg-name="LBN: HALA LONDON HD" tvg-logo="https://halalondon.com/images/site-logo.png" group-title="LEBANON",LBN: HALA LONDON HD
+http://tv.myiptv-pro.com:8080/shering38/shering/12976
 #EXTINF:-1 tvg-id="" tvg-name="AR: تامر حسني" tvg-logo="" group-title="Default",AR: تامر حسني
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1199
 #EXTINF:-1 tvg-id="" tvg-name="AR: وائل كفوري" tvg-logo="" group-title="Default",AR: وائل كفوري
