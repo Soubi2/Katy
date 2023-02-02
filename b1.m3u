@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="Soubi" tvg-name="bein1"
+https://raw.githubusercontent.com/Soubi2/Katy/main/b1.m3u8
+#EXTINF:-1 tvg-id="Soubi" tvg-name="bein2"
+https://raw.githubusercontent.com/Soubi2/Katy/main/b2.m3u8
+#EXTINF:-1 tvg-id="Soubi" tvg-name="bein3"
+https://raw.githubusercontent.com/Soubi2/Katy/main/b3.m3u8
