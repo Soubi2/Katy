@@ -20,6 +20,13 @@
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
 }, 
+{
+"id": "1",
+"label": "Fast",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/fast.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},  
  {
 "id": "1",
 "label": "Lebanese",
@@ -34,13 +41,6 @@
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
 },  
- {
-"id": "1",
-"label": "Aris",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Aris.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},  
 {
 "id": "1",
 "label": "Sports+",
@@ -50,25 +50,18 @@
 },   
 {
 "id": "1",
-"label": "lumina",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/lumina.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},
-{
-"id": "1",
-"label": "New",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/marti.m3u",
+"label": "Nassar Sat",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/nassar.m3u",
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
 },   
 {
 "id": "1",
-"label": "Collections",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/collection.m3u",
+"label": "Sat",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/coll.m3u",
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},  
+},      
 {
 "id": "1",
 "label": "LebVod2",
@@ -146,6 +139,13 @@
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
 }, 
+{
+"id": "1",
+"label": "TVX",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/tvx.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},   
 {
 "id": "1",
 "label": "Mix",
