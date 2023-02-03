@@ -413,6 +413,48 @@ http://tv.myiptv-pro.com:8080/shering38/shering/12907
 http://tv.myiptv-pro.com:8080/shering38/shering/12975
 #EXTINF:-1 tvg-id="" tvg-name="LBN: HALA LONDON HD" tvg-logo="https://halalondon.com/images/site-logo.png" group-title="LEBANON",LBN: HALA LONDON HD
 http://tv.myiptv-pro.com:8080/shering38/shering/12976
+#EXTINF:-1 tvg-id="" tvg-name="LB:Aghani" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aghani_aghani_lb_tv.png" group-title="all",LB:Aghani
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/821.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:Al Imane" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_iman_tv_lb.png" group-title="all",LB:Al Imane
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/1515.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:AlJadeed" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.png" group-title="all",LB:AlJadeed
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/545.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:Aljadeed HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.png" group-title="all",LB:Aljadeed HQ
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/18086.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:Almanar HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al-manar-tv-lb.png" group-title="all",LB:Almanar HQ
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/18089.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:Al-ManarTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al-manar-tv-lb.png" group-title="all",LB:Al-ManarTV
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/543.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:AlMayadeenTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.png" group-title="all",LB:AlMayadeenTV
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/544.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:ArabicaTv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arabica_tv_lb.png" group-title="all",LB:ArabicaTv
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/617.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:Ettihad" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canada-arab-channel-ca.png" group-title="all",LB:Ettihad
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/16324.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:Hala London" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hala-london-uk.png" group-title="all",LB:Hala London
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/3237.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:Hawacom " tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hawacom_tv_lb.png" group-title="all",LB:Hawacom 
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/20613.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:LBC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.png" group-title="all",LB:LBC
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/591.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:LBC HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.png" group-title="all",LB:LBC HQ
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/18088.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:LDC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lbc-international-lb.png" group-title="all",LB:LDC
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/549.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:LDC HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lbc-international-lb.png" group-title="all",LB:LDC HQ
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/18087.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:MTVLebanon" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lb.png" group-title="all",LB:MTVLebanon
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/546.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:MTV lebanon HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lb.png" group-title="all",LB:MTV lebanon HQ
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/18085.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:NBN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbn_lb.png" group-title="all",LB:NBN
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/589.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:One tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-lb.png" group-title="all",LB:One tv
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/3954.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:Otv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/otv-lb.svg" group-title="all",LB:Otv
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/547.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LB:Tele Lebanon" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_liban_lb.png" group-title="all",LB:Tele Lebanon
+http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/856.m3u
 #EXTINF:-1 tvg-id="" tvg-name="AR: تامر حسني" tvg-logo="" group-title="Default",AR: تامر حسني
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1199
 #EXTINF:-1 tvg-id="" tvg-name="AR: وائل كفوري" tvg-logo="" group-title="Default",AR: وائل كفوري
