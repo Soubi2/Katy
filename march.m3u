@@ -29,8 +29,6 @@ http://iptv.icsnleb.com:25461/movie/12/12/182.mp4
 http://iptv.icsnleb.com:25461/movie/12/12/176.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bint El-Hares - 1967
 http://iptv.icsnleb.com:25461/movie/12/12/177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="" group-title="AR : Arabic",Test
-https://raw.githubusercontent.com/Soubi2/Katy/main/37
 #EXTINF:-1 tvg-id="" tvg-name="|LB| MTV Lebanon" tvg-logo="" group-title="AR : Arabic",|LB| MTV Lebanon
 http://62.182.83.91:80/tayyar/BCapQS7k7C23/14182
 #EXTINF:-1 tvg-id="" tvg-name="|LB| Future TV" tvg-logo="" group-title="AR : Arabic",|LB| Future TV
