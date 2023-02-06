@@ -138,68 +138,6 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/2026.m3u",
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-}, 
-{
-"id": "1",
-"label": "TVX",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/tvx.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},   
-{
-"id": "1",
-"label": "Mix",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/wel.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},
- {
-"id": "1",
-"label": "MixXXL",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/50.m3u",
-"type": "1",
-"logo_url": ""
-},
- {
-"id": "1",
-"label": "2XXL",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/lala.m3u",
-"type": "1",
-"logo_url": ""
-}, 
-{
-"id": "1",
-"label": "XXX",
-"url": "https://raw.githubusercontent.com/Soubi2/soubi/master/vod.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "Adult18",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ados.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-}, 
-{
-"id": "1",
-"label": "PUB",
-"url": "https://raw.githubusercontent.com/Soubi2/soubi/master/soubigo.m3u",
-"type": "1",
-"logo_url": ""
-},
- {
-"id": "1",
-"label": "PUBB",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/whatso.m3u",
-"type": "1",
-"logo_url": ""
-},
- {
-"id": "1",
-"label": "AdultZone",
-"url": "https://raw.githubusercontent.com/Soubi2/soubi/master/soubigo.m3u",
-"type": "1",
-"logo_url": ""
+} 
 }
 ]
