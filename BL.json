@@ -57,6 +57,13 @@
 },     
 {
 "id": "1",
+"label": "Dec",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/dec.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},      
+{
+"id": "1",
 "label": "Raz",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/raz.m3u",
 "type": "1",
