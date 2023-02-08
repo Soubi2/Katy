@@ -1,5 +1,4 @@
-﻿#EXTM3U
-
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BeIN_Sport_NBA_HD" group-title="Bein Sport Local",BeIN_Sport_NBA_HD
 http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/49691
 #EXTINF:-1 tvg-id="3" tvg-name="BeIN_Sport_01_SD" group-title="Bein Sport Local",BeIN_Sport_01_SD
@@ -19,7 +18,6 @@ http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/49385
 #EXTINF:-1 tvg-id="10" tvg-name="BeIN_Sport_01_PREMIUM_SD" group-title="Bein Sport Local",BeIN_Sport_01_PREMIUM_SD
 http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/49685
 #EXTINF:-1 tvg-id="11" tvg-name="BeIN_Sport_02_PREMIUM_SD" group-title="Bein Sport Local",BeIN_Sport_02_PREMIUM_SD
-
 http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/49386
 #EXTINF:-1 tvg-id="12" tvg-name="BeIN_Sport_03_PREMIUM_SD" group-title="Bein Sport Local",BeIN_Sport_03_PREMIUM_SD
 http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/49686
