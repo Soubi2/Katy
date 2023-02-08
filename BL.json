@@ -22,6 +22,13 @@
 }, 
 {
 "id": "1",
+"label": "ArabicaFast",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/mo3a.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+{
+"id": "1",
 "label": "Fast",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/fast.m3u",
 "type": "1",
@@ -41,13 +48,6 @@
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
 },  
-{
-"id": "1",
-"label": "Arabica123",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/mo3a.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},   
 {
 "id": "1",
 "label": "Sports+",
