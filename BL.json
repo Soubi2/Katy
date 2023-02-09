@@ -211,6 +211,13 @@
 },
  {
 "id": "1",
+"label": "XPlus",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/xplus.m3u",
+"type": "1",
+"logo_url": ""
+}, 
+ {
+"id": "1",
 "label": "AdultZone",
 "url": "https://raw.githubusercontent.com/Soubi2/soubi/master/soubigo.m3u",
 "type": "1",
