@@ -545,51 +545,41 @@ http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/591.m3u
 http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/18088.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LB:LDC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lbc-international-lb.png" group-title="all",LB:LDC
 http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/549.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LB:LDC HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lbc-international-lb.png" group-title="all",LB:LDC HQ
+#EXTINF:-1 tvg-id="" tvg-name="LB:LDC HQ55" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lbc-international-lb.png" group-title="all",LB:LDC HQ
 http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/18087.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LB:MTVLebanon" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lb.png" group-title="all",LB:MTVLebanon
+#EXTINF:-1 tvg-id="" tvg-name="LB:MTVLebanon55" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lb.png" group-title="all",LB:MTVLebanon
 http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/546.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LB:MTV lebanon HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lb.png" group-title="all",LB:MTV lebanon HQ
+#EXTINF:-1 tvg-id="" tvg-name="MTV lebanon HQ55" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/murr_tv_lb.png" group-title="all",LB:MTV lebanon HQ
 http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/18085.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LB:NBN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbn_lb.png" group-title="all",LB:NBN
-http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/589.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LB:One tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-lb.png" group-title="all",LB:One tv
+#EXTINF:-1 tvg-id="" tvg-name="One tv5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-lb.png" group-title="all",LB:One tv
 http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/3954.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LB:Otv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/otv-lb.svg" group-title="all",LB:Otv
-http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/547.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LB:Tele Lebanon" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_liban_lb.png" group-title="all",LB:Tele Lebanon
+#EXTINF:-1 tvg-id="" tvg-name="Tele Lebanon5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_liban_lb.png" group-title="all",LB:Tele Lebanon
 http://iptv.ndasat.xyz:88/live/228149239766012/228149239766012/856.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LB : JADEED FHD" tvg-logo="http://logo.panel.cx/logo/ASIA/LEBANON/ALJADEEDTV.png" group-title="AR: LEBANON لبنان ",LB : JADEED FHD
+#EXTINF:-1 tvg-id="" tvg-name="JADEED FHD5" tvg-logo="http://logo.panel.cx/logo/ASIA/LEBANON/ALJADEEDTV.png" group-title="AR: LEBANON لبنان ",LB : JADEED FHD
 http://zaintv.me:8080/05550954632/zxc962058/957
-#EXTINF:-1 tvg-id="" tvg-name="LB : MTV FHD" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان ",LB : MTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD5" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان ",LB : MTV FHD
 http://zaintv.me:8080/05550954632/zxc962058/959
-#EXTINF:-1 tvg-id="" tvg-name="LB : FUTURE FHD" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Future.png" group-title="AR: LEBANON لبنان ",LB : FUTURE FHD
+#EXTINF:-1 tvg-id="" tvg-name="FUTURE FHD5" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Future.png" group-title="AR: LEBANON لبنان ",LB : FUTURE FHD
 http://zaintv.me:8080/05550954632/zxc962058/960
-#EXTINF:-1 tvg-id="" tvg-name="LB : OTV FHD" tvg-logo="https://ai-i1.infcdn.net/icons_siandroid/png/200/13629/13629270.png" group-title="AR: LEBANON لبنان ",LB : OTV FHD
-http://zaintv.me:8080/05550954632/zxc962058/961
-#EXTINF:-1 tvg-id="" tvg-name="LB : LBC FHD" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC FHD
+#EXTINF:-1 tvg-id="" tvg-name="LB : LBC FHD5" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC FHD
 http://zaintv.me:8080/05550954632/zxc962058/964
-#EXTINF:-1 tvg-id="" tvg-name="LB : LBC 2 FHD" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="LBC 2 FHD5" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC 2 FHD
 http://zaintv.me:8080/05550954632/zxc962058/966
-#EXTINF:-1 tvg-id="" tvg-name="LB : LBC INTERNATIONAL FHD" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC INTERNATIONAL FHD
+#EXTINF:-1 tvg-id="" tvg-name="LBC INTERNATIONAL FHD5" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC INTERNATIONAL FHD
 http://zaintv.me:8080/05550954632/zxc962058/968
-#EXTINF:-1 tvg-id="" tvg-name="LB : NBN 4K" tvg-logo="https://powernetworx.com.au/wp-content/uploads/elementor/thumbs/nbn-image-ow7quoqunxmvx41hqcfj7knicvv2tanleybhqn40cw.png" group-title="AR: LEBANON لبنان ",LB : NBN 4K
-http://zaintv.me:8080/05550954632/zxc962058/969
-#EXTINF:-1 tvg-id="" tvg-name="LB : TELE LEBNAN 4K" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="AR: LEBANON لبنان ",LB : TELE LEBNAN 4K
+#EXTINF:-1 tvg-id="" tvg-name="TELE LEBNAN 4K5" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="AR: LEBANON لبنان ",LB : TELE LEBNAN 4K
 http://zaintv.me:8080/05550954632/zxc962058/971
-#EXTINF:-1 tvg-id="" tvg-name="LB : ONE TV FHD" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/ONE.TV.png" group-title="AR: LEBANON لبنان ",LB : ONE TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV FHD5" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/ONE.TV.png" group-title="AR: LEBANON لبنان ",LB : ONE TV FHD
 http://zaintv.me:8080/05550954632/zxc962058/972
-#EXTINF:-1 tvg-id="" tvg-name="LB : AL AAN FHD" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsicon/2020/04/app-image-5e8bc79c1f81a.jpg&size=200" group-title="AR: LEBANON لبنان ",LB : AL AAN FHD
-http://zaintv.me:8080/05550954632/zxc962058/973
-#EXTINF:-1 tvg-id="" tvg-name="LB : JADEED 8K" tvg-logo="http://logo.panel.cx/logo/ASIA/LEBANON/ALJADEEDTV.png" group-title="AR: LEBANON لبنان ",LB : JADEED 8K
+#EXTINF:-1 tvg-id="" tvg-name="JADEED 8K5" tvg-logo="http://logo.panel.cx/logo/ASIA/LEBANON/ALJADEEDTV.png" group-title="AR: LEBANON لبنان ",LB : JADEED 8K
 http://zaintv.me:8080/05550954632/zxc962058/956
-#EXTINF:-1 tvg-id="" tvg-name="LB : MTV 8K" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان ",LB : MTV 8K
+#EXTINF:-1 tvg-id="" tvg-name="MTV 8K5" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان ",LB : MTV 8K
 http://zaintv.me:8080/05550954632/zxc962058/958
-#EXTINF:-1 tvg-id="" tvg-name="LB : LBC 4K" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC 4K
+#EXTINF:-1 tvg-id="" tvg-name="LBC 4K5" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC 4K
 http://zaintv.me:8080/05550954632/zxc962058/963
-#EXTINF:-1 tvg-id="" tvg-name="LB : LBC 2 4K" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC 2 4K
+#EXTINF:-1 tvg-id="" tvg-name="LBC 2 4K5" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC 2 4K
 http://zaintv.me:8080/05550954632/zxc962058/965
-#EXTINF:-1 tvg-id="" tvg-name="LB : LBC INTERNATIONAL 4k" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC INTERNATIONAL 4k
+#EXTINF:-1 tvg-id="" tvg-name="LBC5 4k" tvg-logo="https://seeklogo.com/images/L/lbc-logo-19FD73D2F2-seeklogo.com.gif" group-title="AR: LEBANON لبنان ",LB : LBC INTERNATIONAL 4k
 http://zaintv.me:8080/05550954632/zxc962058/967
 #EXTINF:-1 tvg-id="" tvg-name="AR: تامر حسني" tvg-logo="" group-title="Default",AR: تامر حسني
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1199
