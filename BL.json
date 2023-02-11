@@ -61,7 +61,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/coll.m3u",
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},     
+},
+{
+"id": "1",
+"label": "Sat2",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multider.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},      
 {
 "id": "1",
 "label": "Dec",
