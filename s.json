@@ -218,13 +218,6 @@
 }, 
 {
 "id": "1",
-"label": "XXX",
-"url": "https://raw.githubusercontent.com/Soubi2/soubi/master/vod.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
 "label": "Adult18",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ados.m3u",
 "type": "1",
