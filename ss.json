@@ -1,5 +1,240 @@
-﻿{
-"status": 1,
-"sbplay":{"domain":"https://streamsss.net","referer":"https://streamsss.net/","header":"watchsb: sbstream","getlink":""},
-"mixdrop":{"domain":"https://mixdrop.co","referer":"https://mixdrop.co/","header":"","getlink":"Cgp2YXIgaW50ZXJ2YWw7CnZhciBjb3VudCA9IDA7CgoKZ2V0Q29kZU1peERyb3AgPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGEsIDMwMCk7Cn0KCmdldERhdGEgPSAoKSA9PiB7CiAgICB2YXIgY29kZSA9IE1EQ29yZTsKICAgIGlmKGNvZGUgIT09IHVuZGVmaW5lZCAmJiBjb2RlLnd1cmwgIT09IG51bGwgJiYgY29kZS53dXJsLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhjb2RlLnd1cmwpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KCk7CiAgICAgICAgfQogICAgfQp9CgpnZXRDb2RlTXlTdHJlYW0gPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGFNeVN0cmVhbSwgMzAwKTsKfQoKZ2V0RGF0YU15U3RyZWFtID0gKCkgPT4gewogICAgdmFyIHZpZGVvUGxheWVyID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3ZpZGVvUGxheWVyX2h0bWw1X2FwaScpLmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzb3VyY2UnKVswXS5zcmM7CiAgICBpZih2aWRlb1BsYXllciAhPT0gdW5kZWZpbmVkICYmIHZpZGVvUGxheWVyICE9PSBudWxsKXsKICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICBBbmRyb2lkLnJldHVybkxpbmsodmlkZW9QbGF5ZXIpOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KCk7CiAgICAgICAgfQogICAgfQp9CgpnZXRMaW5rQ2luZSA9ICgpID0+IHsKICAgIGludGVydmFsID0gc2V0SW50ZXJ2YWwoZ2V0RGF0YUNpbmUsIDMwMCk7Cn0KCmdldERhdGFDaW5lID0gKCkgPT4gewogICAgbGV0IGxpbmtzID0gandwbGF5ZXIoKS5nZXRQbGF5bGlzdEl0ZW0oKTsKCiAgICBsZXQgdXJsVmlkZW8gPSAnJzsKICAgIGlmKGxpbmtzICE9PSBudWxsICYmIGxpbmtzICE9PSB1bmRlZmluZWQpewogICAgICAgIHVybFZpZGVvID0gbGlua3MuZmlsZTsKICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICBBbmRyb2lkLnJldHVybkxpbmsodXJsVmlkZW8pOwogICAgfWVsc2V7CiAgICAgICAgY291bnQgPSBjb3VudCArIDE7CiAgICAgICAgaWYoY291bnQgPT0gNjApewogICAgICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICAgICAgQW5kcm9pZC50aW1lb3V0KCk7CiAgICAgICAgfQogICAgfQp9CgpnZXRMaW5rU29sYXIgPSAoKSA9PnsKICAgIGludGVydmFsID0gc2V0SW50ZXJ2YWwoZ2V0RGF0YVNvbGFyLCAzMDApOwp9CgpnZXREYXRhU29sYXIgPSAoKSA9PiB7CiAgICBsZXQgbGlua3MgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaWZyYW1lJyk7CiAgICBsZXQgdXJsVmlkZW8gPSAnJzsKICAgIGlmKGxpbmtzICE9PSBudWxsICYmIGxpbmtzICE9PSB1bmRlZmluZWQgJiYgbGlua3MubGVuZ3RoID4gMCl7CiAgICAgICAgdXJsVmlkZW8gPSBsaW5rc1swXS5zcmM7CiAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgQW5kcm9pZC5yZXR1cm5MaW5rKHVybFZpZGVvKTsKICAgIH1lbHNlewogICAgICAgIGNvdW50ID0gY291bnQgKyAxOwogICAgICAgIGlmKGNvdW50ID09IDYwKXsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgICAgIEFuZHJvaWQudGltZW91dCgpOwogICAgICAgIH0KICAgIH0KfQoKZ2V0U29hcFRvRGF5ID0gKCkgPT4gewogICAgaW50ZXJ2YWwgPSBzZXRJbnRlcnZhbChnZXREYXRhU29hcCwgMzAwKTsKfQoKZ2V0RGF0YVNvYXAgPSAoKSA9PiB7CiAgICBsZXQgdXJsVmlkZW8gPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5Q2xhc3NOYW1lKCdqdy12aWRlbyBqdy1yZXNldCcpWzBdLnNyYzsKICAgIGlmKHVybFZpZGVvICE9PSB1bmRlZmluZWQgJiYgdXJsVmlkZW8ubGVuZ3RoID4gMCl7CiAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgQW5kcm9pZC5yZXR1cm5MaW5rKHVybFZpZGVvKTsKICAgIH1lbHNlewogICAgICAgIGNvdW50ID0gY291bnQgKyAxOwogICAgICAgIGlmKGNvdW50ID09IDYwKXsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgICAgIEFuZHJvaWQudGltZW91dCgpOwogICAgICAgIH0KICAgIH0KfQoKZ2V0Q29kZVN0cmVhbXRhcGUgPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGFTdHJlYW10YXBlLCAzMDApOwp9CgpnZXREYXRhU3RyZWFtdGFwZSA9ICgpID0+IHsKICAgIGxldCBsaW5rID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3ZpZGVvbGluaycpLnRleHRDb250ZW50OwoKICAgIGlmKGxpbmsgIT09IHVuZGVmaW5lZCAmJiBsaW5rLmxlbmd0aCA+IDApewogICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgIEFuZHJvaWQucmV0dXJuTGluayhsaW5rKTsKICAgIH1lbHNlewogICAgICAgIGNvdW50ID0gY291bnQgKyAxOwogICAgICAgIGlmKGNvdW50ID09IDYwKXsKICAgICAgICAgICAgY2xlYXJJbnRlcnZhbChpbnRlcnZhbCk7CiAgICAgICAgICAgIEFuZHJvaWQudGltZW91dCgpOwogICAgICAgIH0KICAgIH0KfQoKZ2V0TGlua0FiYyA9ICgpID0+IHsKICAgIGludGVydmFsID0gc2V0SW50ZXJ2YWwoZ2V0RGF0YUFiYywgMzAwKTsKfQoKZ2V0RGF0YUFiYyA9ICgpID0+IHsKICAgIGxldCB1cmwgPSBudWxsOwogICAgdXJsID0gandwbGF5ZXIoKS5nZXRQbGF5bGlzdCgpWzBdLmFsbFNvdXJjZXNbMF0uZmlsZTsKICAgIGlmKHVybCAhPT0gbnVsbCAgJiYgdXJsLnN0YXJ0c1dpdGgoJ2h0dHAnKSl7CiAgICAgICAgQW5kcm9pZC5yZXR1cm5MaW5rKHVybCk7CiAgICB9ZWxzZXsKICAgICAgICBjb3VudCA9IGNvdW50ICsgMTsKICAgICAgICBpZihjb3VudCA9PSA2MCl7CiAgICAgICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgICAgICBBbmRyb2lkLnRpbWVvdXQoKTsKICAgICAgICB9CiAgICB9Cn0KCg=="},
-"upstream":{"domain":"https://upstream.to","referer":"https://upstream.to/","header":"","getlink":"dmFyIGludGVydmFsOwp2YXIgY291bnQgPSAwOwoKZ2V0VXBzdHJlYW0gPSAoKSA9PiB7CiAgICBpbnRlcnZhbCA9IHNldEludGVydmFsKGdldERhdGFVcHN0cmVhbSwgMzAwKTsKfQoKZ2V0RGF0YVVwc3RyZWFtID0gKCkgPT4gewogICAgdmFyIGNvZGUgPSBwbGF5ZXIuZ2V0UGxheWxpc3QoKVswXS5maWxlOwogICAgaWYoY29kZSAhPT0gdW5kZWZpbmVkICYmIGNvZGUgIT09IG51bGwgJiYgY29kZS5sZW5ndGggPiAwKXsKICAgICAgICBjbGVhckludGVydmFsKGludGVydmFsKTsKICAgICAgICBBbmRyb2lkLnJldHVybkxpbmsoY29kZSk7CiAgICB9ZWxzZXsKICAgICAgICBjb3VudCA9IGNvdW50ICsgMTsKICAgICAgICBpZihjb3VudCA9PSA2MCl7CiAgICAgICAgICAgIGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogICAgICAgICAgICBBbmRyb2lkLnRpbWVvdXQoMSk7CiAgICAgICAgfQogICAgfQp9Cg=="}}
+﻿[
+{
+ "id": "1",
+"label": "Andre",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/an.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+ {
+"id": "1",
+"label": "Radio",
+"url": "https://raw.githubusercontent.com/Soubi2/soubi/master/soubira.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+{
+"id": "1",
+"label": "Camera",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/came.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+{
+"id": "1",
+"label": "ArabicaFast",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/mo3a.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+{
+"id": "1",
+"label": "Fast",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/fast.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},  
+ {
+"id": "1",
+"label": "Lebanese",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/march.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+{
+"id": "1",
+"label": "ChnMix",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/mo.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+{
+"id": "1",
+"label": "Zain",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/zain.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},    
+{
+"id": "1",
+"label": "Sat",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/coll.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+{
+"id": "1",
+"label": "Sat2",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/newt.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+{
+"id": "1",
+"label": "Sat3",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/newwt.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},              
+{
+"id": "1",
+"label": "Dec",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/dec.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},      
+{
+"id": "1",
+"label": "2024",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/2121.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},      
+{
+"id": "1",
+"label": "LebVod2",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/STplus.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+ {
+"id": "1",
+"label": "أفلام",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/vod2.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+ {
+"id": "1",
+"label": "TwoVods",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/TwoVod.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+{
+"id": "1",
+"label": "Channels321",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Channels321.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+{
+"id": "1",
+"label": "Leb",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/vle.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+{
+"id": "1",
+"label": "MegaMix24",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/megamix.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+ },
+{
+"id": "1",
+"label": "Mega2",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega8.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+ {
+"id": "1",
+"label": "Mega3",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega9.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+{
+"id": "1",
+"label": "Mega4",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/mega10.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},  
+{
+"id": "1",
+"label": "Chacha",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/chacha.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+{
+"id": "1",
+"label": "Arabic Ch",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ara.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+ {
+"id": "1",
+"label": "2026",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/2026.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+{
+"id": "1",
+"label": "Ziga",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ziga.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+{
+"id": "1",
+"label": "mixer",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ewzz.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+{
+"id": "1",
+"label": "TVX",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/tvx.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},   
+{
+"id": "1",
+"label": "Mix",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/wel.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},
+ {
+"id": "1",
+"label": "2XXL",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/lala.m3u",
+"type": "1",
+"logo_url": ""
+}, 
+{
+"id": "1",
+"label": "Adult18",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ados.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+}, 
+{
+"id": "1",
+"label": "PUB",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/soubigo.m3u",
+"type": "1",
+"logo_url": ""
+},
+ {
+"id": "1",
+"label": "PUBB",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/whatso.m3u",
+"type": "1",
+"logo_url": ""
+},
+ {
+"id": "1",
+"label": "XPlus",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/xplus.m3u",
+"type": "1",
+"logo_url": ""
+}
+]
