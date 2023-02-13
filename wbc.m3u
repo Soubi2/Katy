@@ -1,4 +1,6 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="Soubi" tvg-name="0
+https://live.mycamtv.com/streamp.m3u8
 #EXTINF:-1 tvg-id="Soubi" tvg-name="1
 https://livecams.mycamtv.com/girls/102981063.m3u8
 #EXTINF:-1 tvg-id="Soubi" tvg-name="2
