@@ -627,7 +627,22 @@ http://1.tvdiptv.com:2082/123456789/987654321/103209
 http://1.tvdiptv.com:2082/123456789/987654321/103224
 #EXTINF:-1 tvg-id="" tvg-name="(Music) Music Mazzika" tvg-logo="https://clipground.com/images/dj-music-logo-png-18.png" group-title="MUSIC موسيقى",(Music) Music Mazzika
 http://1.tvdiptv.com:2082/123456789/987654321/103222
-#EXTINF:-1 tvg-id="" tvg-name="(Music) Wanasah TV" tvg-logo="https://clipground.com/images/dj-music-logo-png-18.png" group-title="MUSIC موسيقى",(Music) Wanasah TV
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Ldc" tvg-logo="" group-title="ARABIC",Ar: lebanon.Ldc
+http://starshare.live:8080/live/76uh_@39_929_38sk_38si_29wi173d198@37yd/jHydgij_39ieo_39-_-27wsk@3ydwdsj2893duod/4564.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Lbc" tvg-logo="" group-title="ARABIC",Ar: lebanon.Lbc
+http://starshare.live:8080/live/76uh_@39_929_38sk_38si_29wi173d198@37yd/jHydgij_39ieo_39-_-27wsk@3ydwdsj2893duod/4565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.otv" tvg-logo="" group-title="ARABIC",Ar: lebanon.otv
+http://starshare.live:8080/live/76uh_@39_929_38sk_38si_29wi173d198@37yd/jHydgij_39ieo_39-_-27wsk@3ydwdsj2893duod/4566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.nbn" tvg-logo="" group-title="ARABIC",Ar: lebanon.nbn
+http://starshare.live:8080/live/76uh_@39_929_38sk_38si_29wi173d198@37yd/jHydgij_39ieo_39-_-27wsk@3ydwdsj2893duod/4567.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.mtv" tvg-logo="" group-title="ARABIC",Ar: lebanon.mtv
+http://starshare.live:8080/live/76uh_@39_929_38sk_38si_29wi173d198@37yd/jHydgij_39ieo_39-_-27wsk@3ydwdsj2893duod/4568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.future" tvg-logo="" group-title="ARABIC",Ar: lebanon.future
+http://starshare.live:8080/live/76uh_@39_929_38sk_38si_29wi173d198@37yd/jHydgij_39ieo_39-_-27wsk@3ydwdsj2893duod/4569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.aljadeed" tvg-logo="" group-title="ARABIC NEWS",Ar: lebanon.aljadeed
+http://starshare.live:8080/live/76uh_@39_929_38sk_38si_29wi173d198@37yd/jHydgij_39ieo_39-_-27wsk@3ydwdsj2893duod/4571.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Cbc Sofra" tvg-logo="" group-title="EGYPT",Ar: Cbc Sofra
+http://starshare.live:8080/live/76uh_@39_929_38sk_38si_29wi173d198@37yd/jHydgij_39ieo_39-_-27wsk@3ydwdsj2893duod/4576.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: تامر حسني" tvg-logo="" group-title="Default",AR: تامر حسني
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1199
 #EXTINF:-1 tvg-id="" tvg-name="AR: وائل كفوري" tvg-logo="" group-title="Default",AR: وائل كفوري
