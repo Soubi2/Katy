@@ -39,16 +39,112 @@ http://wse1.resortcams.com/live/westjefferson.stream/playlist.m3u8
 http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ca Charlottetown
 http://media.gpei.ca/islandcam/guild.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Camera Bauneario Camburiu" tvg-logo="https://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Bauneario Camburiu
-http://boxtv.uniredes.com.br:80/16031974/16031974/113
-#EXTINF:-1 tvg-id="" tvg-name="Camera Porto de Santos" tvg-logo="https://yt3.ggpht.com/7vaRXqp1M2WaAMQGS6JB6r8RZA7yG8XC52DLEhD0eH43Lp63j4BcvszhqoyFEWNnummpFc6FfWY=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Porto de Santos
-http://boxtv.uniredes.com.br:80/16031974/16031974/114
-#EXTINF:-1 tvg-id="" tvg-name="Camera Canal Itajai e Navegantes SC" tvg-logo="https://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Canal Itajai e Navegantes SC
-http://boxtv.uniredes.com.br:80/16031974/16031974/115
-#EXTINF:-1 tvg-id="" tvg-name="Kansas Zoo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBi93MNNy48WLEonDA-p8d72dXW7IIdKSdSFN3=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Kansas Zoo
-http://boxtv.uniredes.com.br:80/16031974/16031974/116
 #EXTINF:-1 tvg-id="" tvg-name="Camera Time Square USA" tvg-logo="https://yt3.ggpht.com/D1bW3c7hxe9KVXWOzQ0asiHh7WNxh4IeIDRBsRS-dpmdZcuyzstFY_o397Fg4M7UtUaDZ6msYQ4=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Time Square USA
 http://boxtv.uniredes.com.br:80/16031974/16031974/117
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Wrightsville Beach
+http://169.47.9.197:1935/live/wb.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Green Parrot Bar 2
+http://55507e0501d25.streamlock.net/live/greenparrot2.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Dead Dog Saloon Stage
+http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam/deaddog/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Dead Dog Saloon MarshWalk
+http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam3/deaddog3/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Schooners Beach Cam
+http://58f0f58ecd733.streamlock.net:1935/schoonersbeachHDCam/schbeach/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Southport 2
+http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Kure Beach Street Cam
+http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Southport
+http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Manasquan
+http://5a5f765a4fcc2.streamlock.net:1935/live/squan.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Monkey
+http://ape.hls.camzonecdn.com/CamzoneStreams/ape/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Las Vegas 4
+http://cams.lasvegas.net:1935/live/LasVesgasNetHotelNorthCamNorth.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Las Vegas
+http://cams.lasvegas.net:1935/live/LasVesgasNetHotelNorthCamSouth.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Las Vegas 2
+http://cams.lasvegas.net:1935/live/LVNetOrleansDown.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Las Vegas 3
+http://cams.lasvegas.net:1935/live/LVNetOrleansWest.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Estes Park
+http://cdn.estesparkwebcams.com/prospect3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Elephant
+http://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - feeder
+http://live.idnes.cz/slow/krmitkousa/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Leo
+http://nzp-ms05.si.edu/live_edge_lion/smil:lion01_all.smil/chunklist_b5500000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Panda
+http://nzp-ms06.si.edu/live_edge_panda/panda02/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Panda 2
+http://nzp-ms06.si.edu/live_edge_panda/smil:panda02_all.smil/chunklist_b2464000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Polar bear
+http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Baboon
+http://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Condor
+http://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Koala
+http://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Owl
+http://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Panda
+http://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Penguins
+http://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Tiger
+http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Glenwood Springs Airport
+https://2-fss-2.streamhoster.com/pl_126/200612-1195930-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Glenwood Springs Airport
+https://2-fss-2.streamhoster.com/pl_126/200612-1195932-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Glenwood Springs Airport
+https://2-fss-2.streamhoster.com/pl_126/200612-1195934-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Minnesota
+https://55507e0501d25.streamlock.net/live/spiritmtn.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Yosemite Falls
+https://56cdb389b57ec.streamlock.net/live/yosfalls.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Blokzijl 1
+https://584b389d712f9.streamlock.net/live2/blokzijl1.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Blokzijl 2
+https://584b389d712f9.streamlock.net/live2/blokzijl2.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Delfzijl 2
+https://584b389d712f9.streamlock.net/live2/delfzijl2.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Myrtle Beach Cam 3
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Myrtle Beach Cam 2
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Rotterdam 9
+https://5cee0d703d908.streamlock.net/rtplive/paulmartens103751.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Rotterdam 10
+https://5cee0d703d908.streamlock.net/rtplive/paulmartens103752.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Independence State Airport
+https://5ddd47d64e730.streamlock.net:444/jeannesflyingservice1/jeannesflyingservice1.stream/chunklist_w1266566556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Schooners Hill Bar Cam
+https://5ed7b8fd7bf40.streamlock.net:444/schoonersbarHDCam/schbar/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Schooners Beach Cam
+https://5ed7b8fd7bf40.streamlock.net:444/schoonersbeachHDCam/schbeach/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Schooners Sunset Cam
+https://5ed7b8fd7bf40.streamlock.net:444/schoonerssunsetHDCam/schsun/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA The Port Camas-Washougal
+https://5f9f690034fb0.streamlock.net:444/washougalairport/washougalairport.stream/chunklist_w1025270435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Roanoke Regional Airport
+https://d1tj3emjaoxhx8.cloudfront.net/out/v1/92c6e429920c423fbe81bbe64af45a23/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Atlanta Hartsfield-Jackson Airport
+https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt2-rtmp-v3/live_720p30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Atlanta Hartsfield-Jackson Airport
+https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt3-rtmp-v3/live_720p30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Behemoths
+https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Cage
+https://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Panda 3
+https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Platypus
+https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Camera Brooklyn Bridge & Manhattan" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgqCkUYmkapqGYRmkGNYkRP4QjaVYC3l-u0QqZ=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Brooklyn Bridge & Manhattan
 http://boxtv.uniredes.com.br:80/16031974/16031974/118
 #EXTINF:-1 tvg-id="" tvg-name="partypoker TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQts0Ns_qlMlVILqyK9PTUx29YBU9TSfK6DuDTyiQ=s512-c-k-c0x00ffffff-no-rj" group-title="Esportes",partypoker TV
@@ -63,7 +159,14 @@ http://boxtv.uniredes.com.br:80/16031974/16031974/122
 http://boxtv.uniredes.com.br:80/16031974/16031974/123
 #EXTINF:-1 tvg-id="" tvg-name="nature
 http://boxtv.uniredes.com.br:80/16031974/16031974/128
-
+#EXTINF:-1 tvg-id="" tvg-name="Camera Bauneario Camburiu" tvg-logo="https://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Bauneario Camburiu
+http://boxtv.uniredes.com.br:80/16031974/16031974/113
+#EXTINF:-1 tvg-id="" tvg-name="Camera Porto de Santos" tvg-logo="https://yt3.ggpht.com/7vaRXqp1M2WaAMQGS6JB6r8RZA7yG8XC52DLEhD0eH43Lp63j4BcvszhqoyFEWNnummpFc6FfWY=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Porto de Santos
+http://boxtv.uniredes.com.br:80/16031974/16031974/114
+#EXTINF:-1 tvg-id="" tvg-name="Camera Canal Itajai e Navegantes SC" tvg-logo="https://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Canal Itajai e Navegantes SC
+http://boxtv.uniredes.com.br:80/16031974/16031974/115
+#EXTINF:-1 tvg-id="" tvg-name="Kansas Zoo" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBi93MNNy48WLEonDA-p8d72dXW7IIdKSdSFN3=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Kansas Zoo
+http://boxtv.uniredes.com.br:80/16031974/16031974/116
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Железногорск 1
 http://109.196.208.35:8080/hls/5084/5daf290b92fcefb69889/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Железногорск 2
@@ -86,8 +189,6 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",Panda Cam 2
 http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Wrightsville Beach
-http://169.47.9.197:1935/live/wb.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Воронеж 2
 http://178.210.46.102:80/cam1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Воронеж 10
@@ -188,8 +289,6 @@ http://37.79.254.224:1234/hls1/tvg.m3u8
 http://553dc34944e34.streamlock.net/ingrad/Tumensky.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Москва 18
 http://553dc34944e34.streamlock.net/ingrad/Tumensky3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Green Parrot Bar 2
-http://55507e0501d25.streamlock.net/live/greenparrot2.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Москва 10
 http://57820f09e94a7.streamlock.net/live/D1-1.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Москва 10
@@ -204,24 +303,10 @@ http://57820f09e94a7.streamlock.net/live/Metropolia4.stream/HasBahCa.m3u8
 http://57820f09e94a7.streamlock.net/live/Metropolia5.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Видное 4
 http://57820f09e94a7.streamlock.net/live/Vidnoe4.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Dead Dog Saloon Stage
-http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam/deaddog/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Dead Dog Saloon MarshWalk
-http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam3/deaddog3/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Schooners Beach Cam
-http://58f0f58ecd733.streamlock.net:1935/schoonersbeachHDCam/schbeach/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",Scotland - Обезьяны
 http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",Scotland - Обезьяны
 http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Southport 2
-http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Kure Beach Street Cam
-http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Southport
-http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Manasquan
-http://5a5f765a4fcc2.streamlock.net:1935/live/squan.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*DE_GERMAN_DACH_WEBCAM",Germany - Düsseldorf 3
 http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-bp/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*DE_GERMAN_DACH_WEBCAM",Germany - Düsseldorf 1
@@ -358,8 +443,6 @@ http://alkomarket.camsh.ntsk.ru/hls/ntsk-alkomarket.m3u8
 http://aloha.streamink.nl/aloha/aloha.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Wijk
 http://aloha.streamink.nl/aloha/aloha.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Monkey
-http://ape.hls.camzonecdn.com/CamzoneStreams/ape/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Орск 9
 http://avangard2.camsh.orsk.ru/hls/avangard2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Китай 2
@@ -406,14 +489,6 @@ http://cam104y3.gesell.com.ar/playlist.m3u8
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEB CAM Y CLIMA" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png",LA PINOCHA VILLA GESELL
 http://camlapinocha.gesell.com.ar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Las Vegas 4
-http://cams.lasvegas.net:1935/live/LasVesgasNetHotelNorthCamNorth.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Las Vegas
-http://cams.lasvegas.net:1935/live/LasVesgasNetHotelNorthCamSouth.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Las Vegas 2
-http://cams.lasvegas.net:1935/live/LVNetOrleansDown.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Las Vegas 3
-http://cams.lasvegas.net:1935/live/LVNetOrleansWest.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",UK - Ilfracombe 1
 http://camsecure.co/HLS/ilfracombe1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",Ilfracombe (UK)
@@ -426,8 +501,6 @@ http://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/HasBahCa.m3u8
 http://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/chunklist_w11552912.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*TÜRK_Webcam",Muğla-Marmaris-Yat Limanı
 http://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Estes Park
-http://cdn.estesparkwebcams.com/prospect3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EU_POLAND_webcam",Poland - Cieszyn
 http://cdn.stream360.pl/CieszynCam/CieszynRynekHD.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Томск - Перекресток пр. Ленина
@@ -508,8 +581,6 @@ http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
 http://egina.nethorizontes.tv:1935/lopesip/lopesip02.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",Brazil - Surf
 http://egina.nethorizontes.tv:1935/lopesip/lopesip02.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Elephant
-http://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Санкт-Петербург 16
 http://erlyvideo.v6.spb.ru/Street_V6_1/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Loosdrecht 1
@@ -924,8 +995,6 @@ http://live.cmirit.ru:1935/live/smart8_1920x1080.stream/HasBahCa.m3u8
 http://live.idnes.cz/slow/amc/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",CZ Чехия - Ж/д королевство
 http://live.idnes.cz/slow/kralovstvizeleznic/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - feeder
-http://live.idnes.cz/slow/krmitkousa/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Чехия - Аэропорт
 http://live.idnes.cz/slow/planespotting/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Чехия - Аэропорт
@@ -1014,12 +1083,6 @@ http://murmansk-online.ru:8080/apatity_zal/index.m3u8
 http://murmansk-online.ru:8080/apatity_zal1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Мурманск 5
 http://murmansk-online.ru:8080/k174/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Leo
-http://nzp-ms05.si.edu/live_edge_lion/smil:lion01_all.smil/chunklist_b5500000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Panda
-http://nzp-ms06.si.edu/live_edge_panda/panda02/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Panda 2
-http://nzp-ms06.si.edu/live_edge_panda/smil:panda02_all.smil/chunklist_b2464000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Красноярск 1
 http://oldonline3.orionnet.online/cam1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Красноярск 1
@@ -1054,8 +1117,6 @@ http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/HasBahCa.m3u8
 http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY_BILBOARD.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Словакия 11
 http://parksnow.zivekamery.sk:1935/donovaly/KASA_ZAHRADISTE.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Polar bear
-http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Новотроицк 1
 http://poliklinika.camsh.ntsk.ru/hls/ntsk-poliklinika.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Литва - Кафедральный собор
@@ -1862,54 +1923,6 @@ http://www.windsurfbreizh22.com/webcamHD/webcam-plestin/video.php
 http://www.windsurfbreizh22.com/webcamHD/webcam-rosaires/video.php
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",France - Windsurf Breizh 22 - Tresmeur HD
 http://www.windsurfbreizh22.com/webcamHD/webcam1/video.php
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Baboon
-http://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Condor
-http://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Koala
-http://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Owl
-http://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Panda
-http://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Penguins
-http://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Tiger
-http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Glenwood Springs Airport
-https://2-fss-2.streamhoster.com/pl_126/200612-1195930-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Glenwood Springs Airport
-https://2-fss-2.streamhoster.com/pl_126/200612-1195932-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Glenwood Springs Airport
-https://2-fss-2.streamhoster.com/pl_126/200612-1195934-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Minnesota
-https://55507e0501d25.streamlock.net/live/spiritmtn.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Yosemite Falls
-https://56cdb389b57ec.streamlock.net/live/yosfalls.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Blokzijl 1
-https://584b389d712f9.streamlock.net/live2/blokzijl1.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Blokzijl 2
-https://584b389d712f9.streamlock.net/live2/blokzijl2.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Delfzijl 2
-https://584b389d712f9.streamlock.net/live2/delfzijl2.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Myrtle Beach Cam 3
-https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Myrtle Beach Cam 2
-https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Rotterdam 9
-https://5cee0d703d908.streamlock.net/rtplive/paulmartens103751.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",NL - Rotterdam 10
-https://5cee0d703d908.streamlock.net/rtplive/paulmartens103752.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Independence State Airport
-https://5ddd47d64e730.streamlock.net:444/jeannesflyingservice1/jeannesflyingservice1.stream/chunklist_w1266566556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Schooners Hill Bar Cam
-https://5ed7b8fd7bf40.streamlock.net:444/schoonersbarHDCam/schbar/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Schooners Beach Cam
-https://5ed7b8fd7bf40.streamlock.net:444/schoonersbeachHDCam/schbeach/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Schooners Sunset Cam
-https://5ed7b8fd7bf40.streamlock.net:444/schoonerssunsetHDCam/schsun/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA The Port Camas-Washougal
-https://5f9f690034fb0.streamlock.net:444/washougalairport/washougalairport.stream/chunklist_w1025270435.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*TÜRK_Webcam",Istanbul Bağcılar-Halk Sarayı - Konuklar
 https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_5941447a83611.smil/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="*TÜRK_Webcam",Istanbul Bağcılar-Halk Sarayı - Nikah Masası
@@ -2078,12 +2091,6 @@ https://ch-fra-n2.livespotting.com/vpu/sttko2er/f1q161no_720.m3u8
 https://ch-fra-n2.livespotting.com/vpu/tw0xvqm0/bc49630p_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WORLD_webcam_MIX",Greece - Corfu International Airport
 https://corfulive.gr/laveranda/laveranda.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Roanoke Regional Airport
-https://d1tj3emjaoxhx8.cloudfront.net/out/v1/92c6e429920c423fbe81bbe64af45a23/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Atlanta Hartsfield-Jackson Airport
-https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt2-rtmp-v3/live_720p30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA Atlanta Hartsfield-Jackson Airport
-https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt3-rtmp-v3/live_720p30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Астрахань 5
 https://dvr.astrakhan.ru/cam14hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Астрахань 11
@@ -3248,14 +3255,6 @@ https://www.youtube.com/watch?v=TLZ6LcTDgNs
 https://yes35.ru/web/webcam-1/webcam.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUS_exCCCP_webcam",Вологда 2
 https://yes35.ru/web/webcam-3/webcam.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Behemoths
-https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Cage
-https://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Panda 3
-https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/HasBahCa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA_webcam",USA - Platypus
-https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Украина 🇺🇦",Первомайский - Вход 4-й школы
 http://193.105.124.5/dash/psh6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Украина 🇺🇦",Первомайский - Автостанция
