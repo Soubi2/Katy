@@ -27,6 +27,26 @@ http://iptv.icsnleb.com:25461/movie/12/12/182.mp4
 http://iptv.icsnleb.com:25461/movie/12/12/176.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bint El-Hares - 1967
 http://iptv.icsnleb.com:25461/movie/12/12/177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Ldc" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.Ldc
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/980
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Lbc" tvg-logo="http://62.210.244.18/logo/ARABE/LBCAT.png" group-title="Lebanon - لبنان",Ar: lebanon.Lbc
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/981
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.otv" tvg-logo="http://62.210.244.18/logo/ARABE/OTVTV.png" group-title="Lebanon - لبنان",Ar: lebanon.otv
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/982
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.nbn" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.nbn
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/983
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.mtv" tvg-logo="http://62.210.244.18/logo/ARABE/MTVLEBANONHD.png" group-title="Lebanon - لبنان",Ar: lebanon.mtv
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/984
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.future" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.future
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/985
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.almanar" tvg-logo="http://62.210.244.18/logo/ARABE/ALMANAR.png" group-title="Lebanon - لبنان",Ar: lebanon.almanar
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/986
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.aljadeed" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.aljadeed
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/987
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Almayadeen" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.Almayadeen
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/988
+#EXTINF:-1 tvg-id="" tvg-name="Tatt7" tvg-logo="" group-title="Lebanon - لبنان",Ar: Tatt7
+http://www.magicoiptv.org:8080/g6/9Lxbl7OKqE/989
 #EXTINF:-1 tvg-id="" tvg-name="LBC SAT0
 http://dream4k.org:8080/1rlz5mxevj/hitjlsxgqg/53433
 #EXTINF:-1 tvg-id="" tvg-name="LBC HD0
