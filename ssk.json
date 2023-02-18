@@ -50,13 +50,6 @@
 },
 {
 "id": "1",
-"label": "NewLEB",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Lebar.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},
-{
-"id": "1",
 "label": "US Channels",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/usu.m3u",
 "type": "1",
