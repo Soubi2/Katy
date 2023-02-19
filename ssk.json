@@ -22,13 +22,6 @@
 },
 {
 "id": "1",
-"label": "LebaneseOnly",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/lbsep.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-}, 
-{
-"id": "1",
 "label": "Camera",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/came.m3u",
 "type": "1",
