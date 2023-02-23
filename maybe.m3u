@@ -1,5 +1,4 @@
-﻿#EXTM3U
-
+#EXTM3U
 #EXTINF:-1 tvg-id="Soubi" tvg-name="mtv0
 http://ssitv.ddns.net:9074/wachannel1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="Soubi" tvg-name="lbc0
@@ -24,7 +23,6 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8 
 #EXTINF:-1 tvg-id="Soubi" tvg-name="lbc rotana
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 1" tvg-logo="" group-title="SKYFLIX",SKYFLIX 1
 http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/28
 #EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 2" tvg-logo="" group-title="SKYFLIX",SKYFLIX 2
@@ -370,7 +368,6 @@ http://www.magicoiptv.org:8080/skype726282/52726383/987
 http://www.magicoiptv.org:8080/skype726282/52726383/988
 #EXTINF:-1 tvg-id="" tvg-name="Ar: Tatt7" tvg-logo="" group-title="Lebanon - لبنان",Ar: Tatt7
 http://www.magicoiptv.org:8080/skype726282/52726383/989
-
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="" group-title="FRANCE TNT",France 2
 http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/6
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="" group-title="FRANCE TNT",France 3
@@ -459,5 +456,3 @@ http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/48
 http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/49
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="FRANCE SPORT",BEIN SPORTS 3 HD
 http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/50
-
-
