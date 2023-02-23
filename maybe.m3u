@@ -1,0 +1,17 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="Soubi" tvg-name="mtv
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="lbc
+http://ssitv.ddns.net:9074/wachannel2/index.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="lbc2  
+http://ssitv.ddns.net:9074/wachannel6/index.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="jadeed   
+http://ssitv.ddns.net:9074/wachannel7/index.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="Mayadeen   
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Soubi" tvg-name="jazeera live 
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="lbc rotana
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8 
+
