@@ -14,4 +14,47 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8 
 #EXTINF:-1 tvg-id="Soubi" tvg-name="lbc rotana
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8 
-
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Aflam1" tvg-logo="http://logo.ddnb.tn/logochanel/40.png" group-title="Arabic",Ar: art Aflam1
+http://www.magicoiptv.org:8080/skype726282/52726383/967
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Aflam2" tvg-logo="http://logo.ddnb.tn/logochanel/41.png" group-title="Arabic",Ar: art Aflam2
+http://www.magicoiptv.org:8080/skype726282/52726383/968
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Cinema" tvg-logo="http://logo.ddnb.tn/logochanel/602.png" group-title="Arabic",Ar: art Cinema
+http://www.magicoiptv.org:8080/skype726282/52726383/969
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Hekayat" tvg-logo="http://logo.ddnb.tn/logochanel/758.png" group-title="Arabic",Ar: art Hekayat
+http://www.magicoiptv.org:8080/skype726282/52726383/970
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Hekayat 2" tvg-logo="http://logo.ddnb.tn/logochanel/759.png" group-title="Arabic",Ar: art Hekayat 2
+http://www.magicoiptv.org:8080/skype726282/52726383/971
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Clip" tvg-logo="http://logo.ddnb.tn/logochanel/2212.png" group-title="Arabic",Ar: Rotana Clip
+http://www.magicoiptv.org:8080/skype726282/52726383/972
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Music" tvg-logo="http://logo.ddnb.tn/logochanel/2212.png" group-title="Arabic",Ar: Rotana Music
+http://www.magicoiptv.org:8080/skype726282/52726383/973
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Aflam" tvg-logo="http://logo.ddnb.tn/logochanel/2214.png" group-title="Arabic",Ar: Rotana Aflam
+http://www.magicoiptv.org:8080/skype726282/52726383/974
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Khaliji" tvg-logo="http://logo.ddnb.tn/logochanel/2211.png" group-title="Arabic",Ar: Rotana Khaliji
+http://www.magicoiptv.org:8080/skype726282/52726383/975
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Drama" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ROTANADRAMA.png" group-title="Arabic",Ar: Rotana Drama
+http://www.magicoiptv.org:8080/skype726282/52726383/976
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Classic" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ROTANACLASSIC.png" group-title="Arabic",Ar: Rotana Classic
+http://www.magicoiptv.org:8080/skype726282/52726383/977
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Cinema" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ROTANACINEMAKSA.png" group-title="Arabic",Ar: Rotana Cinema
+http://www.magicoiptv.org:8080/skype726282/52726383/978
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Ldc" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.Ldc
+http://www.magicoiptv.org:8080/skype726282/52726383/980
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Lbc" tvg-logo="http://62.210.244.18/logo/ARABE/LBCAT.png" group-title="Lebanon - لبنان",Ar: lebanon.Lbc
+http://www.magicoiptv.org:8080/skype726282/52726383/981
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.otv" tvg-logo="http://62.210.244.18/logo/ARABE/OTVTV.png" group-title="Lebanon - لبنان",Ar: lebanon.otv
+http://www.magicoiptv.org:8080/skype726282/52726383/982
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.nbn" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.nbn
+http://www.magicoiptv.org:8080/skype726282/52726383/983
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.mtv" tvg-logo="http://62.210.244.18/logo/ARABE/MTVLEBANONHD.png" group-title="Lebanon - لبنان",Ar: lebanon.mtv
+http://www.magicoiptv.org:8080/skype726282/52726383/984
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.future" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.future
+http://www.magicoiptv.org:8080/skype726282/52726383/985
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.almanar" tvg-logo="http://62.210.244.18/logo/ARABE/ALMANAR.png" group-title="Lebanon - لبنان",Ar: lebanon.almanar
+http://www.magicoiptv.org:8080/skype726282/52726383/986
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.aljadeed" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.aljadeed
+http://www.magicoiptv.org:8080/skype726282/52726383/987
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Almayadeen" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.Almayadeen
+http://www.magicoiptv.org:8080/skype726282/52726383/988
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tatt7" tvg-logo="" group-title="Lebanon - لبنان",Ar: Tatt7
+http://www.magicoiptv.org:8080/skype726282/52726383/989
