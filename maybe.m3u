@@ -1,5 +1,4 @@
-﻿#EXTM3U
-
+#EXTM3U
 #EXTINF:-1 tvg-id="Soubi" tvg-name="mtv
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8 
 #EXTINF:-1 tvg-id="Soubi" tvg-name="lbc
