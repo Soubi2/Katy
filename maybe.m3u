@@ -1,0 +1,463 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="Soubi" tvg-name="mtv0
+http://ssitv.ddns.net:9074/wachannel1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="Soubi" tvg-name="lbc0
+http://ssitv.ddns.net:9074/wachannel2/tracks-v3a1/mono.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="jazeera live 
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="lbc fada2iya
+http://217.79.245.170:1935/livezc/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Soubi" tvg-name="music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-id="Soubi" tvg-name="mtv
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="lbc
+http://ssitv.ddns.net:9074/wachannel2/index.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="lbc2  
+http://ssitv.ddns.net:9074/wachannel6/index.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="jadeed   
+http://ssitv.ddns.net:9074/wachannel7/index.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="Mayadeen   
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Soubi" tvg-name="jazeera live 
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8 
+#EXTINF:-1 tvg-id="Soubi" tvg-name="lbc rotana
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 1" tvg-logo="" group-title="SKYFLIX",SKYFLIX 1
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/28
+#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 2" tvg-logo="" group-title="SKYFLIX",SKYFLIX 2
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/29
+#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 3" tvg-logo="" group-title="SKYFLIX",SKYFLIX 3
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/30
+#EXTINF:-1 tvg-id="" tvg-name="SKYFLIX 4" tvg-logo="" group-title="SKYFLIX",SKYFLIX 4
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/31
+#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Arabic" tvg-logo="" group-title="BEOUT Q",BeoutQ Arabic
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/41
+#EXTINF:-1 tvg-id="" tvg-name="Beout Q Cinema" tvg-logo="" group-title="BEOUT Q",Beout Q Cinema
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/42
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="" group-title="HBO MAX",HBO MAX 1
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/119
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="" group-title="HBO MAX",HBO MAX 2
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/120
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="" group-title="HBO MAX",HBO MAX 3
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/121
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 " tvg-logo="" group-title="HBO MAX",HBO MAX 4 
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/122
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy - FR" tvg-logo="" group-title="NETFLIX FR",Netflix Comedy - FR
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/114
+#EXTINF:-1 tvg-id="" tvg-name="NEtflix Action - FR" tvg-logo="" group-title="NETFLIX FR",NEtflix Action - FR
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/115
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids - FR" tvg-logo="" group-title="NETFLIX FR",Netflix Kids - FR
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/116
+#EXTINF:-1 tvg-id="" tvg-name="Netflix SYFY - FR" tvg-logo="" group-title="NETFLIX FR",Netflix SYFY - FR
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/117
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Western - FR" tvg-logo="" group-title="NETFLIX FR",Netflix Western - FR
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/118
+#EXTINF:-1 tvg-id="" tvg-name="HULU ACTION" tvg-logo="" group-title="HULU",HULU ACTION
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/32
+#EXTINF:-1 tvg-id="" tvg-name="HULU ARABIA" tvg-logo="" group-title="HULU",HULU ARABIA
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/33
+#EXTINF:-1 tvg-id="" tvg-name="HULU BOLLYWOOD" tvg-logo="" group-title="HULU",HULU BOLLYWOOD
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/34
+#EXTINF:-1 tvg-id="" tvg-name="HULU BOX OFFICE" tvg-logo="" group-title="HULU",HULU BOX OFFICE
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/35
+#EXTINF:-1 tvg-id="" tvg-name="HULU KIDS" tvg-logo="" group-title="HULU",HULU KIDS
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/36
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON ACTION" tvg-logo="" group-title="DRAGON TV",DRAGON ACTION
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/37
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ARABIC " tvg-logo="" group-title="DRAGON TV",Dragon ARABIC 
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/38
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ULTRA" tvg-logo="" group-title="DRAGON TV",Dragon ULTRA
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/40
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON COMEDY" tvg-logo="" group-title="DRAGON TV",DRAGON COMEDY
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/39
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Action" tvg-logo="" group-title="SHAHID VIP",Shahid Action
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/43
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID ARABIA" tvg-logo="" group-title="SHAHID VIP",SHAHID ARABIA
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/44
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Comedy" tvg-logo="" group-title="SHAHID VIP",Shahid Comedy
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/45
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Documentary" tvg-logo="" group-title="SHAHID VIP",Shahid Documentary
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/46
+#EXTINF:-1 tvg-id="" tvg-name="Shahid SYFY" tvg-logo="" group-title="SHAHID VIP",Shahid SYFY
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/47
+#EXTINF:-1 tvg-id="" tvg-name="Infinity Action" tvg-logo="" group-title="INFINITY",Infinity Action
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/48
+#EXTINF:-1 tvg-id="" tvg-name="Iinfinity Comedy" tvg-logo="" group-title="INFINITY",Iinfinity Comedy
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/49
+#EXTINF:-1 tvg-id="" tvg-name="Infinity KIDS" tvg-logo="" group-title="INFINITY",Infinity KIDS
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/50
+#EXTINF:-1 tvg-id="" tvg-name="Infinity Romance" tvg-logo="" group-title="INFINITY",Infinity Romance
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/51
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Arabia" tvg-logo="" group-title="MAJESTIC",Majestic Arabia
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/52
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Movie" tvg-logo="" group-title="MAJESTIC",Majestic Movie
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/53
+#EXTINF:-1 tvg-id="" tvg-name="Majestic KIDS" tvg-logo="" group-title="MAJESTIC",Majestic KIDS
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/54
+#EXTINF:-1 tvg-id="" tvg-name="IFLIX Action" tvg-logo="" group-title="IFLIX",IFLIX Action
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/55
+#EXTINF:-1 tvg-id="" tvg-name="IFLIX Arabic" tvg-logo="" group-title="IFLIX",IFLIX Arabic
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/56
+#EXTINF:-1 tvg-id="" tvg-name="IFLIX Prime" tvg-logo="" group-title="IFLIX",IFLIX Prime
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/57
+#EXTINF:-1 tvg-id="" tvg-name="IFLIX Moudablaj" tvg-logo="" group-title="IFLIX",IFLIX Moudablaj
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/58
+#EXTINF:-1 tvg-id="" tvg-name="OXN Cinema 1" tvg-logo="" group-title="OXN TV",OXN Cinema 1
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/204
+#EXTINF:-1 tvg-id="" tvg-name="OXN Cinema 2" tvg-logo="" group-title="OXN TV",OXN Cinema 2
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/205
+#EXTINF:-1 tvg-id="" tvg-name="OXN Islamixc" tvg-logo="" group-title="OXN TV",OXN Islamixc
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/206
+#EXTINF:-1 tvg-id="" tvg-name="OXN Tarab" tvg-logo="" group-title="OXN TV",OXN Tarab
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/207
+#EXTINF:-1 tvg-id="" tvg-name="OXN MIX" tvg-logo="" group-title="OXN TV",OXN MIX
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/208
+#EXTINF:-1 tvg-id="" tvg-name="OXN Box-Office" tvg-logo="" group-title="OXN TV",OXN Box-Office
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/209
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION - AR" tvg-logo="" group-title="NETFLIX ARAB",NETFLIX ACTION - AR
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/277
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA - AR" tvg-logo="" group-title="NETFLIX ARAB",NETFLIX DRAMA - AR
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/278
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="NETFLIX ARAB",NETFLIX COMEDY
+http://chimeratv.live:25461/arabstarmov1/0p3MBb9D58/279
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 1 Premium SD ⚽" tvg-logo="https://i.ibb.co/R43g0kk/p1sd.png" group-title="BEINSPORT SD",beIN ⚽ 1 Premium SD ⚽
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/11
+#EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 2 Premium SD ⚽" tvg-logo="https://i.ibb.co/1rzGCtj/p2sd.png" group-title="BEINSPORT SD",beIN ⚽ 2 Premium SD ⚽
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/12
+#EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 3 Premium SD ⚽" tvg-logo="https://i.ibb.co/jGyv3z3/p3sd.png" group-title="BEINSPORT SD",beIN ⚽ 3 Premium SD ⚽
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/13
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="https://i.ibb.co/zF2htKY/1sd.png" group-title="BEINSPORT SD",beIN Sports 1 SD
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/14
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 SD" tvg-logo="https://i.ibb.co/H27PcRY/2sd.png" group-title="BEINSPORT SD",beIN Sports 2 SD
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/15
+#EXTINF:-1 tvg-id="" tvg-name="bein Sport 3 SD" tvg-logo="https://i.ibb.co/82Bn2sf/3sd.png" group-title="BEINSPORT SD",bein Sport 3 SD
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/16
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 SD***" tvg-logo="https://i.ibb.co/Z2bnG5c/4sd.png" group-title="BEINSPORT SD",beIN Sports 4 SD***
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/17
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 SD***" tvg-logo="https://i.ibb.co/9yMKyrh/5sd.png" group-title="BEINSPORT SD",beIN Sports 5 SD***
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/18
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 SD***" tvg-logo="https://i.ibb.co/PwSbtH9/6sd.png" group-title="BEINSPORT SD",beIN Sports 6 SD***
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/19
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 SD***" tvg-logo="https://i.ibb.co/g9Ts8P2/7sd.png" group-title="BEINSPORT SD",beIN Sports 7 SD***
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/20
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 1 FR HD" tvg-logo="https://i.ibb.co/Pg1WRdr/1frhd.png" group-title="Sport FR",⚽ | beIN Sports 1 FR HD
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/110
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 2 FR HD" tvg-logo="https://i.ibb.co/8dXBFjJ/2frhd.png" group-title="Sport FR",⚽ | beIN Sports 2 FR HD
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/111
+#EXTINF:-1 tvg-id="" tvg-name="⚽ | beIN Sports 3 FR HD" tvg-logo="https://i.ibb.co/DC2r5T0/3enhd.png" group-title="Sport FR",⚽ | beIN Sports 3 FR HD
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/112
+#EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 2 Premium HD" tvg-logo="https://i.ibb.co/Tr9Ps9f/p2.png" group-title="BEINSPORT HD",beIN ⚽ 2 Premium HD
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/4
+#EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 3 Premium HD" tvg-logo="https://i.ibb.co/hFV98hN/p3.png" group-title="BEINSPORT HD",beIN ⚽ 3 Premium HD
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/5
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD**" tvg-logo="https://i.ibb.co/ZmtHb8n/1hd.png" group-title="BEINSPORT HD",beIN Sports 1 HD**
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/6
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD**" tvg-logo="https://i.ibb.co/xzgvG8G/3hd.png" group-title="BEINSPORT HD",beIN Sports 3 HD**
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/7
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD**" tvg-logo="https://i.ibb.co/n8kZRrQ/5hd.png" group-title="BEINSPORT HD",beIN Sports 5 HD**
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD**" tvg-logo="https://i.ibb.co/gvNHjnV/6hd.png" group-title="BEINSPORT HD",beIN Sports 6 HD**
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/9
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD**" tvg-logo="https://i.ibb.co/P1xfZFj/7hd.png" group-title="BEINSPORT HD",beIN Sports 7 HD**
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/10
+#EXTINF:-1 tvg-id="" tvg-name="beIN ⚽ 1 Premium HD" tvg-logo="https://i.ibb.co/2yrMX3d/p1.png" group-title="BEINSPORT HD",beIN ⚽ 1 Premium HD
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD**" tvg-logo="https://i.ibb.co/cr7thgw/2hd.png" group-title="BEINSPORT HD",beIN Sports 2 HD**
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/139
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD**" tvg-logo="" group-title="BEINSPORT HD",beIN Sports 4 HD**
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/140
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport News" tvg-logo="" group-title="BEINSPORT HD",Beinsport News
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/306
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 1 Low" tvg-logo="https://i.ibb.co/c3nZSmj/p1low.png" group-title="BEINSPORT LOW",Bein Sports PR 1 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/141
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 2 Low" tvg-logo="https://i.ibb.co/twGZkmf/p2low.png" group-title="BEINSPORT LOW",Bein Sports PR 2 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/142
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports PR 3 Low" tvg-logo="https://i.ibb.co/59pRbmx/p3low.png" group-title="BEINSPORT LOW",Bein Sports PR 3 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/143
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 Low" tvg-logo="https://i.ibb.co/k3tfMnV/1low.png" group-title="BEINSPORT LOW",Bein Sports 1 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/144
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 Low" tvg-logo="https://i.ibb.co/dBYyMKP/2low.png" group-title="BEINSPORT LOW",Bein Sports 2 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/145
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 Low" tvg-logo="https://i.ibb.co/Kwsqzcd/3low.png" group-title="BEINSPORT LOW",Bein Sports 3 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/146
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 Low" tvg-logo="https://i.ibb.co/P98msCZ/4low.png" group-title="BEINSPORT LOW",Bein Sports 4 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/147
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 Low" tvg-logo="https://i.ibb.co/SmGFHKR/5low.png" group-title="BEINSPORT LOW",Bein Sports 5 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/148
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 Low" tvg-logo="https://i.ibb.co/LpcjqJM/6low.png" group-title="BEINSPORT LOW",Bein Sports 6 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/149
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 Low" tvg-logo="https://i.ibb.co/nRJ8WrX/7low.png" group-title="BEINSPORT LOW",Bein Sports 7 Low
+http://chimeratv.live:25461/HetaaIcvwv/X4r2lQBPLT/150 
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Aflam1" tvg-logo="http://logo.ddnb.tn/logochanel/40.png" group-title="Arabic",Ar: art Aflam1
+http://www.magicoiptv.org:8080/skype726282/52726383/967
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Aflam2" tvg-logo="http://logo.ddnb.tn/logochanel/41.png" group-title="Arabic",Ar: art Aflam2
+http://www.magicoiptv.org:8080/skype726282/52726383/968
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Cinema" tvg-logo="http://logo.ddnb.tn/logochanel/602.png" group-title="Arabic",Ar: art Cinema
+http://www.magicoiptv.org:8080/skype726282/52726383/969
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Hekayat" tvg-logo="http://logo.ddnb.tn/logochanel/758.png" group-title="Arabic",Ar: art Hekayat
+http://www.magicoiptv.org:8080/skype726282/52726383/970
+#EXTINF:-1 tvg-id="" tvg-name="Ar: art Hekayat 2" tvg-logo="http://logo.ddnb.tn/logochanel/759.png" group-title="Arabic",Ar: art Hekayat 2
+http://www.magicoiptv.org:8080/skype726282/52726383/971
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Clip" tvg-logo="http://logo.ddnb.tn/logochanel/2212.png" group-title="Arabic",Ar: Rotana Clip
+http://www.magicoiptv.org:8080/skype726282/52726383/972
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Music" tvg-logo="http://logo.ddnb.tn/logochanel/2212.png" group-title="Arabic",Ar: Rotana Music
+http://www.magicoiptv.org:8080/skype726282/52726383/973
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Aflam" tvg-logo="http://logo.ddnb.tn/logochanel/2214.png" group-title="Arabic",Ar: Rotana Aflam
+http://www.magicoiptv.org:8080/skype726282/52726383/974
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Khaliji" tvg-logo="http://logo.ddnb.tn/logochanel/2211.png" group-title="Arabic",Ar: Rotana Khaliji
+http://www.magicoiptv.org:8080/skype726282/52726383/975
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Drama" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ROTANADRAMA.png" group-title="Arabic",Ar: Rotana Drama
+http://www.magicoiptv.org:8080/skype726282/52726383/976
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Classic" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ROTANACLASSIC.png" group-title="Arabic",Ar: Rotana Classic
+http://www.magicoiptv.org:8080/skype726282/52726383/977
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Rotana Cinema" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ROTANACINEMAKSA.png" group-title="Arabic",Ar: Rotana Cinema
+http://www.magicoiptv.org:8080/skype726282/52726383/978
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD1" tvg-logo="http://vod-logo.net/photos/70a3a85fc866f117eed9cb582e28f23d.jpg" group-title="",Bein Movies HD1
+http://www.magicoiptv.org:8080/skype726282/52726383/12988
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD2" tvg-logo="http://vod-logo.net/photos/966a57d91127d0a3f630faab369b68cf.jpg" group-title="",Bein Movies HD2
+http://www.magicoiptv.org:8080/skype726282/52726383/12989
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD3" tvg-logo="http://vod-logo.net/photos/db562edb68f96be59df823978606de4e.jpg" group-title="",Bein Movies HD3
+http://www.magicoiptv.org:8080/skype726282/52726383/12990
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD4" tvg-logo="http://vod-logo.net/photos/a015a4e71bdc409e5b4c3657e0c9ee82.jpg" group-title="",Bein Movies HD4
+http://www.magicoiptv.org:8080/skype726282/52726383/12991
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 1 HD" tvg-logo="http://vod-logo.net/photos/0e96852a3a681794244179c87d15522b.jpg" group-title="",Bein Series 1 HD
+http://www.magicoiptv.org:8080/skype726282/52726383/12992
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 2 HD" tvg-logo="http://vod-logo.net/photos/ab4db925e2c6631550ee3e4efe20d97a.jpg" group-title="",Bein Series 2 HD
+http://www.magicoiptv.org:8080/skype726282/52726383/12993
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Life HD" tvg-logo="" group-title="",Bein Fox Life HD
+http://www.magicoiptv.org:8080/skype726282/52726383/12995
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Crime HD" tvg-logo="" group-title="",Bein Fox Crime HD
+http://www.magicoiptv.org:8080/skype726282/52726383/12996
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baraem ARB" tvg-logo="" group-title="",Bein Baraem ARB
+http://www.magicoiptv.org:8080/skype726282/52726383/12997
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox HD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="",Bein Fox HD
+http://www.magicoiptv.org:8080/skype726282/52726383/12998
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Movies HD" tvg-logo="" group-title="",Bein Fox Movies HD
+http://www.magicoiptv.org:8080/skype726282/52726383/12999
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Action Movies HD" tvg-logo="" group-title="",Bein Fox Action Movies HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13000
+#EXTINF:-1 tvg-id="" tvg-name="Bein Star World HD" tvg-logo="http://www.vod-logo.net/photos/4ebfc94bb0d3af9d2508eac495af595b.jpg" group-title="",Bein Star World HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13001
+#EXTINF:-1 tvg-id="" tvg-name="Bein Star Movies HD" tvg-logo="http://www.vod-logo.net/photos/1e1105028ef2841768dc3c877a462095.jpg" group-title="",Bein Star Movies HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13002
+#EXTINF:-1 tvg-id="" tvg-name="Bein HG TV HD" tvg-logo="http://vod-logo.net/photos/b1313851e2fbc7119d19e5dfa0f6253a.jpg" group-title="",Bein HG TV HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13003
+#EXTINF:-1 tvg-id="" tvg-name="Bein AMC HD" tvg-logo="http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg" group-title="",Bein AMC HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13004
+#EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet HD" tvg-logo="http://vod-logo.net/photos/17de009b6886c6ebd69e8c2a1d82cd7d.jpg" group-title="",Bein Gourmet HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13005
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fatafeat HD" tvg-logo="http://vod-logo.net/photos/a294039ef167065cdaf9d495b4289466.JPG" group-title="",Bein Fatafeat HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13006
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fine Living HD" tvg-logo="" group-title="",Bein Fine Living HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13007
+#EXTINF:-1 tvg-id="" tvg-name="Bein Food Network HD" tvg-logo="" group-title="",Bein Food Network HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13008
+#EXTINF:-1 tvg-id="" tvg-name="Bein Travel HD" tvg-logo="http://vod-logo.net/photos/380fe8b2cede2427e80611920087d990.jpg" group-title="",Bein Travel HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13010
+#EXTINF:-1 tvg-id="" tvg-name="Bein OutDoor HD" tvg-logo="http://www.vod-logo.net/photos/8e60fb1507fc33be0d8e82e4b311260a.jpg" group-title="",Bein OutDoor HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13011
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Max HD" tvg-logo="http://vod-logo.net/photos/de5640c6e35d7308dcb2723cbb26e09e.jpg" group-title="",Bein Discovery Max HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13012
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Life HD" tvg-logo="http://vod-logo.net/photos/e16fa7b6cd243d1b3081e38a01b550e3.jpg" group-title="",Bein Discovery Life HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13013
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="|AR| BEIN Entertainment",Bein National Geographic HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13014
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic Wild HD" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="",Bein National Geographic Wild HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13015
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic People HD" tvg-logo="" group-title="",Bein National Geographic People HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13016
+#EXTINF:-1 tvg-id="" tvg-name="Bein Animal Planet HD" tvg-logo="http://vod-logo.net/photos/016f74e4f8b8c0499fee2f2efa60bd18.jpg" group-title="",Bein Animal Planet HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13017
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baraem HD" tvg-logo="http://vod-logo.net/photos/fc7dd5590d2ca58954499cefda7398e7.png" group-title="",Bein Baraem HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13018
+#EXTINF:-1 tvg-id="" tvg-name="Bein Jeem HD" tvg-logo="http://vod-logo.net/photos/f9afa61e2ac8f44d1a69fcf72d1223a2.png" group-title="",Bein Jeem HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13019
+#EXTINF:-1 tvg-id="" tvg-name="Bein Boomerang HD" tvg-logo="http://vod-logo.net/photos/e5c00db765db29f63536879aaf95d73d.jpg" group-title="",Bein Boomerang HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13020
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baby HD" tvg-logo="" group-title="",Bein Baby HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13021
+#EXTINF:-1 tvg-id="" tvg-name="Bein Cartoon Network HD" tvg-logo="http://vod-logo.net/photos/eaab237a19b9ced036c9559fb8bb9179.png" group-title="",Bein Cartoon Network HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13022
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD1" tvg-logo="http://vod-logo.net/photos/70a3a85fc866f117eed9cb582e28f23d.jpg" group-title="|AR| BEIN Entertainment",Bein Movies HD1
+http://www.magicoiptv.org:8080/skype726282/52726383/13087
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD2" tvg-logo="http://vod-logo.net/photos/966a57d91127d0a3f630faab369b68cf.jpg" group-title="|AR| BEIN Entertainment",Bein Movies HD2
+http://www.magicoiptv.org:8080/skype726282/52726383/13088
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD3" tvg-logo="http://vod-logo.net/photos/db562edb68f96be59df823978606de4e.jpg" group-title="|AR| BEIN Entertainment",Bein Movies HD3
+http://www.magicoiptv.org:8080/skype726282/52726383/13089
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD4" tvg-logo="http://vod-logo.net/photos/a015a4e71bdc409e5b4c3657e0c9ee82.jpg" group-title="|AR| BEIN Entertainment",Bein Movies HD4
+http://www.magicoiptv.org:8080/skype726282/52726383/13090
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 1 HD" tvg-logo="http://vod-logo.net/photos/0e96852a3a681794244179c87d15522b.jpg" group-title="|AR| BEIN Entertainment",Bein Series 1 HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13091
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 2 HD" tvg-logo="http://vod-logo.net/photos/ab4db925e2c6631550ee3e4efe20d97a.jpg" group-title="|AR| BEIN Entertainment",Bein Series 2 HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13092
+#EXTINF:-1 tvg-id="" tvg-name="Bein Drama 1HD" tvg-logo="http://vod-logo.net/photos/43d1bc3e02cbacac523e26fa11fe64f8.png" group-title="|AR| BEIN Entertainment",Bein Drama 1HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13093
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Life HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fox Life HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13094
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Crime HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fox Crime HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13095
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox HD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="|AR| BEIN Entertainment",Bein Fox HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13097
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Movies HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fox Movies HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13098
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Action Movies HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fox Action Movies HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13099
+#EXTINF:-1 tvg-id="" tvg-name="Bein Star World HD" tvg-logo="http://www.vod-logo.net/photos/4ebfc94bb0d3af9d2508eac495af595b.jpg" group-title="|AR| BEIN Entertainment",Bein Star World HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13100
+#EXTINF:-1 tvg-id="" tvg-name="Bein Star Movies HD" tvg-logo="http://www.vod-logo.net/photos/1e1105028ef2841768dc3c877a462095.jpg" group-title="|AR| BEIN Entertainment",Bein Star Movies HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13101
+#EXTINF:-1 tvg-id="" tvg-name="Bein HG TV HD" tvg-logo="http://vod-logo.net/photos/b1313851e2fbc7119d19e5dfa0f6253a.jpg" group-title="|AR| BEIN Entertainment",Bein HG TV HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13102
+#EXTINF:-1 tvg-id="" tvg-name="Bein AMC HD" tvg-logo="http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg" group-title="|AR| BEIN Entertainment",Bein AMC HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13103
+#EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet HD" tvg-logo="http://vod-logo.net/photos/17de009b6886c6ebd69e8c2a1d82cd7d.jpg" group-title="|AR| BEIN Entertainment",Bein Gourmet HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13104
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fatafeat HD" tvg-logo="http://vod-logo.net/photos/a294039ef167065cdaf9d495b4289466.JPG" group-title="|AR| BEIN Entertainment",Bein Fatafeat HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13105
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fine Living HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fine Living HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13106
+#EXTINF:-1 tvg-id="" tvg-name="Bein Food Network HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Food Network HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13107
+#EXTINF:-1 tvg-id="" tvg-name="Bein BBC earth HD" tvg-logo="http://www.vod-logo.net/photos/6199f80a4bc58ab6b1ee9d2fd7039217.jpg" group-title="|AR| BEIN Entertainment",Bein BBC earth HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13108
+#EXTINF:-1 tvg-id="" tvg-name="Bein Travel HD" tvg-logo="http://vod-logo.net/photos/380fe8b2cede2427e80611920087d990.jpg" group-title="|AR| BEIN Entertainment",Bein Travel HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13109
+#EXTINF:-1 tvg-id="" tvg-name="Bein OutDoor HD" tvg-logo="http://www.vod-logo.net/photos/8e60fb1507fc33be0d8e82e4b311260a.jpg" group-title="|AR| BEIN Entertainment",Bein OutDoor HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13110
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Max HD" tvg-logo="http://vod-logo.net/photos/de5640c6e35d7308dcb2723cbb26e09e.jpg" group-title="|AR| BEIN Entertainment",Bein Discovery Max HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13111
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Life HD" tvg-logo="http://vod-logo.net/photos/e16fa7b6cd243d1b3081e38a01b550e3.jpg" group-title="|AR| BEIN Entertainment",Bein Discovery Life HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13112
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="|AR| BEIN Entertainment",Bein National Geographic HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13113
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic Wild HD" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="|AR| BEIN Entertainment",Bein National Geographic Wild HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13114
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic People HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein National Geographic People HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13115
+#EXTINF:-1 tvg-id="" tvg-name="Bein Animal Planet HD" tvg-logo="http://vod-logo.net/photos/016f74e4f8b8c0499fee2f2efa60bd18.jpg" group-title="|AR| BEIN Entertainment",Bein Animal Planet HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13116
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baraem HD" tvg-logo="http://vod-logo.net/photos/fc7dd5590d2ca58954499cefda7398e7.png" group-title="|AR| BEIN Entertainment",Bein Baraem HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13117
+#EXTINF:-1 tvg-id="" tvg-name="Bein Jeem HD" tvg-logo="http://vod-logo.net/photos/f9afa61e2ac8f44d1a69fcf72d1223a2.png" group-title="|AR| BEIN Entertainment",Bein Jeem HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13118
+#EXTINF:-1 tvg-id="" tvg-name="Bein Boomerang HD" tvg-logo="http://vod-logo.net/photos/e5c00db765db29f63536879aaf95d73d.jpg" group-title="|AR| BEIN Entertainment",Bein Boomerang HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13119
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baby HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Baby HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13120
+#EXTINF:-1 tvg-id="" tvg-name="Bein Cartoon Network HD" tvg-logo="http://vod-logo.net/photos/eaab237a19b9ced036c9559fb8bb9179.png" group-title="|AR| BEIN Entertainment",Bein Cartoon Network HD
+http://www.magicoiptv.org:8080/skype726282/52726383/13121
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Ldc" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.Ldc
+http://www.magicoiptv.org:8080/skype726282/52726383/980
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Lbc" tvg-logo="http://62.210.244.18/logo/ARABE/LBCAT.png" group-title="Lebanon - لبنان",Ar: lebanon.Lbc
+http://www.magicoiptv.org:8080/skype726282/52726383/981
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.otv" tvg-logo="http://62.210.244.18/logo/ARABE/OTVTV.png" group-title="Lebanon - لبنان",Ar: lebanon.otv
+http://www.magicoiptv.org:8080/skype726282/52726383/982
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.nbn" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.nbn
+http://www.magicoiptv.org:8080/skype726282/52726383/983
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.mtv" tvg-logo="http://62.210.244.18/logo/ARABE/MTVLEBANONHD.png" group-title="Lebanon - لبنان",Ar: lebanon.mtv
+http://www.magicoiptv.org:8080/skype726282/52726383/984
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.future" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.future
+http://www.magicoiptv.org:8080/skype726282/52726383/985
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.almanar" tvg-logo="http://62.210.244.18/logo/ARABE/ALMANAR.png" group-title="Lebanon - لبنان",Ar: lebanon.almanar
+http://www.magicoiptv.org:8080/skype726282/52726383/986
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.aljadeed" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.aljadeed
+http://www.magicoiptv.org:8080/skype726282/52726383/987
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Almayadeen" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.Almayadeen
+http://www.magicoiptv.org:8080/skype726282/52726383/988
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tatt7" tvg-logo="" group-title="Lebanon - لبنان",Ar: Tatt7
+http://www.magicoiptv.org:8080/skype726282/52726383/989
+
+#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="" group-title="FRANCE TNT",France 2
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/6
+#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="" group-title="FRANCE TNT",France 3
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/7
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FRANCE 4" tvg-logo="" group-title="FRANCE TNT",|FR| FRANCE 4
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/8
+#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="" group-title="FRANCE TNT",France 5
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/9
+#EXTINF:-1 tvg-id="" tvg-name="|FR| W9" tvg-logo="" group-title="FRANCE TNT",|FR| W9
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/12
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ CINEMA HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| CANAL+ CINEMA HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/15
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| CANAL+ HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/14
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ SERIES HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| CANAL+ SERIES HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/16
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+  FAMILY HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| CANAL+  FAMILY HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/17
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ Sport 360" tvg-logo="" group-title="FRANCE CINEMA",|FR| CANAL+ Sport 360
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/18
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+  SPORT HD" tvg-logo="" group-title="FRANCE SPORT",|FR| CANAL+  SPORT HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/19
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+  PREMIER HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| CINE+  PREMIER HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/20
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+  FAMIZ HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| CINE+  FAMIZ HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/22
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CINE+  FRISSON HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| CINE+  FRISSON HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/21
+#EXTINF:-1 tvg-id="" tvg-name="|FR| SERIE CLUB HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| SERIE CLUB HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/37
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS MAX HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| OCS MAX HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/40
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS GEANT HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| OCS GEANT HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/41
+#EXTINF:-1 tvg-id="" tvg-name="|FR| OCS CHOC HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| OCS CHOC HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/42
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| RMC SPORT 1 HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/44
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| RMC SPORT 2 HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/45
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 1" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 1
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/51
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2" tvg-logo="" group-title="FRANCE SPORT",|FR| EUROSPORT 2
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/52
+#EXTINF:-1 tvg-id="" tvg-name="|FR| ANIMAUX" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| ANIMAUX
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/58
+#EXTINF:-1 tvg-id="" tvg-name="|FR| USHUAIA TV" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| USHUAIA TV
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/59
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NATIONAL GEO WILD" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| NATIONAL GEO WILD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/60
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Planete CI" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| Planete CI
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/62
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE+ A&E" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| PLANETE+ A&E
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/63
+#EXTINF:-1 tvg-id="" tvg-name="|FR| PLANETE+" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| PLANETE+
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/64
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISNEY CHANNEL HD" tvg-logo="" group-title="FRANCE JEUNESSE",|FR| DISNEY CHANNEL HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/81
+#EXTINF:-1 tvg-id="" tvg-name="|FR| MANGAS HD" tvg-logo="" group-title="FRANCE JEUNESSE",|FR| MANGAS HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/84
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BOOMERANG HD" tvg-logo="" group-title="FRANCE JEUNESSE",|FR| BOOMERANG HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/85
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON HD" tvg-logo="" group-title="FRANCE JEUNESSE",|FR| NICKELODEON HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/78
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NICKELODEON JR HD" tvg-logo="" group-title="FRANCE JEUNESSE",|FR| NICKELODEON JR HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/77
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/65
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY SCIENCE" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY SCIENCE
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/67
+#EXTINF:-1 tvg-id="" tvg-name="|FR| DISCOVERY INVESTIGATION" tvg-logo="" group-title="FRANCE DECOUVERTE",|FR| DISCOVERY INVESTIGATION
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/66
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Canal+ FOOT" tvg-logo="" group-title="FRANCE SPORT",|FR| Canal+ FOOT
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/56
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TCM CINEMA HD" tvg-logo="" group-title="FRANCE CINEMA",|FR| TCM CINEMA HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/28
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| RMC SPORT 3 HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/46
+#EXTINF:-1 tvg-id="" tvg-name="|FR| L'EQUIPE 21 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| L'EQUIPE 21 HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/54
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EQUIDIA LIFE HD" tvg-logo="" group-title="FRANCE SPORT",|FR| EQUIDIA LIFE HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/57
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORTS 1 HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/48
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORTS 2 HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/49
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="" group-title="FRANCE SPORT",|FR| BEIN SPORTS 3 HD
+http://207.244.250.245:25461/arabstarfr3/kP4jzuvYC3/50
+
+
