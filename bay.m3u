@@ -1,4 +1,5 @@
-﻿#EXTINF:-1 tvg-id="Soubi" tvg-name="BEIN1
+#EXTM3U
+#EXTINF:-1 tvg-id="Soubi" tvg-name="BEIN1
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3244.ts
 #EXTINF:-1 tvg-id="Soubi" tvg-name="BEIN2
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3245.ts
