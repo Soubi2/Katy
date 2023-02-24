@@ -1,4 +1,5 @@
-﻿#EXTINF:-1 tvg-id="Soubi" tvg-name="Channel1
+#EXTM3U
+#EXTINF:-1 tvg-id="Soubi" tvg-name="Channel1
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/839.ts
 #EXTINF:-1 tvg-id="Soubi" tvg-name="Channel2
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/840.ts
