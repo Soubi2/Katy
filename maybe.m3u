@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soubi" tvg-name="mtv0
-http://ssitv.ddns.net:9074/wachannel1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="Soubi" tvg-name="lbc0
-http://ssitv.ddns.net:9074/wachannel2/tracks-v3a1/mono.m3u8 
 #EXTINF:-1 tvg-id="Soubi" tvg-name="jazeera live 
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8 
 #EXTINF:-1 tvg-id="Soubi" tvg-name="lbc fada2iya
