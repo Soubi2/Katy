@@ -9,6 +9,8 @@ http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3246.ts
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3247.ts
 #EXTINF:-1 tvg-id="Soubi" tvg-name="BEIN5
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/49383.ts
+#EXTINF:-1 tvg-id="Soubi" tvg-name="BEIN1
+http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/3244.ts
 #EXTINF:-1 tvg-id="Soubi" tvg-name="BEINP1
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/49685.ts
 #EXTINF:-1 tvg-id="Soubi" tvg-name="BEINP2
