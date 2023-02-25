@@ -40,7 +40,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b2.m3u",
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},  
+},
+{
+"id": "1",
+"label": "B3",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/234.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},   
 {
 "id": "1",
 "label": "ArabicaFast",
