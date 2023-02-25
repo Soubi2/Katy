@@ -50,13 +50,6 @@
 },   
 {
 "id": "1",
-"label": "ArabicaFast",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/mo3a.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},
-{
-"id": "1",
 "label": "Arabica",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/blac.m3u",
 "type": "1",
@@ -71,25 +64,11 @@
 },  
 {
 "id": "1",
-"label": "US=AR",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aus.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},  
-{
-"id": "1",
 "label": "Leb2024",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/lbew.m3u",
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
 },
-{
-"id": "1",
-"label": "US Channels",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/usu.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},     
 {
 "id": "1",
 "label": "June",
@@ -162,13 +141,6 @@
 },
 {
 "id": "1",
-"label": "Sat2",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/newt.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},
-{
-"id": "1",
 "label": "Sat3",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/newwt.m3u",
 "type": "1",
@@ -223,13 +195,6 @@
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
 }, 
- {
-"id": "1",
-"label": "Mega3",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega9.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-}, 
 {
 "id": "1",
 "label": "2026",
@@ -237,20 +202,6 @@
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
 },
-{
-"id": "1",
-"label": "SPI",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/spi.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},
-{
-"id": "1",
-"label": "mixer",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ewzz.m3u",
-"type": "1",
-"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-}, 
 {
 "id": "1",
 "label": "TVX",
