@@ -1,0 +1,559 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN SPORTS PREMIUM1 [HEVC]" tvg-logo="https://i.imgur.com/TGzCVTR.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS PREMIUM1 [HEVC]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/459.m3u8
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN SPORTS PREMIUM2 [HEVC]" tvg-logo="https://i.imgur.com/x6lC9BB.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS PREMIUM2 [HEVC]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/450.m3u8
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN SPORTS PREMIUM3 [HEVC]" tvg-logo="https://i.imgur.com/dsiOly2.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS PREMIUM3 [HEVC]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/451.m3u8
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN SPORTS1 [H265]" tvg-logo="https://i.imgur.com/dmuw7ic.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS1 [H265]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/452.m3u8
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN SPORTS2 [H265]" tvg-logo="https://i.imgur.com/dEB3RXR.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS2 [H265]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/453.m3u8
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN SPORTS3 [H265]" tvg-logo="https://i.imgur.com/reVgvcf.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS3 [H265]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3875.m3u8
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN SPORTS4 [H265]" tvg-logo="https://i.imgur.com/TYOj4Vw.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS4 [H265]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/455.m3u8
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN SPORTS5 [H265]" tvg-logo="https://i.imgur.com/N3cv3PA.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS5 [H265]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4002.m3u8
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN SPORTS6 [H265]" tvg-logo="https://i.imgur.com/6TuruRl.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS6 [H265]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/457.m3u8
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN SPORTS7 [H265]" tvg-logo="https://i.imgur.com/ArD2FmL.png" group-title="beIN SPORTS [HVEC_H265] ⚽",beIN SPORTS7 [H265]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4003.m3u8
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN SPORTS PREMIUM1 [FHD]" tvg-logo="https://i.imgur.com/TGzCVTR.png" group-title="beIN SPORTS [FHD] ⚽",beIN SPORTS PREMIUM1 [FHD]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3221.m3u8
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN SPORTS PREMIUM2 [FHD]" tvg-logo="https://i.imgur.com/x6lC9BB.png" group-title="beIN SPORTS [FHD] ⚽",beIN SPORTS PREMIUM2 [FHD]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3222.m3u8
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN SPORTS PREMIUM3 [FHD]" tvg-logo="https://i.imgur.com/dsiOly2.png" group-title="beIN SPORTS [FHD] ⚽",beIN SPORTS PREMIUM3 [FHD]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3223.m3u8
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN SPORTS FullHD2" tvg-logo="https://i.imgur.com/dEB3RXR.png" group-title="beIN SPORTS [FHD] ⚽",beIN SPORTS FullHD2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3225.m3u8
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN SPORTS FullHD3" tvg-logo="https://i.imgur.com/reVgvcf.png" group-title="beIN SPORTS [FHD] ⚽",beIN SPORTS FullHD3
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3226.m3u8
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN SPORTS FullHD4" tvg-logo="https://i.imgur.com/TYOj4Vw.png" group-title="beIN SPORTS [FHD] ⚽",beIN SPORTS FullHD4
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3227.m3u8
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN SPORTS FullHD5" tvg-logo="https://i.imgur.com/N3cv3PA.png" group-title="beIN SPORTS [FHD] ⚽",beIN SPORTS FullHD5
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3228.m3u8
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN SPORTS FullHD6" tvg-logo="https://i.imgur.com/6TuruRl.png" group-title="beIN SPORTS [FHD] ⚽",beIN SPORTS FullHD6
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3230.m3u8
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN SPORTS FullHD7" tvg-logo="https://i.imgur.com/ArD2FmL.png" group-title="beIN SPORTS [FHD] ⚽",beIN SPORTS FullHD7
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4033.m3u8
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="beIN SPORTS HD (Global)" tvg-logo="https://i.imgur.com/GqXvBgS.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS HD (Global)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/960.m3u8
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN SPORTS PREMIUM 1 ᴴᴰ" tvg-logo="https://i.imgur.com/TGzCVTR.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS PREMIUM 1 ᴴᴰ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/46.m3u8
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN SPORTS PREMIUM 2 ᴴᴰ" tvg-logo="https://i.imgur.com/x6lC9BB.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS PREMIUM 2 ᴴᴰ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/47.m3u8
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN SPORTS PREMIUM 3 ᴴᴰ" tvg-logo="https://i.imgur.com/dsiOly2.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS PREMIUM 3 ᴴᴰ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/48.m3u8
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN SPORTS 1 ᴴᴰ" tvg-logo="https://i.imgur.com/dmuw7ic.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS 1 ᴴᴰ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/49.m3u8
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN SPORTS 2 ᴴᴰ" tvg-logo="https://i.imgur.com/dEB3RXR.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS 2 ᴴᴰ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/50.m3u8
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN SPORTS 3 ᴴᴰ" tvg-logo="https://i.imgur.com/reVgvcf.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS 3 ᴴᴰ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/51.m3u8
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN SPORTS 4 ᴴᴰ" tvg-logo="https://i.imgur.com/TYOj4Vw.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS 4 ᴴᴰ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/52.m3u8
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN SPORTS 5 ᴴᴰ" tvg-logo="https://i.imgur.com/N3cv3PA.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS 5 ᴴᴰ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/53.m3u8
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN SPORTS 6 ᴴᴰ" tvg-logo="https://i.imgur.com/6TuruRl.png" group-title="beIN SPORTS [HD] ⚽",beIN SPORTS 6 ᴴᴰ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 SD" tvg-logo="https://i.imgur.com/TGzCVTR.png" group-title="beIN SPORTS [SD] ⚽",beIN SPORTS PREMIUM1 SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 SD" tvg-logo="https://i.imgur.com/x6lC9BB.png" group-title="beIN SPORTS [SD] ⚽",beIN SPORTS PREMIUM2 SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 SD" tvg-logo="https://i.imgur.com/dsiOly2.png" group-title="beIN SPORTS [SD] ⚽",beIN SPORTS PREMIUM3 SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1SD" tvg-logo="https://i.imgur.com/dmuw7ic.png" group-title="beIN SPORTS [SD] ⚽",beIN SPORTS 1SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2SD" tvg-logo="https://i.imgur.com/dEB3RXR.png" group-title="beIN SPORTS [SD] ⚽",beIN SPORTS 2SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6SD" tvg-logo="https://i.imgur.com/6TuruRl.png" group-title="beIN SPORTS [SD] ⚽",beIN SPORTS 6SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5SD" tvg-logo="[]" group-title="beIN SPORTS [SD] ⚽",beIN SPORTS 5SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4SD" tvg-logo="[]" group-title="beIN SPORTS [SD] ⚽",beIN SPORTS 4SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3SD" tvg-logo="[]" group-title="beIN SPORTS [SD] ⚽",beIN SPORTS 3SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:  beIN Outdoor" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR:  beIN Outdoor
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:  beIN AMC" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR:  beIN AMC
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Drama
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN  Gourmet" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN  Gourmet
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Movies 2 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Movies 3 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 HD " tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Movies 4 HD 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Series 1 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Series 2 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Jeem HD" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Jeem HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Fox Movies" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Fox Movies
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 HD" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Movies 1 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN FATAFEAT HD" tvg-logo="[" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN FATAFEAT HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Gourmet " tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Gourmet 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix عربي" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix عربي
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix Kids
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix Horror
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix Comedy
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX  ACTION" tvg-logo="" group-title="UGEEN BOX OFFICE",NETFLIX  ACTION
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflex Action" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflex Action
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX_DRAMA" tvg-logo="" group-title="UGEEN BOX OFFICE",NETFLIX_DRAMA
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 2" tvg-logo="" group-title="UGEEN BOX OFFICE",Netflix Horror 2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX_THRILLER" tvg-logo="" group-title="UGEEN BOX OFFICE",NETFLIX_THRILLER
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[NETFLIX] Thriller" tvg-logo="" group-title="UGEEN BOX OFFICE",[NETFLIX] Thriller
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[NETFLIX] SCi-Fi" tvg-logo="" group-title="UGEEN BOX OFFICE",[NETFLIX] SCi-Fi
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[NETFLIX] Hendy" tvg-logo="" group-title="UGEEN BOX OFFICE",[NETFLIX] Hendy
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[NETFLIX] Horror" tvg-logo="" group-title="UGEEN BOX OFFICE",[NETFLIX] Horror
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid Action]" tvg-logo="" group-title="UGEEN BOX OFFICE",[Shahid Action]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid Aflam]" tvg-logo="" group-title="UGEEN BOX OFFICE",[Shahid Aflam]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid HINDI]" tvg-logo="" group-title="UGEEN BOX OFFICE",[Shahid HINDI]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid HORROR]" tvg-logo="" group-title="UGEEN BOX OFFICE",[Shahid HORROR]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ART Aflam 1" tvg-logo="" group-title="ART Channels",AR: ART Aflam 1
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ART Aflam  2" tvg-logo="[" group-title="ART Channels",AR: ART Aflam  2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ART Cinema" tvg-logo="[" group-title="ART Channels",AR: ART Cinema
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ART Hekayat 1" tvg-logo="[" group-title="ART Channels",AR: ART Hekayat 1
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ART Hekayat 2" tvg-logo="[" group-title="ART Channels",AR: ART Hekayat 2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FIRST+2 HD" tvg-logo="[" group-title="OSN [ HD ]",AR: OSN MOVIES FIRST+2 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ID" tvg-logo="" group-title="OSN [ HD ]",OSN : ID
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN  Movies Action" tvg-logo="[" group-title="OSN [ HD ]",OSN  Movies Action
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA 1" tvg-logo="[" group-title="OSN [ HD ]",OSN YAHALA 1
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo" tvg-logo="[" group-title="OSN [ HD ]",OSN Nat Geo
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Pepole" tvg-logo="[" group-title="OSN [ HD ]",OSN Nat Geo Pepole
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies" tvg-logo="" group-title="OSN [ HD ]",OSN Star Movies
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star World " tvg-logo="" group-title="OSN [ HD ]",OSN Star World 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA CINEMA" tvg-logo="" group-title="OSN [ HD ]",OSN YAHALA CINEMA
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disny Junior" tvg-logo="" group-title="OSN [ HD ]",OSN Disny Junior
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN History Channel" tvg-logo="" group-title="OSN [ HD ]",OSN History Channel
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery ID" tvg-logo="" group-title="OSN [ HD ]",OSN Discovery ID
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Disney" tvg-logo="" group-title="OSN [ HD ]",OSN Movies Disney
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" OSN: Disney Channel" tvg-logo="[" group-title="OSN [ HD ]", OSN: Disney Channel
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Animal Planet" tvg-logo="" group-title="OSN [ HD ]",[OSN] OSN Animal Planet
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Movies Action" tvg-logo="" group-title="OSN [ HD ]",[OSN] Movies Action
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] ENIGMA HD" tvg-logo="" group-title="OSN [ HD ]",[OSN] ENIGMA HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Comedy" tvg-logo="" group-title="OSN [ HD ]",[OSN] OSN Comedy
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Animal Plannet " tvg-logo="" group-title="OSN [ HD ]",[OSN] Animal Plannet 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN]  outdoor" tvg-logo="" group-title="OSN [ HD ]",[OSN]  outdoor
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Discovery H" tvg-logo="" group-title="OSN [ HD ]",[OSN] OSN Discovery H
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Boxoffice1" tvg-logo="" group-title="OSN [ HD ]",[OSN] OSN Boxoffice1
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Mezze" tvg-logo="" group-title="OSN [ HD ]",[OSN] Mezze
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Kids" tvg-logo="" group-title="OSN [ HD ]",[OSN] OSN Kids
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN PLAY TRILLER HD 2" tvg-logo="" group-title="OSN [ HD ]",[OSN] OSN PLAY TRILLER HD 2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Star-Movies india" tvg-logo="" group-title="OSN [ HD ]",[OSN] Star-Movies india
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" OSN MOVIES BOX OFFICE 3 HD" tvg-logo="" group-title="OSN [ HD ]", OSN MOVIES BOX OFFICE 3 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Nat Geo Wild" tvg-logo="" group-title="OSN [ HD ]",[OSN] OSN Nat Geo Wild
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] : Movies" tvg-logo="" group-title="OSN [ HD ]",[OSN] : Movies
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Cinema 1" tvg-logo="" group-title="OSN [ HD ]",[OSN] Alfa Cinema 1
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Cinema 2" tvg-logo="" group-title="OSN [ HD ]",[OSN] Alfa Cinema 2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] SYFY" tvg-logo="" group-title="OSN [ HD ]",[OSN] SYFY
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] wwe" tvg-logo="" group-title="OSN [ HD ]",[OSN] wwe
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Mosalsalat" tvg-logo="" group-title="OSN [ HD ]",[OSN] Alfa Mosalsalat
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 1 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC 1 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 2 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC 2 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 3 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC 3 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 4 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC 4 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Bollywood HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Bollywood HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Massr HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Massr HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Masr 2 HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Masr 2 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Drama HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Drama HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Action HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Action HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Max HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Max HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Iraq HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Iraq HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Drama+ HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC Drama+ HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC+Variety HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: MBC+Variety HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: FOX Rewayat HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: FOX Rewayat HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: FOX Life HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: FOX Life HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: Family Movies HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: Family Movies HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/861.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: FOX Crime HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: FOX Crime HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: Fox Action" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: Fox Action
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: FX HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: FX HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/865.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: Fox Movies" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: Fox Movies
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/867.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: Planet Earth HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: Planet Earth HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: Discovery SC HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: Discovery SC HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: Gulli Arabic HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: Gulli Arabic HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MYHD: Duck TV HD" tvg-logo="" group-title="MBC [ MyHD ]",MYHD: Duck TV HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema " tvg-logo="[" group-title="Rotana - روتانا",AR:Rotana Cinema 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Cinema KSA" tvg-logo="[" group-title="Rotana - روتانا",AR: Rotana Cinema KSA
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Aflam" tvg-logo="[" group-title="Rotana - روتانا",AR:Rotana Aflam
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana  Comedy " tvg-logo="[" group-title="Rotana - روتانا",AR: Rotana  Comedy 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Classic " tvg-logo="[" group-title="Rotana - روتانا",AR: Rotana Classic 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Drama" tvg-logo="" group-title="Rotana - روتانا",AR: Rotana Drama
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Comedy" tvg-logo="" group-title="Rotana - روتانا",AR: Rotana Comedy
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Clip" tvg-logo="" group-title="Rotana - روتانا",AR: Rotana Clip
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Khaliji" tvg-logo="" group-title="Rotana - روتانا",AR: Rotana Khaliji
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3218.m3u8
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AD Sport 1" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: AD Sport 1
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AD Sport 2" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: AD Sport 2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alkass 1" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: Alkass 1
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alkass 2" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: Alkass 2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alkass 3" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: Alkass 3
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Alkass 4" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: Alkass 4
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: KSA Sports 1" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: KSA Sports 1
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: KSA Sports 2" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: KSA Sports 2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: KSA SPORTS 3" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: KSA SPORTS 3
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ksa Sport 4" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: ksa Sport 4
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera" tvg-logo="" group-title="News - قنوات الأخبار",AR: Al Jazeera
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Documentry" tvg-logo="" group-title="News - قنوات الأخبار",AR: Al Jazeera Documentry
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AlJazeera-English" tvg-logo="" group-title="News - قنوات الأخبار",AR: AlJazeera-English
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AlJazeera Eng" tvg-logo="" group-title="News - قنوات الأخبار",AR: AlJazeera Eng
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera FHD" tvg-logo="" group-title="News - قنوات الأخبار",AR: Al Jazeera FHD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL JAZEERA MUBASHER" tvg-logo="" group-title="News - قنوات الأخبار",AR: AL JAZEERA MUBASHER
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al ALArabiya" tvg-logo="" group-title="News - قنوات الأخبار",AR: Al ALArabiya
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al ALArabiya Alhadaath" tvg-logo="" group-title="News - قنوات الأخبار",AR: Al ALArabiya Alhadaath
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: RT Arabic" tvg-logo="" group-title="News - قنوات الأخبار",AR: RT Arabic
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BBC Arabic" tvg-logo="" group-title="News - قنوات الأخبار",AR: BBC Arabic
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: TRT-ELARABIYE" tvg-logo="" group-title="News - قنوات الأخبار",AR: TRT-ELARABIYE
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sky News" tvg-logo="" group-title="News - قنوات الأخبار",AR: Sky News
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" AR: FR 24 arabic HD" tvg-logo="" group-title="News - قنوات الأخبار", AR: FR 24 arabic HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: DW Arabic" tvg-logo="" group-title="News - قنوات الأخبار",AR: DW Arabic
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:  Alhurra" tvg-logo="" group-title="News - قنوات الأخبار",AR:  Alhurra
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="News - قنوات الأخبار",CNN
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24 (En Francais)" tvg-logo="" group-title="News - قنوات الأخبار",France 24 (En Francais)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Houra News" tvg-logo="" group-title="News - قنوات الأخبار",AR:Houra News
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Cartoon Network" tvg-logo="" group-title="Kids - قنوات الأطفال",AR: Cartoon Network
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Kooky" tvg-logo="" group-title="Kids - قنوات الأطفال",AR: Kooky
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Mwaheb" tvg-logo="" group-title="Kids - قنوات الأطفال",AR: Mwaheb
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Spacetoon" tvg-logo="" group-title="Kids - قنوات الأطفال",AR: Spacetoon
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Maged" tvg-logo="" group-title="Kids - قنوات الأطفال",AR: Maged
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: Toyor Al Ganna" tvg-logo="" group-title="Kids - قنوات الأطفال",AR: Toyor Al Ganna
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/1020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: wwe Network" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: wwe Network
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein Sport USA" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Bein Sport USA
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports Ñ" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: beIN Sports Ñ
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: ESPN
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: ESPN 2
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Longhorn Network" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Longhorn Network
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Drama" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Hallmark Drama
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies and Mysteries" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Hallmark Movies and Mysteries
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO COMEDY HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: HBO COMEDY HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO WILD HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NAT GEO WILD HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN NEWS" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: ESPN NEWS
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN U" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: ESPN U
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 1 HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: FOX SPORTS 1 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 2 HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: FOX SPORTS 2 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Showcase" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Showtime Showcase
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: ShowTime HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: ShowTime HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: TBS HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Discovery Channel HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Arizona" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox Sports Arizona
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Detroit" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox Sports Detroit
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Florida" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox Sports Florida
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Tampa" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox Tampa
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sport 2 4K+" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox Sport 2 4K+
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox News GO" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox News GO
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Nashville" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox Nashville
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox  Sport 1 4K+" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox  Sport 1 4K+
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Los Angeles" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox Los Angeles
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports San Diego" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox Sports San Diego
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox  Houston" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Fox  Houston
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: GOLTV " tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: GOLTV 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB NETWORK" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: MLB NETWORK
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: MSNBC
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Mav TV" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Mav TV
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA TV" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBA TV
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBCSN
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Bay Area Plus" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBC Sports Bay Area Plus
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Boston" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBC Sports Boston
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC 4any" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBC 4any
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Chicago Plus" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBC Sports Chicago Plus
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Philadelphia" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBC Sports Philadelphia
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Washington Plus" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBC Sports Washington Plus
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBCSN" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBCSN
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NESN PLUS" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NESN PLUS
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NFL Network
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Olympic Channel" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Olympic Channel
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Outside TV" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Outside TV
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Arizona" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: PAC-12 Arizona
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Bay Area" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: PAC-12 Bay Area
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Los Angeles" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: PAC-12 Los Angeles
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Oregon" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: PAC-12 Oregon
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC-12 Washington" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: PAC-12 Washington
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Pac-12 Mountain" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: Pac-12 Mountain
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Sports 1 HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",Latino: Fox Sports 1 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Sports 2 HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",Latino: Fox Sports 2 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC HD" tvg-logo="" group-title="USA - الولايات المتحدة الامريكية",US: NBC HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="" group-title="Lebanon - لبنان",LBC
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LBCI.International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="Lebanon - لبنان",LBCI.International
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEBANON TV" tvg-logo="" group-title="Lebanon - لبنان",LEBANON TV
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON" tvg-logo="https://code-gsm.com/logo/lebonan.jpg" group-title="Lebanon - لبنان",MTV LEBANON
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTURE LEBANON" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/future_tv_international.jpg" group-title="Lebanon - لبنان",FUTURE LEBANON
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBN HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nbn_lebanon.jpg" group-title="Lebanon - لبنان",NBN HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN" tvg-logo="https://code-gsm.com/logo/mayden.jpeg" group-title="Lebanon - لبنان",AL MAYADEEN
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/al_manar_tv.jpg" group-title="Lebanon - لبنان",AL MANAR
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOUR AL SHAM" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sy-nour-el-sham-tv.jpg" group-title="Lebanon - لبنان",NOUR AL SHAM
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED LEBANON" tvg-logo="https://www.lstatic.org/UserFiles/images/Lebanon/Diverts/Large/aljadeed-logo.jpg" group-title="Lebanon - لبنان",AL JADEED LEBANON
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL EKHBARIYA" tvg-logo="" group-title="Lebanon - لبنان",AL EKHBARIYA
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="https://code-gsm.com/logo/otv.png" group-title="Lebanon - لبنان",OTV
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Baraeem" tvg-logo="" group-title="beIN Entertainment - بي إن الترفيهية",AR: beIN Baraeem
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/2028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD ASIA 1 (1080p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AD ASIA 1 (1080p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD ASIA 1 (720p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AD ASIA 1 (720p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD ASIA 1 (480p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AD ASIA 1 (480p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AD Sport Premium 1 HD" tvg-logo="" group-title="SerieA - الدوري الإيطالي",AR: AD Sport Premium 1 HD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AD Sport Premium 2 HD " tvg-logo="" group-title="SerieA - الدوري الإيطالي",AR: AD Sport Premium 2 HD 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AD SPORT PREMIUM 1 SD" tvg-logo="" group-title="SerieA - الدوري الإيطالي",AR: AD SPORT PREMIUM 1 SD
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: AD SPORT PREMIUM 2 SD " tvg-logo="" group-title="SerieA - الدوري الإيطالي",AR: AD SPORT PREMIUM 2 SD 
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 1 (1080p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 1 (1080p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 2 (1080p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 2 (1080p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 3 (1080p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 3 (1080p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 4 (1080p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 4 (1080p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 5 (1080p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 5 (1080p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Extra 1 (1080p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Extra 1 (1080p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Extra 2 (1080p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Extra 2 (1080p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Sport 1 (720P)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Sport 1 (720P)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Sport 2 (720p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Sport 2 (720p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Sport 3 (720p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Sport 3 (720p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Sport 4 (720p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Sport 4 (720p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Sport 5 (720p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Sport 5 (720p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ar: SSC Extra 1 (720p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",Ar: SSC Extra 1 (720p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Extra 2 (720p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Extra 2 (720p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/3839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 1 (480p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 1 (480p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 2 (480p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 2 (480p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 3 (480p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 3 (480p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 4 (480p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 4 (480p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC SPORT 5 (480p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC SPORT 5 (480p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Extra 1 (480p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Extra 1 (480p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC Extra 2 (480p)" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC Extra 2 (480p)
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC HD1 [360P]" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC HD1 [360P]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC HD2 [360P]" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC HD2 [360P]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC HD3 [360P]" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC HD3 [360P]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC HD4 [360P]" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC HD4 [360P]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC HD5 [360P]" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC HD5 [360P]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC HD EXTRA1 [360P]" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC HD EXTRA1 [360P]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSC HD EXTRA2 [360P]" tvg-logo="" group-title="SSC Sports - Arab Sports [الرياضة العربية]",AR: SSC HD EXTRA2 [360P]
+http://ugeen.live:8080/live/exskypeyasir.ali806/8084263221/4138.m3u8
