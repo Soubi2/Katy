@@ -75,7 +75,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b8.m3u",
 "type": "1",
 "logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
-},  
+},
+{
+"id": "1",
+"label": "B8",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b9.m3u",
+"type": "1",
+"logo_url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Untitled-2.png"
+},   
 {
 "id": "1",
 "label": "OnlyAR",
