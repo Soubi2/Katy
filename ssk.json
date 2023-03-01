@@ -295,13 +295,6 @@
 }, 
 {
 "id": "1",
-"label": "PUB",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/soubigo.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
 "label": "XXXX",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b7.m3u",
 "type": "1",
