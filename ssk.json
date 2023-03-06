@@ -334,7 +334,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/wbc2.m3u",
 "type": "1",
 "logo_url": ""
-},  
+},
+{
+"id": "1",
+"label": "WBCt",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/wbct.m3u",
+"type": "1",
+"logo_url": ""
+},
 {
 "id": "1",
 "label": "WBC1",
