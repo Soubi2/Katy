@@ -58,27 +58,20 @@
 {
 "id": "1",
 "label": "B6",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b6.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "B7",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b8.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B8",
+"label": "B7",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b9.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B9",
+"label": "B8",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/dra.m3u",
 "type": "1",
 "logo_url": ""
