@@ -15,13 +15,6 @@
 },
 {
 "id": "1",
-"label": "VLC",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/test.m3u",
-"type": "1",
-"logo_url": ""
-},  
-{
-"id": "1",
 "label": "Camera",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/came.m3u",
 "type": "1",
