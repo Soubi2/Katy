@@ -82,7 +82,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b10.m3u",
 "type": "1",
 "logo_url": ""
-},      
+},
+{
+"id": "1",
+"label": "B10",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b11.m3u",
+"type": "1",
+"logo_url": ""
+},        
 {
 "id": "1",
 "label": "OnlyAR",
