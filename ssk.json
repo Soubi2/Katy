@@ -89,7 +89,28 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b11.m3u",
 "type": "1",
 "logo_url": ""
-},        
+},
+{
+"id": "1",
+"label": "M1",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m1.m3u",
+"type": "1",
+"logo_url": ""
+},
+{
+"id": "1",
+"label": "M2",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m2.m3u",
+"type": "1",
+"logo_url": ""
+},
+{
+"id": "1",
+"label": "M3",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m3.m3u",
+"type": "1",
+"logo_url": ""
+},     
 {
 "id": "1",
 "label": "OnlyAR",
