@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="test
 https://livecams.mycamtv.com/girls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="testV
+https://vod.mycamtv.net/all.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LilAlice
 https://livecams.mycamtv.com/girls/105125078.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Katherine_Twilight
