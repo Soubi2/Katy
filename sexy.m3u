@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soubi" tvg-name="test
+https://livecams.mycamtv.com/all.m3u8
+#EXTINF:-1 tvg-id="Soubi" tvg-name="testV
+https://vod.mycamtv.net/all.m3u
 #EXTINF:-1 tvg-id="Soubi" tvg-name="Channel1
 http://server.sibfungold.info:8080/live/iPtVseRver074/TvFunSibSat150/839.ts
 #EXTINF:-1 tvg-id="Soubi" tvg-name="Channel2
