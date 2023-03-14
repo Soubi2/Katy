@@ -103,7 +103,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aut.m3u",
 "type": "1",
 "logo_url": ""
-},  
+},
+{
+"id": "1",
+"label": "Aub",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aub.m3u",
+"type": "1",
+"logo_url": ""
+},    
 {
 "id": "1",
 "label": "M1",
