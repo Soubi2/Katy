@@ -110,7 +110,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aub.m3u",
 "type": "1",
 "logo_url": ""
-},    
+},
+{
+"id": "1",
+"label": "Aus",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aus.m3u",
+"type": "1",
+"logo_url": ""
+},      
 {
 "id": "1",
 "label": "M1",
