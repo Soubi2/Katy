@@ -99,6 +99,13 @@
 },
 {
 "id": "1",
+"label": "AuT",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aut.m3u",
+"type": "1",
+"logo_url": ""
+},  
+{
+"id": "1",
 "label": "M1",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m1.m3u",
 "type": "1",
