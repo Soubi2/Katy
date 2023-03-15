@@ -145,6 +145,13 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m4.m3u",
 "type": "1",
 "logo_url": ""
+},
+{
+"id": "1",
+"label": "M5",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/mo1.m3u",
+"type": "1",
+"logo_url": ""
 },       
 {
 "id": "1",
