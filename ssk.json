@@ -75,7 +75,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/p1.m3u",
 "type": "1",
 "logo_url": ""
-},  
+},
+{
+"id": "1",
+"label": "P2",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/p2.m3u",
+"type": "1",
+"logo_url": ""
+},    
 {
 "id": "1",
 "label": "AuT",
