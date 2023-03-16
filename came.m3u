@@ -1,6 +1,4 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://akamai.sscdn.co/uploadfile/letras/fotos/4/5/b/0/45b08626f3d362aa7ad790e34bc8dd23.jpg" tvg-name="Street Dance"
-http://boxtv.uniredes.com.br:80/16031974/16031974/127
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="San Diego
 http://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ocean city
@@ -155,8 +153,6 @@ http://boxtv.uniredes.com.br:80/16031974/16031974/121
 http://boxtv.uniredes.com.br:80/16031974/16031974/122
 #EXTINF:-1 tvg-id="" tvg-name="NASA" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRb1ugnpZU9Cb2wF07qqiwvVQ6ZJTfMxkrVXPUMh_A=s512-c-k-c0x00ffffff-no-rj" group-title="Variedades",NASA
 http://boxtv.uniredes.com.br:80/16031974/16031974/123
-#EXTINF:-1 tvg-id="" tvg-name="nature
-http://boxtv.uniredes.com.br:80/16031974/16031974/128
 #EXTINF:-1 tvg-id="" tvg-name="Camera Bauneario Camburiu" tvg-logo="https://yt3.ggpht.com/d2lSyZEqhxprX84rRvF_XvMFwOe9AIxkIOT8e0z9TYKV7x3fQNrJ5H8Co-Sp5fzRh0_4Ev4vwHo=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Bauneario Camburiu
 http://boxtv.uniredes.com.br:80/16031974/16031974/113
 #EXTINF:-1 tvg-id="" tvg-name="Camera Porto de Santos" tvg-logo="https://yt3.ggpht.com/7vaRXqp1M2WaAMQGS6JB6r8RZA7yG8XC52DLEhD0eH43Lp63j4BcvszhqoyFEWNnummpFc6FfWY=s512-c-k-c0x00ffffff-no-rj" group-title="Cameras",Camera Porto de Santos
