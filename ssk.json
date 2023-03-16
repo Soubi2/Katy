@@ -37,56 +37,35 @@
 {
 "id": "1",
 "label": "B3",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/234.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "B4",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/nova.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B5",
+"label": "B4",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/111.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B6",
+"label": "B5",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b8.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B7",
+"label": "B6",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b9.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B8",
+"label": "B7",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/dra.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "B9",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b10.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "B10",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b11.m3u",
 "type": "1",
 "logo_url": ""
 },
