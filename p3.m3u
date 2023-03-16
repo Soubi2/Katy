@@ -1,0 +1,556 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Ldc" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.Ldc
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/980
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Lbc" tvg-logo="http://62.210.244.18/logo/ARABE/LBCAT.png" group-title="Lebanon - لبنان",Ar: lebanon.Lbc
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/981
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.otv" tvg-logo="http://62.210.244.18/logo/ARABE/OTVTV.png" group-title="Lebanon - لبنان",Ar: lebanon.otv
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/982
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.nbn" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.nbn
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/983
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.mtv" tvg-logo="http://62.210.244.18/logo/ARABE/MTVLEBANONHD.png" group-title="Lebanon - لبنان",Ar: lebanon.mtv
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/984
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.future" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.future
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/985
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.almanar" tvg-logo="http://62.210.244.18/logo/ARABE/ALMANAR.png" group-title="Lebanon - لبنان",Ar: lebanon.almanar
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/986
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.aljadeed" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.aljadeed
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/987
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Almayadeen" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.Almayadeen
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/988
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Tatt7" tvg-logo="" group-title="Lebanon - لبنان",Ar: Tatt7
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/989
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon.Alaan TV" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon.Alaan TV
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/79686
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon TELELIBAN TV" tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon TELELIBAN TV
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/79687
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Lebanon One" tvg-logo="" group-title="Lebanon - لبنان",Ar: Lebanon One
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/79688
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Lebanon Aghani" tvg-logo="" group-title="Lebanon - لبنان",Ar: Lebanon Aghani
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/79689
+#EXTINF:-1 tvg-id="" tvg-name="Ar: lebanon Charity " tvg-logo="" group-title="Lebanon - لبنان",Ar: lebanon Charity 
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/79690
+#EXTINF:-1 tvg-id="" tvg-name="OSN Ya Hala HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNYAHALLA.png" group-title="OSN",OSN Ya Hala HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1251
+#EXTINF:-1 tvg-id="" tvg-name="OSN Ya hala Aloula HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNYAHALLAALAOULA.png" group-title="OSN",OSN Ya hala Aloula HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1252
+#EXTINF:-1 tvg-id="" tvg-name="OSN Ya Hala Cinma HD" tvg-logo="https://content.osn.com/logo/channel/cropped/CM1.png" group-title="OSN",OSN Ya Hala Cinma HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1253
+#EXTINF:-1 tvg-id="" tvg-name="OSN Muslslat HD" tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png" group-title="OSN",OSN Muslslat HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1255
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNMOVIES.png" group-title="OSN",OSN Movies HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1256
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Action HD" tvg-logo="" group-title="OSN",OSN Movies Action HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1359
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First HD" tvg-logo="" group-title="OSN",OSN Movies First HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1360
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Enigma HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNENIGMA.png" group-title="OSN",OSN Movies Enigma HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1361
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Binge HD" tvg-logo="" group-title="OSN",OSN Movies Binge HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1362
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series Living HD" tvg-logo="" group-title="OSN",OSN Series Living HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1363
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series First HD" tvg-logo="" group-title="OSN",OSN Series First HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1364
+#EXTINF:-1 tvg-id="" tvg-name="OSN Series Comedy HD" tvg-logo="" group-title="OSN",OSN Series Comedy HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1365
+#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy Central HD" tvg-logo="" group-title="OSN",OSN Comedy Central HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1366
+#EXTINF:-1 tvg-id="" tvg-name="OSN FX HD" tvg-logo="" group-title="OSN",OSN FX HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1367
+#EXTINF:-1 tvg-id="" tvg-name="OSN FOX LIFE HD" tvg-logo="" group-title="OSN",OSN FOX LIFE HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1368
+#EXTINF:-1 tvg-id="" tvg-name="OSN FOX REWAYAT HD" tvg-logo="" group-title="OSN",OSN FOX REWAYAT HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1369
+#EXTINF:-1 tvg-id="" tvg-name="OSN E! Entertainment HD" tvg-logo="" group-title="OSN",OSN E! Entertainment HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1370
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies HD" tvg-logo="" group-title="OSN",OSN Star Movies HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1371
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star World HD" tvg-logo="" group-title="OSN",OSN Star World HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1372
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery HD" tvg-logo="" group-title="OSN",OSN Discovery HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1373
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery SCI HD" tvg-logo="" group-title="OSN",OSN Discovery SCI HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1374
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Abu Dhabi  HD" tvg-logo="" group-title="OSN",OSN Nat Geo Abu Dhabi  HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1375
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geographic HD" tvg-logo="" group-title="OSN",OSN Nat Geographic HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1376
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo People HD" tvg-logo="" group-title="OSN",OSN Nat Geo People HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1377
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Wild HD" tvg-logo="" group-title="OSN",OSN Nat Geo Wild HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1378
+#EXTINF:-1 tvg-id="" tvg-name="OSN Animal Planet HD" tvg-logo="" group-title="OSN",OSN Animal Planet HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1379
+#EXTINF:-1 tvg-id="" tvg-name="OSN Paramount HD" tvg-logo="" group-title="OSN",OSN Paramount HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1380
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nickelodeon HD" tvg-logo="" group-title="OSN",OSN Nickelodeon HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1381
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Channel HD" tvg-logo="" group-title="OSN",OSN Disney Channel HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1382
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disney Junior HD" tvg-logo="" group-title="OSN",OSN Disney Junior HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1383
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disney XD HD" tvg-logo="" group-title="OSN",OSN Disney XD HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1384
+#EXTINF:-1 tvg-id="" tvg-name="OSN Kids Zone HD" tvg-logo="" group-title="OSN",OSN Kids Zone HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1385
+#EXTINF:-1 tvg-id="" tvg-name="OSN History HD" tvg-logo="" group-title="OSN",OSN History HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1386
+#EXTINF:-1 tvg-id="" tvg-name="OSN Outdoor HD" tvg-logo="" group-title="OSN",OSN Outdoor HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1387
+#EXTINF:-1 tvg-id="" tvg-name="OSN Syfy HD" tvg-logo="" group-title="OSN",OSN Syfy HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1388
+#EXTINF:-1 tvg-id="" tvg-name="OSN TLC HD" tvg-logo="" group-title="OSN",OSN TLC HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1389
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION  +1" tvg-logo="" group-title="NETFLIX CINEMA",NETFLIX ACTION  +1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1460
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 1" tvg-logo="" group-title="NETFLIX CINEMA",NETFLIX COMEDY 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1461
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 2" tvg-logo="" group-title="NETFLIX CINEMA",NETFLIX COMEDY 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1462
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 1" tvg-logo="" group-title="NETFLIX CINEMA",NETFLIX DRAMA 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1463
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA + 2" tvg-logo="" group-title="NETFLIX CINEMA",NETFLIX DRAMA + 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1464
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 1" tvg-logo="" group-title="NETFLIX CINEMA",NETFLIX HORROR 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1465
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KIDS 1" tvg-logo="" group-title="NETFLIX CINEMA",NETFLIX KIDS 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1466
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KIDS +2" tvg-logo="" group-title="NETFLIX CINEMA",NETFLIX KIDS +2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1467
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Arabic 1" tvg-logo="" group-title="NETFLIX CINEMA",Home Cinema Arabic 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1468
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Arabic 2" tvg-logo="" group-title="NETFLIX CINEMA",Home Cinema Arabic 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1469
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Arabic 3" tvg-logo="" group-title="NETFLIX CINEMA",Home Cinema Arabic 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1470
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Arabic 4" tvg-logo="" group-title="NETFLIX CINEMA",Home Cinema Arabic 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1471
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema English 1" tvg-logo="" group-title="NETFLIX CINEMA",Home Cinema English 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1472
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 2" tvg-logo="" group-title="NETFLIX CINEMA",NETFLIX ACTION 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1473
+#EXTINF:-1 tvg-id="" tvg-name="[AR] NETFLIX THRILLER FHD" tvg-logo="" group-title="NETFLIX CINEMA",[AR] NETFLIX THRILLER FHD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1474
+#EXTINF:-1 tvg-id="" tvg-name="[AR] Home Cinema Comedy 4" tvg-logo="" group-title="NETFLIX CINEMA",[AR] Home Cinema Comedy 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1475
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Al Arabiya" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ALARABIATV.png" group-title="Saudi - السعودية",KSA: Al Arabiya
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1488
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Al Hadath" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ELHADETH.png" group-title="Saudi - السعودية",KSA: Al Hadath
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1489
+#EXTINF:-1 tvg-id="" tvg-name="[AR] NETFLIX ACTION 2" tvg-logo="" group-title="NETFLIX CINEMA",[AR] NETFLIX ACTION 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1497
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC1-HD" tvg-logo="http://54.36.106.182:8081/logo/mbc.jpg" group-title="MY-HD",MYHD-MBC1-HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1498
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC2-HD " tvg-logo="http://54.36.106.182:8081/logo/mbc2.jpg" group-title="MY-HD",MYHD-MBC2-HD 
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1499
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC3-HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/MBC3.png" group-title="MY-HD",MYHD-MBC3-HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1500
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC4-HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/MBC4.png" group-title="MY-HD",MYHD-MBC4-HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1501
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC4-HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/MBC4.png" group-title="MY-HD",MYHD-MBC4-HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1502
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC-ACTION-HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/MBCACTION.png" group-title="MY-HD",MYHD-MBC-ACTION-HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1503
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC-BOLLYWOOD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/MBCBOLLYWOOD.png" group-title="MY-HD",MYHD-MBC-BOLLYWOOD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1504
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC-DRAMA-HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/MBCDRAMA.png" group-title="MY-HD",MYHD-MBC-DRAMA-HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1505
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC-MAX-HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/MBCMAX.png" group-title="MY-HD",MYHD-MBC-MAX-HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1506
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC-PLUS-DRAMA" tvg-logo="http://178.62.208.219/picons/mbcdramapitcon.png" group-title="MY-HD",MYHD-MBC-PLUS-DRAMA
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1507
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-MBC-PLUS-VARIETY" tvg-logo="http://178.62.208.219/picons/mbcvaritypitcon.png" group-title="MY-HD",MYHD-MBC-PLUS-VARIETY
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1508
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-NAT-GEO-WILD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPAIN/NATGEOWILD.png" group-title="MY-HD",MYHD-NAT-GEO-WILD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1509
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-NAT-GEO-HD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/ADNATGEO.png" group-title="MY-HD",MYHD-NAT-GEO-HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1510
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-Discovery SC" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-FRANCEHD/DISCOVERYSCIENCE.png" group-title="MY-HD",MYHD-Discovery SC
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1511
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-Animal Planet" tvg-logo="https://iptvextreme.org/picon/TRS/50x30/animalplanethdhungarian.png" group-title="MY-HD",MYHD-Animal Planet
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1512
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-NAT Geo Wild " tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPAIN/NATGEOWILD.png" group-title="MY-HD",MYHD-NAT Geo Wild 
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1513
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-Gulli" tvg-logo="https://gobx.com/wp-content/uploads/2019/03/Image-1.png" group-title="MY-HD",MYHD-Gulli
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1514
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-FOX Rewayat" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/FOXRIWAYAT.png" group-title="MY-HD",MYHD-FOX Rewayat
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1515
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-FOX Life" tvg-logo="" group-title="MY-HD",MYHD-FOX Life
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1516
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-FOX Crime " tvg-logo="https://iptvextreme.org/picon/TRS/50x30/foxcrime.png" group-title="MY-HD",MYHD-FOX Crime 
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1517
+#EXTINF:-1 tvg-id="" tvg-name="MYHD-DISCOVERY-SC" tvg-logo="" group-title="MY-HD",MYHD-DISCOVERY-SC
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/1518
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="",HOLLYWOOD HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5132
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="",HOLLYWOOD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5133
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="",TCM HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5134
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="",TCM
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5135
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="",AMC HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5136
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="",AMC
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5137
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="",TNT HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5138
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="",TNT
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5139
+#EXTINF:-1 tvg-id="" tvg-name="SYFY  HD" tvg-logo="" group-title="",SYFY  HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5140
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="" group-title="",SYFY
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5141
+#EXTINF:-1 tvg-id="" tvg-name="FOX  HD" tvg-logo="" group-title="",FOX  HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5142
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="",FOX
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5143
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="",FOX LIFE HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5144
+#EXTINF:-1 tvg-id="" tvg-name="ZEEMUNDO TV" tvg-logo="" group-title="",ZEEMUNDO TV
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5145
+#EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="",COSMO HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5146
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="" group-title="",COSMO
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5147
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICA" tvg-logo="" group-title="",CLASSICA
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5148
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE21" tvg-logo="" group-title="",CANAL ORBE21
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5149
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="" group-title="",DMAX HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5150
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="",DMAX
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5151
+#EXTINF:-1 tvg-id="" tvg-name="DKISS" tvg-logo="" group-title="",DKISS
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5152
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="",FOX LIFE
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5153
+#EXTINF:-1 tvg-id="" tvg-name="AXN  HD" tvg-logo="" group-title="",AXN  HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5154
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="",AXN
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5155
+#EXTINF:-1 tvg-id="" tvg-name="AXN White HD" tvg-logo="" group-title="",AXN White HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5156
+#EXTINF:-1 tvg-id="" tvg-name="AXN White" tvg-logo="" group-title="",AXN White
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5157
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="",CALLE 13 HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5158
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="",CALLE 13
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5159
+#EXTINF:-1 tvg-id="" tvg-name="M. Disney" tvg-logo="" group-title="",M. Disney
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5160
+#EXTINF:-1 tvg-id="" tvg-name="M. Accion HD" tvg-logo="" group-title="",M. Accion HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5161
+#EXTINF:-1 tvg-id="" tvg-name="M. Accion" tvg-logo="" group-title="",M. Accion
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/5162
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 01 Abominable" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 01 Abominable
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7445
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 02 Ad Astra" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 02 Ad Astra
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7446
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 03 Aladdin" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 03 Aladdin
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7447
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 04 Alita Battle Angel HD" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 04 Alita Battle Angel HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7448
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 05 Angel Has Fallen" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 05 Angel Has Fallen
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7449
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 06 Annabelle Comes Home" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 06 Annabelle Comes Home
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7450
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 07 Ant-Man And The Wasp" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 07 Ant-Man And The Wasp
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7451
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 08 Aquaman" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 08 Aquaman
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7452
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 09 Eng Game" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 09 Eng Game
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7453
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 10 Infinity War" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 10 Infinity War
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7454
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 11 Ready Or Not" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 11 Ready Or Not
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7455
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 12 Men In Black international" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 12 Men In Black international
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7456
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 13 Shazam" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 13 Shazam
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7457
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 14 Lady And The Tramp" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 14 Lady And The Tramp
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7458
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinema 15 The Irishman" tvg-logo="" group-title="PPV CINEMA US",US: Cinema 15 The Irishman
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/7459
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Tv 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Shahid Tv 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12369
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12379
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12380
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12381
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 5
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12382
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 6
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12383
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 7
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12384
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 8
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12385
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 9" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 9
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12386
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 10" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 10
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12387
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION 11" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ACTION 11
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12388
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12389
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12390
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12391
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12392
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 5
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12393
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 6
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12394
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 7" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 7
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12395
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR 8" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX HORROR 8
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12396
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12397
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12398
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12399
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12400
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 5
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12401
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX ANIME 6
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12402
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX S-FICTION 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX S-FICTION 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12403
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX S-FICTION 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX S-FICTION 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12404
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX COMEDY 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12405
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX COMEDY 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12406
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX COMEDY 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12407
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12408
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12409
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12410
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",NETFLIX DRAMA 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12411
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action +" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action +
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12412
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12413
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action Top" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action Top
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12414
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12415
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12416
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12417
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12418
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 5
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12419
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Action 6
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12420
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12421
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12422
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12423
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12424
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12425
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 5
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12426
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Horror 6
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12427
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12428
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12429
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12430
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12431
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12432
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 5
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12433
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Comedy 6
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12434
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12435
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 1" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12436
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 2" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12437
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 3" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12438
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 4" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12439
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 5" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 5
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12440
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids 6" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Kids 6
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12441
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Drama
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12442
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama+" tvg-logo="" group-title="NETFLIX MAGICO EN-AR",Netflix Drama+
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12443
+#EXTINF:-1 tvg-id="" tvg-name="BOX Office Arabic 1" tvg-logo="" group-title="OSN",BOX Office Arabic 1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12505
+#EXTINF:-1 tvg-id="" tvg-name="BOX Office Arabic 2" tvg-logo="" group-title="OSN",BOX Office Arabic 2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12506
+#EXTINF:-1 tvg-id="" tvg-name="BOX Office Arabic 3" tvg-logo="" group-title="OSN",BOX Office Arabic 3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12507
+#EXTINF:-1 tvg-id="" tvg-name="BOX Office Arabic 4" tvg-logo="" group-title="OSN",BOX Office Arabic 4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12508
+#EXTINF:-1 tvg-id="" tvg-name="BOX Office Arabic 5" tvg-logo="" group-title="OSN",BOX Office Arabic 5
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12509
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD11" tvg-logo="http://vod-logo.net/photos/9ee59993fa7e40d21c77f4a0e8dc892c.JPG" group-title="",Bein Sport SD11
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12981
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport SD12" tvg-logo="" group-title="",Bein Sport SD12
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12982
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD1" tvg-logo="http://vod-logo.net/photos/70a3a85fc866f117eed9cb582e28f23d.jpg" group-title="",Bein Movies HD1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12988
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD2" tvg-logo="http://vod-logo.net/photos/966a57d91127d0a3f630faab369b68cf.jpg" group-title="",Bein Movies HD2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12989
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD3" tvg-logo="http://vod-logo.net/photos/db562edb68f96be59df823978606de4e.jpg" group-title="",Bein Movies HD3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12990
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD4" tvg-logo="http://vod-logo.net/photos/a015a4e71bdc409e5b4c3657e0c9ee82.jpg" group-title="",Bein Movies HD4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12991
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 1 HD" tvg-logo="http://vod-logo.net/photos/0e96852a3a681794244179c87d15522b.jpg" group-title="",Bein Series 1 HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12992
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 2 HD" tvg-logo="http://vod-logo.net/photos/ab4db925e2c6631550ee3e4efe20d97a.jpg" group-title="",Bein Series 2 HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12993
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Life HD" tvg-logo="" group-title="",Bein Fox Life HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12995
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Crime HD" tvg-logo="" group-title="",Bein Fox Crime HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12996
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baraem ARB" tvg-logo="" group-title="",Bein Baraem ARB
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12997
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox HD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="",Bein Fox HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12998
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Movies HD" tvg-logo="" group-title="",Bein Fox Movies HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/12999
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Action Movies HD" tvg-logo="" group-title="",Bein Fox Action Movies HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13000
+#EXTINF:-1 tvg-id="" tvg-name="Bein Star World HD" tvg-logo="http://www.vod-logo.net/photos/4ebfc94bb0d3af9d2508eac495af595b.jpg" group-title="",Bein Star World HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13001
+#EXTINF:-1 tvg-id="" tvg-name="Bein Star Movies HD" tvg-logo="http://www.vod-logo.net/photos/1e1105028ef2841768dc3c877a462095.jpg" group-title="",Bein Star Movies HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13002
+#EXTINF:-1 tvg-id="" tvg-name="Bein HG TV HD" tvg-logo="http://vod-logo.net/photos/b1313851e2fbc7119d19e5dfa0f6253a.jpg" group-title="",Bein HG TV HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13003
+#EXTINF:-1 tvg-id="" tvg-name="Bein AMC HD" tvg-logo="http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg" group-title="",Bein AMC HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13004
+#EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet HD" tvg-logo="http://vod-logo.net/photos/17de009b6886c6ebd69e8c2a1d82cd7d.jpg" group-title="",Bein Gourmet HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13005
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fatafeat HD" tvg-logo="http://vod-logo.net/photos/a294039ef167065cdaf9d495b4289466.JPG" group-title="",Bein Fatafeat HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13006
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fine Living HD" tvg-logo="" group-title="",Bein Fine Living HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13007
+#EXTINF:-1 tvg-id="" tvg-name="Bein Food Network HD" tvg-logo="" group-title="",Bein Food Network HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13008
+#EXTINF:-1 tvg-id="" tvg-name="Bein Travel HD" tvg-logo="http://vod-logo.net/photos/380fe8b2cede2427e80611920087d990.jpg" group-title="",Bein Travel HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13010
+#EXTINF:-1 tvg-id="" tvg-name="Bein OutDoor HD" tvg-logo="http://www.vod-logo.net/photos/8e60fb1507fc33be0d8e82e4b311260a.jpg" group-title="",Bein OutDoor HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13011
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Max HD" tvg-logo="http://vod-logo.net/photos/de5640c6e35d7308dcb2723cbb26e09e.jpg" group-title="",Bein Discovery Max HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13012
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Life HD" tvg-logo="http://vod-logo.net/photos/e16fa7b6cd243d1b3081e38a01b550e3.jpg" group-title="",Bein Discovery Life HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13013
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="|AR| BEIN Entertainment",Bein National Geographic HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13014
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic Wild HD" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="",Bein National Geographic Wild HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13015
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic People HD" tvg-logo="" group-title="",Bein National Geographic People HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13016
+#EXTINF:-1 tvg-id="" tvg-name="Bein Animal Planet HD" tvg-logo="http://vod-logo.net/photos/016f74e4f8b8c0499fee2f2efa60bd18.jpg" group-title="",Bein Animal Planet HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13017
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baraem HD" tvg-logo="http://vod-logo.net/photos/fc7dd5590d2ca58954499cefda7398e7.png" group-title="",Bein Baraem HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13018
+#EXTINF:-1 tvg-id="" tvg-name="Bein Jeem HD" tvg-logo="http://vod-logo.net/photos/f9afa61e2ac8f44d1a69fcf72d1223a2.png" group-title="",Bein Jeem HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13019
+#EXTINF:-1 tvg-id="" tvg-name="Bein Boomerang HD" tvg-logo="http://vod-logo.net/photos/e5c00db765db29f63536879aaf95d73d.jpg" group-title="",Bein Boomerang HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13020
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baby HD" tvg-logo="" group-title="",Bein Baby HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13021
+#EXTINF:-1 tvg-id="" tvg-name="Bein Cartoon Network HD" tvg-logo="http://vod-logo.net/photos/eaab237a19b9ced036c9559fb8bb9179.png" group-title="",Bein Cartoon Network HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13022
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD1" tvg-logo="http://vod-logo.net/photos/70a3a85fc866f117eed9cb582e28f23d.jpg" group-title="|AR| BEIN Entertainment",Bein Movies HD1
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13087
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD2" tvg-logo="http://vod-logo.net/photos/966a57d91127d0a3f630faab369b68cf.jpg" group-title="|AR| BEIN Entertainment",Bein Movies HD2
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13088
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD3" tvg-logo="http://vod-logo.net/photos/db562edb68f96be59df823978606de4e.jpg" group-title="|AR| BEIN Entertainment",Bein Movies HD3
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13089
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD4" tvg-logo="http://vod-logo.net/photos/a015a4e71bdc409e5b4c3657e0c9ee82.jpg" group-title="|AR| BEIN Entertainment",Bein Movies HD4
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13090
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 1 HD" tvg-logo="http://vod-logo.net/photos/0e96852a3a681794244179c87d15522b.jpg" group-title="|AR| BEIN Entertainment",Bein Series 1 HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13091
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series 2 HD" tvg-logo="http://vod-logo.net/photos/ab4db925e2c6631550ee3e4efe20d97a.jpg" group-title="|AR| BEIN Entertainment",Bein Series 2 HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13092
+#EXTINF:-1 tvg-id="" tvg-name="Bein Drama 1HD" tvg-logo="http://vod-logo.net/photos/43d1bc3e02cbacac523e26fa11fe64f8.png" group-title="|AR| BEIN Entertainment",Bein Drama 1HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13093
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Life HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fox Life HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13094
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Crime HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fox Crime HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13095
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox HD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="|AR| BEIN Entertainment",Bein Fox HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13097
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Movies HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fox Movies HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13098
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox Action Movies HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fox Action Movies HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13099
+#EXTINF:-1 tvg-id="" tvg-name="Bein Star World HD" tvg-logo="http://www.vod-logo.net/photos/4ebfc94bb0d3af9d2508eac495af595b.jpg" group-title="|AR| BEIN Entertainment",Bein Star World HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13100
+#EXTINF:-1 tvg-id="" tvg-name="Bein Star Movies HD" tvg-logo="http://www.vod-logo.net/photos/1e1105028ef2841768dc3c877a462095.jpg" group-title="|AR| BEIN Entertainment",Bein Star Movies HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13101
+#EXTINF:-1 tvg-id="" tvg-name="Bein HG TV HD" tvg-logo="http://vod-logo.net/photos/b1313851e2fbc7119d19e5dfa0f6253a.jpg" group-title="|AR| BEIN Entertainment",Bein HG TV HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13102
+#EXTINF:-1 tvg-id="" tvg-name="Bein AMC HD" tvg-logo="http://vod-logo.net/photos/c7cea0ec0525f128734aefd3eaa0559a.jpg" group-title="|AR| BEIN Entertainment",Bein AMC HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13103
+#EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet HD" tvg-logo="http://vod-logo.net/photos/17de009b6886c6ebd69e8c2a1d82cd7d.jpg" group-title="|AR| BEIN Entertainment",Bein Gourmet HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13104
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fatafeat HD" tvg-logo="http://vod-logo.net/photos/a294039ef167065cdaf9d495b4289466.JPG" group-title="|AR| BEIN Entertainment",Bein Fatafeat HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13105
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fine Living HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Fine Living HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13106
+#EXTINF:-1 tvg-id="" tvg-name="Bein Food Network HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Food Network HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13107
+#EXTINF:-1 tvg-id="" tvg-name="Bein BBC earth HD" tvg-logo="http://www.vod-logo.net/photos/6199f80a4bc58ab6b1ee9d2fd7039217.jpg" group-title="|AR| BEIN Entertainment",Bein BBC earth HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13108
+#EXTINF:-1 tvg-id="" tvg-name="Bein Travel HD" tvg-logo="http://vod-logo.net/photos/380fe8b2cede2427e80611920087d990.jpg" group-title="|AR| BEIN Entertainment",Bein Travel HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13109
+#EXTINF:-1 tvg-id="" tvg-name="Bein OutDoor HD" tvg-logo="http://www.vod-logo.net/photos/8e60fb1507fc33be0d8e82e4b311260a.jpg" group-title="|AR| BEIN Entertainment",Bein OutDoor HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13110
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Max HD" tvg-logo="http://vod-logo.net/photos/de5640c6e35d7308dcb2723cbb26e09e.jpg" group-title="|AR| BEIN Entertainment",Bein Discovery Max HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13111
+#EXTINF:-1 tvg-id="" tvg-name="Bein Discovery Life HD" tvg-logo="http://vod-logo.net/photos/e16fa7b6cd243d1b3081e38a01b550e3.jpg" group-title="|AR| BEIN Entertainment",Bein Discovery Life HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13112
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="|AR| BEIN Entertainment",Bein National Geographic HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13113
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic Wild HD" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="|AR| BEIN Entertainment",Bein National Geographic Wild HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13114
+#EXTINF:-1 tvg-id="" tvg-name="Bein National Geographic People HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein National Geographic People HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13115
+#EXTINF:-1 tvg-id="" tvg-name="Bein Animal Planet HD" tvg-logo="http://vod-logo.net/photos/016f74e4f8b8c0499fee2f2efa60bd18.jpg" group-title="|AR| BEIN Entertainment",Bein Animal Planet HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13116
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baraem HD" tvg-logo="http://vod-logo.net/photos/fc7dd5590d2ca58954499cefda7398e7.png" group-title="|AR| BEIN Entertainment",Bein Baraem HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13117
+#EXTINF:-1 tvg-id="" tvg-name="Bein Jeem HD" tvg-logo="http://vod-logo.net/photos/f9afa61e2ac8f44d1a69fcf72d1223a2.png" group-title="|AR| BEIN Entertainment",Bein Jeem HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13118
+#EXTINF:-1 tvg-id="" tvg-name="Bein Boomerang HD" tvg-logo="http://vod-logo.net/photos/e5c00db765db29f63536879aaf95d73d.jpg" group-title="|AR| BEIN Entertainment",Bein Boomerang HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13119
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baby HD" tvg-logo="" group-title="|AR| BEIN Entertainment",Bein Baby HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13120
+#EXTINF:-1 tvg-id="" tvg-name="Bein Cartoon Network HD" tvg-logo="http://vod-logo.net/photos/eaab237a19b9ced036c9559fb8bb9179.png" group-title="|AR| BEIN Entertainment",Bein Cartoon Network HD
+http://magicoiptv.org:8080/obs63736/WJ4XGhLMjE/13121
