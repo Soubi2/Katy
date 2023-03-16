@@ -169,13 +169,6 @@
 },
 {
 "id": "1",
-"label": "Khab",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/khab.m3u",
-"type": "1",
-"logo_url": ""
-},   
-{
-"id": "1",
 "label": "ChnMix",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/mo.m3u",
 "type": "1",
