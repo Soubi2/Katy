@@ -106,6 +106,13 @@
 },
 {
 "id": "1",
+"label": "P1",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/p1.m3u",
+"type": "1",
+"logo_url": ""
+},  
+{
+"id": "1",
 "label": "OnlyAR",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/1.m3u",
 "type": "1",
