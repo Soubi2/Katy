@@ -30,41 +30,48 @@
 {
 "id": "1",
 "label": "B2",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ada.m3u",
+"type": "1",
+"logo_url": ""
+},  
+{
+"id": "1",
+"label": "B3",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b2.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B3",
+"label": "B4",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/nova.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B4",
+"label": "B5",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/111.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B5",
+"label": "B6",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b8.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B6",
+"label": "B7",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b9.m3u",
 "type": "1",
 "logo_url": ""
 },
 {
 "id": "1",
-"label": "B7",
+"label": "B8",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/dra.m3u",
 "type": "1",
 "logo_url": ""
