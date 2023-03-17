@@ -152,7 +152,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/2.m3u",
 "type": "1",
 "logo_url": ""
-},     
+},
+{
+"id": "1",
+"label": "USA+",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/usplus.m3u",
+"type": "1",
+"logo_url": ""
+},       
 {
 "id": "1",
 "label": "Arabica",
