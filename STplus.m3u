@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-zIkBEqqnWr0a-VBVeZpLPpt_Jl1acK5wQ&usqp=CAU" tvg-name="Aflam Motarjama" tvg-logo="" group-title="live-stream",Aflam Motarjama
+#EXTINF:-1 tvg-id="https://www.freeiconspng.com/thumbs/movie-icon/movie-icon-6.png" tvg-name="Aflam Motarjama" tvg-logo="" group-title="live-stream",Aflam Motarjama
 http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/08/Wave-love-music-on-transparent-background-PNG.png" group-title="live-stream",Music
 http://iptv.icsnleb.com:25461/live/ST/ST/36.m3u8
@@ -69,7 +69,7 @@ http://iptvtree.net:8080/cipo/8eOL17D2s872/16768
 http://iptvtree.net:8080/cipo/8eOL17D2s872/201151
 #EXTINF:-1 tvg-id="" tvg-name="LB: Lana TV Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/762d603571690baf83150fd80aa26a1f.png" group-title="Lebanon",LB: Lana TV Plus
 http://iptvtree.net:8080/cipo/8eOL17D2s872/284450
-#EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Lebanon",LB: LBC 2
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/ee/Lb2intl.jpg" group-title="Lebanon",LB: LBC 2
 http://iptvtree.net:8080/cipo/8eOL17D2s872/297107
 #EXTINF:-1 tvg-id="" tvg-name="LB: LBC International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" group-title="Lebanon",LB: LBC International
 http://iptvtree.net:8080/cipo/8eOL17D2s872/11921
