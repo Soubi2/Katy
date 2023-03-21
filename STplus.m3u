@@ -41,5 +41,11 @@ http://iptv.icsnleb.com:25461/movie/a/b/1020.mp4
 http://iptv.icsnleb.com:25461/movie/ST/ST/203.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1982 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBc5HhaUecGhEbfByqVY9kC3krI.jpg" group-title="movies",1982 - 2019
 http://iptv.icsnleb.com:25461/movie/ST/ST/204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vitamin "tvg-logo="https://image.tmdb.org/t/p/original/adQJIM9zCBm8KSiVWQ4tH1Jvs1o.jpg"group-title="VOD ARAB", Vitamin 
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zigzag 
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beirut Hotel "tvg-logo="https://image.tmdb.org/t/p/original/hxUQ7LFb32GdJjyHipUap6NZfVX.jpg"group-title="VOD ARAB", Beirut Hotel 
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222421.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Beirut - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg" group-title="movies",Beirut - 2018
 http://iptv.icsnleb.com:25461/movie/ST/ST/149.mp4
