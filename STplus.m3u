@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="https://www.freeiconspng.com/thumbs/movie-icon/movie-icon-6.png" tvg-name="Aflam Motarjama" tvg-logo="https://png.pngtree.com/thumb_back/fh260/back_pic/02/66/87/73578b94f836a03.jpg" group-title="live-stream",Aflam Motarjama
+#EXTINF:-1 tvg-id="" tvg-name="Aflam Motarjama" tvg-logo="https://www.freeiconspng.com/thumbs/movie-icon/movie-icon-6.png" group-title="live-stream",Aflam Motarjama
 http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/08/Wave-love-music-on-transparent-background-PNG.png" group-title="live-stream",Music
 http://iptv.icsnleb.com:25461/live/ST/ST/36.m3u8
