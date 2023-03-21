@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Aflam Motarjama" tvg-logo="https://www.klfy.com/wp-content/uploads/sites/9/2015/06/image-1_33768239_ver1.0.jpg?w=640" group-title="live-stream",Aflam Motarjama
+#EXTINF:-1 tvg-id="" tvg-name="Aflam Motarjama" tvg-logo="https://www.pngmart.com/files/5/Movie-PNG-Image.png" group-title="live-stream",Aflam Motarjama
 http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/08/Wave-love-music-on-transparent-background-PNG.png" group-title="live-stream",Music
 http://iptv.icsnleb.com:25461/live/ST/ST/36.m3u8
