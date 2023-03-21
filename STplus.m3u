@@ -5,7 +5,7 @@ http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/36.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aflam2" tvg-logo="https://static.wikia.nocookie.net/robotchicken748/images/7/78/At_the_Movies_2009.jpg" group-title="live-stream",Aflam2
 http://iptv.icsnleb.com:25461/live/ST/ST/55.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="" group-title="live-stream",Series
+#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="https://banner2.cleanpng.com/20180531/yx/kisspng-television-show-kodi-download-film-series-5b0fe35e078815.8490676015277679020309.jpg" group-title="live-stream",Series
 http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lebanese Channel" tvg-logo="https://e1.pngegg.com/pngimages/909/597/png-clipart-world-flag-icons-flag-of-lebanon-thumbnail.png" group-title="live-stream",Lebanese Channel
 http://iptv.icsnleb.com:25461/live/ST/ST/37.m3u8
