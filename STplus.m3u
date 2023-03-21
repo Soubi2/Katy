@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Aflam Motarjama" tvg-logo="" group-title="live-stream",Aflam Motarjama
+#EXTINF:-1 tvg-id="https://www.pngall.com/wp-content/uploads/13/Movie-PNG-Free-Image.png" tvg-name="Aflam Motarjama" tvg-logo="" group-title="live-stream",Aflam Motarjama
 http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD-Music" tvg-logo="" group-title="live-stream",VOD-Music
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Music" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/08/Wave-love-music-on-transparent-background-PNG.png" group-title="live-stream",VOD-Music
 http://iptv.icsnleb.com:25461/live/ST/ST/36.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aflam2" tvg-logo="" group-title="live-stream",Aflam2
+#EXTINF:-1 tvg-id="" tvg-name="Aflam2" tvg-logo="https://static.wikia.nocookie.net/robotchicken748/images/7/78/At_the_Movies_2009.jpg" group-title="live-stream",Aflam2
 http://iptv.icsnleb.com:25461/live/ST/ST/55.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Series" tvg-logo="" group-title="live-stream",VOD-Series
 http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD-Leb" tvg-logo="" group-title="live-stream",VOD-Leb
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Leb" tvg-logo="https://e1.pngegg.com/pngimages/909/597/png-clipart-world-flag-icons-flag-of-lebanon-thumbnail.png" group-title="live-stream",VOD-Leb
 http://iptv.icsnleb.com:25461/live/ST/ST/37.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema" tvg-logo="" group-title="live-stream",VOD-Cinema
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema" tvg-logo="https://w7.pngwing.com/pngs/226/303/png-transparent-popcorn-graphic-film-cinema-popcorn-television-food-film.png" group-title="live-stream",VOD-Cinema
 http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mar Charbel: The Movie - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj9pKw5Xj7MkRIT4I0GFUvuYziD.jpg" group-title="movies",Mar Charbel: The Movie - 2009
 http://iptv.icsnleb.com:25461/movie/ST/ST/174.mp4
@@ -41,11 +41,9 @@ http://iptv.icsnleb.com:25461/movie/a/b/1020.mp4
 http://iptv.icsnleb.com:25461/movie/ST/ST/203.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1982 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBc5HhaUecGhEbfByqVY9kC3krI.jpg" group-title="movies",1982 - 2019
 http://iptv.icsnleb.com:25461/movie/ST/ST/204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vitamin "tvg-logo="https://image.tmdb.org/t/p/original/adQJIM9zCBm8KSiVWQ4tH1Jvs1o.jpg"group-title="VOD ARAB", Vitamin 
+#EXTINF:-1 tvg-id="" tvg-name="Vitamin "tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ2NTg0NDEwMV5BMl5BanBnXkFtZTgwNzA3NjM4MzE@._V1_FMjpg_UX1000_.jpg"group-title="VOD ARAB", Vitamin 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zigzag 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beirut Hotel "tvg-logo="https://image.tmdb.org/t/p/original/hxUQ7LFb32GdJjyHipUap6NZfVX.jpg"group-title="VOD ARAB", Beirut Hotel 
+#EXTINF:-1 tvg-id="" tvg-name="Beirut Hotel "tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYzNjU4MDM2MF5BMl5BanBnXkFtZTgwMjYzMjkzNzE@._V1_.jpg"group-title="VOD ARAB", Beirut Hotel 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222421.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Beirut - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg" group-title="movies",Beirut - 2018
 http://iptv.icsnleb.com:25461/movie/ST/ST/149.mp4
