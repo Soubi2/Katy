@@ -106,13 +106,6 @@
 },
 {
 "id": "1",
-"label": "P3",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/p3.m3u",
-"type": "1",
-"logo_url": ""
-},      
-{
-"id": "1",
 "label": "AuT",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aut.m3u",
 "type": "1",
