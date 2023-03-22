@@ -246,13 +246,6 @@
 },
 {
 "id": "1",
-"label": "أفلام",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/vod2.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
 "label": "TwoVods",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/TwoVod.m3u",
 "type": "1",
