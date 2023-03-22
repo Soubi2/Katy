@@ -296,7 +296,7 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222421.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Beirutz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg" group-title="movies1",Beirutz
 http://185.104.71.235:445/user/index.php/api/files/file_iKiYvo
 #EXTINF:-1 tvg-id="" tvg-name="electra" group-title="movies1",electra
-http://185.104.71.235:445/user/index.php/api/play/1455
+http://185.104.71.235:445/user/index.php/api/files/file_WemCIv
 #EXTINF:-1 tvg-id="" tvg-name="jarima" group-title="movies1",jarima
 http://185.104.71.235:445/user/index.php/api/files/file_eaKVCs
 #EXTINF:-1 tvg-id="" tvg-name="2eltelak khalas" group-title="movies1",2eltelak khalas
