@@ -11,8 +11,6 @@ http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema" tvg-logo="https://w7.pngwing.com/pngs/226/303/png-transparent-popcorn-graphic-film-cinema-popcorn-television-food-film.png" group-title="live-stream",VOD-Cinema
 http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beirut Hotel" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVhYWMwMWQtOGJmZi00OTI3LWIwMmYtYmQ0MjBkMGFiMWFhXkEyXkFqcGdeQXVyMTk3NTY2MDk@._V1_.jpg" group-title="movies",
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222421.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/af35311a7828fb7c15922e1abdb27c49.png" tvg-name="mtvLB" group-title="Lebanon",LB: mtvLB
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/04629d73c2a8a545ec22e5aa785c9a1a.png" tvg-name="lbcLB" group-title="Lebanon",LB: lbcLB
