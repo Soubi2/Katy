@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soubi" tvg-name="test" group-title="ADULTO",test
-https://livecams.mycamtv.com/all.m3u
-#EXTINF:-1 tvg-id="Soubi" tvg-name="test1" group-title="ADULTO",test1
-https://livecams.mycamtv.com/girls.m3u
-#EXTINF:-1 tvg-id="Soubi" tvg-name="test2" group-title="ADULTO",test2
+#EXTINF:-1 tvg-id="Soubi" tvg-name="test2" group-title="ADULTO",testa
 https://livecams.mycamtv.com/
-#EXTINF:-1 tvg-id="Soubi" tvg-name="testV" group-title="ADULTO",testV
+#EXTINF:-1 tvg-id="Soubi" tvg-name="testV" group-title="ADULTO",testb
 https://vod.mycamtv.net/all.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PORNBOX 1" tvg-logo="http://46.165.222.67:2095/xplus/adulto.png" group-title="PORNOBOX",PORNBOX 1
 http://mn.appserv19.xyz:2095/Xplus-1-kbauNfQrld/YsMhBV0JTM/567
