@@ -37,4 +37,18 @@ https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-name="Stingray Naturescape" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="Relax",Stingray Naturescape (1080p)
 https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Relax Sleep HDD" tvg-logo="http://nooritv.live:25461/images/d9be83cfbf99d407f6d4d2cc22ae9a9f.jpg" group-title="Relax TV",Relax Sleep HD
+http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32065
+#EXTINF:-1 tvg-id="" tvg-name="Relax Nature HDD" tvg-logo="http://carmeltv.live:80/images/_DF1JGjdlyowK32VixcwszwAeNjfOPAN3XLhmA0th9eqDGznvzwQeTJn7ahWcQqj9ipVzP5rN73dSqwSyL4M6mu721PPvkBtnrPzFuG6NQQ.jpg" group-title="Relax TV",Relax Nature HD
+http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32067
+#EXTINF:-1 tvg-id="" tvg-name="Relax 1 HDD" tvg-logo="http://nooritv.live:25461/images/196157040373e2ecc16dfe3ee2d3527c.jpg" group-title="Relax TV",Relax 1 HD
+http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32068
+#EXTINF:-1 tvg-id="" tvg-name="Relax 2 HDD" tvg-logo="http://nooritv.live:25461/images/196157040373e2ecc16dfe3ee2d3527c.jpg" group-title="Relax TV",Relax 2 HD
+http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32069
+#EXTINF:-1 tvg-id="" tvg-name="Relax Rain HDD" tvg-logo="http://nooritv.live:25461/images/62cd69c273d298d4c4825fec0e1549b8.jpg" group-title="Relax TV",Relax Rain HD
+http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32071
+#EXTINF:-1 tvg-id="" tvg-name="Relax Africain HDD" tvg-logo="https://p0.pikist.com/photos/620/293/morocco-landscape-water-nature-lake-relax-mountain-africa-serenity.jpg" group-title="Relax TV",Relax Africain HD
+http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32074
+#EXTINF:-1 tvg-id="" tvg-name="Relax Amazon HDD" tvg-logo="http://nooritv.live:25461/images/8a062a3a265482363414346ab53c555d.jpg" group-title="Relax TV",Relax Amazon HD
+http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32075
 
