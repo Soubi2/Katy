@@ -89,7 +89,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/did.m3u",
 "type": "1",
 "logo_url": ""
-},  
+},
+{
+"id": "1",
+"label": "b10",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/all1.m3u",
+"type": "1",
+"logo_url": ""
+},    
 {
 "id": "1",
 "label": "P1",
