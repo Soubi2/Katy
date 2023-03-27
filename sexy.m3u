@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Soubi" tvg-name="test2" group-title="ADULTO",testa
-https://livecams.mycamtv.com/
+http://livecams.mycamtv.com/
 #EXTINF:-1 tvg-id="Soubi" tvg-name="testV" group-title="ADULTO",testb
 https://vod.mycamtv.net/all.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PORNBOX 1" tvg-logo="http://46.165.222.67:2095/xplus/adulto.png" group-title="PORNOBOX",PORNBOX 1
