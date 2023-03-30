@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soubi" tvg-name="test2" group-title="ADULTO",testa
+#EXTINF:-1 user-agent="Googlebot/2.1 (+http://www.googlebot.com/bot.html)" tvg-id="Soubi" tvg-name="test2" group-title="ADULTO",testa
 http://livecams.mycamtv.com/
 #EXTINF:-1 tvg-id="Soubi" tvg-name="testV" group-title="ADULTO",testb
 https://vod.mycamtv.net/all.m3u
