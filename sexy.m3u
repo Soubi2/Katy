@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 user-agent="Googlebot/2.1 (+http://www.googlebot.com/bot.html)" tvg-id="Soubi" tvg-name="test2" group-title="ADULTO",testa
+#EXTINF:-1 tvg-id="" tvg-name="test2" group-title="ADULTO",testa
 http://livecams.mycamtv.com/
-#EXTINF:-1 tvg-id="Soubi" tvg-name="testV" group-title="ADULTO",testb
+#EXTINF:-1 tvg-id="" tvg-name="testV" group-title="ADULTO",testb
 https://vod.mycamtv.net/all.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold HD LIVE" tvg-logo="" group-title="18+",Penthouse Gold HD LIVE
 http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/22634
