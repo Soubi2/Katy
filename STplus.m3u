@@ -387,3 +387,35 @@ http://185.104.71.235:445/user/index.php/api/files/file_57mEm9
 http://185.104.71.235:445/user/index.php/api/files/file_8rWdvZ
 #EXTINF:-1 tvg-id="" tvg-name="last flight" group-title="movies1",last flight
 http://185.104.71.235:445/user/index.php/api/files/file_QjvHvP
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 HD" tvg-logo="" group-title="SPORTS",BeIN Sports 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1075.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 HD" tvg-logo="" group-title="SPORTS",BeIN Sports 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1076.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 HD" tvg-logo="" group-title="SPORTS",BeIN Sports 3 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1077.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 HD" tvg-logo="" group-title="SPORTS",BeIN Sports 4 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1078.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 5 HD" tvg-logo="" group-title="SPORTS",BeIN Sports 5 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1079.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 6 HD" tvg-logo="" group-title="SPORTS",BeIN Sports 6 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1080.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 7 HD" tvg-logo="" group-title="SPORTS",BeIN Sports 7 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1081.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Premium 1 HD" tvg-logo="" group-title="SPORTS",BeIN Sports Premium 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1082.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Premium 2 HD" tvg-logo="" group-title="SPORTS",BeIN Sports Premium 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1083.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Premium 3 HD" tvg-logo="" group-title="SPORTS",BeIN Sports Premium 3 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1084.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra 1 HD" tvg-logo="" group-title="SPORTS",BeIN Sports Xtra 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1085.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Xtra 2 HD" tvg-logo="" group-title="SPORTS",BeIN Sports Xtra 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1086.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports English 1 HD" tvg-logo="" group-title="SPORTS",BeIN Sports English 1 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1087.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports English 2 HD" tvg-logo="" group-title="SPORTS",BeIN Sports English 2 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1088.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports English 3 HD" tvg-logo="" group-title="SPORTS",BeIN Sports English 3 HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1089.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports NBA HD" tvg-logo="" group-title="SPORTS",BeIN Sports NBA HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1090.ts
