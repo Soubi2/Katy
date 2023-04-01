@@ -40,7 +40,21 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/28.m3u",
 "type": "1",
 "logo_url": ""
-},  
+},
+{
+"id": "1",
+"label": "Many1",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/29.m3u",
+"type": "1",
+"logo_url": ""
+},
+{
+"id": "1",
+"label": "Many2",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/30.m3u",
+"type": "1",
+"logo_url": ""
+},    
 {
 "id": "1",
 "label": "B1",
