@@ -114,7 +114,7 @@ var MembedNet = function () {
                                 r = '0.' + r1 + r2;
 
                                 results.push({
-                                    file: m[1], label: 'NOR', type: "direct", size: size != false && size != 'NOR' ? size : r, referer: 'https://membed.net/'
+                                    file: m[1], label: 'NOR', type: "direct", size: size != false && size != 'NOR' ? size : r, referer: 'https://movembed.cc/'
                                 });
 
                                 return _context2.abrupt('return', {
