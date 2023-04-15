@@ -29,6 +29,13 @@
 },
 {
 "id": "1",
+"label": "L1",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/l1.m3u",
+"type": "1",
+"logo_url": ""
+},  
+{
+"id": "1",
 "label": "3in1",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/27.m3u",
 "type": "1",
