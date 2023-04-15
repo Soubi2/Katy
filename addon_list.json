@@ -41,7 +41,7 @@
         "membednt": {
             
                    "name": "membednt",
-                   "domain": "membed.net",
+                   "domain": "movembed.cc",
                    "version": "0.0.1",
                    "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/MembedNt.js?v0.0.0.1",
                    "type": [
@@ -102,7 +102,7 @@
         },
         "series9": {
             "name": "series9",
-            "domain": "series9.io",
+            "domain": "series9.sh",
             "version": "0.4.20",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/series9.js?v0.0.0.1",
             "type": [
@@ -611,7 +611,7 @@
         "vidnode": {
             "name": "vidnode",
             "domain": [
-                "membed.net"
+                "movembed.cc"
             ],
             "version": "0.0.2",
             "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/es5/hosts/vidnode.js"
@@ -793,7 +793,7 @@
         "sbps": {
             "name": "sbps",
             "domain": [
-                "ssbstream.net"
+                "sbnet.one"
             ],
             "version": "0.0.1",
             "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/sbps.js?v1"
