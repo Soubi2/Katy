@@ -29,6 +29,13 @@
 },
 {
 "id": "1",
+"label": "MULTI1",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi1.m3u",
+"type": "1",
+"logo_url": ""
+},        
+{
+"id": "1",
 "label": "MULTI channels",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ste.m3u",
 "type": "1",
