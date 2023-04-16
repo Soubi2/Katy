@@ -33,7 +33,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi1.m3u",
 "type": "1",
 "logo_url": ""
-},        
+},
+{
+"id": "1",
+"label": "MULTI2",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi2.m3u",
+"type": "1",
+"logo_url": ""
+},          
 {
 "id": "1",
 "label": "MULTI channels",
