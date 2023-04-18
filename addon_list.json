@@ -387,7 +387,7 @@
         },
         "vidembedcc": {
             "name": "vidembedcc",
-            "domain": "vidembed.cc",
+            "domain": "movembed.cc",
             "version": "0.0.1",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/providers/vidembedcc.js?v0.0.0.1",
             "type": [
@@ -780,7 +780,7 @@
         "vidembedcc": {
             "name": "vidembedcc",
             "domain": [
-                "vidembed.cc"
+                "movembed.cc"
             ],
             "version": "0.0.3",
             "url": "https://raw.githubusercontent.com/orchidshl1/free/master/add-ons/es5/hosts/vidembedcc.js?v3"
