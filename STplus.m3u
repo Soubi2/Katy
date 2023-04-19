@@ -11,6 +11,46 @@ http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema" tvg-logo="https://w7.pngwing.com/pngs/226/303/png-transparent-popcorn-graphic-film-cinema-popcorn-television-food-film.png" group-title="live-stream",VOD-Cinema
 http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="Lebanon2",AL JADEED
+http://ipc.proipciptv.com:8000/teleg2/2824745242/1893
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED HD" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="Lebanon2",AL JADEED HD
+http://ipc.proipciptv.com:8000/teleg2/2824745242/62602
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED HEVC" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="Lebanon2",AL JADEED HEVC
+http://ipc.proipciptv.com:8000/teleg2/2824745242/65583
+#EXTINF:-1 tvg-id="" tvg-name="NBN LB" tvg-logo="https://logo.iptveditor.com/nbn.png" group-title="Lebanon2",NBN LB
+http://ipc.proipciptv.com:8000/teleg2/2824745242/1895
+#EXTINF:-1 tvg-id="" tvg-name="NBN HD LEBANON" tvg-logo="https://logo.iptveditor.com/nbn.png" group-title="Lebanon2",NBN HD LEBANON
+http://ipc.proipciptv.com:8000/teleg2/2824745242/61529
+#EXTINF:-1 tvg-id="" tvg-name="LBC TV" tvg-logo="https://logo.iptveditor.com/lbctv.png" group-title="Lebanon2",LBC TV
+http://ipc.proipciptv.com:8000/teleg2/2824745242/1898
+#EXTINF:-1 tvg-id="" tvg-name="LDC LB" tvg-logo="https://logo.iptveditor.com/ldc.png" group-title="Lebanon2",LDC LB
+http://ipc.proipciptv.com:8000/teleg2/2824745242/1897
+#EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="https://logo.iptveditor.com/lbc.png" group-title="Lebanon2",LBC HD
+http://ipc.proipciptv.com:8000/teleg2/2824745242/61532
+#EXTINF:-1 tvg-id="" tvg-name="LBC EUROPE HD" tvg-logo="https://logo.iptveditor.com/lbceurope.png" group-title="Lebanon2",LBC EUROPE HD
+http://ipc.proipciptv.com:8000/teleg2/2824745242/61543
+#EXTINF:-1 tvg-id="" tvg-name="OTV LB" tvg-logo="https://logo.iptveditor.com/otv.png" group-title="Lebanon2",OTV LB
+http://ipc.proipciptv.com:8000/teleg2/2824745242/45
+#EXTINF:-1 tvg-id="" tvg-name="LEBANON TV" tvg-logo="https://logo.iptveditor.com/tv.png" group-title="Lebanon2",LEBANON TV
+http://ipc.proipciptv.com:8000/teleg2/2824745242/1894
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="Lebanon2",MTV LEBANON
+http://ipc.proipciptv.com:8000/teleg2/2824745242/1896
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEB HD" tvg-logo="https://logo.iptveditor.com/mtvlebanon.png" group-title="Lebanon2",MTV LEB HD
+http://ipc.proipciptv.com:8000/teleg2/2824745242/60936
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HD" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="Lebanon2",MTV LEBANON HD
+http://ipc.proipciptv.com:8000/teleg2/2824745242/61497
+#EXTINF:-1 tvg-id="" tvg-name="ONE LEBANON" tvg-logo="https://logo.iptveditor.com/one.png" group-title="Lebanon2",ONE LEBANON
+http://ipc.proipciptv.com:8000/teleg2/2824745242/55946
+#EXTINF:-1 tvg-id="" tvg-name="FUTURE LEBANON" tvg-logo="https://logo.iptveditor.com/future°.png" group-title="Lebanon2",FUTURE LEBANON
+http://ipc.proipciptv.com:8000/teleg2/2824745242/4290
+#EXTINF:-1 tvg-id="" tvg-name="MANAR TV" tvg-logo="https://logo.iptveditor.com/almanartv.png" group-title="Lebanon2",MANAR TV
+http://ipc.proipciptv.com:8000/teleg2/2824745242/28800
+#EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="https://logo.iptveditor.com/almanar.png" group-title="Lebanon2",AL MANAR
+http://ipc.proipciptv.com:8000/teleg2/2824745242/1900
+#EXTINF:-1 tvg-id="" tvg-name="ALALAM TV" tvg-logo="https://logo.iptveditor.com/alalam.png" group-title="Lebanon2",ALALAM TV
+http://ipc.proipciptv.com:8000/teleg2/2824745242/3961
+#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEEN TV" tvg-logo="https://logo.iptveditor.com/almayadeentv.png" group-title="Lebanon2",AL MAYADEEN TV
+http://ipc.proipciptv.com:8000/teleg2/2824745242/39142
 #EXTINF:-1 tvg-id="" tvg-name="Al Mayadeen" tvg-logo="" group-title="LEBANON1",Al Mayadeen
 http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/14179
 #EXTINF:-1 tvg-id="" tvg-name="AL Manar TV" tvg-logo="" group-title="LEBANON1",AL Manar TV
