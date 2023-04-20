@@ -1,4 +1,4 @@
-﻿{
+{
     "providers": {
         "gogoanimefilm": {
             "name": "gogoanimefilm",
@@ -745,9 +745,9 @@
         "mixdrop": {
             "name": "mixdrop",
             "domain": [
-                "mixdrop.co",
-                "mixdrop.to",
                 "mixdrop.sx",
+                "mixdrop.to",
+                "mixdrop.co",
                 "mixdrop.ch"
             ],
             "version": "0.1.1",
