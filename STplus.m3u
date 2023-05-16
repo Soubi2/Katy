@@ -11,21 +11,21 @@ http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema" tvg-logo="https://w7.pngwing.com/pngs/226/303/png-transparent-popcorn-graphic-film-cinema-popcorn-television-food-film.png" group-title="live-stream",VOD-Cinema
 http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HD" tvg-logo="" group-title="Lebanon| MTV LEBANON HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HD" tvg-logo="" group-title="Lebanon",MTV LEBANON HD
 http://obsfullhd.tv:25461/starseven18/z4SR67eA4f/7506
-#EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="" group-title="Lebanon| LBC HD
+#EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="" group-title="Lebanon",LBC HD
 http://obsfullhd.tv:25461/starseven18/z4SR67eA4f/7502
-#EXTINF:-1 tvg-id="" tvg-name="LDC LEBANON HD" tvg-logo="" group-title="Lebanon| LDC LEBANON HD
+#EXTINF:-1 tvg-id="" tvg-name="LDC LEBANON HD" tvg-logo="" group-title="Lebanon",LDC LEBANON HD
 http://obsfullhd.tv:25461/starseven18/z4SR67eA4f/7508
-#EXTINF:-1 tvg-id="" tvg-name="AL JADEED HD" tvg-logo="" group-title="Lebanon| AL JADEED HD
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED HD" tvg-logo="" group-title="Lebanon",AL JADEED HD
 http://obsfullhd.tv:25461/starseven18/z4SR67eA4f/7504
-#EXTINF:-1 tvg-id="" tvg-name="AL MANAR HD" tvg-logo="" group-title="Lebanon| AL MANAR HD
+#EXTINF:-1 tvg-id="" tvg-name="AL MANAR HD" tvg-logo="" group-title="Lebanon",AL MANAR HD
 http://obsfullhd.tv:25461/starseven18/z4SR67eA4f/7503
-#EXTINF:-1 tvg-id="" tvg-name="AL ALAM HD" tvg-logo="" group-title="Lebanon| AL ALAM HD
+#EXTINF:-1 tvg-id="" tvg-name="AL ALAM HD" tvg-logo="" group-title="Lebanon",AL ALAM HD
 http://obsfullhd.tv:25461/starseven18/z4SR67eA4f/7505
-#EXTINF:-1 tvg-id="" tvg-name="NBN TV HD" tvg-logo="" group-title="Lebanon| NBN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="NBN TV HD" tvg-logo="" group-title="Lebanon",NBN TV HD
 http://obsfullhd.tv:25461/starseven18/z4SR67eA4f/7507
-#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEN TV HD" tvg-logo="" group-title="Lebanon| AL MAYADEN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="AL MAYADEN TV HD" tvg-logo="" group-title="Lebanon",AL MAYADEN TV HD
 http://obsfullhd.tv:25461/starseven18/z4SR67eA4f/7510
 #EXTINF:-1 tvg-id="" tvg-name="Mar Charbel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj9pKw5Xj7MkRIT4I0GFUvuYziD.jpg" group-title="movies1",Mar Charbel
 http://185.104.71.235:445/user/index.php/api/files/file_68CKuH
