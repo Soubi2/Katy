@@ -26,77 +26,7 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/came.m3u",
 "type": "1",
 "logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI1",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi1.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI2",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi2.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI3",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi3.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI4",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi4.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI5",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi5.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI7",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi7.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI8",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi8.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI9",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi9.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI10",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi10.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "MULTI11",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/multi11.m3u",
-"type": "1",
-"logo_url": ""
-},       
+},  
 {
 "id": "1",
 "label": "MULTI channels",
