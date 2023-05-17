@@ -36,34 +36,6 @@
 },      
 {
 "id": "1",
-"label": "USA channels",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/usch.m3u",
-"type": "1",
-"logo_url": ""
-},    
-{
-"id": "1",
-"label": "L1",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/l1.m3u",
-"type": "1",
-"logo_url": ""
-},  
-{
-"id": "1",
-"label": "3in1",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/27.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "Many",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/28.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
 "label": "Many1",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/29.m3u",
 "type": "1",
@@ -73,13 +45,6 @@
 "id": "1",
 "label": "Many2",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/30.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "Many3",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/31.m3u",
 "type": "1",
 "logo_url": ""
 },
@@ -106,57 +71,8 @@
 },
 {
 "id": "1",
-"label": "B2",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ada.m3u",
-"type": "1",
-"logo_url": ""
-},  
-{
-"id": "1",
-"label": "B3",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b2.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "B4",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/nova.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "B5",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/111.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "B6",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b8.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
 "label": "B7",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/b9.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "B8",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/dra.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "b9",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/did.m3u",
 "type": "1",
 "logo_url": ""
 },
@@ -166,21 +82,7 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/all1.m3u",
 "type": "1",
 "logo_url": ""
-},
-{
-"id": "1",
-"label": "b11",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/nnn.m3u",
-"type": "1",
-"logo_url": ""
-},     
-{
-"id": "1",
-"label": "P1",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/p1.m3u",
-"type": "1",
-"logo_url": ""
-},
+},  
 {
 "id": "1",
 "label": "P2",
@@ -190,81 +92,11 @@
 },
 {
 "id": "1",
-"label": "AuT",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aut.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
 "label": "Aub",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aub.m3u",
 "type": "1",
 "logo_url": ""
-},
-{
-"id": "1",
-"label": "Aus",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/aus.m3u",
-"type": "1",
-"logo_url": ""
-},      
-{
-"id": "1",
-"label": "M1",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m1.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "M2",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m4.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "OnlyAR",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/1.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "USA",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/2.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "USA+",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/usplus.m3u",
-"type": "1",
-"logo_url": ""
-},       
-{
-"id": "1",
-"label": "Arabica",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/blac.m3u",
-"type": "1",
-"logo_url": ""
 }, 
-{
-"id": "1",
-"label": "Arabica24",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/this.m3u",
-"type": "1",
-"logo_url": ""
-},  
-{
-"id": "1",
-"label": "June",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/june.m3u",
-"type": "1",
-"logo_url": ""
-},      
 {
 "id": "1",
 "label": "Lebanese",
@@ -274,32 +106,11 @@
 },
 {
 "id": "1",
-"label": "Gant",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/gantv.m3u",
-"type": "1",
-"logo_url": ""
-},  
-{
-"id": "1",
 "label": "Zain",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/zain.m3u",
 "type": "1",
 "logo_url": ""
 },    
-{
-"id": "1",
-"label": "Sat",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/coll.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "Sat3",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/newwt.m3u",
-"type": "1",
-"logo_url": ""
-},              
 {
 "id": "1",
 "label": "2024",
@@ -316,39 +127,11 @@
 },
 {
 "id": "1",
-"label": "Channels321",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Channels321.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "Mega2",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/Mega8.m3u",
-"type": "1",
-"logo_url": ""
-}, 
-{
-"id": "1",
-"label": "2026",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/2026.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
 "label": "Mix",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/wel.m3u",
 "type": "1",
 "logo_url": ""
 }, 
-{
-"id": "1",
-"label": "TVX",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/tvx.m3u",
-"type": "1",
-"logo_url": ""
-},
 {
 "id": "1",
 "label": "2XXL",
