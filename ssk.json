@@ -92,13 +92,6 @@
 }, 
 {
 "id": "1",
-"label": "Lebanese",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/march.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
 "label": "Zain",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/zain.m3u",
 "type": "1",
@@ -113,7 +106,7 @@
 },
 {
 "id": "1",
-"label": "TwoVods",
+"label": "LEBVods",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/TwoVod.m3u",
 "type": "1",
 "logo_url": ""
