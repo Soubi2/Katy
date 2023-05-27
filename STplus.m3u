@@ -11,6 +11,22 @@ http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema" tvg-logo="https://w7.pngwing.com/pngs/226/303/png-transparent-popcorn-graphic-film-cinema-popcorn-television-food-film.png" group-title="live-stream",VOD-Cinema
 http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-id="" tvg-logo="" group-title="LEB",MTV
+http://server.sibfungold.info:8080/live/hfmkelibia@/cwV1syTkt9/50151.ts
+#EXTINF:-1 tvg-name="JADEED" tvg-id="" tvg-logo="" group-title="LEB",JADEED
+http://server.sibfungold.info:8080/live/hfmkelibia@/cwV1syTkt9/3575.ts
+#EXTINF:-1 tvg-name="LBC" tvg-id="" tvg-logo="" group-title="LEB",LBC
+http://server.sibfungold.info:8080/live/hfmkelibia@/cwV1syTkt9/52376.ts
+#EXTINF:-1 tvg-name="HADAS" tvg-id="" tvg-logo="" group-title="LEB",HADAS
+http://server.sibfungold.info:8080/live/hfmkelibia@/cwV1syTkt9/2230.ts
+#EXTINF:-1 tvg-name="3ARABIYA" tvg-id="" tvg-logo="" group-title="LEB",3ARABIYA
+http://server.sibfungold.info:8080/live/hfmkelibia@/cwV1syTkt9/2229.ts
+#EXTINF:-1 tvg-name="JAZEERA" tvg-id="" tvg-logo="" group-title="LEB",JAZEERA
+#EXTINF:-1 tvg-name="MBC MAX" tvg-id="" tvg-logo="" group-title="LEB",MBC MAX
+http://server.sibfungold.info:8080/live/hfmkelibia@/cwV1syTkt9/46371.ts
+#EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="" group-title="LEB",MBC2
+http://server.sibfungold.info:8080/live/hfmkelibia@/cwV1syTkt9/315.ts
+http://server.sibfungold.info:8080/live/hfmkelibia@/cwV1syTkt9/52119.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HD" tvg-logo="" group-title="Lebanon",MTV LEBANON HD
 http://obsfullhd.tv:25461/starseven18/z4SR67eA4f/7506
 #EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="" group-title="Lebanon",LBC HD
