@@ -33,7 +33,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ste.m3u",
 "type": "1",
 "logo_url": ""
-},      
+},
+{
+"id": "1",
+"label": "Many",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/m0.m3u",
+"type": "1",
+"logo_url": ""
+},        
 {
 "id": "1",
 "label": "Many1",
