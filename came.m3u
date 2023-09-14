@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="usa Aquarium norfolk
-http://216.54.27.7/mjpg/video.mjpg
+http://216.54.27.7/view/index.shtml
 #EXTINF:-1 tvg-id="" tvg-name="San Diego
 http://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ocean city
