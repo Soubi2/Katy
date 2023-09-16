@@ -11,6 +11,8 @@ http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema" tvg-logo="https://w7.pngwing.com/pngs/226/303/png-transparent-popcorn-graphic-film-cinema-popcorn-television-food-film.png" group-title="live-stream",VOD-Cinema
 http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV0" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان",MTV0
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JADEED FHDz" tvg-logo="http://logo.panel.cx/logo/ASIA/LEBANON/ALJADEEDTV.png" group-title="AR: LEBANON لبنان",JADEED FHDz
 http://zeintv.xyz:8080/05078380367/7644787654/957.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV FHDz" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان",MTV FHDz
