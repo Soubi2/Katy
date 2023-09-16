@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MTVTEST" tvg-logo="" group-title="TEST",MTVTEST
-https://tv.ipslow.com/tv466_www.elahmad.com_mtv_lebanon/index.m3u8?token=e628139b29635ae5dff4740ebe19b46513f09601-d5c3eee170988e72c51326582ddc3ecd-1694868708-1694857908
-#EXTINF:-1 tvg-id="" tvg-name="MTVTEST1" tvg-logo="" group-title="TEST",MTVTEST1
-https://tv.ipslow.com/tv466_www.elahmad.com_mtv_lebanon/index.m3u8?token=8168c92f13d5ed99148badc00dc9a2cab1bc4473-e7e291490e38215507903bc567f8c60b-1694868783-1694857983
-#EXTINF:-1 tvg-id="" tvg-name="MTVTEST2" tvg-logo="" group-title="TEST",MTVTEST2
-https://tv.ipslow.com/tv466_www.elahmad.com_mtv_lebanon/index.m3u8?token=f7f1daf91303d6fce8acdfb423e2713098400289-9146c9730c1dcfa5fe469bf633410cc8-1694868807-1694858007
 #EXTINF:-1 tvg-id="" tvg-name="Aflam Motarjama" tvg-logo="https://www.pngmart.com/files/5/Movie-PNG-Image.png" group-title="live-stream",Aflam Motarjama
 http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/08/Wave-love-music-on-transparent-background-PNG.png" group-title="live-stream",Music
