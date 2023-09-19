@@ -26,15 +26,22 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/came.m3u",
 "type": "1",
 "logo_url": ""
-}, {
+}, 
+ {
+"id": "1",
+"label": "NEWone1",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/123123.m3u",
+"type": "1",
+"logo_url": ""
+},
+  {
 "id": "1",
 "label": "NEWone",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/122.m3u",
 "type": "1",
 "logo_url": ""
 },
-  
-{
+ {
 "id": "1",
 "label": "MULTI channels",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/ste.m3u",
