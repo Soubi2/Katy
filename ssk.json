@@ -26,7 +26,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/came.m3u",
 "type": "1",
 "logo_url": ""
-}, 
+},
+  {
+"id": "1",
+"label": "NEWoneS",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/122122.m3u",
+"type": "1",
+"logo_url": ""
+},
  {
 "id": "1",
 "label": "NEWone1",
