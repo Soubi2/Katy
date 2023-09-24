@@ -169,6 +169,14 @@ http://faucontv.live:8080/live/Iptvtree2/kTryAuS/33101.m3u8
 http://faucontv.live:8080/live/Iptvtree2/kTryAuS/33102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBCI INTERNATIONAL FHDHDBA" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKilf26JnrBp36SSm-PxxDawiJS0wMIgFD8HFEusHkKTmeCJHueDje_YxwdUpPQrKQNjuXhsszrFtmEcN9NMhfLI8hcCSed46DSe7owb-En9ZLQiMGMRkOmWw5JbZY1L-ovSa7MRnd9Q5jS_Ggq61qQfHOMre30qPBiuW4jFdk-I_A.png" group-title="LEBANON0",LBCI INTERNATIONAL FHDHDBA
 http://faucontv.live:8080/live/Iptvtree2/kTryAuS/33103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN1" tvg-logo="" group-title="SPORTS",BEIN1
+https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="" group-title="SPORTS",BEIN2
+https://stream.ayas.ir/hls2/bein2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS" tvg-logo="" group-title="SPORTS",BEINSPORTS
+https://stream.ayas.ir/hls2/bein4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN UHD" tvg-logo="" group-title="SPORTS",BEIN UHD
+https://stream.ayas.ir/hls2/bein5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mar Charbel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj9pKw5Xj7MkRIT4I0GFUvuYziD.jpg" group-title="movies1",Mar Charbel
 http://185.104.71.235:445/user/index.php/api/files/file_68CKuH
 #EXTINF:-1 tvg-id="" tvg-name="Beirut oh Beirut" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FeiXJ5BXHHXrezv2yWK8ZVQGlt.jpg" group-title="movies1",Beirut oh Beirut
