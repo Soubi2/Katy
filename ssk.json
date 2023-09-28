@@ -75,7 +75,14 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/1818.m3u",
 "type": "1",
 "logo_url": ""
-},     
+},
+{
+"id": "1",
+"label": "NEWone39",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/div.m3u",
+"type": "1",
+"logo_url": ""
+},       
  {
 "id": "1",
 "label": "MULTI channels",
