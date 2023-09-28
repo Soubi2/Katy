@@ -89,10 +89,17 @@
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/habb.m3u",
 "type": "1",
 "logo_url": ""
-},           
+},
 {
 "id": "1",
 "label": "NEWone41",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/habbb.m3u",
+"type": "1",
+"logo_url": ""
+},        
+{
+"id": "1",
+"label": "NEWone42",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/div.m3u",
 "type": "1",
 "logo_url": ""
