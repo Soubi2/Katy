@@ -79,6 +79,13 @@
 {
 "id": "1",
 "label": "NEWone39",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/hab.m3u",
+"type": "1",
+"logo_url": ""
+},         
+{
+"id": "1",
+"label": "NEWone40",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/div.m3u",
 "type": "1",
 "logo_url": ""
