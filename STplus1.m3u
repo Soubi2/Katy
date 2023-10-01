@@ -169,6 +169,64 @@ http://faucontv.live:8080/live/Iptvtree2/kTryAuS/33101.m3u8
 http://faucontv.live:8080/live/Iptvtree2/kTryAuS/33102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBCI INTERNATIONAL FHDHDBA" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKilf26JnrBp36SSm-PxxDawiJS0wMIgFD8HFEusHkKTmeCJHueDje_YxwdUpPQrKQNjuXhsszrFtmEcN9NMhfLI8hcCSed46DSe7owb-En9ZLQiMGMRkOmWw5JbZY1L-ovSa7MRnd9Q5jS_Ggq61qQfHOMre30qPBiuW4jFdk-I_A.png" group-title="LEBANON0",LBCI INTERNATIONAL FHDHDBA
 http://faucontv.live:8080/live/Iptvtree2/kTryAuS/33103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEEED" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="LEBANON2",AL JADEEED
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1893
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEEED HD" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="LEBANON2",AL JADEEED HD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/62602
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEEED HEVC" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="LEBANON2",AL JADEEED HEVC
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/65583
+#EXTINF:-1 tvg-id="" tvg-name="LBC TV" tvg-logo="https://logo.iptveditor.com/lbctv.png" group-title="LEBANON2",LBC TV
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1898
+#EXTINF:-1 tvg-id="" tvg-name="LDC LBE" tvg-logo="https://logo.iptveditor.com/ldc.png" group-title="LEBANON2",LDC LBE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1897
+#EXTINF:-1 tvg-id="" tvg-name="LBC HDE" tvg-logo="https://logo.iptveditor.com/lbc.png" group-title="LEBANON2",LBC HDE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/61532
+#EXTINF:-1 tvg-id="" tvg-name="LBC EUROPE HDE" tvg-logo="https://logo.iptveditor.com/lbceurope.png" group-title="LEBANON2",LBC EUROPE HDE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/61543
+#EXTINF:-1 tvg-id="" tvg-name="LEBANON TVE" tvg-logo="https://logo.iptveditor.com/tv.png" group-title="LEBANON2",LEBANON TVE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1894
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANONE" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="LEBANON2",MTV LEBANONE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1896
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEB HDE" tvg-logo="https://logo.iptveditor.com/mtvlebanon.png" group-title="LEBANON2",MTV LEB HDE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/60936
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HDE" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="LEBANON2",MTV LEBANON HDE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/61497
+#EXTINF:-1 tvg-id="" tvg-name="ONE LEBANONN" tvg-logo="https://logo.iptveditor.com/one.png" group-title="LEBANON2",ONE LEBANONN
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/55946
+#EXTINF:-1 tvg-id="" tvg-name="FUTURE LEBANONN" tvg-logo="https://logo.iptveditor.com/future°.png" group-title="LEBANON2",FUTURE LEBANONN
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/4290
+#EXTINF:-1 tvg-id="" tvg-name="IFILM ARABIC" tvg-logo="https://logo.iptveditor.com/ifilmarabic.png" group-title="LEBANON2",IFILM ARABIC
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/42877
+#EXTINF:-1 tvg-id="" tvg-name="NBN HD LEBANONN" tvg-logo="https://logo.iptveditor.com/nbn.png" group-title="LEBANON2",NBN HD LEBANONN
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111827
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HDD" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="LEBANON2",MTV LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111828
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI LEBANON HDD" tvg-logo="https://logo.iptveditor.com/aghani.png" group-title="LEBANON2",AGHANI LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111829
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA TV LEBANON HDD" tvg-logo="https://logo.iptveditor.com/arabicatv.png" group-title="LEBANON2",ARABICA TV LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111830
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED LEBANON HDD" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="LEBANON2",AL JADEED LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111831
+#EXTINF:-1 tvg-id="" tvg-name="HAWAKOM LEBANON HDD" tvg-logo="https://logo.iptveditor.com/hawacom.png" group-title="LEBANON2",HAWAKOM LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111832
+#EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON HDD" tvg-logo="https://logo.iptveditor.com/tele.png" group-title="LEBANON2",TELE LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111834
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV RAWW" tvg-logo="https://logo.iptveditor.com/aljadeedtv.png" group-title="LEBANON2",ALJADEED TV RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155712
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI RAWW" tvg-logo="https://logo.iptveditor.com/aghani.png" group-title="LEBANON2",AGHANI RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155713
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA RAWW" tvg-logo="https://logo.iptveditor.com/arabicatv.png" group-title="LEBANON2",ARABICA RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155714
+#EXTINF:-1 tvg-id="" tvg-name="HAWACOM RAWW" tvg-logo="https://logo.iptveditor.com/hawacom.png" group-title="LEBANON2",HAWACOM RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155715
+#EXTINF:-1 tvg-id="" tvg-name="LBC INTERNATIONAL RAWW" tvg-logo="https://logo.iptveditor.com/lbcinternational.png" group-title="LEBANON2",LBC INTERNATIONAL RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155716
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON RAWW" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="LEBANON2",MTV LEBANON RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155717
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV RAWW" tvg-logo="https://logo.iptveditor.com/onetv.png" group-title="LEBANON2",ONE TV RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155720
+#EXTINF:-1 tvg-id="" tvg-name="TELELIBAN TV RAWW" tvg-logo="https://logo.iptveditor.com/teleliban.png" group-title="LEBANON2",TELELIBAN TV RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155721
 #EXTINF:-1 tvg-id="" tvg-name="BEIN1" tvg-logo="" group-title="SPORTS",BEIN1
 https://stream.ayas.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="" group-title="SPORTS",BEIN2
