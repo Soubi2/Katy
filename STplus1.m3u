@@ -14,7 +14,9 @@ http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sawt Lebnen" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان",Sawt Lebnen
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV0" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان",MTV0
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8?premium=true
+#EXTINF:-1 tvg-id="" tvg-name="MTVone1" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان",MTVone1
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8?premium=true
 #EXTINF:-1 tvg-id="" tvg-name="JADEED FHDz" tvg-logo="http://logo.panel.cx/logo/ASIA/LEBANON/ALJADEEDTV.png" group-title="AR: LEBANON لبنان",JADEED FHDz
 http://zeintv.xyz:8080/05078380367/7644787654/957.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV FHDz" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان",MTV FHDz
