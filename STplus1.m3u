@@ -109,23 +109,25 @@ http://zeintv.xyz:8080/zmohamedkiko/05318453509/967.m3u8
 http://zeintv.xyz:8080/zmohamedkiko/05318453509/978.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OTV 4K" tvg-logo="https://ai-i1.infcdn.net/icons_siandroid/png/200/13629/13629270.png" group-title="AR: LEBANON لبنان",OTV 4K
 http://zeintv.xyz:8080/zmohamedkiko/05318453509/962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MANAR" tvg-logo="" group-title="LEBANESE CH",MANAR
+#EXTINF:-1 tvg-id="" tvg-name="MTV89" tvg-logo="" group-title="LEBANESE CH",MTV89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MANAR89" tvg-logo="" group-title="LEBANESE CH",MANAR89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAYADEEN" tvg-logo="" group-title="LEBANESE CH",MAYADEEN
+#EXTINF:-1 tvg-id="" tvg-name="MAYADEEN89" tvg-logo="" group-title="LEBANESE CH",MAYADEEN89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="LEBANESE CH",LBCI
+#EXTINF:-1 tvg-id="" tvg-name="LBCI89" tvg-logo="" group-title="LEBANESE CH",LBCI89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JADEED" tvg-logo="" group-title="LEBANESE CH",JADEED
+#EXTINF:-1 tvg-id="" tvg-name="JADEED89" tvg-logo="" group-title="LEBANESE CH",JADEED89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="LEBANESE CH",NBN
+#EXTINF:-1 tvg-id="" tvg-name="NBN89" tvg-logo="" group-title="LEBANESE CH",NBN89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="" group-title="LEBANESE CH",OTV
+#EXTINF:-1 tvg-id="" tvg-name="OTV89" tvg-logo="" group-title="LEBANESE CH",OTV89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LBCSAT" tvg-logo="" group-title="LEBANESE CH",LBCSAT
+#EXTINF:-1 tvg-id="" tvg-name="LBCSAT89" tvg-logo="" group-title="LEBANESE CH",LBCSAT89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITI7AD" tvg-logo="" group-title="LEBANESE CH",ITI7AD
+#EXTINF:-1 tvg-id="" tvg-name="ITI7AD89" tvg-logo="" group-title="LEBANESE CH",ITI7AD89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARABICATV" tvg-logo="" group-title="LEBANESE CH",ARABICATV
+#EXTINF:-1 tvg-id="" tvg-name="ARABICATV89" tvg-logo="" group-title="LEBANESE CH",ARABICATV89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AGHANI1" tvg-logo="" group-title="LEBANESE CH",AGHANI1
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/65.m3u8
@@ -137,15 +139,15 @@ http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/152.m3u8
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/162.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AGHANI5" tvg-logo="" group-title="LEBANESE CH",AGHANI5
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AFLAM" tvg-logo="" group-title="LEBANESE CH",AFLAM
+#EXTINF:-1 tvg-id="" tvg-name="AFLAM89" tvg-logo="" group-title="LEBANESE CH",AFLAM89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/243.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DIET" tvg-logo="" group-title="LEBANESE CH",DIET
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/191.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEEAFLAM" tvg-logo="" group-title="LEBANESE CH",ZEEAFLAM
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA" tvg-logo="" group-title="LEBANESE CH",JAZEERA
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA89" tvg-logo="" group-title="LEBANESE CH",JAZEERA89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA LIVE" tvg-logo="" group-title="LEBANESE CH",JAZEERA LIVE
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA LIVE89" tvg-logo="" group-title="LEBANESE CH",JAZEERA LIVE89
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/313.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBCSAT FHDHDA" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON0",LBCSAT FHDHDA
 http://faucontv.live:8080/live/Iptvtree2/kTryAuS/17483.m3u8
