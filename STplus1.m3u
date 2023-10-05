@@ -123,29 +123,29 @@ http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/6.m3u8
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBCSAT" tvg-logo="" group-title="LEBANESE CH",LBCSAT
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITI7AD" tvg-logo="" group-title="radio",ITI7AD
+#EXTINF:-1 tvg-id="" tvg-name="ITI7AD" tvg-logo="" group-title="LEBANESE CH",ITI7AD
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARABICATV" tvg-logo="" group-title="radio",ARABICATV
+#EXTINF:-1 tvg-id="" tvg-name="ARABICATV" tvg-logo="" group-title="LEBANESE CH",ARABICATV
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGHANI1" tvg-logo="" group-title="radio",AGHANI1
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI1" tvg-logo="" group-title="LEBANESE CH",AGHANI1
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/65.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGHANI2" tvg-logo="" group-title="radio",AGHANI2
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI2" tvg-logo="" group-title="LEBANESE CH",AGHANI2
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/66.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGHANI3" tvg-logo="" group-title="radio",AGHANI3
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI3" tvg-logo="" group-title="LEBANESE CH",AGHANI3
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGHANI4" tvg-logo="" group-title="radio",AGHANI4
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI4" tvg-logo="" group-title="LEBANESE CH",AGHANI4
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGHANI5" tvg-logo="" group-title="radio",AGHANI5
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI5" tvg-logo="" group-title="LEBANESE CH",AGHANI5
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/359.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AFLAM" tvg-logo="" group-title="radio",AFLAM
+#EXTINF:-1 tvg-id="" tvg-name="AFLAM" tvg-logo="" group-title="LEBANESE CH",AFLAM
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIET" tvg-logo="" group-title="radio",DIET
+#EXTINF:-1 tvg-id="" tvg-name="DIET" tvg-logo="" group-title="LEBANESE CH",DIET
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEEAFLAM" tvg-logo="" group-title="radio",ZEEAFLAM
+#EXTINF:-1 tvg-id="" tvg-name="ZEEAFLAM" tvg-logo="" group-title="LEBANESE CH",ZEEAFLAM
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA" tvg-logo="" group-title="radio",JAZEERA
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA" tvg-logo="" group-title="LEBANESE CH",JAZEERA
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/312.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA LIVE" tvg-logo="" group-title="radio",JAZEERA LIVE
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA LIVE" tvg-logo="" group-title="LEBANESE CH",JAZEERA LIVE
 http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/313.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBCSAT FHDHDA" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON0",LBCSAT FHDHDA
 http://faucontv.live:8080/live/Iptvtree2/kTryAuS/17483.m3u8
