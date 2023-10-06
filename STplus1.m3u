@@ -217,6 +217,32 @@ http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155717
 http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155720
 #EXTINF:-1 tvg-id="" tvg-name="TELELIBAN TV RAWW" tvg-logo="https://logo.iptveditor.com/teleliban.png" group-title="LEBANON2",TELELIBAN TV RAWW
 http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155721
+#EXTINF:-1 tvg-id="" tvg-name="HDAghani TV (Lebanon)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aghani_aghani_lb_tv.png" group-title="LEBANON4",HDAghani TV (Lebanon)
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/128388
+#EXTINF:-1 tvg-id="" tvg-name="LBC LebanonTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lbc_sat.png" group-title="LEBANON4",LBC LebanonTV
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/128453
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/murr_tv_al_lubnaniya.png" group-title="LEBANON4",MTV Lebanon ᴴᴰ
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/128576
+#EXTINF:-1 tvg-id="" tvg-name="HDMTV Lebanon" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/murr_tv_al_lubnaniya.png" group-title="LEBANON4",HDMTV Lebanon
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/132335
+#EXTINF:-1 tvg-id="" tvg-name="HDNOUR MARIAM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mariam-tv-lb.png" group-title="LEBANON4",HDNOUR MARIAM
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/181075
+#EXTINF:-1 tvg-id="" tvg-name="NOURSAT TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nour_sat_lb.png" group-title="LEBANON4",NOURSAT TV
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/183618
+#EXTINF:-1 tvg-id="" tvg-name="HDLBC International " tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lbc-international-lb.png" group-title="LEBANON4",HDLBC International 
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/128454
+#EXTINF:-1 tvg-id="" tvg-name="HDTele Liban" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_liban_lb.png" group-title="LEBANON4",HDTele Liban
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/128455
+#EXTINF:-1 tvg-id="" tvg-name="HDOTV Libanon" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/otv-lb.svg" group-title="LEBANON4",HDOTV Libanon
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/128583
+#EXTINF:-1 tvg-id="" tvg-name="Al Jadeed TV ᴴᴰ " tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_jadeed.png" group-title="LEBANON4",Al Jadeed TV ᴴᴰ 
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/128615
+#EXTINF:-1 tvg-id="" tvg-name="HDOne TV" tvg-logo="" group-title="LEBANON4",HDOne TV
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/238354
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_2.png" group-title="LEBANON4",MBC 2 ᴴᴰ
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/128566
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX ᴴᴰ" tvg-logo="https://etvuhd.com/icons/arambc/mbcmax.png" group-title="LEBANON4",MBC MAX ᴴᴰ
+http://zyniptv.com:8080/osnew.freesrv/FVeDmRNQ3dta/128574
 #EXTINF:-1 tvg-id="" tvg-name="BEIN1" tvg-logo="" group-title="SPORTS",BEIN1
 https://stream.ayas.ir/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="" group-title="SPORTS",BEIN2
