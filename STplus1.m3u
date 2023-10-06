@@ -291,10 +291,6 @@ http://185.104.71.235:445/user/index.php/api/files/file_xUcrGM
 http://185.104.71.235:445/user/index.php/api/files/file_NiKmEK
 #EXTINF:-1 tvg-id="" tvg-name="1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBc5HhaUecGhEbfByqVY9kC3krI.jpg" group-title="movies1",1982
 http://185.104.71.235:445/user/index.php/api/files/file_aN76KW
-#EXTINF:-1 tvg-id="" tvg-name="Vitaminz" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/11/Vitamin-Download-PNG.png" group-title="movies1",Vitaminz
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Beirut Hotelz" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVhYWMwMWQtOGJmZi00OTI3LWIwMmYtYmQ0MjBkMGFiMWFhXkEyXkFqcGdeQXVyMTk3NTY2MDk@._V1_.jpg" group-title="movies1",Beirut Hotelz 
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222421.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Beirutz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg" group-title="movies1",Beirutz
 http://185.104.71.235:445/user/index.php/api/files/file_iKiYvo
 #EXTINF:-1 tvg-id="" tvg-name="electra" group-title="movies1",electra
