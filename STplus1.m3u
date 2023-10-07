@@ -149,6 +149,8 @@ http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/53627.ts
 http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/52677.ts
 #EXTINF:-1 tvg-id="" tvg-name="7ADAS33" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",7ADAS33
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARABIYA33" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",ARABIYA33
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JAZEERA33" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",JAZEERA33
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JAZEERA3" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",JAZEERA3
