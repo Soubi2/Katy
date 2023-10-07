@@ -145,6 +145,8 @@ http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/52376.ts
 http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/3575.ts
 #EXTINF:-1 tvg-id="" tvg-name="JADEED23" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",JADEED23
 http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/53627.ts
+#EXTINF:-1 tvg-id="" tvg-name="7ORRA33" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",7ORRA33
+https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="7ADAS3" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",7ADAS3
 http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/52677.ts
 #EXTINF:-1 tvg-id="" tvg-name="7ADAS33" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",7ADAS33
