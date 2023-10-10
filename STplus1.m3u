@@ -17,22 +17,6 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8?premium=true
 #EXTINF:-1 tvg-id="" tvg-name="MTVone1" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان",MTVone1
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8?premium=true
-#EXTINF:-1 tvg-id="" tvg-name="LBC-HD" tvg-logo="" group-title="LEBANON3",LBC-HD
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6934
-#EXTINF:-1 tvg-id="" tvg-name="LEBANON TV-HD" tvg-logo="" group-title="LEBANON3",LEBANON TV-HD
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/6935
-#EXTINF:-1 tvg-id="" tvg-name="LBC-HD" tvg-logo="" group-title="LEBANON3",LBC-HD
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7502
-#EXTINF:-1 tvg-id="" tvg-name="AL JADEED-HD" tvg-logo="" group-title="LEBANON3",AL JADEED-HD
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7504
-#EXTINF:-1 tvg-id="" tvg-name="AL ALAM-HD" tvg-logo="" group-title="LEBANON3",AL ALAM-HD
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7505
-#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON-HD" tvg-logo="" group-title="LEBANON3",MTV LEBANON-HD
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7506
-#EXTINF:-1 tvg-id="" tvg-name="NBN TV-HD" tvg-logo="" group-title="LEBANON3",NBN TV-HD
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7507
-#EXTINF:-1 tvg-id="" tvg-name="LDC LEBANON-HD" tvg-logo="" group-title="LEBANON3",LDC LEBANON-HD
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7508
 #EXTINF:-1 tvg-id="" tvg-name="MTV LEB1" tvg-logo="" group-title="LEBANON0",MTV LEB1
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="jadeed3v" tvg-logo="" group-title="LEBANON0",jadeed3v
