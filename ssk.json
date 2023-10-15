@@ -106,6 +106,13 @@
 },
 {
 "id": "1",
+"label": "NEWone42",
+"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/156.m3u",
+"type": "1",
+"logo_url": ""
+}, 
+{
+"id": "1",
 "label": "LBTEST",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
 "type": "1",
