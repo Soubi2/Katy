@@ -65,34 +65,20 @@
 {
 "id": "1",
 "label": "NEWone37",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/hab.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "NEWone38",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/habb.m3u",
-"type": "1",
-"logo_url": ""
-},
-{
-"id": "1",
-"label": "NEWone39",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/habbb.m3u",
 "type": "1",
 "logo_url": ""
 },        
 {
 "id": "1",
-"label": "NEWone40",
+"label": "NEWone38",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/div.m3u",
 "type": "1",
 "logo_url": ""
 },       
  {
 "id": "1",
-"label": "NEWone41",
+"label": "NEWone39",
 "url": "https://raw.githubusercontent.com/Soubi2/Katy/main/bah.m3u",
 "type": "1",
 "logo_url": ""
@@ -104,13 +90,6 @@
 "type": "1",
 "logo_url": ""
 },         
-{
-"id": "1",
-"label": "Maybe",
-"url": "https://raw.githubusercontent.com/Soubi2/Katy/main/1919.m3u",
-"type": "1",
-"logo_url": ""
-}, 
 {
 "id": "1",
 "label": "Mix",
