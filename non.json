@@ -1,0 +1,10 @@
+{
+    "update_enforcement": "not_mandatory",
+    "message": "\n\n",
+    "version_code": "17",
+    "version_name": "v1.0.7r",
+    "apk_url": "",
+    "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ssk.json",
+    "anime_domain":"www5.gogoanimes.fi",
+    "ads":false
+}
