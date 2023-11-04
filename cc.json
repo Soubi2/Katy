@@ -5,6 +5,6 @@
     "version_name": "v2.1.2",
     "apk_url": "",
     "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ssk.json",
-    "anime_domain":"gogoanimehd.io",
+    "anime_domain":"gogoanime.me",
 	"r":"okhttp/4.9.2"
 }
