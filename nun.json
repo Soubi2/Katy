@@ -4,7 +4,7 @@
     "version_code": "25",
     "version_name": "v1.1.1r",
     "apk_url": "",
-    "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/stst.m3u",
+    "iptv_url":"https://iptv-org.github.io/iptv/index.country.m3u",
     "anime_domain":"www5.gogoanimes.fi",
     "live_tv_main_active":true,
     "ml_host":"https://raw.githubusercontent.com/Soubi2/Katy/main/ssk.json",
