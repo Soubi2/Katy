@@ -7,7 +7,7 @@
     "iptv_url":"https://iptv-org.github.io/iptv/index.country.m3u",
     "anime_domain":"www5.gogoanimes.fi",
     "live_tv_main_active":false,
-    "ml_host":"https://raw.githubusercontent.com/Soubi2/Katy/main/ssk.json",
+    "ml_host":"",
     "ads":false,
     "ads_delay":0,
     "playlists": [
