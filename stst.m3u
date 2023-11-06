@@ -1,0 +1,505 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Aflam Motarjama" tvg-logo="https://www.pngmart.com/files/5/Movie-PNG-Image.png" group-title="live-stream",Aflam Motarjama
+http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/08/Wave-love-music-on-transparent-background-PNG.png" group-title="live-stream",Music
+http://iptv.icsnleb.com:25461/live/ST/ST/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aflam2" tvg-logo="https://static.wikia.nocookie.net/robotchicken748/images/7/78/At_the_Movies_2009.jpg" group-title="live-stream",Aflam2
+http://iptv.icsnleb.com:25461/live/ST/ST/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="https://img.freepik.com/premium-vector/show-light-podium-red-background-vector-illustration_3482-4447.jpg" group-title="live-stream",Series
+http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lebanese Channel" tvg-logo="https://e1.pngegg.com/pngimages/909/597/png-clipart-world-flag-icons-flag-of-lebanon-thumbnail.png" group-title="live-stream",Lebanese Channel
+http://iptv.icsnleb.com:25461/live/ST/ST/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema" tvg-logo="https://w7.pngwing.com/pngs/226/303/png-transparent-popcorn-graphic-film-cinema-popcorn-television-food-film.png" group-title="live-stream",VOD-Cinema
+http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sawt Lebnen" tvg-logo="" group-title="LEBANONZ",Sawt Lebnen
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV0" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="LEBANONZ",MTV0
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8?premium=true
+#EXTINF:-1 tvg-id="" tvg-name="MTVone1" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="LEBANONZ",MTVone1
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8?premium=true
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEB1" tvg-logo="" group-title="LEBANON0",MTV LEB1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jadeed3v" tvg-logo="" group-title="LEBANON0",jadeed3v
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC2" tvg-logo="" group-title="LEBANON0",MBC2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAXV" tvg-logo="" group-title="LEBANON0",MBC MAXV
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX EG" tvg-logo="" group-title="LEBANON0",MIX EG
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV3" tvg-logo="" group-title="LEBANON1",MTV3
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/50151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV32" tvg-logo="" group-title="LEBANON1",MTV32
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/52679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LBC3" tvg-logo="" group-title="LEBANON1",LBC3
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/52376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JADEED3" tvg-logo="" group-title="LEBANON1",JADEED3
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/3575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JADEED23" tvg-logo="" group-title="LEBANON1",JADEED23
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/53627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7ORRA33" tvg-logo="" group-title="LEBANON1",7ORRA33
+https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7ADAS3" tvg-logo="" group-title="LEBANON1",7ADAS3
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/52677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7ADAS33" tvg-logo="" group-title="LEBANON1",7ADAS33
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARABIYA33" tvg-logo="" group-title="LEBANON1",ARABIYA33
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA33" tvg-logo="" group-title="LEBANON1",JAZEERA33
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA3" tvg-logo="" group-title="LEBANON1",JAZEERA3
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/52119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA43" tvg-logo="" group-title="LEBANON1",JAZEERA43
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA33LIVE" tvg-logo="" group-title="LEBANON1",JAZEERA33LIVE
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OMRO DIAB" tvg-logo="" group-title="LEBANON1",OMRO DIAB
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/50510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NANCY AJRAM" tvg-logo="" group-title="LEBANON1",NANCY AJRAM
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/54906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WAEL KFOURY" tvg-logo="" group-title="LEBANON1",WAEL KFOURY
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/54907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELISSA" tvg-logo="" group-title="LEBANON1",ELISSA
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/50518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAGHEB ALAMA" tvg-logo="" group-title="LEBANON1",RAGHEB ALAMA
+http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/50515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEEED" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="LEBANON2",AL JADEEED
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1893
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEEED HD" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="LEBANON2",AL JADEEED HD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/62602
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEEED HEVC" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="LEBANON2",AL JADEEED HEVC
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/65583
+#EXTINF:-1 tvg-id="" tvg-name="LBC TV" tvg-logo="https://logo.iptveditor.com/lbctv.png" group-title="LEBANON2",LBC TV
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1898
+#EXTINF:-1 tvg-id="" tvg-name="LDC LBE" tvg-logo="https://logo.iptveditor.com/ldc.png" group-title="LEBANON2",LDC LBE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1897
+#EXTINF:-1 tvg-id="" tvg-name="LBC HDE" tvg-logo="https://logo.iptveditor.com/lbc.png" group-title="LEBANON2",LBC HDE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/61532
+#EXTINF:-1 tvg-id="" tvg-name="LBC EUROPE HDE" tvg-logo="https://logo.iptveditor.com/lbceurope.png" group-title="LEBANON2",LBC EUROPE HDE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/61543
+#EXTINF:-1 tvg-id="" tvg-name="LEBANON TVE" tvg-logo="https://logo.iptveditor.com/tv.png" group-title="LEBANON2",LEBANON TVE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1894
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANONE" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="LEBANON2",MTV LEBANONE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/1896
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEB HDE" tvg-logo="https://logo.iptveditor.com/mtvlebanon.png" group-title="LEBANON2",MTV LEB HDE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/60936
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HDE" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="LEBANON2",MTV LEBANON HDE
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/61497
+#EXTINF:-1 tvg-id="" tvg-name="ONE LEBANONN" tvg-logo="https://logo.iptveditor.com/one.png" group-title="LEBANON2",ONE LEBANONN
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/55946
+#EXTINF:-1 tvg-id="" tvg-name="FUTURE LEBANONN" tvg-logo="https://logo.iptveditor.com/future°.png" group-title="LEBANON2",FUTURE LEBANONN
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/4290
+#EXTINF:-1 tvg-id="" tvg-name="IFILM ARABIC" tvg-logo="https://logo.iptveditor.com/ifilmarabic.png" group-title="LEBANON2",IFILM ARABIC
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/42877
+#EXTINF:-1 tvg-id="" tvg-name="NBN HD LEBANONN" tvg-logo="https://logo.iptveditor.com/nbn.png" group-title="LEBANON2",NBN HD LEBANONN
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111827
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON HDD" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="LEBANON2",MTV LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111828
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI LEBANON HDD" tvg-logo="https://logo.iptveditor.com/aghani.png" group-title="LEBANON2",AGHANI LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111829
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA TV LEBANON HDD" tvg-logo="https://logo.iptveditor.com/arabicatv.png" group-title="LEBANON2",ARABICA TV LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111830
+#EXTINF:-1 tvg-id="" tvg-name="AL JADEED LEBANON HDD" tvg-logo="https://logo.iptveditor.com/aljadeed.png" group-title="LEBANON2",AL JADEED LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111831
+#EXTINF:-1 tvg-id="" tvg-name="HAWAKOM LEBANON HDD" tvg-logo="https://logo.iptveditor.com/hawacom.png" group-title="LEBANON2",HAWAKOM LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111832
+#EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON HDD" tvg-logo="https://logo.iptveditor.com/tele.png" group-title="LEBANON2",TELE LEBANON HDD
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/111834
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED TV RAWW" tvg-logo="https://logo.iptveditor.com/aljadeedtv.png" group-title="LEBANON2",ALJADEED TV RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155712
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI RAWW" tvg-logo="https://logo.iptveditor.com/aghani.png" group-title="LEBANON2",AGHANI RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155713
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA RAWW" tvg-logo="https://logo.iptveditor.com/arabicatv.png" group-title="LEBANON2",ARABICA RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155714
+#EXTINF:-1 tvg-id="" tvg-name="HAWACOM RAWW" tvg-logo="https://logo.iptveditor.com/hawacom.png" group-title="LEBANON2",HAWACOM RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155715
+#EXTINF:-1 tvg-id="" tvg-name="LBC INTERNATIONAL RAWW" tvg-logo="https://logo.iptveditor.com/lbcinternational.png" group-title="LEBANON2",LBC INTERNATIONAL RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155716
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON RAWW" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="LEBANON2",MTV LEBANON RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155717
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV RAWW" tvg-logo="https://logo.iptveditor.com/onetv.png" group-title="LEBANON2",ONE TV RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155720
+#EXTINF:-1 tvg-id="" tvg-name="TELELIBAN TV RAWW" tvg-logo="https://logo.iptveditor.com/teleliban.png" group-title="LEBANON2",TELELIBAN TV RAWW
+http://arabitv5.com:8000/Ahmadmasr55/WgUkZzfzOu/155721
+#EXTINF:-1 tvg-id="" tvg-name="Aljadeed8 4K" tvg-logo="" group-title="LEBANON3",Aljadeed8 4K
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/153
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon8 HD" tvg-logo="" group-title="LEBANON3",MTV Lebanon8 HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/157
+#EXTINF:-1 tvg-id="" tvg-name="AL MANAR8" tvg-logo="" group-title="LEBANON3",AL MANAR8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/159
+#EXTINF:-1 tvg-id="" tvg-name="Tele Lebanon8" tvg-logo="" group-title="LEBANON3",Tele Lebanon8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/160
+#EXTINF:-1 tvg-id="" tvg-name="Lebanon TV HD8" tvg-logo="" group-title="LEBANON3",Lebanon TV HD8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/163
+#EXTINF:-1 tvg-id="" tvg-name="LDC Lebanon 4K8" tvg-logo="" group-title="LEBANON3",LDC Lebanon 4K8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/164
+#EXTINF:-1 tvg-id="" tvg-name="LBC DRAMA LIVE8" tvg-logo="" group-title="LEBANON3",LBC DRAMA LIVE8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/165
+#EXTINF:-1 tvg-id="" tvg-name="LBC International 4K8" tvg-logo="" group-title="LEBANON3",LBC International 4K8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/166
+#EXTINF:-1 tvg-id="" tvg-name="LBC 4K8" tvg-logo="" group-title="LEBANON3",LBC 4K8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/169
+#EXTINF:-1 tvg-id="" tvg-name="OTV Lebanon 4K8" tvg-logo="" group-title="LEBANON3",OTV Lebanon 4K8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/172
+#EXTINF:-1 tvg-id="" tvg-name="NBN 4K8" tvg-logo="" group-title="LEBANON3",NBN 4K8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/174
+#EXTINF:-1 tvg-id="" tvg-name="Future TV8" tvg-logo="" group-title="LEBANON3",Future TV8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/177
+#EXTINF:-1 tvg-id="" tvg-name="One TV Lebanon8" tvg-logo="" group-title="LEBANON3",One TV Lebanon8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/178
+#EXTINF:-1 tvg-id="" tvg-name="Al Mayadeen8" tvg-logo="" group-title="LEBANON3",Al Mayadeen8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/179
+#EXTINF:-1 tvg-id="" tvg-name="LBC SAT8" tvg-logo="" group-title="LEBANON3",LBC SAT8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/183
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED 4K +6H" tvg-logo="" group-title="LEBANON3",ALJADEED 4K +6H
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1307
+#EXTINF:-1 tvg-id="" tvg-name="AL MANAR +6H" tvg-logo="" group-title="LEBANON3",AL MANAR +6H
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1308
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV LEBANON +6H" tvg-logo="" group-title="LEBANON3",ONE TV LEBANON +6H
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1309
+#EXTINF:-1 tvg-id="" tvg-name="OTV LEBANON 4K +6H" tvg-logo="" group-title="LEBANON3",OTV LEBANON 4K +6H
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1310
+#EXTINF:-1 tvg-id="" tvg-name="LDC LEBANON HD +6H" tvg-logo="" group-title="LEBANON3",LDC LEBANON HD +6H
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1311
+#EXTINF:-1 tvg-id="" tvg-name="LBC 4K +6H" tvg-logo="" group-title="LEBANON3",LBC 4K +6H
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1312
+#EXTINF:-1 tvg-id="" tvg-name="LBC International 4K +6H" tvg-logo="" group-title="LEBANON3",LBC International 4K +6H
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1313
+#EXTINF:-1 tvg-id="" tvg-name="BEIN1" tvg-logo="" group-title="SPORTS",BEIN1
+https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="" group-title="SPORTS",BEIN2
+https://stream.ayas.ir/hls2/bein2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS" tvg-logo="" group-title="SPORTS",BEINSPORTS
+https://stream.ayas.ir/hls2/bein4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN UHD" tvg-logo="" group-title="SPORTS",BEIN UHD
+https://stream.ayas.ir/hls2/bein5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV89" tvg-logo="" group-title="LEBANESE CH",MTV89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MANAR89" tvg-logo="" group-title="LEBANESE CH",MANAR89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAYADEEN89" tvg-logo="" group-title="LEBANESE CH",MAYADEEN89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LBCI89" tvg-logo="" group-title="LEBANESE CH",LBCI89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JADEED89" tvg-logo="" group-title="LEBANESE CH",JADEED89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBN89" tvg-logo="" group-title="LEBANESE CH",NBN89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OTV89" tvg-logo="" group-title="LEBANESE CH",OTV89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LBCSAT89" tvg-logo="" group-title="LEBANESE CH",LBCSAT89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITI7AD89" tvg-logo="" group-title="LEBANESE CH",ITI7AD89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARABICATV89" tvg-logo="" group-title="LEBANESE CH",ARABICATV89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI1" tvg-logo="" group-title="LEBANESE CH",AGHANI1
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI2" tvg-logo="" group-title="LEBANESE CH",AGHANI2
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI3" tvg-logo="" group-title="LEBANESE CH",AGHANI3
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI4" tvg-logo="" group-title="LEBANESE CH",AGHANI4
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI5" tvg-logo="" group-title="LEBANESE CH",AGHANI5
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFLAM89" tvg-logo="" group-title="LEBANESE CH",AFLAM89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEEAFLAM" tvg-logo="" group-title="LEBANESE CH",ZEEAFLAM
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA89" tvg-logo="" group-title="LEBANESE CH",JAZEERA89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/312.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA LIVE89" tvg-logo="" group-title="LEBANESE CH",JAZEERA LIVE89
+http://208.115.214.148/live/358FF4FD11C3FC8CD7CAFC63A4E8AB80/313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beirut oh Beirut" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FeiXJ5BXHHXrezv2yWK8ZVQGlt.jpg" group-title="movies1",Beirut oh Beirut
+http://185.104.71.235:445/user/index.php/api/files/file_sHpmjR
+#EXTINF:-1 tvg-id="" tvg-name="West Beirut" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZHf17gdAe0eAQAZzCTzuuBwEAP.jpg" group-title="movies1",West Beirut
+http://185.104.71.235:445/user/index.php/api/files/file_sYCdzE
+#EXTINF:-1 tvg-id="" tvg-name="Safar barlek" tvg-logo="https://i0.wp.com/mashallahnews.com/wp-content/uploads/2012/08/safarbarlik.jpg" group-title="movies1",Safar barlek
+http://185.104.71.235:445/user/index.php/api/files/file_1roZdL
+#EXTINF:-1 tvg-id="" tvg-name="Bint El-Hares" tvg-logo="https://1.bp.blogspot.com/-_YF6GhHsjmI/WeTeTrE_AOI/AAAAAAAAMp8/09kafLSbcnMWa6To3Yq6fLAx0iFv9wD4wCLcBGAs/s400/001.jpg" group-title="movies1",Bint El-Hares
+http://185.104.71.235:445/user/index.php/api/files/file_WBzPcl
+#EXTINF:-1 tvg-id="" tvg-name="Out of Life" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG3C2hyiJ0QLEu6EVXUaJMtpYsM.jpg" group-title="movies1",Out of Life
+http://185.104.71.235:445/user/index.php/api/files/file_ijI96n
+#EXTINF:-1 tvg-id="" tvg-name="Zozo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbQAs4FajhhGxEo1y9XJPJcyv9A.jpg" group-title="movies1",Zozo
+http://185.104.71.235:445/user/index.php/api/files/file_emTLfe
+#EXTINF:-1 tvg-id="" tvg-name="Ring" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSwenmJjxZOOKHCB5DHqnUxRc4I.jpg" group-title="movies1",Ring
+http://185.104.71.235:445/user/index.php/api/files/file_KziaR6
+#EXTINF:-1 tvg-id="" tvg-name="Capernaum - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFnfTVADj8yOxwzprYOmTPselk8.jpg" group-title="movies1",Capernaum - 2018
+http://185.104.71.235:445/user/index.php/api/files/file_Yjfy9m
+#EXTINF:-1 tvg-id="" tvg-name="شي يوم رح فل" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFnfTVADj8yOxwzprYOmTPselk8.jpg" group-title="movies1",شي يوم رح فل
+http://185.104.71.235:445/user/index.php/api/files/file_zSUgOq
+#EXTINF:-1 tvg-id="" tvg-name="Where Do We Go Now?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za3GHJgqSEPrmuERHv1uVzmLg9B.jpg" group-title="movies1",Where Do We Go Now?
+http://185.104.71.235:445/user/index.php/api/files/file_228HVM
+#EXTINF:-1 tvg-id="" tvg-name="Farahh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6ofVNuaWsIqOXP4XEN88guvuY3.jpg" group-title="movies1",Farahh
+http://185.104.71.235:445/user/index.php/api/files/file_yqMeMW
+#EXTINF:-1 tvg-id="" tvg-name="Costa Brava, Lebanon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hr5QMxRIR7BK6k1OeAucXEfjCN.jpg" group-title="movies1",Costa Brava, Lebanon
+http://185.104.71.235:445/user/index.php/api/files/file_xUcrGM
+#EXTINF:-1 tvg-id="" tvg-name="Tannoura Maxi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrXdJTS8ONBQtxvNYcaP6pZbidR.jpg" group-title="movies1",Tannoura Maxi
+http://185.104.71.235:445/user/index.php/api/files/file_NiKmEK
+#EXTINF:-1 tvg-id="" tvg-name="1982" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBc5HhaUecGhEbfByqVY9kC3krI.jpg" group-title="movies1",1982
+http://185.104.71.235:445/user/index.php/api/files/file_aN76KW
+#EXTINF:-1 tvg-id="" tvg-name="Beirutz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg" group-title="movies1",Beirutz
+http://185.104.71.235:445/user/index.php/api/files/file_iKiYvo
+#EXTINF:-1 tvg-id="" tvg-name="electra" group-title="movies1",electra
+http://185.104.71.235:445/user/index.php/api/files/file_WemCIv
+#EXTINF:-1 tvg-id="" tvg-name="jarima" group-title="movies1",jarima
+http://185.104.71.235:445/user/index.php/api/files/file_eaKVCs
+#EXTINF:-1 tvg-id="" tvg-name="2eltelak khalas" group-title="movies1",2eltelak khalas
+http://185.104.71.235:445/user/index.php/api/files/file_XuthAM
+#EXTINF:-1 tvg-id="" tvg-name="mako" group-title="movies1",mako
+http://185.104.71.235:445/user/index.php/api/files/file_8xo4ZH
+#EXTINF:-1 tvg-id="" tvg-name="go home" group-title="movies1",go home
+http://185.104.71.235:445/user/index.php/api/files/file_93JOGv
+#EXTINF:-1 tvg-id="" tvg-name="my mother" group-title="movies1",my mother
+http://185.104.71.235:445/user/index.php/api/files/file_Rw47nE
+#EXTINF:-1 tvg-id="" tvg-name="as7ab wou 2a3az" group-title="movies1",as7ab wou 2a3az
+http://185.104.71.235:445/user/index.php/api/files/file_Z1hufX
+#EXTINF:-1 tvg-id="" tvg-name="not me" group-title="movies1",not me
+http://185.104.71.235:445/user/index.php/api/files/file_zRHKNE
+#EXTINF:-1 tvg-id="" tvg-name="slfilm" group-title="movies1",slfilm
+http://185.104.71.235:445/user/index.php/api/files/file_6u6T1E
+#EXTINF:-1 tvg-id="" tvg-name="the choice" group-title="movies1",the choice
+http://185.104.71.235:445/user/index.php/api/files/file_sMTL8r
+#EXTINF:-1 tvg-id="" tvg-name="bosta" group-title="movies1",bosta
+http://185.104.71.235:445/user/index.php/api/files/file_BXdP4W
+#EXTINF:-1 tvg-id="" tvg-name="mirath" group-title="movies1",mirath
+http://185.104.71.235:445/user/index.php/api/files/file_hQmfks
+#EXTINF:-1 tvg-id="" tvg-name="whispers" group-title="movies1",whispers
+http://185.104.71.235:445/user/index.php/api/files/file_UxB07p
+#EXTINF:-1 tvg-id="" tvg-name="koulna watan" group-title="movies1",koulna watan
+http://185.104.71.235:445/user/index.php/api/files/file_cIZPv8
+#EXTINF:-1 tvg-id="" tvg-name="bel ghalat" group-title="movies1",bel ghalat
+http://185.104.71.235:445/user/index.php/api/files/file_lzS425
+#EXTINF:-1 tvg-id="" tvg-name="ghadi" group-title="movies1",ghadi
+http://185.104.71.235:445/user/index.php/api/files/file_3Ailuz
+#EXTINF:-1 tvg-id="" tvg-name="liban concert" group-title="movies1",liban concert
+http://185.104.71.235:445/user/index.php/api/files/file_QJkr3j
+#EXTINF:-1 tvg-id="" tvg-name="chicago" group-title="movies1",chicago
+http://185.104.71.235:445/user/index.php/api/files/file_3AwwpK
+#EXTINF:-1 tvg-id="" tvg-name="yalla 3a 2belkoun" group-title="movies1",yalla 3a 2belkoun
+http://185.104.71.235:445/user/index.php/api/files/file_JOAw3x
+#EXTINF:-1 tvg-id="" tvg-name="paradox" group-title="movies1",paradox
+http://185.104.71.235:445/user/index.php/api/files/file_U6mEbV
+#EXTINF:-1 tvg-id="" tvg-name="ghada 3id" group-title="movies1",ghada 3id
+http://185.104.71.235:445/user/index.php/api/files/file_M7m6Dh
+#EXTINF:-1 tvg-id="" tvg-name="wled 3am" group-title="movies1",wled 3am
+http://185.104.71.235:445/user/index.php/api/files/file_WXyk3T
+#EXTINF:-1 tvg-id="" tvg-name="khat el moot" group-title="movies1",khat el moot
+http://185.104.71.235:445/user/index.php/api/files/file_cdI5iI
+#EXTINF:-1 tvg-id="" tvg-name="hafla" group-title="movies1",hafla
+http://185.104.71.235:445/user/index.php/api/files/file_rQY989
+#EXTINF:-1 tvg-id="" tvg-name="bala haybe" group-title="movies1",bala haybe
+http://185.104.71.235:445/user/index.php/api/files/file_7dya1s
+#EXTINF:-1 tvg-id="" tvg-name="dayf" group-title="movies1",dayf
+http://185.104.71.235:445/user/index.php/api/files/file_VVjoaN
+#EXTINF:-1 tvg-id="" tvg-name="ma fi metlo" group-title="movies1",ma fi metlo
+http://185.104.71.235:445/user/index.php/api/files/file_sOgIkh
+#EXTINF:-1 tvg-id="" tvg-name="waynoun" group-title="movies1",waynoun
+http://185.104.71.235:445/user/index.php/api/files/file_SozQZr
+#EXTINF:-1 tvg-id="" tvg-name="mays elrim" group-title="movies1",mays elrim
+http://185.104.71.235:445/user/index.php/api/files/file_PbvenT
+#EXTINF:-1 tvg-id="" tvg-name="la enne b7ebak" group-title="movies1",la enne b7ebak
+http://185.104.71.235:445/user/index.php/api/files/file_kPCZMw
+#EXTINF:-1 tvg-id="" tvg-name="nour" group-title="movies1",nour
+http://185.104.71.235:445/user/index.php/api/files/file_WZpzxh
+#EXTINF:-1 tvg-id="" tvg-name="tali3 nezil" group-title="movies1",tali3 nezil
+http://185.104.71.235:445/user/index.php/api/files/file_J7oa7c
+#EXTINF:-1 tvg-id="" tvg-name="se3a wou noss2" group-title="movies1",se3a wou noss2
+http://185.104.71.235:445/user/index.php/api/files/file_EkJWwU
+#EXTINF:-1 tvg-id="" tvg-name="se3a w noss1" group-title="movies1",se3a w noss1
+http://185.104.71.235:445/user/index.php/api/files/file_BfsiFi
+#EXTINF:-1 tvg-id="" tvg-name="rsasa tayshe" group-title="movies1",rsasa tayshe
+http://185.104.71.235:445/user/index.php/api/files/file_W3e9qv
+#EXTINF:-1 tvg-id="" tvg-name="karamel" group-title="movies1",karamel
+http://185.104.71.235:445/user/index.php/api/files/file_nwIY4K
+#EXTINF:-1 tvg-id="" tvg-name="bingo" group-title="movies1",bingo
+http://185.104.71.235:445/user/index.php/api/files/file_9Fk1sr
+#EXTINF:-1 tvg-id="" tvg-name="7alel" group-title="movies1",7alel
+http://185.104.71.235:445/user/index.php/api/files/file_PayDhP
+#EXTINF:-1 tvg-id="" tvg-name="wel3ane" group-title="movies1",wel3ane
+http://185.104.71.235:445/user/index.php/api/files/file_PmJUrS
+#EXTINF:-1 tvg-id="" tvg-name="laylak" group-title="movies1",laylak
+http://185.104.71.235:445/user/index.php/api/files/file_25LX03
+#EXTINF:-1 tvg-id="" tvg-name="max wou 3antar" group-title="movies1",max wou 3antar
+http://185.104.71.235:445/user/index.php/api/files/file_YeCGPE
+#EXTINF:-1 tvg-id="" tvg-name="bel nesbe la bokra" group-title="movies1",bel nesbe la bokra
+http://185.104.71.235:445/user/index.php/api/files/file_5SsP8A
+#EXTINF:-1 tvg-id="" tvg-name="sayde tenye" group-title="movies1",sayde tenye
+http://185.104.71.235:445/user/index.php/api/files/file_vA5ZxR
+#EXTINF:-1 tvg-id="" tvg-name="7abbit loulou" group-title="movies1",7abbit loulou
+http://185.104.71.235:445/user/index.php/api/files/file_j6fIcJ
+#EXTINF:-1 tvg-id="" tvg-name="ghamdit 3eyn" group-title="movies1",ghamdit 3eyn
+http://185.104.71.235:445/user/index.php/api/files/file_57mEm9
+#EXTINF:-1 tvg-id="" tvg-name="welcome leb" group-title="movies1",welcome leb
+http://185.104.71.235:445/user/index.php/api/files/file_8rWdvZ
+#EXTINF:-1 tvg-id="" tvg-name="last flight" group-title="movies1",last flight
+http://185.104.71.235:445/user/index.php/api/files/file_QjvHvP
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS TV-HD" tvg-logo="" group-title="18+",BRAZZERS TV-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/2112
+#EXTINF:-1 tvg-id="" tvg-name="MIA KHALIFA" tvg-logo="" group-title="18+",MIA KHALIFA
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/2116
+#EXTINF:-1 tvg-id="" tvg-name="MILF TV" tvg-logo="" group-title="18+",MILF TV
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/2117
+#EXTINF:-1 tvg-id="" tvg-name="FRENCH LOVER EUROPE" tvg-logo="" group-title="18+",FRENCH LOVER EUROPE
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/2118
+#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT FHD18+" tvg-logo="" group-title="18+",REDLIGHT FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/2120
+#EXTINF:-1 tvg-id="" tvg-name="SCT FHD18+" tvg-logo="" group-title="18+",SCT FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/2129
+#EXTINF:-1 tvg-id="" tvg-name="SEXT & SENSO" tvg-logo="" group-title="18+",SEXT & SENSO
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/2130
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER FHD" tvg-logo="" group-title="18+",HUSTLER FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/2132
+#EXTINF:-1 tvg-id="" tvg-name="BLACKED RAW" tvg-logo="" group-title="18+",BLACKED RAW
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/2134
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL TV-HD" tvg-logo="" group-title="18+",DORCEL TV-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7053
+#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT-HD" tvg-logo="" group-title="18+",REDLIGHT-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7054
+#EXTINF:-1 tvg-id="" tvg-name="VENUS-HD" tvg-logo="" group-title="18+",VENUS-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7055
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV-HD" tvg-logo="" group-title="18+",PLAYBOY TV-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7056
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE GOLD-HD" tvg-logo="" group-title="18+",PENTHOUSE GOLD-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7057
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE QUICKIES-HD" tvg-logo="" group-title="18+",PENTHOUSE QUICKIES-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7058
+#EXTINF:-1 tvg-id="" tvg-name="HARDCORE (EXCLUSIVE)-HD" tvg-logo="" group-title="18+",HARDCORE (EXCLUSIVE)-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7062
+#EXTINF:-1 tvg-id="" tvg-name="DORCELCLUB (EXCLUSIVE)-HD" tvg-logo="" group-title="18+",DORCELCLUB (EXCLUSIVE)-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7063
+#EXTINF:-1 tvg-id="" tvg-name="FAKE TAXI (EXCLUSIVE)-HD" tvg-logo="" group-title="18+",FAKE TAXI (EXCLUSIVE)-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7064
+#EXTINF:-1 tvg-id="" tvg-name="PRIVATE TV-HD" tvg-logo="" group-title="18+",PRIVATE TV-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7065
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER-HD" tvg-logo="" group-title="18+",HUSTLER-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/7066
+#EXTINF:-1 tvg-id="" tvg-name="ALBA-1" tvg-logo="" group-title="18+",ALBA-1
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38297
+#EXTINF:-1 tvg-id="" tvg-name="ALBA-2" tvg-logo="" group-title="18+",ALBA-2
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38298
+#EXTINF:-1 tvg-id="" tvg-name="ALBA-3" tvg-logo="" group-title="18+",ALBA-3
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38299
+#EXTINF:-1 tvg-id="" tvg-name="ALBA-4" tvg-logo="" group-title="18+",ALBA-4
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38300
+#EXTINF:-1 tvg-id="" tvg-name="ALBA-5" tvg-logo="" group-title="18+",ALBA-5
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38301
+#EXTINF:-1 tvg-id="" tvg-name="ALBA-6" tvg-logo="" group-title="18+",ALBA-6
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38302
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 1" tvg-logo="" group-title="18+",HOT MiX 1
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38303
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 3" tvg-logo="" group-title="18+",HOT MiX 3
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38305
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 4" tvg-logo="" group-title="18+",HOT MiX 4
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38306
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 5" tvg-logo="" group-title="18+",HOT MiX 5
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38307
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 6" tvg-logo="" group-title="18+",HOT MiX 6
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38308
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 7" tvg-logo="" group-title="18+",HOT MiX 7
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38309
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 8" tvg-logo="" group-title="18+",HOT MiX 8
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38310
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 9" tvg-logo="" group-title="18+",HOT MiX 9
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38311
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 10" tvg-logo="" group-title="18+",HOT MiX 10
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38312
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 11" tvg-logo="" group-title="18+",HOT MiX 11
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38313
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 12" tvg-logo="" group-title="18+",HOT MiX 12
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38314
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 13" tvg-logo="" group-title="18+",HOT MiX 13
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38315
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 14" tvg-logo="" group-title="18+",HOT MiX 14
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38316
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 15" tvg-logo="" group-title="18+",HOT MiX 15
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38317
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 16" tvg-logo="" group-title="18+",HOT MiX 16
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38318
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 18" tvg-logo="" group-title="18+",HOT MiX 18
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38320
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 19" tvg-logo="" group-title="18+",HOT MiX 19
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38321
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 20" tvg-logo="" group-title="18+",HOT MiX 20
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38322
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 21" tvg-logo="" group-title="18+",HOT MiX 21
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38323
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 22" tvg-logo="" group-title="18+",HOT MiX 22
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38324
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 23" tvg-logo="" group-title="18+",HOT MiX 23
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38325
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 24" tvg-logo="" group-title="18+",HOT MiX 24
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38326
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 25" tvg-logo="" group-title="18+",HOT MiX 25
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38327
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 26" tvg-logo="" group-title="18+",HOT MiX 26
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38328
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 27" tvg-logo="" group-title="18+",HOT MiX 27
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38329
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 28" tvg-logo="" group-title="18+",HOT MiX 28
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38330
+#EXTINF:-1 tvg-id="" tvg-name="HOT MiX 29" tvg-logo="" group-title="18+",HOT MiX 29
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/38331
+#EXTINF:-1 tvg-id="" tvg-name="XXL-HD" tvg-logo="" group-title="18+",XXL-HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/55696
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 31" tvg-logo="" group-title="18+",HOTTY 31
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67272
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 32" tvg-logo="" group-title="18+",HOTTY 32
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67273
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 33" tvg-logo="" group-title="18+",HOTTY 33
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67274
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 34" tvg-logo="" group-title="18+",HOTTY 34
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67275
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 36" tvg-logo="" group-title="18+",HOTTY 36
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67276
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 37" tvg-logo="" group-title="18+",HOTTY 37
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67277
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 39" tvg-logo="" group-title="18+",HOTTY 39
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67278
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 40" tvg-logo="" group-title="18+",HOTTY 40
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67279
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 41" tvg-logo="" group-title="18+",HOTTY 41
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67280
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 42" tvg-logo="" group-title="18+",HOTTY 42
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67281
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 43" tvg-logo="" group-title="18+",HOTTY 43
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67282
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 44" tvg-logo="" group-title="18+",HOTTY 44
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67283
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 46" tvg-logo="" group-title="18+",HOTTY 46
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67284
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 47" tvg-logo="" group-title="18+",HOTTY 47
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67285
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 48" tvg-logo="" group-title="18+",HOTTY 48
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67286
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 49" tvg-logo="" group-title="18+",HOTTY 49
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67287
+#EXTINF:-1 tvg-id="" tvg-name="HOTTY 50" tvg-logo="" group-title="18+",HOTTY 50
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67288
+#EXTINF:-1 tvg-id="" tvg-name="DUSK" tvg-logo="" group-title="18+",DUSK
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67292
+#EXTINF:-1 tvg-id="" tvg-name="PiNK EROTiC-3" tvg-logo="" group-title="18+",PiNK EROTiC-3
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67308
+#EXTINF:-1 tvg-id="" tvg-name="PiNK EROTiC-5" tvg-logo="" group-title="18+",PiNK EROTiC-5
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67310
+#EXTINF:-1 tvg-id="" tvg-name="EROX" tvg-logo="" group-title="18+",EROX
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67313
+#EXTINF:-1 tvg-id="" tvg-name="BABES" tvg-logo="" group-title="18+",BABES
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67315
+#EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="" group-title="18+",REALITY KINGS
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67324
+#EXTINF:-1 tvg-id="" tvg-name="XY PLUS" tvg-logo="" group-title="18+",XY PLUS
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/67332
+#EXTINF:-1 tvg-id="" tvg-name="Stolen Sex Tapes (2002)" tvg-logo="http://obsfullhd.tv:25461/images/1cbf022bbff336fc45f16b60bca23dfa.jpg" group-title="18+",Stolen Sex Tapes (2002)
+http://obsfullhd.tv:25461/movie/server-g-shaer/6YgGcH6U48Hk/84226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Les filles de l'ambassadeur" tvg-logo="http://obsfullhd.tv:25461/images/1cbf022bbff336fc45f16b60bca23dfa.jpg" group-title="18+",Les filles de l'ambassadeur
+http://obsfullhd.tv:25461/movie/server-g-shaer/6YgGcH6U48Hk/84221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lust Connection (2005)" tvg-logo="http://obsfullhd.tv:25461/images/d819348ad01e7dd7d962828f1e13afa7.jpg" group-title="18+",Lust Connection (2005)
+http://obsfullhd.tv:25461/movie/server-g-shaer/6YgGcH6U48Hk/84222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sex tapes (2012)" tvg-logo="http://obsfullhd.tv:25461/images/46041743a9e6aa205976fd1ac1e96bd6.jpg" group-title="18+",Sex tapes (2012)
+http://obsfullhd.tv:25461/movie/server-g-shaer/6YgGcH6U48Hk/84223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Nurses (2017)" tvg-logo="http://obsfullhd.tv:25461/images/a30a9786cdd56347469f8f6cb461d5a9.jpg" group-title="18+",Sexy Nurses (2017)
+http://obsfullhd.tv:25461/movie/server-g-shaer/6YgGcH6U48Hk/84224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Wives Sinsations (2011)" tvg-logo="http://obsfullhd.tv:25461/images/a5f343d3a2ca2538c1551217babcdef6.jpg" group-title="18+",Sexy Wives Sinsations (2011)
+http://obsfullhd.tv:25461/movie/server-g-shaer/6YgGcH6U48Hk/84225.mkv
