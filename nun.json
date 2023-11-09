@@ -11,19 +11,11 @@
     "ads":false,
     "ads_delay":0,
     "playlists": [
-        {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/0909.m3u",
-          "name":"#NEW1"
-        },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/diet.m3u",
           "name":"#NEW2"
         },
-          {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/131131.m3u",
-          "name":"#NEW3"
-        },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/123123.m3u",
           "name":"#NEW4"
         },
@@ -47,11 +39,7 @@
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/div.m3u",
           "name":"#NEW9"
         },
-          {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/bah.m3u",
-          "name":"#NEW10"
-        },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
           "name":"#LEBONLY"
         },
