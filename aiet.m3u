@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="MTV0"
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8?premium=true
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTVone1"
-https://live.3cd.io/v1/broadcast/one/playlist.m3u8?premium=true
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV LEB1"
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="jadeed3v"
