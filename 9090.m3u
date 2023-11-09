@@ -17,16 +17,6 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8?premium=true
 #EXTINF:-1 tvg-name="MTVone1" tvg-logo="https://static.apkdojo.com/images/apps/mtv-al-lubnaniya-icon.png" group-title="AR: LEBANON لبنان",MTVone1
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8?premium=true
-#EXTINF:-1 tvg-name="MTV LEB1" group-title="LEBANON0",MTV LEB1
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
-#EXTINF:-1 tvg-name="jadeed3v" group-title="LEBANON0",jadeed3v
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
-#EXTINF:-1 tvg-name="mbc2" group-title="LEBANON0",mbc2
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8
-#EXTINF:-1 tvg-name="mbc maxv" group-title="LEBANON0",mbc maxv
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/21.m3u8
-#EXTINF:-1 tvg-name="mix278" group-title="LEBANON0",mix278
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/57.m3u8
 #EXTINF:-1 tvg-name="MTV3" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",MTV3
 http://server.sibfungold.info:8080/live/tralikilic/vTn04IhanD/50151.ts
 #EXTINF:-1 tvg-name="MTV32" tvg-logo="http://62.210.123.37/TV-Logo/Lebanon/Tele.Lebanon.png" group-title="LEBANON1",MTV32
