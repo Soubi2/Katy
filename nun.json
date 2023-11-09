@@ -11,19 +11,7 @@
     "ads":false,
     "ads_delay":0,
     "playlists": [
-           {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/aiet.m3u",
-          "name":"#Katy"
-        },
-          {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/soubira.m3u",
-          "name":"#RADIO"
-        },
-          {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/came.m3u",
-          "name":"#CAMERA"
-        },
-          {
+        {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/0909.m3u",
           "name":"#NEW1"
         },
@@ -66,14 +54,6 @@
           {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
           "name":"#LEBONLY"
-        },
-          {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/wel.m3u",
-          "name":"#SEX1"
-        },
-          {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/lala.m3u",
-          "name":"#SEX2"
         },
           {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/b7.m3u",
