@@ -10,7 +10,7 @@
     "ml_host":"",
     "ads":false,
     "ads_delay":0,
-    "playlists": [
+    "playlists":[
       {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/diet.m3u",
           "name":"#NEW2"
