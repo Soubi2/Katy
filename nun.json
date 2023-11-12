@@ -6,36 +6,33 @@
     "apk_url":"",
     "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8080.m3u",
     "anime_domain":"www5.gogoanimes.fi",
-    "live_tv_main_active":false,
-    "ml_host":"",
-    "ads":false,
-    "ads_delay":0,
+    "live_tv_main_active":true,
     "playlists":[
       {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/diet.m3u",
-          "name":"#NEW2"
+       "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/diet.m3u",
+       "name":"#NEW2"
         },
          {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/123123.m3u",
           "name":"#NEW4"
         },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/141141.m3u",
           "name":"#NEW5"
         },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/1515.m3u",
           "name":"#NEW6"
         },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/all1.m3u",
           "name":"#NEW7"
         },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/habbb.m3u",
           "name":"#NEW8"
         },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/div.m3u",
           "name":"#NEW9"
         },
@@ -43,19 +40,19 @@
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
           "name":"#LEBONLY"
         },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/b7.m3u",
           "name":"#SEX3"
         },
-          {
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/sexy.m3u",
           "name":"#SEX4"
         },
-           {
+         {
           "url":"https://iptv-org.github.io/iptv/index.country.m3u",
           "name":"#Country"
         },
-        {
+         {
           "url":"https://iptv-org.github.io/iptv/index.category.m3u",
           "name":"#Category"
         }
