@@ -6,11 +6,11 @@
     "apk_url": "",
     "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8080.m3u",
     "anime_domain":"www9.gogoanimes.fi",
-    "live_tv_main_active":false,
+    "live_tv_main_active":true,
     "ml_host":"https://hypothesis-road-i-258.site",
     "ads":true,
     "load_logos":true,
-    "ads_delay":10,
+    "ads_delay":15,
     "playlists": [
         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/diet.m3u",
