@@ -9,7 +9,6 @@
     "live_tv_main_active":false,
     "ml_host":"https://hypothesis-road-i-258.site",
     "ads":true,
-    "load_logos":true,
     "ads_delay":15,
     "playlists": [
         {
