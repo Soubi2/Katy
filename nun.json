@@ -51,13 +51,9 @@
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/sexy.m3u",
           "name":"#SEX4"
         },
-         {
-          "url":"https://iptv-org.github.io/iptv/index.country.m3u",
-          "name":"#Country"
-        },
-         {
-          "url":"https://iptv-org.github.io/iptv/index.category.m3u",
-          "name":"#Category"
+        {
+          "url":"https://raw.githubusercontent.com/iptv-org/iptv/master/streams/lb.m3u",
+          "name":"#LEBANESE"
         }
       ]
 }
