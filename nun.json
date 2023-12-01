@@ -25,7 +25,11 @@
         },
         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/tdn.m3u",
-          "name":"#ARAB"
+          "name":"#MIX"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/tdnn.m3u",
+          "name":"#All"
         },
          {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/b7.m3u",
