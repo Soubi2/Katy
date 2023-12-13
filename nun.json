@@ -1,13 +1,13 @@
 {
     "update_enforcement": "not_mandatory",
     "message": "",
-    "version_code": "27",
-    "version_name": "v1.1.2r2",
+    "version_code": "31",
+    "version_name": "v2.1.0r",
     "apk_url": "",
     "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8080.m3u",
     "anime_domain":"www9.gogoanimes.fi",
     "live_tv_main_active":false,
-    "ml_host":"",
+    "ml_host":"https://hypothesis-road-i-258.site",
     "ads":true,
     "ads_delay":15,
     "playlists": [
