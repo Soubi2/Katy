@@ -7,7 +7,7 @@
     "iptv_url":"https://iptv-org.github.io/iptv/index.country.m3u",
     "anime_domain":"www5.gogoanimes.fi",
     "live_tv_main_active":false,
-    "ml_host":"https://77.72.20.146:80",
+    "ml_host":"https://77.72.20.146:443",
     "ads":true,
     "load_logos":true,
     "futumov_pattern":true,
