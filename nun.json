@@ -1,8 +1,8 @@
 {
     "update_enforcement": "not_mandatory",
     "message": "",
-    "version_code": "27",
-    "version_name": "v1.1.2r",
+    "version_code": "",
+    "version_name": "",
     "apk_url": "",
     "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8080.m3u",
     "anime_domain":"www9.gogoanimes.fi",
