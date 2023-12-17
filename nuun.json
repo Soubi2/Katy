@@ -1,0 +1,41 @@
+{
+    "update_enforcement": "not_mandatory",
+    "message": "",
+    "version_code": "",
+    "version_name": "",
+    "apk_url": "",
+    "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8080.m3u",
+    "anime_domain":"www9.gogoanimes.fi",
+    "live_tv_main_active":false,
+    "ml_host":"https://hypothesis-road-i-258.site",
+    "ads":true,
+    "load_logos":true,
+    "futumov_pattern":true,
+    "ads_delay":15,
+    "playlists": [
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/diet.m3u",
+          "name":"#NEW1"
+        },
+         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/all1.m3u",
+          "name":"#NEW2"
+        },
+         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
+          "name":"#LEBONLY"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/tdn.m3u",
+          "name":"#MIX"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/tdnn.m3u",
+          "name":"#All"
+        },
+         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/b7.m3u",
+          "name":"#SEX"
+        }
+      ]
+}
