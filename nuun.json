@@ -8,10 +8,11 @@
     "anime_domain":"www9.gogoanimes.fi",
     "live_tv_main_active":false,
     "ml_host":"https://hypothesis-road-i-258.site",
-    "ads":true,
+    "ads":false,
+    "unity_ads":false,
     "load_logos":true,
     "futumov_pattern":true,
-    "ads_delay":15,
+    "ads_delay":0,
     "playlists": [
         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/diet.m3u",
