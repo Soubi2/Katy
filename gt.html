@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+            .d-none {
+              display: none;
+            }
+            body {
+                    margin: 0;
+                }
+            iframe {
+                display: block;
+                background: #000;
+                border: none;
+                height: 100vh;
+                width: 100vw;
+            }
+          </style>
+          
+    </head>
+<body>
+
+    <iframe id="myframe"  width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
+    <script>
+        const params = new URL(location.href).searchParams;
+        const urll = params.get('goto');
+        const s = params.get('s');
+        const e = params.get('e');
+        var para1=document.getElementById('myframe');  
+        para1.src = "https://www.2embed.cc/embedtv/"+urll+"&s="+s+"&e="+e;        
+     </script>
+</body>
+</html>
