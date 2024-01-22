@@ -1,7 +1,7 @@
 ﻿{
     "update_enforcement": "mandatory",
-    "message": "Numerous Bug fixes - Cleaned up old code",
-    "version_code": "4447",
+    "message": "",
+    "version_code": "434",
     "version_name": "v9.1.2",
     "apk_url": "",
     "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/KS.json",
