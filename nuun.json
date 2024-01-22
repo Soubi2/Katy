@@ -10,8 +10,8 @@
     "ml_host":"https://friness-cherlormur-i-275.site",
     "ads":false,
     "unity_ads":false,
-    "load_logos":true,
-    "futumov_pattern":true,
+    "load_logos":false,
+    "futumov_pattern":false,
     "ads_delay":0,
     "playlists": [
         {
