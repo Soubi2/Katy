@@ -15,20 +15,12 @@
     "ads_delay":0,
     "playlists": [
         {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/diet.m3u",
-          "name":"#NEW1"
-        },
-         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/all1.m3u",
           "name":"#NEW2"
         },
          {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
           "name":"#LEBONLY"
-        },
-        {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/tdn.m3u",
-          "name":"#MIX"
         },
         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/tdnn.m3u",
