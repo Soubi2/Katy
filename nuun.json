@@ -23,6 +23,10 @@
           "name":"#LEBONLY"
         },
         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/icsn.m3u",
+          "name":"#LEBONLYZ"
+        },
+        {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/tdnn.m3u",
           "name":"#All"
         },
