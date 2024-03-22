@@ -1,6 +1,6 @@
 {
     "update_enforcement": "not_mandatory",
-    "tmdb_key":"9990db75d12d4ecd4ed84628ebc96403",
+    "anime_ajax_host":"https://ajax.gogocdn.net",
     "version_code": "",
     "version_name": "",
     "apk_url": "",
