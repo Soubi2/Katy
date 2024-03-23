@@ -2,7 +2,7 @@
     "update_enforcement": "not_mandatory",
     "tmdb_key":"9990db75d12d4ecd4ed84628ebc96403",
     "version_code": "",
-    "anime_host": "anime_ajax_host",
+    "anime_host": "https://ajax.gogocdn.net",
     "anime_ajax_host":"https://ajax.gogocdn.net",
     "apk_url": "",
     "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/80800.m3u",
