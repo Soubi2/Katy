@@ -2,10 +2,10 @@
     "update_enforcement": "not_mandatory",
     "tmdb_key":"9990db75d12d4ecd4ed84628ebc96403",
     "version_code": "",
-    "version_name": "",
+    "anime_ajax_host":"https://ajax.gogocdn.net",
     "apk_url": "",
     "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/80800.m3u",
-    "anime_domain":"ww1.gogoanimes.fi",
+    "anime_domain":"www.gogoanime3.co",
     "live_tv_main_active":false,
     "ml_host":"https://friness-cherlormur-i-275.site",
     "ads":false,
@@ -21,6 +21,10 @@
          {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
           "name":"#LEBONLY"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/icsn.m3u",
+          "name":"#LEBONLYZ"
         },
         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/tdnn.m3u",
