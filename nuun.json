@@ -1,18 +1,17 @@
 {
     "update_enforcement": "not_mandatory",
-    "tmdb_key":"9990db75d12d4ecd4ed84628ebc96403",
+    "message": "",
     "version_code": "",
-    "anime_host": "http://embtaku.pro",
-    "anime_ajax_host":"http://ajax.gogocdn.net",
+    "version_name": "",
     "apk_url": "",
-    "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/80800.m3u",
-    "anime_domain":"ww3.gogoanimes.fi",
+    "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8080.m3u",
+    "anime_domain":"www5.gogoanimes.fi",
     "live_tv_main_active":false,
     "ml_host":"https://friness-cherlormur-i-275.site",
     "ads":false,
     "unity_ads":false,
     "load_logos":false,
-    "futumov_pattern":false,
+    "futumov_pattern":true,
     "ads_delay":0,
     "playlists": [
         {
