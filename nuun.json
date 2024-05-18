@@ -14,15 +14,7 @@
     "futumov_pattern":true,
     "ads_delay":0,
     "playlists": [
-        {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/all1.m3u",
-          "name":"#NEW2"
-       },
-        {
-        "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/dino.m3u",
-          "name":"#Arabia"
-        },
-        {
+       {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
           "name":"#LEBONLY"
         },
@@ -35,10 +27,6 @@
           "name":"#LEBONLYZ"
         },
         {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/tdnn.m3u",
-          "name":"#All"
-        },
-         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/b7.m3u",
           "name":"#SEX"
       }
