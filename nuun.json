@@ -10,8 +10,8 @@
     "ml_host":"https://jezt294anecte.com",
     "ads":false,
     "unity_ads":false,
-    "load_logos":false,
-    "futumov_pattern":true,
+    "load_logos":true,
+    "futumov_pattern":false,
     "ads_delay":0,
     "playlists": [
        {
