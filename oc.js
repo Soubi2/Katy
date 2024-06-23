@@ -1,0 +1,1 @@
+{"awl_list":{},"android_sender_id":"550725909349","chnl_lst":[],"outcomes":{"direct":{"enabled":true},"indirect":{"notification_attribution":{"minutes_since_displayed":60,"limit":0},"enabled":true},"unattributed":{"enabled":false}},"receive_receipts_enable":false}
