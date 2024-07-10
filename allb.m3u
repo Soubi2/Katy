@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Bein" tvg-logo="" group-title="live-stream",Bein
+http://scorpioniptv.com:2052/mesuy30/uRBwCeE/451677
 #EXTINF:-1 tvg-id="" tvg-name="Sada-El-Arz-Tv" tvg-logo="" group-title="live-stream",Sada-El-Arz-Tv
 http://iptv.icsnleb.com:25461/live/12/12/1034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Music" tvg-logo="" group-title="live-stream",VOD-Music
