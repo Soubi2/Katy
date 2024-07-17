@@ -1,0 +1,34 @@
+{
+    "update_enforcement": "not_mandatory",
+    "tmdb_key": "5b458cad0b474d21129c717626038657",
+    "version_code": "",
+    "version_name": "",
+    "apk_url": "",
+    "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8080.m3u",
+    "anime_domain":"www6.gogoanimes.fi",
+    "live_tv_main_active":false,
+    "ml_host":"https://jezt294anecte.com",
+    "ads":false,
+    "unity_ads":false,
+    "load_logos":true,
+    "futumov_pattern":false,
+    "ads_delay":0,
+    "playlists": [
+       {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
+          "name":"#LEBONLY"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ss.m3u",
+          "name":"#COUNTRIES"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/icsn.m3u",
+          "name":"#LEBONLYZ"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/7.m3u",
+          "name":"#Rany"
+        }
+      ]
+}
