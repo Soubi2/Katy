@@ -22,11 +22,7 @@
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ss.m3u",
           "name":"#COUNTRIES"
         },
-        {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/dino.m3u",
-          "name":"#FREE"
-        },
-         {
+       {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/7.m3u",
           "name":"#EMPTY"
         },
