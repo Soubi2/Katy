@@ -10,7 +10,7 @@
     "ml_host":"https://antol307vvk.com",
     "ads":false,
     "ads_delay":0,
-   "playlists": [
+    "playlists": [
        {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
           "name":"#LEBONLY"
