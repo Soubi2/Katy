@@ -9,8 +9,6 @@
     "live_tv_main_active":false,
     "ml_host":"https://antol307vvk.com",
     "ads":false,
-    "load_logos":true,
-    "futumov_pattern":false,
     "ads_delay":0,
     "playlists": [
        {
