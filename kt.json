@@ -11,7 +11,6 @@
     "ads":false,
     "load_logos":true,
     "futumov_pattern":false,
-    "ads_delay":0,
     "playlists": [
        {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
