@@ -7,7 +7,7 @@
     "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8080.m3u",
     "anime_domain":"www6.gogoanimes.fi",
     "live_tv_main_active":false,
-    "ml_host":"https://antol307vvk.com",
+    "ml_host":"https://ooat310wind.com",
     "ads":false,
     "load_logos":true,
     "futumov_pattern":false,
@@ -21,7 +21,15 @@
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ss.m3u",
           "name":"#COUNTRIES"
         },
-        {
+         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8.m3u",
+          "name":"#EMPTYYYy"
+        },
+         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/12.m3u",
+          "name":"#EMPTYYYyy"
+        },
+         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/icsn.m3u",
           "name":"#LEBONLYZ"
         },
