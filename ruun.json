@@ -1,6 +1,6 @@
 {
     "update_enforcement": "not_mandatory",
-    "tmdb_key": "5b458cad0b474d21129c717626038657",
+    "message": "",
     "version_code": "",
     "version_name": "",
     "apk_url": "",
@@ -9,7 +9,6 @@
     "live_tv_main_active":false,
     "ml_host":"https://antol307vvk.com",
     "ads":false,
-    "unity_ads":false,
     "load_logos":true,
     "futumov_pattern":false,
     "ads_delay":0,
@@ -19,17 +18,16 @@
           "name":"#LEBONLY"
         },
         {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ra.m3u",
-          "name":"#PORNO"
-        },
-        {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/raa.m3u",
-          "name":"#RANY"
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ss.m3u",
+          "name":"#COUNTRIES"
         },
         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/icsn.m3u",
           "name":"#LEBONLYZ"
-       
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/7.m3u",
+          "name":"#Rany"
         }
       ]
 }
