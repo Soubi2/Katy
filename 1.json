@@ -1,0 +1,50 @@
+{
+    "update_enforcement": "not_mandatory",
+    "message": "",
+    "version_code": "",
+    "version_name": "",
+    "apk_url": "",
+    "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/2.m3u",
+    "anime_domain":"www6.gogoanimes.fi",
+    "live_tv_main_active":false,
+    "ml_host":"https://keels313ale.com",
+    "ads":false,
+    "load_logos":true,
+    "futumov_pattern":false,
+    "ads_delay":0,
+    "playlists": [
+       {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
+          "name":"#LEBONLY"
+        },
+         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/inka.m3u",
+          "name":"#EMPTY"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ink.m3u",
+          "name":"#EMPTYy"
+        },
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ss.m3u",
+          "name":"#COUNTRIES"
+        },
+         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8.m3u",
+          "name":"#EMPTYYYy"
+        },
+         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/12.m3u",
+          "name":"#EMPTYYYyy"
+        },
+         {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/3.m3u",
+          "name":"#SEX"
+        },
+
+        {
+          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/icsn.m3u",
+          "name":"#LEBONLYZ"
+        }
+      ]
+}
