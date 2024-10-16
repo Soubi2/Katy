@@ -248,38 +248,6 @@ https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzk3Ni8zOTIy
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzczOC8zOTIyNzM4Lm1wMw==
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-PROMO" tvg-logo="" group-title="live-stream",1VOD-PROMO
 http://iptv.icsnleb.com:25461/live/ST/ST/770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3000nights" tvg-logo="" group-title="LEBANESE Movies",3000nights
-https://raw.githubusercontent.com/Soubi2/Katy/main/3000nights.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beatyandthedogs" tvg-logo="" group-title="LEBANESE Movies",beatyandthedogs
-https://raw.githubusercontent.com/Soubi2/Katy/main/beatyandthedogs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="benhur" tvg-logo="" group-title="LEBANESE Movies",benhur
-https://raw.githubusercontent.com/Soubi2/Katy/main/benhur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="capernum" tvg-logo="" group-title="LEBANESE Movies",capernum
-https://raw.githubusercontent.com/Soubi2/Katy/main/capernum.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="caramel" tvg-logo="" group-title="LEBANESE Movies",caramel
-https://raw.githubusercontent.com/Soubi2/Katy/main/caramel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="costabrava" tvg-logo="" group-title="LEBANESE Movies",costabrava
-https://raw.githubusercontent.com/Soubi2/Katy/main/costabrava.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="honeymoon" tvg-logo="" group-title="LEBANESE Movies",honeymoon
-https://raw.githubusercontent.com/Soubi2/Katy/main/honeymoon.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="hudasalon" tvg-logo="" group-title="LEBANESE Movies",hudasalon
-https://raw.githubusercontent.com/Soubi2/Katy/main/hudasalon.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="insult" tvg-logo="" group-title="LEBANESE Movies",insult
-https://raw.githubusercontent.com/Soubi2/Katy/main/insult.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="kelnawatan" tvg-logo="" group-title="LEBANESE Movies",kelnawatan
-https://raw.githubusercontent.com/Soubi2/Katy/main/kelnawatan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="siren" tvg-logo="" group-title="LEBANESE Movies",siren
-https://raw.githubusercontent.com/Soubi2/Katy/main/siren.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="thenotebook" tvg-logo="" group-title="LEBANESE Movies",thenotebook
-https://raw.githubusercontent.com/Soubi2/Katy/main/thenotebook.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tilldeath" tvg-logo="" group-title="LEBANESE Movies",tilldeath
-https://raw.githubusercontent.com/Soubi2/Katy/main/tilldeath.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="virgindeath" tvg-logo="" group-title="LEBANESE Movies",virgindeath
-https://raw.githubusercontent.com/Soubi2/Katy/main/virgindeath.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="wasp" tvg-logo="" group-title="LEBANESE Movies",wasp
-https://raw.githubusercontent.com/Soubi2/Katy/main/wasp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zama" tvg-logo="" group-title="LEBANESE Movies",zama
-https://raw.githubusercontent.com/Soubi2/Katy/main/zama.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FHD*" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="TOP SPORTS [VIP]",BEIN SPORTS 1 FHD*
 http://oh2.teledunet.com:8080/ranylb/facb6a/456487.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FHD*" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="TOP SPORTS [VIP]",BEIN SPORTS 2 FHD*
@@ -9292,43 +9260,3 @@ http://oh2.teledunet.com:8080/ranylb/facb6a/9959357.ts
 http://oh2.teledunet.com:8080/ranylb/facb6a/9959358.ts
 #EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 7HD" live="1" tvg-logo="" group-title="BELGIQUE",PLAY SPORTS 7HD
 http://oh2.teledunet.com:8080/ranylb/facb6a/9959359.ts
-#EXTINF:-1 tvg-name="Nostalgie" tvg-logo="https://cdn.raddio.net/storage/photos/1085/996f0a25e078e5a7b69dc5018bdb1331.png" group-title="Radio",Nostalgie
-http://cdn.nrjaudio.fm/adwz1/lb/55157/aac_64.mp3
-#EXTINF:-1 tvg-name="Leb Aghani" tvg-logo="https://aghaniaghani.com/images/logo.png" group-title="Radio",Leb Aghani
-http://185.52.127.132/lb/1/aac_64.mp3
-#EXTINF:-1 tvg-name="Mix FM" tvg-logo="http://www.mixfm.com.lb/Content/Images/LogoMix.png" group-title="Radio",Mix FM
-http://25593.live.streamtheworld.com:80/MIXFM_LEBANONAAC_SC
-#EXTINF:-1 tvg-name="Sawt Beirut" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/sht59ffaqzyq.png" group-title="Radio",Sawt Beirut
-https://rsbi.radioca.st/;stream.nsv
-#EXTINF:-1 tvg-name="Leb Oldies" tvg-logo="https://www.radio.net/images/broadcasts/66/77/120176/1/c300.png" group-title="Radio",Leb Oldies
-https://listen.radioking.com/radio/343456/stream/392077
-#EXTINF:-1 tvg-name="Lebnen Horr" tvg-logo="https://www.rll.com.lb/wp-content/uploads/2018/07/logocopy.png" group-title="Radio",Lebnen Horr
-http://edge.mixlr.com/channel/qtqeb
-#EXTINF:-1 tvg-name="Ajyal" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Ajyal
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/10/original.mp3?1497982802
-#EXTINF:-1 tvg-name="Khatar" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Khatar
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/2/original.mp3?1497974607
-#EXTINF:-1 tvg-name="Mesh khayif" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Mesh khayif
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/24/original.mp3?1500329371
-#EXTINF:-1 tvg-name="Nashid Ouwet" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Nashid Ouwet
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/1/original.mp3?1497941569
-#EXTINF:-1 tvg-name="Jnoud 7oriye" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Jnoud 7oriye
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/11/original.mp3?1498048040
-#EXTINF:-1 tvg-name="Madafe3na" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Madafe3na
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/4/original.mp3?1498049000
-#EXTINF:-1 tvg-name="Dife3" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Dife3
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/25/original.mp3?1500329603
-#EXTINF:-1 tvg-name="Zaman" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Zaman
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/21/original.mp3?1500017230
-#EXTINF:-1 tvg-name="Hamra" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Hamra
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/6/original.mp3?1497975719
-#EXTINF:-1 tvg-name="Lebnan Masir" tvg-logo="https://www.lstatic.org/site2015/lf50.png" group-title="OUWET",Lebnan Masir
-https://s3-eu-central-1.amazonaws.com/lfsa-prod-01/Song/12/original.mp3?1498048600
-#EXTINF:-1 tvg-id="" tvg-name="1 اذاعة صدى الارز" tvg-logo="https://sadalarz.com/about.php" group-title="Radio",1 اذاعة صدى الارز
-http://iptv.icsnleb.com:25461/live/ST/ST/716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1RLL" tvg-logo="" group-title="Radio",1RLL
-http://iptv.icsnleb.com:25461/live/ST/ST/92.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1VDL" tvg-logo="" group-title="Radio",1VDL
-http://iptv.icsnleb.com:25461/live/ST/ST/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1SAWT-KELL-LEBNAN" tvg-logo="" group-title="Radio",1SAWT-KELL-LEBNAN
-http://iptv.icsnleb.com:25461/live/ST/ST/94.m3u8
