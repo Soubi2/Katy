@@ -4,7 +4,7 @@
     "version_code": "",
     "version_name": "",
     "apk_url": "",
-    "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8080.m3u",
+    "iptv_url":"https://raw.githubusercontent.com/Soubi2/Katy/main/2.m3u",
     "anime_domain":"www6.gogoanimes.fi",
     "live_tv_main_active":false,
     "ml_host":"https://keels313ale.com",
@@ -13,33 +13,17 @@
     "futumov_pattern":false,
     "ads_delay":0,
     "playlists": [
-       {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
-          "name":"#LEBONLY"
-        },
-         {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/inka.m3u",
-          "name":"#EMPTY"
+        {
+          "url":"https://iptv-org.github.io/iptv/index.country.m3u",
+          "name":"#IPTV-ORG by Country"
         },
         {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ink.m3u",
-          "name":"#EMPTYy"
+          "url":"https://iptv-org.github.io/iptv/index.m3u",
+          "name":"#IPTV-ORG by Index"
         },
         {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ss.m3u",
-          "name":"#COUNTRIES"
-        },
-         {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8.m3u",
-          "name":"#EMPTYYYy"
-        },
-         {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/12.m3u",
-          "name":"#EMPTYYYyy"
-        },
-        {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/icsn.m3u",
-          "name":"#LEBONLYZ"
+          "url":"https://iptv-org.github.io/iptv/index.category.m3u",
+          "name":"#IPTV-ORG by Category"
         }
       ]
 }
