@@ -26,8 +26,16 @@
           "name":"#EMPTYy"
         },
         {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/ss.m3u",
-          "name":"#COUNTRIES"
+          "url":"https://iptv-org.github.io/iptv/index.country.m3u",
+          "name":"#Country"
+        },
+        {
+          "url":"https://iptv-org.github.io/iptv/index.m3u",
+          "name":"#Index"
+        },
+        {
+          "url":"https://iptv-org.github.io/iptv/index.category.m3u",
+          "name":"#Category"
         },
          {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8.m3u",
