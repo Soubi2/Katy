@@ -27,13 +27,13 @@ https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ISRAEL ARABIC" tvg-logo="" group-title="KATY",ISRAEL ARABIC
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="KATY",LBCI
-http://oh2.teledunet.com:8080/tdn/tdn/297.ts
+http://oh2.teledunet.com:8080/ranylb/facb6a/297.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL-JADEED" tvg-logo="" group-title="KATY",AL-JADEED
 http://oh2.teledunet.com:8080/ranylb/facb6a/289.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tele Liban" tvg-logo="" group-title="KATY",Tele Liban
-http://oh2.teledunet.com:8080/tdn/tdn/305.ts
+http://oh2.teledunet.com:8080/ranylb/facb6a/305.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBN SAT" tvg-logo="" group-title="KATY",NBN SAT
-http://oh2.teledunet.com:8080/tdn/tdn/299.ts
+http://oh2.teledunet.com:8080/ranylb/facb6a/299.ts
 #EXTINF:-1 tvg-id="" tvg-name="1Sada-El-Arz-Tv" tvg-logo="" group-title="live-stream",1Sada-El-Arz-Tv
 http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Music" tvg-logo="" group-title="live-stream",1VOD-Music
