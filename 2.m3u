@@ -32,6 +32,8 @@ https://p-ltv.akamaized.net/ltv/ltv_2.m3u8
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC3" tvg-logo="" group-title="KATY",MBC3
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SpaceToon" tvg-logo="" group-title="KATY",SpaceToon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="KATY",LBCI
 http://oh2.teledunet.com:8080/ranylb/facb6a/297.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL-JADEED" tvg-logo="" group-title="KATY",AL-JADEED
