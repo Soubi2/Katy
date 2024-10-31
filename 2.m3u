@@ -36,6 +36,8 @@ https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a14265
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Toonzs" tvg-logo="" group-title="KATY",Toonzs
 https://mbcvod-enc.edgenextcdn.net/out/v1/e314d47ad9c943cd84bf966f06d826fe/28092a4749a040c5804da6a62096a6fd/531e9dc92a314f3f951df53a06caf6c1/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC TOONS3" tvg-logo="" group-title="KATY",MBC TOONS3
+https://mbc3-eur-prod-dub-enc.edgenextcdn.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="KATY",LBCI
 http://oh2.teledunet.com:8080/ranylb/facb6a/297.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL-JADEED" tvg-logo="" group-title="KATY",AL-JADEED
