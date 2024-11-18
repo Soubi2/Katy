@@ -264,38 +264,48 @@ https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzk3Ni8zOTIy
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzczOC8zOTIyNzM4Lm1wMw==
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-PROMO" tvg-logo="" group-title="live-stream",1VOD-PROMO
 http://iptv.icsnleb.com:25461/live/ST/ST/770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALMAYADEEN2" live="1" tvg-logo="http://teledunet.com/logos/mayadeen.jpeg" group-title="LEBANON [VIP2]",ALMAYADEEN2
-http://teledunet.com:8080/ranylb/facb6a/52.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBN2" live="1" tvg-logo="http://teledunet.com/logos/nbn.jpg" group-title="LEBANON [VIP2]",NBN2
-http://teledunet.com:8080/ranylb/facb6a/53.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALMANAR2" live="1" tvg-logo="http://teledunet.com/logos/manar.png" group-title="LEBANON [VIP2]",ALMANAR2
-http://teledunet.com:8080/ranylb/facb6a/54.ts
-#EXTINF:-1 tvg-id="" tvg-name="LBC2" live="1" tvg-logo="http://teledunet.com/logos/lbc.jpg" group-title="LEBANON [VIP2]",LBC2
-http://teledunet.com:8080/ranylb/facb6a/55.ts
-#EXTINF:-1 tvg-id="" tvg-name="TAHA2" live="1" tvg-logo="http://teledunet.com/logos/taha.jpg" group-title="LEBANON [VIP2]",TAHA2
-http://teledunet.com:8080/ranylb/facb6a/56.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARABICA LEBANON2" live="1" tvg-logo="http://teledunet.com/logos/arabica.png" group-title="LEBANON [VIP2]",ARABICA LEBANON2
-http://teledunet.com:8080/ranylb/facb6a/57.ts
-#EXTINF:-1 tvg-id="" tvg-name="ONE LEBANON2" live="1" tvg-logo="http://teledunet.com/logos/onetv-logo.webp" group-title="LEBANON [VIP2]",ONE LEBANON2
-http://teledunet.com:8080/ranylb/facb6a/58.ts
-#EXTINF:-1 tvg-id="" tvg-name="HAWACOM2" live="1" tvg-logo="http://teledunet.com/logos/hawacom.png" group-title="LEBANON [VIP2]",HAWACOM2
-http://teledunet.com:8080/ranylb/facb6a/59.ts
-#EXTINF:-1 tvg-id="" tvg-name="AGHANI2" live="1" tvg-logo="http://teledunet.com/logos/aghani.png" group-title="LEBANON [VIP2]",AGHANI2
-http://teledunet.com:8080/ranylb/facb6a/60.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL SIRAT2" live="1" tvg-logo="http://teledunet.com/logos/assirat-tv-8326.jpg" group-title="LEBANON [VIP2]",AL SIRAT2
-http://teledunet.com:8080/ranylb/facb6a/61.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHARITY TV2" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXLGEWhaV6AmQyZGVWHWKyg-tuIo0lC4Qgw&s" group-title="LEBANON [VIP2]",CHARITY TV2
-http://teledunet.com:8080/ranylb/facb6a/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL IMAN2" live="1" tvg-logo="http://teledunet.com/logos/imantv.jpg" group-title="LEBANON [VIP2]",AL IMAN2
-http://teledunet.com:8080/ranylb/facb6a/63.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOOR QUDDAS2" live="1" tvg-logo="http://teledunet.com/logos/nourq.jpg" group-title="LEBANON [VIP2]",NOOR QUDDAS2
-http://teledunet.com:8080/ranylb/facb6a/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOORSAT2" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP2]",NOORSAT2
-http://teledunet.com:8080/ranylb/facb6a/65.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOORSAT CHARQ2" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP2]",NOORSAT CHARQ2
-http://teledunet.com:8080/ranylb/facb6a/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOORSAT MARIEM2" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP2]",NOORSAT MARIEM2
-http://teledunet.com:8080/ranylb/facb6a/67.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON1" live="1" tvg-logo="http://teledunet.com/logos/tl.jpg" group-title="LEBANON [VIP1]",TELE LEBANON1
+http://teledunet.com:8080/ranylb/facb6a/9634.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED1" live="1" tvg-logo="http://teledunet.com/logos/jadeed.jpg" group-title="LEBANON [VIP1]",ALJADEED1
+http://teledunet.com:8080/ranylb/facb6a/9635.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON1" live="1" tvg-logo="http://teledunet.com/logos/mtv.webp" group-title="LEBANON [VIP1]",MTV LEBANON1
+http://teledunet.com:8080/ranylb/facb6a/9636.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBCI LEBANON [VIP1]" live="1" tvg-logo="http://teledunet.com/logos/lbci.png" group-title="LEBANON [VIP1]",LBCI LEBANON [VIP1]
+http://teledunet.com:8080/ranylb/facb6a/9637.ts
+#EXTINF:-1 tvg-id="" tvg-name="OTV1" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png" group-title="LEBANON [VIP1]",OTV1
+http://teledunet.com:8080/ranylb/facb6a/9638.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALMAYADEEN1" live="1" tvg-logo="http://teledunet.com/logos/mayadeen.jpeg" group-title="LEBANON [VIP1]",ALMAYADEEN1
+http://teledunet.com:8080/ranylb/facb6a/9639.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBN1" live="1" tvg-logo="http://teledunet.com/logos/nbn.jpg" group-title="LEBANON [VIP1]",NBN1
+http://teledunet.com:8080/ranylb/facb6a/9640.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALMANAR1" live="1" tvg-logo="http://teledunet.com/logos/manar.png" group-title="LEBANON [VIP1]",ALMANAR1
+http://teledunet.com:8080/ranylb/facb6a/9641.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBC1" live="1" tvg-logo="http://teledunet.com/logos/lbc.jpg" group-title="LEBANON [VIP1]",LBC1
+http://teledunet.com:8080/ranylb/facb6a/9642.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAHA1" live="1" tvg-logo="http://teledunet.com/logos/taha.jpg" group-title="LEBANON [VIP1]",TAHA1
+http://teledunet.com:8080/ranylb/facb6a/9643.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA LEBANON1" live="1" tvg-logo="http://teledunet.com/logos/arabica.png" group-title="LEBANON [VIP1]",ARABICA LEBANON1
+http://teledunet.com:8080/ranylb/facb6a/9644.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONE LEBANON1" live="1" tvg-logo="http://teledunet.com/logos/onetv-logo.webp" group-title="LEBANON [VIP1]",ONE LEBANON1
+http://teledunet.com:8080/ranylb/facb6a/9645.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAWACOM1" live="1" tvg-logo="http://teledunet.com/logos/hawacom.png" group-title="LEBANON [VIP1]",HAWACOM1
+http://teledunet.com:8080/ranylb/facb6a/9646.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI1" live="1" tvg-logo="http://teledunet.com/logos/aghani.png" group-title="LEBANON [VIP1]",AGHANI1
+http://teledunet.com:8080/ranylb/facb6a/9647.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL SIRAT1" live="1" tvg-logo="http://teledunet.com/logos/assirat-tv-8326.jpg" group-title="LEBANON [VIP1]",AL SIRAT1
+http://teledunet.com:8080/ranylb/facb6a/9648.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHARITY TV1" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXLGEWhaV6AmQyZGVWHWKyg-tuIo0lC4Qgw&s" group-title="LEBANON [VIP1]",CHARITY TV1
+http://teledunet.com:8080/ranylb/facb6a/9649.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL IMAN1" live="1" tvg-logo="http://teledunet.com/logos/imantv.jpg" group-title="LEBANON [VIP1]",AL IMAN1
+http://teledunet.com:8080/ranylb/facb6a/9650.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOOR QUDDAS1" live="1" tvg-logo="http://teledunet.com/logos/nourq.jpg" group-title="LEBANON [VIP1]",NOOR QUDDAS1
+http://teledunet.com:8080/ranylb/facb6a/9651.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOORSAT1" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP1]",NOORSAT1
+http://teledunet.com:8080/ranylb/facb6a/9652.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOORSAT CHARQ1" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP1]",NOORSAT CHARQ1
+http://teledunet.com:8080/ranylb/facb6a/9653.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOORSAT MARIEM1" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP1]",NOORSAT MARIEM1
+http://teledunet.com:8080/ranylb/facb6a/9654.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS [VIP]",ALJAZEERA NEWS
 http://teledunet.com:8080/ranylb/facb6a/1.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS *" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS [VIP]",ALJAZEERA NEWS *
@@ -19562,45 +19572,3 @@ http://teledunet.com:8080/ranylb/facb6a/9631.ts
 http://teledunet.com:8080/ranylb/facb6a/9632.ts
 #EXTINF:-1 tvg-id="" tvg-name="龙岩综合" live="1" tvg-logo="" group-title="CHINA",龙岩综合
 http://teledunet.com:8080/ranylb/facb6a/9633.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON1" live="1" tvg-logo="http://teledunet.com/logos/tl.jpg" group-title="LEBANON [VIP1]",TELE LEBANON1
-http://teledunet.com:8080/ranylb/facb6a/9634.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED1" live="1" tvg-logo="http://teledunet.com/logos/jadeed.jpg" group-title="LEBANON [VIP1]",ALJADEED1
-http://teledunet.com:8080/ranylb/facb6a/9635.ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON1" live="1" tvg-logo="http://teledunet.com/logos/mtv.webp" group-title="LEBANON [VIP1]",MTV LEBANON1
-http://teledunet.com:8080/ranylb/facb6a/9636.ts
-#EXTINF:-1 tvg-id="" tvg-name="LBCI LEBANON [VIP1]" live="1" tvg-logo="http://teledunet.com/logos/lbci.png" group-title="LEBANON [VIP1]",LBCI LEBANON [VIP1]
-http://teledunet.com:8080/ranylb/facb6a/9637.ts
-#EXTINF:-1 tvg-id="" tvg-name="OTV1" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png" group-title="LEBANON [VIP1]",OTV1
-http://teledunet.com:8080/ranylb/facb6a/9638.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALMAYADEEN1" live="1" tvg-logo="http://teledunet.com/logos/mayadeen.jpeg" group-title="LEBANON [VIP1]",ALMAYADEEN1
-http://teledunet.com:8080/ranylb/facb6a/9639.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBN1" live="1" tvg-logo="http://teledunet.com/logos/nbn.jpg" group-title="LEBANON [VIP1]",NBN1
-http://teledunet.com:8080/ranylb/facb6a/9640.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALMANAR1" live="1" tvg-logo="http://teledunet.com/logos/manar.png" group-title="LEBANON [VIP1]",ALMANAR1
-http://teledunet.com:8080/ranylb/facb6a/9641.ts
-#EXTINF:-1 tvg-id="" tvg-name="LBC1" live="1" tvg-logo="http://teledunet.com/logos/lbc.jpg" group-title="LEBANON [VIP1]",LBC1
-http://teledunet.com:8080/ranylb/facb6a/9642.ts
-#EXTINF:-1 tvg-id="" tvg-name="TAHA1" live="1" tvg-logo="http://teledunet.com/logos/taha.jpg" group-title="LEBANON [VIP1]",TAHA1
-http://teledunet.com:8080/ranylb/facb6a/9643.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARABICA LEBANON1" live="1" tvg-logo="http://teledunet.com/logos/arabica.png" group-title="LEBANON [VIP1]",ARABICA LEBANON1
-http://teledunet.com:8080/ranylb/facb6a/9644.ts
-#EXTINF:-1 tvg-id="" tvg-name="ONE LEBANON1" live="1" tvg-logo="http://teledunet.com/logos/onetv-logo.webp" group-title="LEBANON [VIP1]",ONE LEBANON1
-http://teledunet.com:8080/ranylb/facb6a/9645.ts
-#EXTINF:-1 tvg-id="" tvg-name="HAWACOM1" live="1" tvg-logo="http://teledunet.com/logos/hawacom.png" group-title="LEBANON [VIP1]",HAWACOM1
-http://teledunet.com:8080/ranylb/facb6a/9646.ts
-#EXTINF:-1 tvg-id="" tvg-name="AGHANI1" live="1" tvg-logo="http://teledunet.com/logos/aghani.png" group-title="LEBANON [VIP1]",AGHANI1
-http://teledunet.com:8080/ranylb/facb6a/9647.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL SIRAT1" live="1" tvg-logo="http://teledunet.com/logos/assirat-tv-8326.jpg" group-title="LEBANON [VIP1]",AL SIRAT1
-http://teledunet.com:8080/ranylb/facb6a/9648.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHARITY TV1" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXLGEWhaV6AmQyZGVWHWKyg-tuIo0lC4Qgw&s" group-title="LEBANON [VIP1]",CHARITY TV1
-http://teledunet.com:8080/ranylb/facb6a/9649.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL IMAN1" live="1" tvg-logo="http://teledunet.com/logos/imantv.jpg" group-title="LEBANON [VIP1]",AL IMAN1
-http://teledunet.com:8080/ranylb/facb6a/9650.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOOR QUDDAS1" live="1" tvg-logo="http://teledunet.com/logos/nourq.jpg" group-title="LEBANON [VIP1]",NOOR QUDDAS1
-http://teledunet.com:8080/ranylb/facb6a/9651.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOORSAT1" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP1]",NOORSAT1
-http://teledunet.com:8080/ranylb/facb6a/9652.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOORSAT CHARQ1" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP1]",NOORSAT CHARQ1
-http://teledunet.com:8080/ranylb/facb6a/9653.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOORSAT MARIEM1" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP1]",NOORSAT MARIEM1
-http://teledunet.com:8080/ranylb/facb6a/9654.ts
