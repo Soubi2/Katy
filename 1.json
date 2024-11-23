@@ -30,16 +30,12 @@
           "name":"#Category"
         },
          {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/8.m3u",
-          "name":"#EMPTYYYy"
-        },
-         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/114.m3u",
-          "name":"#DIET"
+              "name":"#CHANNELS"
         },
          {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/12.m3u",
-          "name":"#EMPTYYYyy"
+          "name":"#CHANNELS2"
         },
          {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/3.m3u",
@@ -47,7 +43,7 @@
         },
         {
           "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/icsn.m3u",
-          "name":"#LEBONLYZ"
+          "name":"#LEBONLY"
         }
       ]
 }
