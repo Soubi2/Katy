@@ -41,13 +41,13 @@ https://mbc3-eur-prod-dub-enc.edgenextcdn.net/out/v1/fce09dd6a967431a871efb3b8de
 #EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS" tvg-logo="" group-title="KATY",ROTANA KIDS
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo
 #EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="KATY",LBCI
-http://teledunet.com:8080/rany2024/taxeki/135.ts
+http://138.201.201.122:8080/ranylb/facb6a/297.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL-JADEED" tvg-logo="" group-title="KATY",AL-JADEED
-http://teledunet.com:8080/rany2024/taxeki/133.ts
+http://135.125.190.154:8080/ranylb/facb6a/289.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tele Liban" tvg-logo="" group-title="KATY",Tele Liban
-http://teledunet.com:8080/rany2024/taxeki/132.ts
+http://138.201.201.122:8080/ranylb/facb6a/305.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBN SAT" tvg-logo="" group-title="KATY",NBN SAT
-http://teledunet.com:8080/rany2024/taxeki/138.ts
+http://138.201.201.122:8080/ranylb/facb6a/299.ts
 #EXTINF:-1 tvg-id="" tvg-name="1Sada-El-Arz-Tv" tvg-logo="" group-title="live-stream",1Sada-El-Arz-Tv
 http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Music" tvg-logo="" group-title="live-stream",1VOD-Music
@@ -304,7 +304,7 @@ http://138.201.201.122:8080/ranylb/facb6a/312.ts
 http://138.201.201.122:8080/ranylb/facb6a/311.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON4" live="1" tvg-logo="http://teledunet.com/logos/tl.jpg" group-title="LEBANON [VIP4]",TELE LEBANON4
 http://135.125.190.154:8080/ranylb/facb6a/305.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALJADEED4" live="1" tvg-logo="http://teledunet.com/logos/jadeed.jpg" group-title="LEBANON [VIP]",ALJADEED4
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED4" live="1" tvg-logo="http://teledunet.com/logos/jadeed.jpg" group-title="LEBANON [VIP4]",ALJADEED4
 http://135.125.190.154:8080/ranylb/facb6a/289.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON4" live="1" tvg-logo="http://teledunet.com/logos/mtv.webp" group-title="LEBANON [VIP4]",MTV LEBANON4
 http://135.125.190.154:8080/ranylb/facb6a/291.ts
