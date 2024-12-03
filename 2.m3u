@@ -3,20 +3,20 @@
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
 http://media.mtv.com.lb:8080/v1/broadcast/mtv/playlist.m3u8?premium=true
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTVone1" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Katy",MTVone1
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTVone1" tvg-logo="" group-title="Katy",MTVone1
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
 http://media.mtv.com.lb:8080/v1/broadcast/one/playlist.m3u8?premium=true
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="FUTURE TV" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Katy",FUTURE TV
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="FUTURE TV" tvg-logo="" group-title="Katy",FUTURE TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="7ADAS33" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Katy",7ADAS33
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="7ADAS33" tvg-logo="" group-title="Katy",7ADAS33
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="ARABIYA33" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Katy",ARABIYA33
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="ARABIYA33" tvg-logo="" group-title="Katy",ARABIYA33
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA33" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Katy",JAZEERA33
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA33" tvg-logo="" group-title="Katy",JAZEERA33
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA43" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Katy",JAZEERA43
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA43" tvg-logo="" group-title="Katy",JAZEERA43
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA33LIVE" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Katy",JAZEERA33LIVE
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA33LIVE" tvg-logo="" group-title="Katy",JAZEERA33LIVE
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAYADIN" tvg-logo="" group-title="KATY",MAYADIN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
