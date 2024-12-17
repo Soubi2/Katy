@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Christmas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRO_y3uKQVU1Tqd5KwF6lJm47mUeegwFx9qw&s" group-title="Katy",Christmas
 https://raw.githubusercontent.com/Soubi2/Katy/refs/heads/main/Christmas.mp4
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MIX-FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/40402.v10.png" group-title="Katy",MIX-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LEBANONAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV0" tvg-logo="" group-title="Katy",MTV0 TV
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
 http://media.mtv.com.lb:8080/v1/broadcast/mtv/playlist.m3u8?premium=true
