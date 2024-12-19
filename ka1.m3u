@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="T.ME/TVTDN" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="TOP SPORTS [VIP]",T.ME/TVTDN
-http://teledunet.com:8080/rany2024/taxeki/9960382.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 [ TELEDUNET ]" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="TOP SPORTS [VIP]",BEIN SPORTS 1 [ TELEDUNET ]
 http://teledunet.com:8080/rany2024/taxeki/456487.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 [ TELEDUNET ]" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="TOP SPORTS [VIP]",BEIN SPORTS 2 [ TELEDUNET ]
