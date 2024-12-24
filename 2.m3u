@@ -47,7 +47,7 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo
 #EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="KATY",LBCI
 http://138.201.201.122:8080/ranylb/facb6a/297.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL-JADEED" tvg-logo="" group-title="KATY",AL-JADEED
-http://138.201.201.122:8080/ranylb/facb6a/289.ts
+https://neacdnpop3-edge02.aws.playco.com/live/eds/Al_Jadeed/DASH/Al_Jadeed.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Tele Liban" tvg-logo="" group-title="KATY",Tele Liban
 http://138.201.201.122:8080/ranylb/facb6a/305.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBN SAT" tvg-logo="" group-title="KATY",NBN SAT
