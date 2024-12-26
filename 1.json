@@ -13,11 +13,7 @@
     "futumov_pattern":false,
     "ads_delay":0,
     "playlists": [
-       {
-          "url":"https://raw.githubusercontent.com/Soubi2/Katy/main/allb.m3u",
-          "name":"#LEBONLYZ"
-        },
-         {
+        {
           "url":"https://iptv-org.github.io/iptv/index.country.m3u",
           "name":"#Country"
         },
