@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MTV-LEBANON" tvg-logo="" group-title="live-stream",MTV-LEBANON
-https://raw.githubusercontent.com/Soubi2/Katy/main/mtvz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sada-El-Arz-Tv" tvg-logo="" group-title="live-stream",Sada-El-Arz-Tv
 http://iptv.icsnleb.com:25461/live/12/12/1034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Music" tvg-logo="" group-title="live-stream",VOD-Music
@@ -25,38 +23,6 @@ http://iptv.icsnleb.com:25461/live/12/12/93.m3u8
 http://iptv.icsnleb.com:25461/live/12/12/94.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-PROMO" tvg-logo="" group-title="live-stream",VOD-PROMO
 http://iptv.icsnleb.com:25461/live/12/12/770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="3000nights" tvg-logo="" group-title="movies",3000nights
-https://raw.githubusercontent.com/Soubi2/Katy/main/3000nights.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beatyandthedogs" tvg-logo="" group-title="movies",beatyandthedogs
-https://raw.githubusercontent.com/Soubi2/Katy/main/beatyandthedogs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="benhur" tvg-logo="" group-title="movies",benhur
-https://raw.githubusercontent.com/Soubi2/Katy/main/benhur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="capernum" tvg-logo="" group-title="movies",capernum
-https://raw.githubusercontent.com/Soubi2/Katy/main/capernum.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="caramel" tvg-logo="" group-title="movies",caramel
-https://raw.githubusercontent.com/Soubi2/Katy/main/caramel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="costabrava" tvg-logo="" group-title="movies",costabrava
-https://raw.githubusercontent.com/Soubi2/Katy/main/costabrava.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="honeymoon" tvg-logo="" group-title="movies",honeymoon
-https://raw.githubusercontent.com/Soubi2/Katy/main/honeymoon.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="hudasalon" tvg-logo="" group-title="movies",hudasalon
-https://raw.githubusercontent.com/Soubi2/Katy/main/hudasalon.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="insult" tvg-logo="" group-title="movies",insult
-https://raw.githubusercontent.com/Soubi2/Katy/main/insult.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="kelnawatan" tvg-logo="" group-title="movies",kelnawatan
-https://raw.githubusercontent.com/Soubi2/Katy/main/kelnawatan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="siren" tvg-logo="" group-title="movies",siren
-https://raw.githubusercontent.com/Soubi2/Katy/main/siren.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="thenotebook" tvg-logo="" group-title="movies",thenotebook
-https://raw.githubusercontent.com/Soubi2/Katy/main/thenotebook.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tilldeath" tvg-logo="" group-title="movies",tilldeath
-https://raw.githubusercontent.com/Soubi2/Katy/main/tilldeath.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="virgindeath" tvg-logo="" group-title="movies",virgindeath
-https://raw.githubusercontent.com/Soubi2/Katy/main/virgindeath.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="wasp" tvg-logo="" group-title="movies",wasp
-https://raw.githubusercontent.com/Soubi2/Katy/main/wasp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="zama" tvg-logo="" group-title="movies",zama
-https://raw.githubusercontent.com/Soubi2/Katy/main/zama.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Good Night Oppy - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DTWN79hsN5AZEhW8w4SOquSI4D.jpg" group-title="movies",Good Night Oppy - 2022
 http://iptv.icsnleb.com:25461/movie/12/12/1075.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The System - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg" group-title="movies",The System - 2022
