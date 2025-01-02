@@ -56,6 +56,40 @@ http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="live-stream",1VOD-Documentary
 http://iptv.icsnleb.com:25461/live/ST/ST/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON" live="1" tvg-logo="http://teledunet.com/logos/tl.jpg" group-title="LEBANON [VIP]",TELE LEBANON
+http://51.38.71.212:8080/tdn/tdn/305.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALJADEED" live="1" tvg-logo="http://teledunet.com/logos/jadeed.jpg" group-title="LEBANON [VIP]",ALJADEED
+http://51.38.71.212:8080/tdn/tdn/289.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON" live="1" tvg-logo="http://teledunet.com/logos/mtv.webp" group-title="LEBANON [VIP]",MTV LEBANON
+http://51.38.71.212:8080/tdn/tdn/291.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBCI" live="1" tvg-logo="http://teledunet.com/logos/lbci.png" group-title="LEBANON [VIP]",LBCI
+http://51.38.71.212:8080/tdn/tdn/297.ts
+#EXTINF:-1 tvg-id="" tvg-name="OTV" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/OTV_Logo_2018.png" group-title="LEBANON [VIP]",OTV
+http://51.38.71.212:8080/tdn/tdn/293.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALMAYADEEN" live="1" tvg-logo="http://teledunet.com/logos/mayadeen.jpeg" group-title="LEBANON [VIP]",ALMAYADEEN
+http://51.38.71.212:8080/tdn/tdn/301.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBN" live="1" tvg-logo="http://teledunet.com/logos/nbn.jpg" group-title="LEBANON [VIP]",NBN
+http://51.38.71.212:8080/tdn/tdn/299.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALMANAR" live="1" tvg-logo="http://teledunet.com/logos/manar.png" group-title="LEBANON [VIP]",ALMANAR
+http://51.38.71.212:8080/tdn/tdn/302.ts
+#EXTINF:-1 tvg-id="" tvg-name="LBC" live="1" tvg-logo="http://teledunet.com/logos/lbc.jpg" group-title="LEBANON [VIP]",LBC
+http://51.38.71.212:8080/tdn/tdn/304.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAHA" live="1" tvg-logo="http://teledunet.com/logos/taha.jpg" group-title="LEBANON [VIP]",TAHA
+http://51.38.71.212:8080/tdn/tdn/303.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARABICA LEBANON" live="1" tvg-logo="http://teledunet.com/logos/arabica.png" group-title="LEBANON [VIP]",ARABICA LEBANON
+http://51.38.71.212:8080/tdn/tdn/296.ts
+#EXTINF:-1 tvg-id="" tvg-name="ONE LEBANON" live="1" tvg-logo="http://teledunet.com/logos/onetv-logo.webp" group-title="LEBANON [VIP]",ONE LEBANON
+http://51.38.71.212:8080/tdn/tdn/295.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAWACOM" live="1" tvg-logo="http://teledunet.com/logos/hawacom.png" group-title="LEBANON [VIP]",HAWACOM
+http://51.38.71.212:8080/tdn/tdn/306.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI" live="1" tvg-logo="http://teledunet.com/logos/aghani.png" group-title="LEBANON [VIP]",AGHANI
+http://51.38.71.212:8080/tdn/tdn/307.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIX ONE" live="1" tvg-logo="http://logo.protv.cc/picons/logos/MIX-ONE-TV.jpeg" group-title="LEBANON [VIP]",MIX ONE
+http://51.38.71.212:8080/tdn/tdn/9959174.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" live="1" tvg-logo="http://logo.protv.cc/picons/logos/MIX-HOLLYWOOD.jpeg" group-title="LEBANON [VIP]",MIX HOLLYWOOD
+http://51.38.71.212:8080/tdn/tdn/9959175.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MIX" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/NETFLIX.png" group-title="LEBANON [VIP]",NETFLIX MIX
+http://51.38.71.212:8080/tdn/tdn/9959177.ts
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="1" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="Andre Rieu",1
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzc0NS8zOTIyNzQ1Lm1wMw==
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="2" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="Andre Rieu",2
