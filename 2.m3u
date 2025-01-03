@@ -84,12 +84,8 @@ http://51.38.71.212:8080/tdn/tdn/295.ts
 http://51.38.71.212:8080/tdn/tdn/306.ts
 #EXTINF:-1 tvg-id="" tvg-name="AGHANI" live="1" tvg-logo="http://teledunet.com/logos/aghani.png" group-title="LEBANON [VIP]",AGHANI
 http://51.38.71.212:8080/tdn/tdn/307.ts
-#EXTINF:-1 tvg-id="" tvg-name="MIX ONE" live="1" tvg-logo="http://logo.protv.cc/picons/logos/MIX-ONE-TV.jpeg" group-title="LEBANON [VIP]",MIX ONE
-http://51.38.71.212:8080/tdn/tdn/9959174.ts
 #EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" live="1" tvg-logo="http://logo.protv.cc/picons/logos/MIX-HOLLYWOOD.jpeg" group-title="LEBANON [VIP]",MIX HOLLYWOOD
 http://51.38.71.212:8080/tdn/tdn/9959175.ts
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MIX" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/NETFLIX.png" group-title="LEBANON [VIP]",NETFLIX MIX
-http://51.38.71.212:8080/tdn/tdn/9959177.ts
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="1" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="Andre Rieu",1
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzc0NS8zOTIyNzQ1Lm1wMw==
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="2" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="Andre Rieu",2
