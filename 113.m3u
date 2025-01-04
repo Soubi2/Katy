@@ -106,7 +106,7 @@ http://138.201.201.122:8080/tdn/tdn/8.ts
 http://138.201.201.122:8080/tdn/tdn/17.ts
 #EXTINF:-1 tvg-id="" tvg-name="I24 NEWS" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/1200px-LOGO_i24NEWS.png" group-title="NEWS [VIP]",I24 NEWS
 http://138.201.201.122:8080/tdn/tdn/54060.ts
-#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" live="1" tvg-logo="http://logo.protv.cc/picons/logos/MIX-HOLLYWOOD.jpeg" group-title="EGYPT [VIP]",MIX HOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" live="1" tvg-logo="http://logo.protv.cc/picons/logos/MIX-HOLLYWOOD.jpeg" group-title="LEBANON [VIP]",MIX HOLLYWOOD
 http://138.201.201.122:8080/tdn/tdn/9959175.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON" live="1" tvg-logo="http://teledunet.com/logos/tl.jpg" group-title="LEBANON [VIP]",TELE LEBANON
 http://138.201.201.122:8080/tdn/tdn/305.ts
