@@ -1,10 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BRAIN" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",BRAIN
+https://raw.githubusercontent.com/Soubi2/Katy/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ALPHA
 https://raw.githubusercontent.com/Soubi2/Katy/main/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BETA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",BETA
+https://raw.githubusercontent.com/Soubi2/Katy/main/bb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GAMMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",GAMMA
+https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DELTA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",DELTA
 https://raw.githubusercontent.com/Soubi2/Katy/main/delta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SIGMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SIGMA
-https://raw.githubusercontent.com/Soubi2/Katy/main/beta.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THETA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",THETA
+https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANGEL" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ANGEL
+https://raw.githubusercontent.com/Soubi2/Katy/main/11.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MTV0" tvg-logo="https://logo.iptveditor.com/mtvlebanon.png" group-title="Live TV",MTV0 TV
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
 http://media.mtv.com.lb:8080/v1/broadcast/mtv/playlist.m3u8?premium=true
