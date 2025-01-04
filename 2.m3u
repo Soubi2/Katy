@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Brain Waves" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Soul Healing",Brain Waves
+#EXTINF:-1 tvg-id="" tvg-name="Brain Waves" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",Brain Waves
 https://raw.githubusercontent.com/Soubi2/Katy/main/1.mp4
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MIX-FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/40402.v10.png" group-title="Katy",MIX-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LEBANONAAC_SC?dist=onlineradiobox
