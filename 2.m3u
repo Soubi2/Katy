@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Brain Waves" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",Brain Waves
+#EXTINF:-1 tvg-id="" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ALPHA
 https://raw.githubusercontent.com/Soubi2/Katy/main/1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DELTA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",DELTA
 https://raw.githubusercontent.com/Soubi2/Katy/main/delta.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SIGMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SIGMA
+https://raw.githubusercontent.com/Soubi2/Katy/main/beta.mp4
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MIX-FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/40402.v10.png" group-title="Katy",MIX-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LEBANONAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV0" tvg-logo="" group-title="Katy",MTV0 TV
