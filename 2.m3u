@@ -56,8 +56,6 @@ http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="live-stream",1VOD-Documentary
 http://iptv.icsnleb.com:25461/live/ST/ST/40.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WELCOME" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="TOP SPORTS [VIP]",WELCOME
-http://138.201.201.122:8080/tdn/tdn/9960382.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="TOP SPORTS [VIP]",BEIN SPORTS 1
 http://138.201.201.122:8080/tdn/tdn/456487.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="TOP SPORTS [VIP]",BEIN SPORTS 2
