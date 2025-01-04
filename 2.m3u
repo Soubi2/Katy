@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ALPHA
 https://raw.githubusercontent.com/Soubi2/Katy/main/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BETA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",BETA
+https://raw.githubusercontent.com/Soubi2/Katy/main/bb.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DELTA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",DELTA
 https://raw.githubusercontent.com/Soubi2/Katy/main/delta.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SIGMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SIGMA
