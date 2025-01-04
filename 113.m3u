@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Brain Waves" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Soul Healing",Brain Waves
-https://raw.githubusercontent.com/Soubi2/Katy/refs/heads/main/1.mp4
+https://raw.githubusercontent.com/Soubi2/Katy/main/1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MTV0" tvg-logo="https://logo.iptveditor.com/mtvlebanon.png" group-title="Live TV",MTV0 TV
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
 http://media.mtv.com.lb:8080/v1/broadcast/mtv/playlist.m3u8?premium=true
