@@ -15,6 +15,12 @@ https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
 https://raw.githubusercontent.com/Soubi2/Katy/main/11.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SIGMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SIGMA
 https://raw.githubusercontent.com/Soubi2/Katy/main/theta.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SILVA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SILVA
+https://raw.githubusercontent.com/Soubi2/Katy/main/silva.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THIRD EYE" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/third.png" group-title="Silva Method",THIRD EYE
+https://raw.githubusercontent.com/Soubi2/Katy/main/third.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TIBET" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/yoga.png" group-title="Silva Method",TIBET
+https://raw.githubusercontent.com/Soubi2/Katy/main/om.mp4
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MIX-FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/40402.v10.png" group-title="Katy",MIX-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LEBANONAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV0" tvg-logo="" group-title="Katy",MTV0 TV
