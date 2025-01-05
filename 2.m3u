@@ -21,8 +21,6 @@ https://raw.githubusercontent.com/Soubi2/Katy/main/theta.mp4
 https://raw.githubusercontent.com/Soubi2/Katy/main/third.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TIBET" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",TIBET
 https://raw.githubusercontent.com/Soubi2/Katy/main/om.mp4
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MIX-FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/40402.v10.png" group-title="Katy",MIX-FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LEBANONAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV0" tvg-logo="" group-title="Katy",MTV0 TV
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
 http://media.mtv.com.lb:8080/v1/broadcast/mtv/playlist.m3u8?premium=true
@@ -416,6 +414,8 @@ http://iptv.icsnleb.com:25461/live/12/12/59.m3u8
 http://iptv.icsnleb.com:25461/live/12/12/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Documentary" tvg-logo="" group-title="live-stream",VOD-Documentary
 http://iptv.icsnleb.com:25461/live/12/12/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX-FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/40402.v10.png" group-title="radio",MIX-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LEBANONAAC_SC?dist=onlineradiobox
 #EXTINF:-1 tvg-id="" tvg-name=" اذاعة صدى الارز" tvg-logo="https://sadalarz.com/about.php" group-title="radio", اذاعة صدى الارز
 http://iptv.icsnleb.com:25461/live/12/12/716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RLL" tvg-logo="" group-title="radio",RLL
