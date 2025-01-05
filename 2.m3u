@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SILVA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SILVA
+https://raw.githubusercontent.com/Soubi2/Katy/main/silva.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BRAIN WAVES" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",BRAIN WAVES
 https://raw.githubusercontent.com/Soubi2/Katy/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ALPHA
@@ -15,8 +17,6 @@ https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
 https://raw.githubusercontent.com/Soubi2/Katy/main/11.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SIGMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SIGMA
 https://raw.githubusercontent.com/Soubi2/Katy/main/theta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SILVA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SILVA
-https://raw.githubusercontent.com/Soubi2/Katy/main/silva.mp4
 #EXTINF:-1 tvg-id="" tvg-name="THIRD EYE" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",THIRD EYE
 https://raw.githubusercontent.com/Soubi2/Katy/main/third.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TIBET" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",TIBET
