@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SILVA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SILVA
+#EXTINF:-1 tvg-id="" tvg-name="سيلفا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",سيلفا
 https://raw.githubusercontent.com/Soubi2/Katy/main/silva.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BRAIN WAVES" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",BRAIN WAVES
+#EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",التحكم
 https://raw.githubusercontent.com/Soubi2/Katy/main/22.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ALPHA
+#EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ألفا
 https://raw.githubusercontent.com/Soubi2/Katy/main/1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BETA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",BETA
+#EXTINF:-1 tvg-id="" tvg-name="بيتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",بيتا
 https://raw.githubusercontent.com/Soubi2/Katy/main/bb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAMMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",GAMMA
+#EXTINF:-1 tvg-id="" tvg-name="جاما" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",جاما
 https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DELTA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",DELTA
+#EXTINF:-1 tvg-id="" tvg-name="دلتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",دلتا
 https://raw.githubusercontent.com/Soubi2/Katy/main/delta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="THETA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",THETA
+#EXTINF:-1 tvg-id="" tvg-name="ثيتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ثيتا
 https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ANGEL" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ANGEL
+#EXTINF:-1 tvg-id="" tvg-name="ملائكة" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ملائكة
 https://raw.githubusercontent.com/Soubi2/Katy/main/11.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SIGMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SIGMA
+#EXTINF:-1 tvg-id="" tvg-name="سيجما" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",سيجما
 https://raw.githubusercontent.com/Soubi2/Katy/main/theta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="THIRD EYE" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",THIRD EYE
+#EXTINF:-1 tvg-id="" tvg-name="العين الثالثة" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",العين الثالثة
 https://raw.githubusercontent.com/Soubi2/Katy/main/third.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TIBET" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",TIBET
+#EXTINF:-1 tvg-id="" tvg-name="يوغا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",يوغا
 https://raw.githubusercontent.com/Soubi2/Katy/main/om.mp4
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV0" tvg-logo="" group-title="Katy",MTV0 TV
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
@@ -414,9 +414,9 @@ http://iptv.icsnleb.com:25461/live/12/12/59.m3u8
 http://iptv.icsnleb.com:25461/live/12/12/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOD-Documentary" tvg-logo="" group-title="live-stream",VOD-Documentary
 http://iptv.icsnleb.com:25461/live/12/12/40.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MIX-FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/40402.v10.png" group-title="radio",MIX-FM
+#EXTINF:-1 tvg-id="" tvg-name="MIX-FM" tvg-logo="" group-title="radio",MIX-FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LEBANONAAC_SC?dist=onlineradiobox
-#EXTINF:-1 tvg-id="" tvg-name=" اذاعة صدى الارز" tvg-logo="https://sadalarz.com/about.php" group-title="radio", اذاعة صدى الارز
+#EXTINF:-1 tvg-id="" tvg-name=" اذاعة صدى الارز" tvg-logo="" group-title="radio", اذاعة صدى الارز
 http://iptv.icsnleb.com:25461/live/12/12/716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RLL" tvg-logo="" group-title="radio",RLL
 http://iptv.icsnleb.com:25461/live/12/12/92.m3u8
