@@ -30,8 +30,6 @@ http://media.mtv.com.lb:8080/v1/broadcast/mtv/playlist.m3u8?premium=true
 http://media.mtv.com.lb:8080/v1/broadcast/one/playlist.m3u8?premium=true
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="FUTURE TV" tvg-logo="" group-title="مباشر",FUTURE TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="7ADAS33" tvg-logo="" group-title="مباشر",7ADAS33
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="ARABIYA33" tvg-logo="" group-title="مباشر",ARABIYA33
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA33" tvg-logo="" group-title="مباشر",JAZEERA33
