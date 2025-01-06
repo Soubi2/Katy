@@ -1,53 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BRAIN WAVES" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",BRAIN WAVES
-https://raw.githubusercontent.com/Soubi2/Katy/main/22.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ALPHA
-https://raw.githubusercontent.com/Soubi2/Katy/main/1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BETA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",BETA
-https://raw.githubusercontent.com/Soubi2/Katy/main/bb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="GAMMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",GAMMA
-https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DELTA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",DELTA
-https://raw.githubusercontent.com/Soubi2/Katy/main/delta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="THETA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",THETA
-https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ANGEL" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ANGEL
-https://raw.githubusercontent.com/Soubi2/Katy/main/11.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SIGMA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SIGMA
-https://raw.githubusercontent.com/Soubi2/Katy/main/theta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SILVA" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",SILVA
+#EXTINF:-1 tvg-id="" tvg-name="سيلفا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",سيلفا
 https://raw.githubusercontent.com/Soubi2/Katy/main/silva.mp4
-#EXTINF:-1 tvg-id="" tvg-name="THIRD EYE" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",THIRD EYE
+#EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",التحكم
+https://raw.githubusercontent.com/Soubi2/Katy/main/22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ألفا
+https://raw.githubusercontent.com/Soubi2/Katy/main/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="بيتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",بيتا
+https://raw.githubusercontent.com/Soubi2/Katy/main/bb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="جاما" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",جاما
+https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
+#EXTINF:-1 tvg-id="" tvg-name="دلتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",دلتا
+https://raw.githubusercontent.com/Soubi2/Katy/main/delta.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ثيتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ثيتا
+https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ملائكة" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ملائكة
+https://raw.githubusercontent.com/Soubi2/Katy/main/11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سيجما" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",سيجما
+https://raw.githubusercontent.com/Soubi2/Katy/main/theta.mp4
+#EXTINF:-1 tvg-id="" tvg-name="العين الثالثة" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",العين الثالثة
 https://raw.githubusercontent.com/Soubi2/Katy/main/third.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TIBET" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",TIBET
+#EXTINF:-1 tvg-id="" tvg-name="يوغا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",يوغا
 https://raw.githubusercontent.com/Soubi2/Katy/main/om.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MTV0" tvg-logo="https://logo.iptveditor.com/mtvlebanon.png" group-title="Live TV",MTV0 TV
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV0" tvg-logo="" group-title="Katy",MTV0 TV
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
 http://media.mtv.com.lb:8080/v1/broadcast/mtv/playlist.m3u8?premium=true
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
-#EXTINF:-1 tvg-id="" tvg-name="MTVone1" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Live TV",MTVone1
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTVone1" tvg-logo="" group-title="Katy",MTVone1
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
 http://media.mtv.com.lb:8080/v1/broadcast/one/playlist.m3u8?premium=true
-#EXTINF:-1 tvg-id="" tvg-name="FUTURE TV" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Live TV",FUTURE TV
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="FUTURE TV" tvg-logo="" group-title="Katy",FUTURE TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="7ADAS33" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Live TV",7ADAS33
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="7ADAS33" tvg-logo="" group-title="Katy",7ADAS33
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARABIYA33" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Live TV",ARABIYA33
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="ARABIYA33" tvg-logo="" group-title="Katy",ARABIYA33
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA33" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Live TV",JAZEERA33
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA33" tvg-logo="" group-title="Katy",JAZEERA33
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA43" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Live TV",JAZEERA43
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA43" tvg-logo="" group-title="Katy",JAZEERA43
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA33LIVE" tvg-logo="https://logo.iptveditor.com/lanatv.png" group-title="Live TV",JAZEERA33LIVE
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JAZEERA33LIVE" tvg-logo="" group-title="Katy",JAZEERA33LIVE
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAYADIN" tvg-logo="" group-title="Live TV",MAYADIN
+#EXTINF:-1 tvg-id="" tvg-name="MAYADIN" tvg-logo="" group-title="KATY",MAYADIN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MANAR" tvg-logo="" group-title="Live TV",MANAR
+#EXTINF:-1 tvg-id="" tvg-name="MANAR" tvg-logo="" group-title="KATY",MANAR
 https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAN ARABIC" tvg-logo="" group-title="Live TV",IRAN ARABIC
+#EXTINF:-1 tvg-id="" tvg-name="IRAN ARABIC" tvg-logo="" group-title="KATY",IRAN ARABIC
 https://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ISRAEL ARABIC" tvg-logo="" group-title="Live TV",ISRAEL ARABIC
+#EXTINF:-1 tvg-id="" tvg-name="ISRAEL ARABIC" tvg-logo="" group-title="KATY",ISRAEL ARABIC
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LANA TV" tvg-logo="" group-title="KATY",LANA TV
+https://p-ltv.akamaized.net/ltv/ltv_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC TV 3" tvg-logo="" group-title="KATY",MBC TV 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC3" tvg-logo="" group-title="KATY",MBC3
+https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SpaceToon" tvg-logo="" group-title="KATY",SpaceToon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Toonzs" tvg-logo="" group-title="KATY",Toonzs
+https://mbcvod-enc.edgenextcdn.net/out/v1/e314d47ad9c943cd84bf966f06d826fe/28092a4749a040c5804da6a62096a6fd/531e9dc92a314f3f951df53a06caf6c1/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC TOONS3" tvg-logo="" group-title="KATY",MBC TOONS3
+https://mbc3-eur-prod-dub-enc.edgenextcdn.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS" tvg-logo="" group-title="KATY",ROTANA KIDS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo
+#EXTINF:-1 tvg-id="" tvg-name="1Sada-El-Arz-Tv" tvg-logo="" group-title="live-stream",1Sada-El-Arz-Tv
+http://iptv.icsnleb.com:25461/live/ST/ST/1034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Music" tvg-logo="" group-title="live-stream",1VOD-Music
+http://iptv.icsnleb.com:25461/live/ST/ST/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Movies" tvg-logo="" group-title="live-stream",1VOD-Movies
+http://iptv.icsnleb.com:25461/live/ST/ST/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Leb" tvg-logo="" group-title="live-stream",1VOD-Leb
+http://iptv.icsnleb.com:25461/live/ST/ST/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Cinema" tvg-logo="" group-title="live-stream",1VOD-Cinema
+http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Series" tvg-logo="" group-title="live-stream",1VOD-Series
+http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="live-stream",1VOD-Documentary
+http://iptv.icsnleb.com:25461/live/ST/ST/40.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-1.png" group-title="TOP SPORTS [VIP]",BEIN SPORTS 1
 http://138.201.201.122:8080/tdn/tdn/456487.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" live="1" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/bein-sports-2.png" group-title="TOP SPORTS [VIP]",BEIN SPORTS 2
@@ -370,6 +398,32 @@ https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzgxNS8zOTIy
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzk3Ni8zOTIyOTc2Lm1wMw==
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="98" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="Andre Rieu",98
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzczOC8zOTIyNzM4Lm1wMw==
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-PROMO" tvg-logo="" group-title="live-stream",1VOD-PROMO
+http://iptv.icsnleb.com:25461/live/ST/ST/770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sada-El-Arz-Tv" tvg-logo="" group-title="live-stream",Sada-El-Arz-Tv
+http://iptv.icsnleb.com:25461/live/12/12/1034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Music" tvg-logo="" group-title="live-stream",VOD-Music
+http://iptv.icsnleb.com:25461/live/12/12/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Movies" tvg-logo="" group-title="live-stream",VOD-Movies
+http://iptv.icsnleb.com:25461/live/12/12/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Leb" tvg-logo="" group-title="live-stream",VOD-Leb
+http://iptv.icsnleb.com:25461/live/12/12/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Cinema" tvg-logo="" group-title="live-stream",VOD-Cinema
+http://iptv.icsnleb.com:25461/live/12/12/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Series" tvg-logo="" group-title="live-stream",VOD-Series
+http://iptv.icsnleb.com:25461/live/12/12/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOD-Documentary" tvg-logo="" group-title="live-stream",VOD-Documentary
+http://iptv.icsnleb.com:25461/live/12/12/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MIX-FM" tvg-logo="" group-title="radio",MIX-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_LEBANONAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tvg-id="" tvg-name=" اذاعة صدى الارز" tvg-logo="" group-title="radio", اذاعة صدى الارز
+http://iptv.icsnleb.com:25461/live/12/12/716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RLL" tvg-logo="" group-title="radio",RLL
+http://iptv.icsnleb.com:25461/live/12/12/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VDL" tvg-logo="" group-title="radio",VDL
+http://iptv.icsnleb.com:25461/live/12/12/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAWT-KELL-LEBNAN" tvg-logo="" group-title="radio",SAWT-KELL-LEBNAN
+http://iptv.icsnleb.com:25461/live/12/12/94.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="01Exxtra SmallRissa Maxxx
 http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
 #EXTINF:-1 tvg-id="" tvg-name="02Adriana Lynn
