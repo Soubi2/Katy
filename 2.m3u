@@ -354,7 +354,7 @@ http://138.201.201.122:8080/tdn/tdn/631.ts
 http://138.201.201.122:8080/tdn/tdn/632.ts
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID AFLAM 8" live="1" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID MEDIA [VIP]",SHAHID AFLAM 8
 http://138.201.201.122:8080/tdn/tdn/633.ts
-#EXTINF:-1 tvg-id="" tvg-name="WEYYAK ZEE ALWAN" live="1" tvg-logo="https://weyyak.com/favicon_512.png" group-title="WAYYAK MEDIA [VIP]",WEYYAK ZEE ALWAN
+#EXTINF:-1 tvg-id="" tvg-name="WEYYAK ZEE ALWAN" live="1" tvg-logo="https://weyyak.com/favicon_512.png" group-title="SHAHID MEDIA [VIP]",WEYYAK ZEE ALWAN
 http://138.201.201.122:8080/tdn/tdn/639.ts
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="1" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="Andre Rieu",1
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzc0NS8zOTIyNzQ1Lm1wMw==
