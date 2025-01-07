@@ -106,8 +106,34 @@ http://138.201.201.122:8080/tdn/tdn/68150.ts
 http://138.201.201.122:8080/tdn/tdn/68151.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALKASS 4" live="1" tvg-logo="https://1.bp.blogspot.com/-Bi9DbisqkFk/X_CnvhoVTxI/AAAAAAAAAQM/0eUWBbpHwIQ9oWmrlF12btihvxjsjf9zQCLcBGAsYHQ/w400-h200-p-k-no-nu/1.png" group-title="TOP SPORTS [VIP]",ALKASS 4
 http://138.201.201.122:8080/tdn/tdn/68152.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALKASS 5" live="1" tvg-logo="https://1.bp.blogspot.com/-Bi9DbisqkFk/X_CnvhoVTxI/AAAAAAAAAQM/0eUWBbpHwIQ9oWmrlF12btihvxjsjf9zQCLcBGAsYHQ/w400-h200-p-k-no-nu/1.png" group-title="TOP SPORTS [VIP]",ALKASS 5
+#EXTINF:-1 tvg-id="" tvg-name="ALKASS 5/6" live="1" tvg-logo="https://1.bp.blogspot.com/-Bi9DbisqkFk/X_CnvhoVTxI/AAAAAAAAAQM/0eUWBbpHwIQ9oWmrlF12btihvxjsjf9zQCLcBGAsYHQ/w400-h200-p-k-no-nu/1.png" group-title="TOP SPORTS [VIP]",ALKASS 5/6
 http://138.201.201.122:8080/tdn/tdn/68153.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC NEWS" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/NEWS/original/NEWS.png?height=379.5&width=675&croppingPoint=&version=1&type=webp" group-title="SSC SPORTS [VIP]",SSC NEWS
+http://138.201.201.122:8080/tdn/tdn/44438.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png" group-title="SSC SPORTS [VIP]",SSC 1
+http://138.201.201.122:8080/tdn/tdn/65353.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 *" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png" group-title="SSC SPORTS [VIP]",SSC 1 *
+http://138.201.201.122:8080/tdn/tdn/44440.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/ssc2/original/ssc2.png?height=379.5&width=675&croppingPoint=&version=1&type=webp" group-title="SSC SPORTS [VIP]",SSC 2
+http://138.201.201.122:8080/tdn/tdn/44443.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/ssc3/original/ssc3.png?height=379.5&width=675&croppingPoint=&version=1&type=webp" group-title="SSC SPORTS [VIP]",SSC 3
+http://138.201.201.122:8080/tdn/tdn/44446.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC5/original/SSC5.png" group-title="SSC SPORTS [VIP]",SSC 4
+http://138.201.201.122:8080/tdn/tdn/44449.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC6/original/SSC6.png" group-title="SSC SPORTS [VIP]",SSC 5
+http://138.201.201.122:8080/tdn/tdn/44452.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 1" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/EXTRA1/original/EXTRA1.png?height=379.5&width=675&croppingPoint=&version=1&type=webp" group-title="SSC SPORTS [VIP]",SSC EXTRA 1
+http://138.201.201.122:8080/tdn/tdn/44455.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 2" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/EXTRA2/original/EXTRA2.png?height=379.5&width=675&croppingPoint=&version=1&type=webp" group-title="SSC SPORTS [VIP]",SSC EXTRA 2
+http://138.201.201.122:8080/tdn/tdn/44458.ts
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 3" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/EXTRA3/original/EXTRA3.png?height=379.5&width=675&croppingPoint=&version=1&type=webp" group-title="SSC SPORTS [VIP]",SSC EXTRA 3
+http://138.201.201.122:8080/tdn/tdn/44461.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS 1" live="1" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fontimesports.gif" group-title="EGYPT SPORTS [VIP]",ON TIME SPORTS 1
+http://138.201.201.122:8080/tdn/tdn/235.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS 2" live="1" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fegy%2Fontimesports2.gif" group-title="EGYPT SPORTS [VIP]",ON TIME SPORTS 2
+http://138.201.201.122:8080/tdn/tdn/236.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALAHLY" live="1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-ahly-tv-eg.png" group-title="EGYPT SPORTS [VIP]",ALAHLY
+http://138.201.201.122:8080/tdn/tdn/239.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" live="1" tvg-logo="http://teledunet.com/logos/Fox_News_Channel_logo.svg.png" group-title="NEWS [VIP]",FOX NEWS
 http://138.201.201.122:8080/tdn/tdn/18.ts
 #EXTINF:-1 tvg-id="" tvg-name="CP24" live="1" tvg-logo="http://teledunet.com/logos/cp24.png" group-title="NEWS [VIP]",CP24
@@ -136,18 +162,6 @@ http://138.201.201.122:8080/tdn/tdn/7.ts
 http://138.201.201.122:8080/tdn/tdn/14.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALHURRA IRAQ" live="1" tvg-logo="http://teledunet.com/logos/hurra.jpg" group-title="NEWS [VIP]",ALHURRA IRAQ
 http://138.201.201.122:8080/tdn/tdn/23.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALGHAD" live="1" tvg-logo="http://teledunet.com/logos/eg-alghad-tv-4385.jpg" group-title="NEWS [VIP]",ALGHAD
-http://138.201.201.122:8080/tdn/tdn/19.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL HIWAR NEWS" live="1" tvg-logo="http://teledunet.com/logos/hiwarnews.jpg" group-title="NEWS [VIP]",AL HIWAR NEWS
-http://138.201.201.122:8080/tdn/tdn/9.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL MEKAMELEN" live="1" tvg-logo="http://teledunet.com/logos/channels4_profile.jpg" group-title="NEWS [VIP]",AL MEKAMELEN
-http://138.201.201.122:8080/tdn/tdn/10.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL QAHERA NEWS" live="1" tvg-logo="https://yt3.googleusercontent.com/uOlHS94R7RjdUaDWjXwNplTRItDSBamOfG0gM62jbw912HmaaLjNVrmd6ovo-F4GMYlJum56T5I=s176-c-k-c0x00ffffff-no-rj-mo" group-title="NEWS [VIP]",AL QAHERA NEWS
-http://138.201.201.122:8080/tdn/tdn/54057.ts
-#EXTINF:-1 tvg-id="" tvg-name="ALSHARQ NEWS" live="1" tvg-logo="https://media.licdn.com/dms/image/v2/C4E0BAQEU2QRSy_GcZQ/company-logo_200_200/company-logo_200_200/0/1630591149491/asharqnews_logo?e=2147483647&v=beta&t=DQDfiXrMahV8gBnPykeY-13wYxSNBQdj5BcPCi2FPIk" group-title="NEWS [VIP]",ALSHARQ NEWS
-http://138.201.201.122:8080/tdn/tdn/13.ts
-#EXTINF:-1 tvg-id="" tvg-name="CGTN ARABIC" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="NEWS [VIP]",CGTN ARABIC
-http://138.201.201.122:8080/tdn/tdn/52840.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNBC NEWS" live="1" tvg-logo="http://teledunet.com/logos/1200px-CNBC_logo.svg.png" group-title="NEWS [VIP]",CNBC NEWS
 http://138.201.201.122:8080/tdn/tdn/20.ts
 #EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" live="1" tvg-logo="http://teledunet.com/logos/dw.jpg" group-title="NEWS [VIP]",DW ARABIC
@@ -158,10 +172,82 @@ http://138.201.201.122:8080/tdn/tdn/8.ts
 http://138.201.201.122:8080/tdn/tdn/17.ts
 #EXTINF:-1 tvg-id="" tvg-name="I24 NEWS" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/1200px-LOGO_i24NEWS.png" group-title="NEWS [VIP]",I24 NEWS
 http://138.201.201.122:8080/tdn/tdn/54060.ts
-#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" live="1" tvg-logo="http://logo.protv.cc/picons/logos/MIX-HOLLYWOOD.jpeg" group-title="LEBANON [VIP]",MIX HOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="BBC ARABIC" live="1" tvg-logo="http://logo.protv.cc/picons/logos/UK/BBC-ARABIC.png" group-title="NEWS [VIP]",BBC ARABIC
+http://138.201.201.122:8080/tdn/tdn/9957192.ts
+#EXTINF:-1 tvg-id="" tvg-name="BARAEM" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Baraem_new_logo.png/1200px-Baraem_new_logo.png" group-title="KIDS [VIP]",BARAEM
+http://138.201.201.122:8080/tdn/tdn/38.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC KIDS" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOmt-5NHYykMkcRQ8YbpLSJV8b32cbYGg3ATc8F=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS [VIP]",MBC KIDS
+http://138.201.201.122:8080/tdn/tdn/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAHA KIDS" live="1" tvg-logo="https://s1.dmcdn.net/u/6RS6a1ZxmJmk0zqn1/200x200" group-title="KIDS [VIP]",TAHA KIDS
+http://138.201.201.122:8080/tdn/tdn/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOYOUR ALJANNAH" live="1" tvg-logo="https://play-lh.googleusercontent.com/exWWqBy0k0q4PjS0B7g2KgGWPuPZ4pz2pvDs6jmzHSPcFYrYCHKxAZthpd5gLzsV7g" group-title="KIDS [VIP]",TOYOUR ALJANNAH
+http://138.201.201.122:8080/tdn/tdn/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="KIDS [VIP]",SPACETOON
+http://138.201.201.122:8080/tdn/tdn/41.ts
+#EXTINF:-1 tvg-id="" tvg-name="JEEM KIDS" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lZXLWAbWDVS_qgFBvquKp_cQWmD7WSMf8sjIADnqxNEA=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS [VIP]",JEEM KIDS
+http://138.201.201.122:8080/tdn/tdn/39.ts
+#EXTINF:-1 tvg-id="" tvg-name="KARAMEESH" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/%D9%83%D8%B1%D8%A7%D9%85%D9%8A%D8%B4.jpg" group-title="KIDS [VIP]",KARAMEESH
+http://138.201.201.122:8080/tdn/tdn/43.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALMAJED KIDS" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqN0BFcyqSVNaglpq02UmrDl0wUB2zaoy3tjIVlPog=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS [VIP]",ALMAJED KIDS
+http://138.201.201.122:8080/tdn/tdn/44.ts
+#EXTINF:-1 tvg-id="" tvg-name="HODHOD" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPhjjC0nvJpbsb2S0XvCkTiUzQZ4wtOd-cR5mzl=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS [VIP]",HODHOD
+http://138.201.201.122:8080/tdn/tdn/42.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="KIDS [VIP]",BABY TV
+http://138.201.201.122:8080/tdn/tdn/44427.ts
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN TV" live="1" tvg-logo="https://filmtopp.imgix.net/media/2020/11/MrBean_1001.jpg?w=600&h=360&crop=faces&s=1655dec1a1921e1e412a65ba1c24eaaf" group-title="KIDS [VIP]",MR BEAN TV
+http://138.201.201.122:8080/tdn/tdn/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPONGEBOB" live="1" tvg-logo="https://shop.americandream.com/cdn/shop/products/JMB08765_2048x2048.jpg?v=1663015023" group-title="KIDS [VIP]",SPONGEBOB
+http://138.201.201.122:8080/tdn/tdn/8147.ts
+#EXTINF:-1 tvg-id="" tvg-name="GULLI" live="1" tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="KIDS [VIP]",GULLI
+http://138.201.201.122:8080/tdn/tdn/509.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="KIDS [VIP]",CARTOON NETWORK
+http://138.201.201.122:8080/tdn/tdn/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="PIWI" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6e/Piwi%2B_logo_2011.png" group-title="KIDS [VIP]",PIWI
+http://138.201.201.122:8080/tdn/tdn/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIJI" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f2/Logo_TiJi_%282019%29.png" group-title="KIDS [VIP]",TIJI
+http://138.201.201.122:8080/tdn/tdn/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPQRob2SxfWMTBMygexuiL-s_d48ODzmn_DSLOI1g=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS [VIP]",NICK JR
+http://138.201.201.122:8080/tdn/tdn/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="KIDS [VIP]",NICKELODEON
+http://138.201.201.122:8080/tdn/tdn/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAILLOU" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrpKtq9mNKKmeUEzkTuFCf8IeaxmDykwTQwQ&s" group-title="KIDS [VIP]",CAILLOU
+http://138.201.201.122:8080/tdn/tdn/44358.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="KIDS [VIP]",BOOMERANG
+http://138.201.201.122:8080/tdn/tdn/57.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" live="1" tvg-logo="http://teledunet.com/logos/MBC1.png" group-title="MBC MEDIA [VIP]",MBC 1
+http://138.201.201.122:8080/tdn/tdn/563.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" live="1" tvg-logo="http://teledunet.com/logos/mbc2.jpg" group-title="MBC MEDIA [VIP]",MBC 2
+http://138.201.201.122:8080/tdn/tdn/565.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" live="1" tvg-logo="http://teledunet.com/logos/mbc3.png" group-title="MBC MEDIA [VIP]",MBC 3
+http://138.201.201.122:8080/tdn/tdn/575.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" live="1" tvg-logo="http://teledunet.com/logos/mbc-action.png" group-title="MBC MEDIA [VIP]",MBC ACTION
+http://138.201.201.122:8080/tdn/tdn/566.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX" live="1" tvg-logo="http://teledunet.com/logos/MBC_Max_logo.png" group-title="MBC MEDIA [VIP]",MBC MAX
+http://138.201.201.122:8080/tdn/tdn/568.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" live="1" tvg-logo="http://teledunet.com/logos/MBC_Masr_Logo.png" group-title="MBC MEDIA [VIP]",MBC MASR
+http://138.201.201.122:8080/tdn/tdn/572.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 2" live="1" tvg-logo="http://teledunet.com/logos/mbcmasr2.jpg" group-title="MBC MEDIA [VIP]",MBC MASR 2
+http://138.201.201.122:8080/tdn/tdn/573.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA" live="1" tvg-logo="http://teledunet.com/logos/Drama_MBC.png" group-title="MBC MEDIA [VIP]",MBC DRAMA
+http://138.201.201.122:8080/tdn/tdn/571.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA+" live="1" tvg-logo="http://teledunet.com/logos/MBC_Drama_Plus_TV_Channel_Logo.png" group-title="MBC MEDIA [VIP]",MBC DRAMA+
+http://138.201.201.122:8080/tdn/tdn/585.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY" live="1" tvg-logo="http://teledunet.com/logos/MBC_Variety.webp" group-title="MBC MEDIA [VIP]",MBC VARIETY
+http://138.201.201.122:8080/tdn/tdn/584.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" live="1" tvg-logo="http://teledunet.com/logos/mbc4.jpg" group-title="MBC MEDIA [VIP]",MBC 4
+http://138.201.201.122:8080/tdn/tdn/577.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" live="1" tvg-logo="http://teledunet.com/logos/mbc5.jpg" group-title="MBC MEDIA [VIP]",MBC 5
+http://138.201.201.122:8080/tdn/tdn/579.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD *" live="1" tvg-logo="http://teledunet.com/logos/mbc-bollywood.png" group-title="MBC MEDIA [VIP]",MBC BOLLYWOOD *
+http://138.201.201.122:8080/tdn/tdn/582.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA" live="1" tvg-logo="http://teledunet.com/logos/2391_starscinema.png" group-title="EGYPT [VIP]",STAR CINEMA
+http://138.201.201.122:8080/tdn/tdn/366.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIX ONE" live="1" tvg-logo="http://logo.protv.cc/picons/logos/MIX-ONE-TV.jpeg" group-title="EGYPT [VIP]",MIX ONE
+http://138.201.201.122:8080/tdn/tdn/9959174.ts
+#EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" live="1" tvg-logo="http://logo.protv.cc/picons/logos/MIX-HOLLYWOOD.jpeg" group-title="EGYPT [VIP]",MIX HOLLYWOOD
 http://138.201.201.122:8080/tdn/tdn/9959175.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON" live="1" tvg-logo="http://teledunet.com/logos/tl.jpg" group-title="LEBANON [VIP]",TELE LEBANON
-http://138.201.201.122:8080/tdn/tdn/305.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MIX" live="1" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/NETFLIX.png" group-title="EGYPT [VIP]",NETFLIX MIX
+http://138.201.201.122:8080/tdn/tdn/9959177.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALJADEED" live="1" tvg-logo="http://teledunet.com/logos/jadeed.jpg" group-title="LEBANON [VIP]",ALJADEED
 http://138.201.201.122:8080/tdn/tdn/289.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV LEBANON" live="1" tvg-logo="http://teledunet.com/logos/mtv.webp" group-title="LEBANON [VIP]",MTV LEBANON
@@ -172,14 +258,14 @@ http://138.201.201.122:8080/tdn/tdn/297.ts
 http://138.201.201.122:8080/tdn/tdn/293.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALMAYADEEN" live="1" tvg-logo="http://teledunet.com/logos/mayadeen.jpeg" group-title="LEBANON [VIP]",ALMAYADEEN
 http://138.201.201.122:8080/tdn/tdn/301.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON" live="1" tvg-logo="http://teledunet.com/logos/tl.jpg" group-title="LEBANON [VIP]",TELE LEBANON
+http://138.201.201.122:8080/tdn/tdn/305.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBN" live="1" tvg-logo="http://teledunet.com/logos/nbn.jpg" group-title="LEBANON [VIP]",NBN
 http://138.201.201.122:8080/tdn/tdn/299.ts
 #EXTINF:-1 tvg-id="" tvg-name="ALMANAR" live="1" tvg-logo="http://teledunet.com/logos/manar.png" group-title="LEBANON [VIP]",ALMANAR
 http://138.201.201.122:8080/tdn/tdn/302.ts
 #EXTINF:-1 tvg-id="" tvg-name="LBC" live="1" tvg-logo="http://teledunet.com/logos/lbc.jpg" group-title="LEBANON [VIP]",LBC
 http://138.201.201.122:8080/tdn/tdn/304.ts
-#EXTINF:-1 tvg-id="" tvg-name="TAHA" live="1" tvg-logo="http://teledunet.com/logos/taha.jpg" group-title="LEBANON [VIP]",TAHA
-http://138.201.201.122:8080/tdn/tdn/303.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARABICA LEBANON" live="1" tvg-logo="http://teledunet.com/logos/arabica.png" group-title="LEBANON [VIP]",ARABICA LEBANON
 http://138.201.201.122:8080/tdn/tdn/296.ts
 #EXTINF:-1 tvg-id="" tvg-name="ONE LEBANON" live="1" tvg-logo="http://teledunet.com/logos/onetv-logo.webp" group-title="LEBANON [VIP]",ONE LEBANON
@@ -188,20 +274,88 @@ http://138.201.201.122:8080/tdn/tdn/295.ts
 http://138.201.201.122:8080/tdn/tdn/306.ts
 #EXTINF:-1 tvg-id="" tvg-name="AGHANI" live="1" tvg-logo="http://teledunet.com/logos/aghani.png" group-title="LEBANON [VIP]",AGHANI
 http://138.201.201.122:8080/tdn/tdn/307.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL SIRAT" live="1" tvg-logo="http://teledunet.com/logos/assirat-tv-8326.jpg" group-title="LEBANON [VIP]",AL SIRAT
-http://138.201.201.122:8080/tdn/tdn/308.ts
 #EXTINF:-1 tvg-id="" tvg-name="CHARITY TV" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXLGEWhaV6AmQyZGVWHWKyg-tuIo0lC4Qgw&s" group-title="LEBANON [VIP]",CHARITY TV
 http://138.201.201.122:8080/tdn/tdn/70704.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL IMAN" live="1" tvg-logo="http://teledunet.com/logos/imantv.jpg" group-title="LEBANON [VIP]",AL IMAN
-http://138.201.201.122:8080/tdn/tdn/309.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOOR QUDDAS" live="1" tvg-logo="http://teledunet.com/logos/nourq.jpg" group-title="LEBANON [VIP]",NOOR QUDDAS
-http://138.201.201.122:8080/tdn/tdn/313.ts
 #EXTINF:-1 tvg-id="" tvg-name="NOORSAT" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP]",NOORSAT
 http://138.201.201.122:8080/tdn/tdn/310.ts
 #EXTINF:-1 tvg-id="" tvg-name="NOORSAT CHARQ" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP]",NOORSAT CHARQ
 http://138.201.201.122:8080/tdn/tdn/312.ts
 #EXTINF:-1 tvg-id="" tvg-name="NOORSAT MARIEM" live="1" tvg-logo="http://teledunet.com/logos/noursat.jpg" group-title="LEBANON [VIP]",NOORSAT MARIEM
 http://138.201.201.122:8080/tdn/tdn/311.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGHAPY" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYKubqKtdB67a06Q_dtMuiDEZBMKM4AjzOWBp7S=s176-c-k-c0x00ffffff-no-rj" group-title="CHRISTIAN [VIP]",AGHAPY
+http://138.201.201.122:8080/tdn/tdn/904.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL HAYAT COPTIC" live="1" tvg-logo="https://play-lh.googleusercontent.com/3uXD1uCb5BDZSkyt-IXNsRTTtzXhuloB_Qnt0D9xxAT9M6oZ_s0eo4E8z_AdJBAj7lk" group-title="CHRISTIAN [VIP]",AL HAYAT COPTIC
+http://138.201.201.122:8080/tdn/tdn/901.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALHORREYA" live="1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/df/68/85/df688533-390e-4c7b-ad3c-1befc4e9cf81/source/512x512bb.jpg" group-title="CHRISTIAN [VIP]",ALHORREYA
+http://138.201.201.122:8080/tdn/tdn/906.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALKARMA" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVoenM5-xKg6nN4nN08pfqPnymDwI7Na6pw&s" group-title="CHRISTIAN [VIP]",ALKARMA
+http://138.201.201.122:8080/tdn/tdn/903.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALKERAZA TV" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDkIvT7ysT5kwU_zPosuSJjcmXb_0r2Ezgw&s" group-title="CHRISTIAN [VIP]",ALKERAZA TV
+http://138.201.201.122:8080/tdn/tdn/914.ts
+#EXTINF:-1 tvg-id="" tvg-name="CSAT" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM3lMIGsb4hIck_LyXJ9e68HfVihDVqnZNfQ&s" group-title="CHRISTIAN [VIP]",CSAT
+http://138.201.201.122:8080/tdn/tdn/911.ts
+#EXTINF:-1 tvg-id="" tvg-name="CTV COPTIC" live="1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kn4PoieqOUdBF_R97PblVBtZUPFbGVyPSTAxWKrL41xU8=s900-c-k-c0x00ffffff-no-rj" group-title="CHRISTIAN [VIP]",CTV COPTIC
+http://138.201.201.122:8080/tdn/tdn/912.ts
+#EXTINF:-1 tvg-id="" tvg-name="CYC" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6TbaKHHO5ix8CBddIv37RrF8tMsjlLX1Xg&s" group-title="CHRISTIAN [VIP]",CYC
+http://138.201.201.122:8080/tdn/tdn/915.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOOGI" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu43aC_94KoNg3Xt2xoMQEx5olCuIpXr43GQ&s" group-title="CHRISTIAN [VIP]",KOOGI
+http://138.201.201.122:8080/tdn/tdn/910.ts
+#EXTINF:-1 tvg-id="" tvg-name="MESAT" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUhC8sKAzLbxDpNIKmnVDkc-1AkcrS4CbFMw&s" group-title="CHRISTIAN [VIP]",MESAT
+http://138.201.201.122:8080/tdn/tdn/902.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOUR AL KODASS" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9b9L7FXiqCZSqQJm44VCyBJ8sJyEReGGMwA&s" group-title="CHRISTIAN [VIP]",NOUR AL KODASS
+http://138.201.201.122:8080/tdn/tdn/918.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOUR MARIAM TV" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9b9L7FXiqCZSqQJm44VCyBJ8sJyEReGGMwA&s" group-title="CHRISTIAN [VIP]",NOUR MARIAM TV
+http://138.201.201.122:8080/tdn/tdn/919.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOURSAT" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9b9L7FXiqCZSqQJm44VCyBJ8sJyEReGGMwA&s" group-title="CHRISTIAN [VIP]",NOURSAT
+http://138.201.201.122:8080/tdn/tdn/916.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOURSAT AL SHABAB" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9b9L7FXiqCZSqQJm44VCyBJ8sJyEReGGMwA&s" group-title="CHRISTIAN [VIP]",NOURSAT AL SHABAB
+http://138.201.201.122:8080/tdn/tdn/920.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOURSAT DRAMA" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9b9L7FXiqCZSqQJm44VCyBJ8sJyEReGGMwA&s" group-title="CHRISTIAN [VIP]",NOURSAT DRAMA
+http://138.201.201.122:8080/tdn/tdn/917.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOURSAT ENGLISH" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9b9L7FXiqCZSqQJm44VCyBJ8sJyEReGGMwA&s" group-title="CHRISTIAN [VIP]",NOURSAT ENGLISH
+http://138.201.201.122:8080/tdn/tdn/921.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAT7" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sat-7_Logo.jpg/640px-Sat-7_Logo.jpg" group-title="CHRISTIAN [VIP]",SAT7
+http://138.201.201.122:8080/tdn/tdn/908.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAT7 KIDS" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sat-7_Logo.jpg/640px-Sat-7_Logo.jpg" group-title="CHRISTIAN [VIP]",SAT7 KIDS
+http://138.201.201.122:8080/tdn/tdn/909.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 1" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 1
+http://138.201.201.122:8080/tdn/tdn/55977.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 2" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 2
+http://138.201.201.122:8080/tdn/tdn/55978.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 3" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 3
+http://138.201.201.122:8080/tdn/tdn/55979.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 4" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 4
+http://138.201.201.122:8080/tdn/tdn/55980.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 5" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 5
+http://138.201.201.122:8080/tdn/tdn/55981.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 6" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 6
+http://138.201.201.122:8080/tdn/tdn/55982.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 7" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 7
+http://138.201.201.122:8080/tdn/tdn/55983.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 8" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 8
+http://138.201.201.122:8080/tdn/tdn/55984.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 9" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 9
+http://138.201.201.122:8080/tdn/tdn/55985.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX MOVIES 10" live="1" tvg-logo="https://www.numerama.com/wp-content/uploads/2018/10/netflix-logo.jpg" group-title="NETFLIX MEDIA [VIP]",NETFLIX MOVIES 10
+http://138.201.201.122:8080/tdn/tdn/55986.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID AFLAM 1" live="1" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID MEDIA [VIP]",SHAHID AFLAM 1
+http://138.201.201.122:8080/tdn/tdn/626.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID AFLAM 2" live="1" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID MEDIA [VIP]",SHAHID AFLAM 2
+http://138.201.201.122:8080/tdn/tdn/627.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID AFLAM 3" live="1" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID MEDIA [VIP]",SHAHID AFLAM 3
+http://138.201.201.122:8080/tdn/tdn/628.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID AFLAM 4" live="1" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID MEDIA [VIP]",SHAHID AFLAM 4
+http://138.201.201.122:8080/tdn/tdn/629.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID AFLAM 5" live="1" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID MEDIA [VIP]",SHAHID AFLAM 5
+http://138.201.201.122:8080/tdn/tdn/630.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID AFLAM 6" live="1" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID MEDIA [VIP]",SHAHID AFLAM 6
+http://138.201.201.122:8080/tdn/tdn/631.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID AFLAM 7" live="1" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID MEDIA [VIP]",SHAHID AFLAM 7
+http://138.201.201.122:8080/tdn/tdn/632.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID AFLAM 8" live="1" tvg-logo="https://i.ibb.co/JqnC8VY/shahid.png" group-title="SHAHID MEDIA [VIP]",SHAHID AFLAM 8
+http://138.201.201.122:8080/tdn/tdn/633.ts
+#EXTINF:-1 tvg-id="" tvg-name="WEYYAK ZEE ALWAN" live="1" tvg-logo="https://weyyak.com/favicon_512.png" group-title="WAYYAK MEDIA [VIP]",WEYYAK ZEE ALWAN
+http://138.201.201.122:8080/tdn/tdn/639.ts
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="1" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="Andre Rieu",1
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzc0NS8zOTIyNzQ1Lm1wMw==
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="2" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/untiled.png" group-title="Andre Rieu",2
