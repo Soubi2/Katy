@@ -15,7 +15,7 @@
     "playlists": [
         {
           "url":"https://iptv-org.github.io/iptv/index.country.m3u",
-          "name":"#Country"
+          "name":"#Countries"
         },
         {
           "url":"https://iptv-org.github.io/iptv/index.m3u",
