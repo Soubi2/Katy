@@ -1,0 +1,35 @@
+{
+  "update_enforcement": "",
+  "message": "",
+  "version_code": "",
+  "version_name": "",
+  "apk_url": "",
+  "iptv_url":"",
+  "domain":"",
+  "anime_domain":"www5.gogoanimes.fi",
+  "live_tv_main_active":false,
+  "ml_host":"https://timto329gpl.com",
+  "autoembed":"https://autoembed.co",
+  "ads":false,
+  "MovieRulzHindi":"https://ww9.watchmovierulz.ws/",
+  "anime_ajax_host":"https://ajax.gogocdn.net",
+  "drama_host":"https://kissasiantv.to",
+  "unity_ads":false,
+  "janint":true,
+  "janint2":true,
+  "load_logos":true,
+  "futumov_pattern":true,
+  "secure_gomov":false,
+  "ads_delay":0,
+  "playlists": [
+      {
+        "url":"https://iptv-org.github.io/iptv/index.country.m3u",
+        "name":"#IPTV-ORG by Country"
+      },
+      {
+        "url":"https://iptv-org.github.io/iptv/index.category.m3u",
+        "name":"#IPTV-ORG by Category"
+      }
+    ],
+    "traff_sd":false
+}
